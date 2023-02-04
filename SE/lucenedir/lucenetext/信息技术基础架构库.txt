@@ -1,0 +1,34 @@
+信息技术基础架构库
+
+信息技术基础架构库（Information Technology Infrastructure Library，一般情况下使用其缩写ITIL，也译为「资讯技术基础建设馆」）是用来管理信息技术的架构设计，研发和操作的一整套概念和思想。
+
+主要精神为和谐推动及持续改善，将服务对象视为客户，强调End-to-End的服务。
+
+ITIL最初是借由一套书籍发布。这套书籍的每一本都涵盖一个信息技术的领域。"ITIL"这个名称和"IT Infrastructure Library"都是英国政府商务办公室 (OGC)的注册商标。借由为不同的IT组织量身定制一些复杂的清单，任务，流程，ITIL为许多重要的IT时间准则给出了详尽的解释。
+
+ITIL是一套主要研究有关IT服务管理的方法。同时其研究的内容主要分成二本书，分别是Service Delivery和Service Support二大部份。
+
+在了解有关知识之后，可以报名参加一系列复杂的考试，最后获得ITIL官方对于内容掌握的认证。其中两项重要的认证是 ITIL Version 3 and ITIL Version 2 资格认证。
+
+在你通过一系列资格认证之后，你可以获得报名考试其他资格认证的许可，在完成所有的ITIL资历认证的点数之后，你可以获得ITIL专家(expert)和大师(master)的认证。有关学分点数系统可以在它的官方网站找到说明和图片介绍。
+
+以下作些许的说明:
+Service Delivery是属于战略性的思考，偏管理规范或协议，共分五大流程，分别是：
+Service Support是属于操作面规范，亦分五大流程，分别是
+
+再加上服务台(Service Desk)及信息安全管理(Security Management)二个流程，即为其全部内容。
+
+第三版于2007年5月正式改版，结合 IT 服务管理生命周期 (Service Life Cycle)的观念扩增为５个核心模块，分别是服务策略(Service Strategy, SS)、服务设计(Service Design, SD)、服务转移(Service Transition, ST)、服务运营(Service Operation, SO)、持续服务改善(Continual Service Improvement, CSI)
+
+ITIL认证是由ITIL Certification Management Board (ICMB)掌管。这家机构由OGC, IT Service Management Forum（itSMF）International和如下两家考试机构组成：EXIN（总部设在荷兰），ISEB（总部设在英国）. 
+
+EXIN 和 ISEB 颁发的资格认证分为如下几个级别：基础，使用者以及管理人员。“管理人员”级别又分为‘ITIL服务管理’，‘ITIL应用管理’和‘ICT Infrastructure 管理’。 
+
+在ITIL认证注册的运行下，ITIL认证的使用者级别的用户通常可以自发的进行注册。
+
+ITIL系统不会对组织和管理系统进行“ITIL认证”。但是如果组织或者管理系统积极的实现ITIL框架内的要求，组织和管理单位可以申请ISO/IEC 20000认证。
+
+2006年7月20日，OGC与APM Group签订商务合作协议，将从2007年 1月1日起共同进行ITIL认证的认证。
+
+信息技术服务管理（ITSM）是一种和ITIL相关但是不完全相同的概念。ITIL的第二版包括了专门用于定义“IT服务管理”的章节。（第三版的五卷里面目前还没有相关的内容）。
+

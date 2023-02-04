@@ -1,0 +1,17 @@
+RelaxBSD
+
+RelaxBSD是一套中国大陆用户在FreeBSD的基础上开发的，方便中文用户使用的BSD系统。目前其官方网站relaxbsd.org已经关闭，故可以判断该系统已经停止开发。
+
+RelaxBSD在BSD许可证下发布，允许任何人在保留版权和许可协议信息的前提下随意使用和发行。
+
+RelaxBSD 1.0 Release 发布。
+
+RelaxBSD 1.1 Release代号为sprout。
+
+1.1 Release主要解决1.0 Release一的一些bug，关键解决BSDInstaller（安装RelaxBSD）的问题，这样大家既可把RelaxBSD作为LiveCD直接从光盘运行，也可将RelaxBSD安装到硬盘上使用。
+
+为了方便硬盘上还装有Linux的用户，装在硬盘上的RelaxBSD将采用Grub引导。另外如果你想将RelaxBSD 1.1 安装在你的硬盘内，请你预先在你的硬盘上划一个至少4G的主分区空间（注意：是主分区）。
+
+RelaxBSD 2.0-RELEASE 发布。
+
+RelaxBSD 2.0-RELEASE核心部分基于FreeBSD 6.1-RELEASE。构建RelaxBSD的软件均由FreeBSD ports编译并有小量修改。整个系统带参数：CPUTYPE?=pentium3 CFLAGS= -O2 -pipe进行编译。可升级至更新版本的FreeBSD（FreeBSD 6.1-RELEASE及以上）。RelaxBSD 2.0-RELEASE 有如下特点：

@@ -1,0 +1,25 @@
+MinGW
+
+MinGW（Minimalist GNU for Windows），又称mingw32，是将GCC编译器和GNU Binutils移植到Win32平台下的产物，包括一系列头文件（Win32API）、库和可执行文件。
+
+另有可用于产生32位及64位Windows可执行文件的MinGW-w64项目，是从原本MinGW产生的分支。如今已经独立发展。
+
+MinGW是从Cygwin（1.3.3版）基础上发展而来。
+
+GCC支援的语言大多在MinGW也受支援，其中涵盖C、C++、Objective-C、Fortran及Ada。
+
+对于C语言之外的语言，MinGW使用标准的GNU执行库，如C++使用GNU libstdc++。
+
+但是MinGW使用Windows中的C运行库。因此用MinGW开发的程序不需要额外的第三方DLL支持就可以直接在Windows下运行，而且也不一定必须遵从GPL许可证。这同时造成了MinGW开发的程序只能使用Win32API和跨平台的第三方库，而缺少POSIX支持，大多数GNU软件无法在不修改源代码的情况下用MinGW编译。
+
+Cygwin和MinGW都可用于将Unix软件移植到Windows，但它们采用不同的实作。 Cygwin旨在提供一个完整的POSIX层，包括所有主要Unix System_call。重视兼容性优先于性能。而MinGW着重简化与性能。因此，它没有提供某些无法套用Windows API轻松实现的POSIX API，例如fork()，mmap()和ioctl()。
+
+用Cygwin编写的Windows程序所使用的DLL及其源代码必须随程序一起发布。 MinGW不需要兼容层，因为基于MinGW的程序是直接调用Windows API编译的。
+
+MinGW编译器在实现异常机制时，有三种可选方式：
+
+MinGW-w64是2005年由OneVision Software根据洁净室设计原则而独立开发，以解决当时的MinGW项目更新缓慢，缺少新的重要的API以及64位支持。2008年MinGW-w64项目开源，由Kai Tietz维护。
+
+很多非官方组织提供了包含一系列整合工具链的MinGW安装包。其中大部分基于MinGW-w64项目。
+
+

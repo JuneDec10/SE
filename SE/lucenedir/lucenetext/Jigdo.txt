@@ -1,0 +1,8 @@
+Jigdo
+
+Jigdo（"Jigsaw download"，曲线下载）是为Debian套件设计的下载工具，可以从几个镜像站点下载不同的文件，然后再生成一个CD映像。
+
+Jigdo的标准程序包括一个codice_1工具。用户要收集一个CD映像，先得下载一个非常小的"imagename.jigdo"文件。jigdo-file工具就将这个文件作为参数，从网络上获取相应的文件："imagename.template"和一系列.deb包（在.jigdo文件中已经列出）。然后通过mkisofs工具生成一个ISO映像。
+
+Jigdo在Debian下实现，目的是减轻镜像站点的负荷，这些镜像站点一般都存放有许多的CD映像，不但要求大容量硬盘，还占用很多的带宽，这样才能够提供足够的光盘映像下载（一张CD是650M，DVD是4.7G）。而Jigdo的要求就不是这样了，它可以获取各自的Debian包，而不要求一定要单独归档的光盘映像，这样就可以直接从apt-get列表中完成取得下载，最后才在本机生成CD/DVD文件。
+

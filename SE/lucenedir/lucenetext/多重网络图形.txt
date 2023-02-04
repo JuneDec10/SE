@@ -1,0 +1,3 @@
+多重网络图形
+
+Multiple-image Network Graphics（MNG）是多帧PNG动画图形格式，功能类似GIF。目前多数主流浏览器均不直接支持MNG。

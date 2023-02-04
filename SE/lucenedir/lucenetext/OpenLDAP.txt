@@ -1,0 +1,6 @@
+OpenLDAP
+
+OpenLDAP是轻型目录访问协议（Lightweight Directory Access Protocol，LDAP）的自由和开源的实现，在其OpenLDAP许可证下发行，并已经被包含在众多流行的Linux发行版中。
+
+它主要包括下述4个部分：
+

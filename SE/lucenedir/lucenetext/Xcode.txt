@@ -1,0 +1,22 @@
+Xcode
+
+Xcode是苹果公司向开发人员提供的集成开发环境，用于开发macOS、iOS、WatchOS和tvOS的应用程序。
+
+Xcode前身是继承自NeXT的Project Builder。
+
+The Xcode suite包含有GNU Compiler Collection自由软体（GCC、apple-darwin9-gcc-4.0.1以及apple-darwin9-gcc-4.2.1，默认的是后者），并支援C语言、C++、Fortran、Objective-C、Objective-C++、Java、AppleScript、Python、Ruby和Swift，还提供Cocoa、Carbon以及Java等编程模式。协力厂商更提供了GNU Pascal，Free Pascal, Ada, C#, Perl, Haskell和D语言。Xcode套件使用GDB作为其后台调试工具。
+
+从Xcode 3.1开始附带iOS SDK，作为iOS的开发环境。
+
+Xcode 4.0于2011 年 3 月 9 日正式发行。该版本非Apple开发者注册会员亦能从Mac App Store中付费下载，收取US$4.99的费用。
+
+从Xcode 4.1开始，Mac OS X v10.6和Mac OS X v10.7的使用者可以从Mac App Store中免费下载。
+
+Xcode最新的版本是Xcode 10（2018 年 WWDC发布），支持iOS 12和WatchOS 3的开发。同样，可在Mac App Store上免费下载。
+
+在2015 年 9 月 18 日，有人发布消息称发现由某第三方提供的Xcode（即XcodeGhost）包含恶意后门，会使其编译的程序被注入相应的后门用于收集相关使用信息，多个中国大陆发布的软件被该编译器感染。有人推测传染方式可能是其作者通过多种社交途径推广其发布的第三方Xcode；也有人分析通过污染迅雷的离线下载服务使其缓存了染毒版本文件，使只要通过迅雷下载，即使是从官方途径下载也会因为迅雷的CDN机制而染毒。
+
+之后所感染的软件开发者和其他苹果应用开发者相继排查并重新发布无污染版本。迅雷表示其CDN系统的缓存文件无被污染。其事件作者也发表声明称此次为一次错误的实验。
+
+根据史诺登（Edward Snowden）揭露文件，美国中情局（CIA）在2012 年 已有类似攻击手法，即可以透过伪冒Xcode，用来监控所有使用该伪冒开发工具所开发的App及后续的修改版本，而这套伪冒开发工具所开发的App，可以在苹果公司的官方App Store上架并贩售，且不会被任何人员发觉有异常之处。
+

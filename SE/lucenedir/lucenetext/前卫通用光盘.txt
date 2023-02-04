@@ -1,0 +1,23 @@
+前卫通用光盘
+
+FVD（Forward Versatile Disc），中文名称为前瞻多功能光碟或红光高画质影音光碟（依据FVD官方网站之定名），是由台湾的工业技术研究院（工研院）所主导开发的光碟储存格式。其目标是在现有DVD与下一世代蓝光光碟（HD DVD、Blu-ray Disc）之间作一过渡期，提供一个在两者世代交替的解决方案。
+
+FVD的全名应为HD-FVD（High Definition - Forward Versatile Disc），其中HD意为高画质、高解析度、高分辨率、高清晰度（高清）之意，为了方便起见，一般称之为FVD即可。
+
+物理规格（physical format），也称为载体，意指FVD光碟容量大小。由于FVD使用红光雷射（laser）作为存取光源，其波长为650奈米（nm），轨距缩小至0.64微米（μm）。且使用8/16或8/15编码、提高侦错（ECC）能力，则可达到单面单层5.4GB～6GB、单面双层9.8～11GB、单面三层15GB。
+
+在逻辑规格（logical format）上，分为视讯与音讯压缩技术。
+
+
+
+版权保护机制，也称内容保护系统（Content Protection System），使用高级加密标准（Advanced Encryption Standard）作为影片内容的防盗版措施，且支持取消非法装置的播放功能，用以保护知识产权。
+
+前瞻光储存研发联盟（Advance Optical
+Storage Research Alliance），简称AOSRA，是由工研院结合台湾光学储存媒体领域30家厂商所组成的组织：
+
+
+
+
+
+
+

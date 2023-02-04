@@ -1,0 +1,28 @@
+BSD许可证
+
+BSD 授权条款（），是自由软体中使用最广泛的授权条款之一。BSD 就是遵照这个许可证来发布，也因此而得名 BSD 授权条款。
+
+BSD 套件最初所有者是加州大学的董事会，这是由于 BSD 源自加州大学伯克利分校。BSD 开始后，BSD 授权条款得以修正，使得以后许多 BSD 变种，都采用类似风格的条款。
+
+跟其他条款相比，从GNU通用公共许可证（GPL）到限制重重的著作权（Copyright），BSD许可证比较宽松，甚至跟公有领域更为接近。事实上，BSD许可证被认为是"copycenter"（中间版权），介乎标准的copyright与GPL的copyleft之间。"Take it down to the copy center and make as many copies as you want"。可以说，GPL强迫后续版本必须一样是自由软体，BSD的后续版本可以选择要继续是BSD或其他自由软体条款或封闭软体等等。
+
+许可证文本被认为遵循公有领域，所以可以不受限制地修改。为了满足个人或团体的需要，用户可以随意地将'Regents of the University of California'（加州大学董事会）, 'University of California, Berkeley'（加州大学伯克利分校），以及'Regents'（董事会）替换成自己的名称。（参考中译附于英文原文后）：
+
+遵守BSD License的软件，允许用作商业用途，甚至可按照专属许可证进行再发布。比较著名的例子如微软产品中引入了BSD网络部分的代码，Mac OS X中使用了不少FreeBSD的组件。也可以将一部分遵照BSD许可证发布，另外一些采取其他许可证。事实上，BSD Unix早期就是这样的，其一部分是来自AT&T的专属内容。
+
+BSD许可证的最初稿件，其中含有与GNU通用公共许可证相冲突的地方。由于这两个许可证在自由软件中使用很普遍，如果作者想将GPL和BSD有所结合，就会出现冲突。但是1999年，BSD许可证的修订版去除了相冲突的语句。从此以后，自由软件作者就可以方便地采用BSD许可证下的软件，从而跟GPL下的作品融合。
+
+BSD许可证并不允许受让方将其删除或替换为其他许可证。
+
+BSD在最初散播的时候，其许可证内含有一项额外的条款，要求所有从以BSD许可证授权的软件衍生著作，都必须要包含一段文字以交代原始码的来源。该条文列于原BSD许可证的第三条（参考中译附于英文原文后）：
+
+GNU工程将这个称为“令人感到不舒服的BSD交代条款”（obnoxious BSD advertising clause）。GNU工程认为存在两个问题：第一，修改源码的人都希望将其大名加到鸣谢中，如果一个项目参加的人非常多，或者软件套件中包含许多个单独项目，鸣谢阵容将会变得非常庞大；第二，这跟GNU通用公共许可协议相抵触，GPL不允许增加额外的限制，所以软件只能在GNU跟BSD之间选择。GNU工程建议人们提到非copyleft许可证的例子时，不要使用「BSD风格」的字眼，以免原本的BSD许可证不慎被使用。
+
+应理查德·斯托曼的请求，1999年7月22日，William Hoskins，也就是伯克利技术许可办公室的主管（director of the office of technology licensing for Berkeley），删除了BSD许可证的第三条。
+原来的许可证有时被称为“BSD-old”（老BSD）或“4-clause BSD”（四句版BSD），当前的BSD许可证有的被称为“BSD-new”（新BSD）、“revised BSD”（修订的BSD）或“3-clause BSD”（三句版BSD）。
+
+以下几种自由软件、开源软件许可证，衍生自BSD或跟BSD相类似：
+
+
+
+

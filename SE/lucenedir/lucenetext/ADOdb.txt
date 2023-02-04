@@ -1,0 +1,6 @@
+ADOdb
+
+ADOdb是Active Data Objects database的简称，它是一种PHP存取数据库的函式组件。它允许程序员以一致的方式来存取数据库，从而忽略后台数据库的种类的差异。它的优势是能让程序员在转移数据库平台时，可以不用花费大量时间重新书写代码。它支持以下数据库：
+
+MySQL、PostgreSQL、Interbase、Firebird、Informix、Oracle、MS SQL、Foxpro、Access、ADO、Sybase、FrontBase、IBM DB2、SAP DB、SQLite、Netezza、LDAP以及一般ODBC、ODBTP。
+

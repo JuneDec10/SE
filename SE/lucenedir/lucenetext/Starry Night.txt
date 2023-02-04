@@ -1,0 +1,10 @@
+Starry Night
+
+是一款世界知名的天文应用软件。目前的最新版本是Pro Plus 6.4.3版。
+
+Windows：Windows XP，800 MHz或更高处理器，256 MB内存（推荐512 MB）3.0 GB硬盘空间。OpenGL支持需要64 MBOpenGL®兼容显卡。最小显示器分辨率为1024×768。DVD光驱。
+
+Macintosh：OS X 10.3或更高版本，G4 800 MHz或更高处理器，256 MB内存（推荐512 MB）3.0 GB硬盘空间。不支援OS 9.x以及之前的操作系统。OpenGL支持需要64 MB的OpenGL兼容显卡。最小显示器分辨率为1024×768。DVD光驱。
+
+
+

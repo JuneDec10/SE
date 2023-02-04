@@ -1,0 +1,12 @@
+爆炸原理
+
+爆炸原理（principle of explosion (Latin: ex falso (sequitur) quodlibet (EFQ), "from falsehood, anything (follows)", or ex contradictione (sequitur) quodlibet (ECQ), "from contradiction, anything (follows)")），是经典逻辑中陈述从矛盾中可以得出任何事物的规则。用更加形式化的术语，从形如 "P" ∧ ¬"P" 的任何命题，可以推导出任何任意的 "A"。 “爆炸”指称接受一个单一的矛盾到一个系统中会导致整体定理的“爆炸”。
+
+除了矛盾平常的一目了然的不真实性之外，这是对在形式系统中不允许 "P" ∧ ¬"P" 为真的主要逻辑论证: 在其中任何任意的公式都是定理的系统是琐碎的。所以爆炸证明了无矛盾律的正当性。
+
+爆炸基于析取就是对应于英语的“或”的逻辑算子的一些基本形式性质。考虑下列证明:
+
+以说谎者悖论例子：
+
+次协调逻辑拒绝上述推理，通常声称要么析取介入要么选言三段论是无效的。一个特定的次协调逻辑双面真理，为了接受 "P" ∧ ¬"P" 的特定实例而拒绝这种论证。
+

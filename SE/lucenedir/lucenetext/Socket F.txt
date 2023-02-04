@@ -1,0 +1,9 @@
+Socket F
+
+Socket F是第二代 AMD Opteron 处理器（型号：22xx、82xx）所使用的插座之一，拥有双核心、1207个脚位，采用与LGA 775相似的接触点式设计，并已于2006年8月15日推出。目前推出的标准版本消耗功率为98W，另外还推出了68W的低温、省电、低消耗功率 HE 系列，产品型号为22xxHE、82xxHE。
+
+这款插座会主攻伺服器市场，并会与Socket AM2及Socket S1共被视为同一世代的插座，前者主要供家用的Phenom、Athlon X2、Athlon 64及Sempron使用。后者则为行动电脑的Turion 64及双核Turion 64 X2所使用，全数均支援DDR2记忆体。
+
+除此之外，Socket F还支援FB-DIMM，而这些新处理器也或会支援多种新技术，包括DDR3记忆体、XD-RAM等。由于这些记忆体皆使用相同规格的FB-DIMM，因此可在无需更换处理器的情况下更换新记忆体，免却早期Hammer架构的Opteron处理器需要整颗更换般麻烦。
+
+另外，为了对抗英特尔四核心处理器的推出，AMD推出4x4平台，使用两枚双核心Athlon 64 FX-7X处理器，而插座则是Socket F而非Socket AM2。但这些处理器因为使用DDR2而非DDR2 FB-DIMM，所以不与Opteron处理器相容。

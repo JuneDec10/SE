@@ -1,0 +1,14 @@
+欧拉猜想
+
+欧拉猜想是由欧拉提出，从费马最后定理引出的猜想，已经确定不成立。
+
+这猜想是说对每个大于2的整数formula_1，任何formula_2个正整数的formula_1次幂的和都不是某正整数的n次幂，也就是说以下不定方程无正整数解。
+
+这猜想在1966年被L. J. Lander和T. R. Parkin推翻。他们找出formula_5的反例：
+
+1988年，Noam Elkies找出一个对formula_7制造反例的方法。他给出的反例中最小的如下：
+
+Roger Frye以Elkies的技巧用电脑直接搜索，找出formula_7时最小的反例：
+
+1999年Mark Dodrill找出：
+

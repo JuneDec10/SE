@@ -1,0 +1,19 @@
+XMMS
+
+X Multimedia System（XMMS）是一套自由的音讯播放器，其外表极像Winamp，但是执行在Unix-like作业系统。
+
+XMMS原来的名字是"X11Amp"，是由Peter and Mikael Alm在1997年11月所编写的，原因是「Linux没有好的mp3播放器」。 这个播放器是特意模仿Winamp的，其第一个版本是在翌年5月发行的。自其发行后，XMMS皆支援Winamp的面板。虽然原来的授权是有版权的，但现已成为开放原始码，采用GNU General Public License。
+
+在1999年6月10日，4Front Technologies决定赞助X11Amp开发并将计划名称改成"XMMS" - 这个名称解为"X MultiMedia System"。大部份XMMS使用者将X解为X11或X Window System，但实际上X是解为"跨平台"。
+
+XMMS一直坚持使用古老的GTK+函式库来编写，最基本的不升级原因是因为大部份插件皆依赖于旧的GTK环境。很多程式设计师也认为XMMS的原始码设计得太差，很难维护。基于以上原因，网路上出现了很多相关的改进计划：
+
+
+
+XMMS现在支援以下的音讯和视讯档案：
+参见：https://web.archive.org/web/20130715120646/http://mcmcc.bat.ru/xmms-wma/
+
+它支援Icecast与SHOUTcast串流，而且相容Winamp 2的面板。
+
+
+

@@ -1,0 +1,11 @@
+Gajim
+
+Gajim 是一套采用Jabber通讯协定的自由的即时通讯软体，采用GTK+套件编写而成。它支持Linux，BSD及Windows平台。
+
+Gajim计划的目标是提供一个完整及易用的XMPP/Jabber客户端予GTK使用者。Gajim虽然可以在GNOME上完美地运行，但它不是一定要求GNOME作运行平台。
+
+Gajim具有多国语言的使用者介面，已经包括中文
+
+因为Jabber容许连结至其他服务，因此，Gajim亦能连结至 Yahoo! Messenger，AIM，ICQ及.NET Messenger Service网路。其他可使用此通讯闸道的服务，如RSS及ATOM即时新闻更新， SMS短讯及天气预报。详情请参看Jabber。
+
+

@@ -1,0 +1,17 @@
+VirtualDub
+
+VirtualDub是一个开放源代码的视频捕捉及线性处理软件。它由Avery Lee编写，遵循GPL协议。
+
+VirtualDub有很多高级功能，并且可以通过插件来添加不同的视频处理方法。
+
+VirtualDub的早期版本可以打开微软的*.asf文件，后来由于软件专利问题，在1.3d版中去除了这个功能。
+
+附加项目提供Avery Lee的版本中不存在的额外功能，如支持MPEG-2和Ogg Theora。
+
+VirtualDub的其中一个功能，在于它能够修复在撷取录像的过程中因为种种原因而失败的档案。它可以重新读入整个AVI档，并重新构建它的索引模块。
+
+VirtualDub可以通过读取DirectShow文件，也可以通过插件支持以下输入格式：
+32位
+64位
+
+

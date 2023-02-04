@@ -1,0 +1,49 @@
+RealPlayer
+
+RealPlayer，是一个由RealNetworks开发的跨平台的播放器，可欣赏各种线上音讯和视讯资料，包括有：MP3、MPEG-4、QuickTime、Windows Media及其专用的RealAudio与RealVideo格式。
+
+RealPlayer的第一个版本在1995年4月面世，是互联网上首个媒体串流播放软件。RealPlayer最初一直都以数字来命名各个版本，但第6版改名为「RealPlayer G2」，第9版改名为「RealOne Player」，第12版改名为「RealPlayer SP」。RealPlayer一直以来都为客户提供两个不同的版本：分别为免费的基本版和需付费的Plus高级版，付费版本提供额外的功能。在14版，RealPlayer新增一个「捆绑服务」（SuperPass），是整合基本版和Plus高级版的一项服务，有提供14天的免费体验，但需要注册RealNetworks的帐户。此外，在Windows推出的第9版曾附载有RealJukebox。
+
+RealPlayer第11版的Windows版本在2007年11月推出，而Mac OS X则迟至2008年5月才推出。此外，现时RealPlayer在以下各个平台皆有播放版本：Mac OS X、Linux、Unix、Palm OS、Windows Mobile、Symbian OS及Android。有指程式是以一个开源软体Helix作为其核心，但亦有指-{只}-有Linux版本才是使用Helix架构。而从RealPlayer SP开始，在Windows版的RealPlayer的左下角亦用红色小字标上「Powered by Helix DNA」。
+
+RealPlayer除了其基本作为音讯和视讯的播放器以外，亦包括了下列的额外功能：
+
+支持RealFlash功能（只适用于Windows 95／Windows NT用户）；带有目标按纽，只需单击鼠标就可收听新闻和娱乐资讯；近乎CD一样的音频效果（只在28.8kbps或更快的连接速度情况下）全屏播放图像功能（只适用于高带宽连接情况）。其他功能包括：内容频道，自动升级功能，SmartStream技术消除了再次缓冲，查找媒介链接，支持MP3格式等。RealPlayer 11加入可以直接下载Flash影片功能。
+
+
+RealPlayer备有很广阔功能的插件。这些插件的部份会在RealPlayer的附属页面列出，但其实还有更多数量的未有被列出。现时还未有一个RealPlayer插件的官方网页出现。
+
+RealPlayer的Mac OS X版本的用户界面是一个从新开发的Cocoa程序。它既包括了用于解码Real Audio和Real Audio的Real Helix回放引擎，也包括了对其它文件和流媒体进行解码的苹果公司的Quick Time。Mac OS X系统的RealPlayer 10是免费发放的。它包括了十段均衡器和用于RealMedia回放调整的视频控制工具，一个用于视频回放的全屏、可重调大小的“剧院模式”，还有许多其它在Windows版所拥有的功能。
+
+用于Mac OS X系统的RealPlayer通过苹果的WebKit浏览网络，这意味着RealPlayer和Safari共享cookies。RealPlayer 10.1是一个Universal binary程序。
+
+RealPlayer提供一个AppleScript词典和通过Bonjour分享的本地资源共享。
+
+现在Mac OS X上运行的稳定版本是第11版。
+
+RealPlayer的Linux/Unix版本是一个独立开放的播放器，基于开源的Helix Player。Helix Player的原始码可以在 Helix社群网站 下载。它支援：
+用户界面的式样视使用中的GTK+主题而定。
+
+Symbian版本的RealPlayer允许手机播放Real Audio, Real Video, MP3, 3GP, AMR和其它媒体格式的文件。它以免费软件的形式提供。
+
+RealPlayer 1.6.1（美国版）或RealPlayer 1.6.0（国际版）是以免费的形式提供给PalmOne制造的5种Palm OS设备，比如Palm Tungsten或者Zire系列。它同时也与RealPlayer Music store曲目兼容。然而，它们既不会安装在也不能运行在非PalmOne制造的设备，诸如索尼的Clie系列PDA。它们也不支持当前的如treo 700p, 755p，或者Centro这些Palm智能手机，尽管treo 600和650在支持之列。它们的网页对于PalmoOS的支持（以上列出的）期限没有给出明确说明。
+
+在2006年的《PC World》杂志的一篇特稿中，RealPlayer被评为「1999年电脑产品最差排名头25位」的第2位，原因是RealPlayer「采取烦扰的方式过于依赖PC，它作为默认媒体播放器安装，却自由修改Windows注册表，弹出恼人的广告“信息”等等。」。到了2007年，在一个近似的「1996－2004年的20件最恼人的科技产品」排名第5。
+2008年，Stopbadware.org因RealPlayer无法完全披露其所安装的以及未选择安装后留下的软体组件，将RealPlayer称为「恶意软体」。
+
+事实上，RealPlayer在产品上的设计纯粹以某种特定个人用户群体的喜好，使它在机构环境下显得疑眼和麻烦。虽然在2008年RealPlayer尝试推出RealPlayer Enterprise，但并未能完全解决它所带来的问题。
+
+RealPlayer 10在预设安装环境下，会在电脑启动时或RealPlayer关闭后执行Message Center，定时从伺服器接收媒体讯息，并发布有关乐队的广告。这个Message Center在世界各地都引起了争议，因为它的讯息很多时都很具滋扰性、或带有软性色情成份，经常都可在讯息看到坦露半边乳房的女星。其中有一次，Message Center在2007年1月27日发出的一个讯息就以「好莱坞电影最热辣辣的性爱场面」（"Hottest Hollywood Sex Scenes"）为题目的讯息，被批评为「儿童不宜」的成人题材。
+
+虽然用户可以在安装后把讯息接收选项剔除，但RealPlayer 10在有些情况会自动把讯息接受选项回复。结果，Message Center就经常会自动在电脑蹦出新的讯息，就如一般的广告软件一样，直到10.5版本的推出才把这个问题修正。
+
+另外，RealPlayer亦经常要求用户把播放器升级，但升级后的播放器不单在功能上与其他产品重复，而且加入了更多广告。最新版的RealPlayer的繁体中文版更自动连往龙马宽媒体 的网页，一开启时会在画面右方显示色情连结的文字广告，使学生哗然或感到尴尬非常。因此，自从Windows XP开始流行之后，已愈来愈少学校采用RealMedia来制作教学媒体，而转用随Windows XP附送的MovieMaker来制作WMV格式视像。
+
+RealNetworks Scheduler（档案名称：realsched.exe、Evntsvc.exe或TkBellExe，视乎版本而定）是一个随同RealPlayer安装的背景程序。它原来的用途是保持RealPlayer的更新，在电脑连线上网后，能够适时收到软件的重要更新。有指，因此过往有些用户会在网上讨论区发问移除有关软件的办法。这个档案对于Windows及RealPlayer来说都并非必需的部份，但会占用系统记忆约136kB，因此在一般机构的环境下，它的存在需要不大。而透过Windows的系统设定软件或中等的电脑技术，可从系统中停止有关档案的运行。
+
+RealPlayer会自动把利用它来播放的音讯光碟转为RealAudio格式。然而，若用户稍后觉得RealPlayer不好用，而要把音乐转换为其他格式时，要不就要找回原来的音乐光碟再作一次转换，又或向RealPlayer购买升级版，把RealAudio格式转录成为MP3或WMA之类的其他格式，否则就必须要继续使用RealPlayer播放。这对于因为各种原因而不能把光碟重做转换的用户来说很不方便。虽然有说这种做法可以防止用户非法盗录光碟音乐，但始终对一批仍然保有早期装作、但已不能播放的音乐CD的用户来说，仍然是一个问题。
+
+RealPlayer会直接操控Windows的Wave音量控制。这情况一直到10.5都一直如是。所以若用户在RealPlayer点选了禁声，则会使Windows整个采用Wave声源的系统（包括了：系统声音、VoIP应用软件、荧幕阅读软件等）都会一同被禁声。这程况要从第11版开始才被分开处理。
+对于以前版本的软体，有两种商业解决方案：
+
+

@@ -1,0 +1,14 @@
+PowerPC G4
+
+PowerPC G4是苹果电脑使用的第四代PowerPC微处理器之统称。
+
+使用G4处理器的麦金塔电脑均以G4作为产品名称，包括桌上型的Power Mac G4、笔记簿型的PowerBook G4及iBook G4等。除此之外，eMac、iMac、Xserve及Mac mini均有使用G4处理器。
+
+Motorola PowerPC 7400是首款推出的G4处理器，于1999年夏季推出，时脉速度为400至500MHz。
+
+该款处理器晶片内有1050万个晶体管，使用了Motorola的0.20微米 HiPerMOS6制程，晶片面积为83mm，并以铜连线技术作为卖点。
+
+由于当时Motorola生产的7400系列处理器未能达到苹果所要求的时脉，使得其时脉由400、450和500MHz降低为300、350和400MHz，也影响了苹果与Motorola间的关系，苹果方面也向IBM寻求协助生产7400系列，最后其500MHz版本要延期至2000年2月16日推出。
+
+7400的设计大部份由Motorola和苹果合力制作，而AIM联盟中的IBM则没有参与设计7400。
+

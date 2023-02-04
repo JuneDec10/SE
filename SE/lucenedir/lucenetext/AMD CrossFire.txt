@@ -1,0 +1,50 @@
+AMD CrossFire
+
+CrossFire是AMD产品所采用的一种多重GPU协同运算技术，以两张单GPU显示卡或双GPU显示卡连结的方式，让两颗GPU在一台电脑上协同运算，增加效能，与NVIDIA的SLI技术竞争。CrossFire技术于2005年6月1日，在Computex Taipei 2005正式发布，比SLI迟一年。至首度公开之今，CrossFire经过了数次修订。开始的时候，需要主副卡的配合。之后，开始开放使用软体交火模式。硬体交火方面，亦参考NVIDIA的做法，使用接线将两张显示卡连接起来。目前，高端的显示卡，例如3870 X2显示卡已集成了两颗显示核心。当中，两颗核心的沟通其实是使用了CrossFire技术。
+
+在CrossFire推出的时候，使用者要使用此技术，主机板亦必需支援CrossFire，以及需要两张AMD PCI Express介面的显示卡，要相同等级，并有可能需要购买主卡。例如：如果用家有一片Radoen X850XT PE显示卡，必须额外购买一片Radeon X850 CrossFire Edition，才能达成CrossFire。但对X1600来说，只需购买两张一模一样的卡，即可达成CrossFire，因为采用了软体交火技术。由于以往ATi的显示卡没有像NVIDIA般预留协同运算，所以在第一代CrossFire，ATi采用Composting Engine和DMS Cable，来仿效NVIDIA的MIO接口。
+
+CrossFire可以下列四种形式执行。
+
+于2005年9月27日推出，当时的采用的模式是主副卡模式。采用此模式的ATI显示卡有Radeon X800，X850，X1800和X1900。副卡是一张普通的显示卡，而主卡就多出数颗晶片，成为资料混合引擎。
+
+Radeon X850XT CrossFire Edition，与正常的X850XT的分别在于多出了四颗晶片，构成了Composting Engine:
+
+普通的Radeon X850XT会透过一条特别的Cable，将运算结果传送到Radeon X850XT CrossFire Edition（透过特别DMS接口接收结果）。Radeon X850XT CF Edition内的Composting Engine便会把两颗核心的运算结果结合在一起，然后透过同一条Cable上的DVI接口将结果显示在显示器。
+
+优点：
+
+缺点：
+
+由于多出了的硬体令成本增高，ATi决定中低阶显示卡使用软体Composting Engine，即X1300 Series和X1600 Series。为了充分发挥CrossFire的效能，X1800 Series仍会使用改良后的第二代硬体Composting Engine。
+
+R520高达2048 x 1536@70+的CrossFire模式，相信就是改用比Silicon Image Sil1611更高解析度的晶片代替，此外ATi亦决定推出X1800版本的CrossFire Edition，期望把CrossFire进一步普及。
+
+应用于中阶和低阶显视卡。显视卡中现集成Composting Engine。副卡的资料传送会透过PCI-E，不是采用DMS Cable，到主卡。若高阶显视卡采用软体Composting Engine，效能比硬体Composting Engine下降60%。而低阶显视卡不用处理太复杂资料，霸占的PCI-E频宽不太严重，中阶则因霸占的PCI-E频宽而令性能增长减少。
+
+新一代的X1650XT、X1950Pro显卡集成了CrossFire合成引擎，并有接口将双卡互连，情况犹如nvidia的SLi。而Catalyst 6.11驱动程式亦开放了X1900 Series的显示卡的软体Composting Engine模式，不再需要主卡和接线，但必需配合拥有双PCI Express x16的主机版使用。
+
+第三代CrossFire能支持五个显示器输出，但需配合ATI的集成显示卡晶片组，例如RS 480和RS 580。
+
+新一代交火技术在R9 290和R9 290X引入，不再需要CF接桥。DMA引擎已整合在显示卡，透过PCI Express总线直接存取其他GPU，即可实现多重GPU协同运算。虽然没有使用接桥，但AMD表示这不是软件交火，因为显示卡上是有专门负责交火的硬件。
+
+相比传统接桥(900 MB/s)，PCIe 3.0总线提供了近35倍的频宽 (32 GB/s)，而且不需要接桥。满足Eyefinity多荧幕技术和4K显示的高频宽需求，XDMA因此成为了新一代多重GPU协同运算解决方案。
+
+
+此外，华硕和EVGA等主板厂商生产的个别版本Z77/Z87/Z97已经开始支持x16/x16、x16/x8/x8和x8/x8/x8/x8规格，甚至X79/C602/C604/C606主板也支持x16/x16/x16/x16或x16/x8/x8/x8/x8/x8/x8规格，尽管英特尔官方发布的C600芯片组不支持NVIDIA SLI/AMD Crossfire，但同样支持NVIDIA Tesla或Maximus技术。
+
+主板厂商生产的实质产品（指AMD 990FX）仅提供x16/x16规格，另外一条/两条x16以x4模式运行。
+
+有部分厂商在主机板张自行添加PCI-E 2.0的频宽控制器来达到以上晶片组的目的，如华擎科技的970 Extreme4即为此项应用。AMD 970的晶片组原本只可行单条x16，但经过祥硕科技的频宽控制器后，可实现x8/x8来达成CrossFire及SLI。
+
+AMD于2007年11月19号发布蜘蛛平台时同时发表了接替CrossFire的下一代技术CrossFireX，CrossFireX基础原理相同，但扩充支援三到四颗GPU共同运算，目前确定AMD 700 晶片组系列中的790FX会支援，也有消息 指出Intel的P45晶片组将支援CrossFireX。驱动程式方面，CrossFireX只会支援Windows Vista作业系统，原因是驱动本身已经复杂，而Windows XP迟早会被淘汰，所以集中资源开发Vista驱动比较划算。
+
+让系统同时利用主机板整合显示和独立显示卡的技术，有两种诉求不同的模式，目前确定AMD 700 晶片组系列中的780G会支援，与nVidia的Hybrid SLI技术竞争。
+
+当系统不需要大量GPU计算，独立显示卡将进入类似休眠的状态，而需要时可立即启动，毋须重新开机。仅应用于移动芯片组平台。
+
+当系统需要大量GPU计算，独立显示卡和整合式显示晶片将共同运算。
+
+只限HD 2400和HD 3400系列显示卡与780G或790GX北桥显示晶片组支援此模式。
+
+2012年，AMD推出采用Socket FM2的第二代加速处理器，最高可配合HD 6670进行混合交火。至2014年，核心代号「Karveri」加速处理器上市后，A10-5800K/6800K/7850K等型号最高可配合Radeon HD 7750实作Dual Graphics，但效能提升相较于Radeon HD 6670的要不明显，然而AMD并没有公开说明Radeon HD 7000系列（基于GCN架构之核心）可以支援Dual Graphics。

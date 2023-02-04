@@ -1,0 +1,10 @@
+Windows Media Player
+
+Windows Media Player是微软公司出品的一款免费媒体播放器，通常简称“WMP”，又称“WMPlayer”。它在Windows操作系统中作为一个组件内置，也可以从网络下载。它支持通过插件增强功能。在Windows Media Player 7及以后的版本支持更换界面外观。
+
+该软件可以播放MP3、WMA、WAV等格式的文件，而RM文件由于竞争关系，微软默认但不支持；不过在Windows Media player 8以后的版本，如果安装了RealPlayer相关的解码器，就可以播放。视频方面可以播放AVI、WMV、MPEG-1、MPEG-2、DVD等格式的文件。用户可以自定媒体资料库收藏媒体档。支援播放列表，支援从CD抓取音轨复制到硬碟。支援烧录CD，Windows Media Player 9以后的版本甚至支援与携带型音乐设备同步音乐。整合了WindowsMedia.com的在线服务。Windows Media Player 10更整合了纯商业的线上商店商业服务。支援图形界面更换。支持MMS与RTSP的流媒体。内部整合了Windows Media的专辑资料库，如果用户播放的音讯档与网站上面的资料校对一致的话，用户可以看到专辑讯息。支援外部安装插件增强功能。
+
+Windows Media Player 11只支援Windows XP Service Pack 2或以后的版本，不再支援Windows 2000或更旧版本的视窗环境。其次，Windows Media Player 11由于需要正版验证，在刚推出时，在部份笔记本电脑上的OEM版Windows XP里不能执行，甚至会显示「你可能是盗版软件的受害者」。有关问题在2007年3月的更新后已改善。另外，软件有部份界面还存在有翻译上的错误。
+
+要确定 Windows Media Player 的版本，需单击帮助菜单上的关于 Windows Media Player。如果帮助菜单未显示，需按键盘上的ALT + H。
+

@@ -1,0 +1,8 @@
+Wireworld
+
+Wireworld是一种细胞自动机，由Brian Silverman在1987年发明，作为其程式Phantom Fish Tank的一部分。后来《科学美国人》的「电脑娱乐」一栏提及它而成名。Wireworld适合模拟电子逻辑元素，或控制极。尽管规则简单，Wireworld具有图灵完备性。
+
+
+时间以离散的步伐进行，单位是「代」。
+
+→:变为

@@ -1,0 +1,8 @@
+SWT
+
+（），最初由IBM开发的一套用于Java的图形用户界面系统，用来与Swing竞争。
+
+开源整合开发环境Eclipse就是用Java和SWT开发的。
+
+下列为基本使用SWT的Hello World程式。显示出一个视窗("Shell")及一个标签。
+

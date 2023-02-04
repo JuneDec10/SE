@@ -1,0 +1,4 @@
+ChorusOS
+
+ChorusOS 是为嵌入式系统所设计的一个微核心即时作业系统（real-time OS）。该作业系统是由Chorus Systems所创造出来的，于1997年升阳电脑收购该公司，并且不再提供对ChorusOS的支援。原先的Chorus Systems的创办人于2002年8月成立一家新的公司称为Jaluna。Jaluna使用Linux和ChorusOS（绰号为"C5"）来设计嵌入式系统。
+

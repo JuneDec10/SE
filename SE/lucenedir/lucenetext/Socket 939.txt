@@ -1,0 +1,13 @@
+Socket 939
+
+Socket 939是AMD处理器插座的一种，于2004年6月推出，用作取代Athlon 64所使用的Socket 754，是支持64位元平台AMD64的插座，并支持双通道（Dual Channel）。而支持DDR2 SDRAM的Socket AM2已取代Socket 939。
+
+Socket 939与Socket 754主要不同的地方为：
+
+
+Socket 939于2004年6月推出，在2006年5月被AM2取代，但需求仍然很高。目前双核只有Athlon 64 X2 4200+ 这型号（90纳米制程，2x512 KB L2快取，89W，E4和E6步进）仍然有售。
+
+用于这插座的单核和双核处理器包括Athlon 64、Athlon 64 FX、Athlon 64 X2、Opteron和Sempron。其中Opteron 185和Athlon 64 FX-60，具2.6 GHz的时脉和1MB L2快取，是在这插座中最快的处理器。
+
+Socket 939支持双通道DDR SDRAM记忆体，具6.4 GB/s的记忆体频宽。Socket 939的处理器均支持3DNow!、SSE和SSE2指令集，而Revision E之后的更支持SSE3指令集。它有一个16位元的HyperTransport，能够以2000 MT/s运行。用于这插座的处理器均有每个64KB的L1指令和数据快取，与512KB或1MB的L2快取。
+

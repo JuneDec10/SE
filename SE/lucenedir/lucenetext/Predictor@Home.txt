@@ -1,0 +1,10 @@
+Predictor@Home
+
+Predictor@Home 是一个通过研究蛋白质序列来预测蛋白质结构的分布式计算项目。项目主要用于对第六届 CASP（Critical Assessment of Techniques for Protein Structure
+Prediction）大会上提出的蛋白质结构新算法的准确性进行评估。
+
+该项目的主持单位是美国Scripps研究学会（The Scripps Research Institute）。项目运行于 BOINC 分布式计算平台。目前中国最大的计算小组是 Predictor@China 。
+
+此工程是BOINC的重要工程之一。
+
+

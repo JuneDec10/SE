@@ -1,0 +1,6 @@
+Vbuzzer
+
+Vbuzzer是基于开放的标准SIP协议的网络电话服务。利用其专用的免费软件Vbuzzer Softphone，用户可以免费拨打其他在线的Vbuzzer用户，或通过BuzzOut服务以很低的价格拨打传统的固定电话和手机。通过BuzzMe服务，用户也可以接听来从传统固定电话和手机打进来的电话。Vbuzzer向所有用户提供免费的语音留言信箱服务。
+Vbuzzer以挑战VoIP市场巨头Skype的姿态出现，借助低廉的价格和开放的技术标准，Vbuzzer的用户数量增长很快，特别是在中国大陆和世界各地的华人中间。
+
+Vbuzzer的运营商是总部位于加拿大Thornhill的Softroute Co.。

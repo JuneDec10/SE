@@ -1,0 +1,7 @@
+GSpot
+
+GSpot是一个用来检查影音档案其编码格式的软体。它标榜没有广告（DivX有广告）、没有间谍软件及无需注册。最新的正式版本是v2.70a（2007年2月22日），兼容Windows Vista（32-bit）。
+
+GSpot v2.60 RC01可以辨识719种影像压缩格式，以及245种音效压缩格式，支援MPEG1、MPEG2、MPEG4、DV1、DV2、MP4、MP3、H263、H264、FLV、AAC、AC3、DTS等格式。
+
+

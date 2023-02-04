@@ -1,0 +1,19 @@
+Pocket PC
+
+Pocket PC（简称PPC）是基于微软的Windows Mobile操作系统的一种掌上电脑。
+
+相对于PDA，PPC是一种狭隘得多的概念，专指使用微软Windows Mobile系列操作系统的PDA。最早的Windows Mobile操作系统是Pocket PC 1.0，一款不怎么成功的操作系统，但PPC由此得名。随后的Pocket PC 2002、Windows Mobile 2003、Windows Mobile 2003 SE都是非常成功的操作系统。现在最新的Pocket PC系列操作系统为Windows Moblie 6.5。与其他操作系统的PDA相比，PPC所公认的优势在于：
+
+
+制造Pocket PC的著名厂家有HTC（Dopod，Qtek）、HP、Dell（绝大部份地区已于2007年开始停止发售）、ASUS等。
+
+与PPC同时期的另一种常见的掌上电脑操作系统是Palm OS，与之相应的掌上电脑称为Palm。
+还有少量掌上电脑使用Linux操作系统。
+
+随着Windows Mobile系统和手机的不断发展，不少流动电话开始以Windows Moblie为操作系统，Windows Moblie本身亦加入了对流动电话的支持。一时间，基于Windows Mobile操作系统的手机成为了高端智能手机的象征。2007年之后，以Windows Moblie为操作系统的Pocket PC和移动电话的市场份额开始连续下滑，越来越多的流动电话都以Android为操作系统，而苹果IOS操作系统也占据了市场的大量份额。windows mobile系统之后，微软发布了UI界面大幅改进的Windows Phone 7操作系统作为其继任者。随后又发布了Windows Phone 8操作系统。不过目前来自微软操作系统的手机占据全球手机市场份额仍旧极其微小。
+
+根据微软的解释，Pocket PC是「一个可以用于收发和储存电邮、能作为通讯录、日程记录、工作安排、多媒体档案播放、游戏、与MSN交换文字讯息、浏览网页及其他功能的手提装置。」（原文："a handheld device that enables users to store and retrieve e-mail, contacts, appointments, tasks, play multimedia files, games, exchange text messages with Windows Live Messenger (MSN Messenger), browse the Web, and more."）
+
+总括来说，Pocket PC必须具布下列特征：
+
+

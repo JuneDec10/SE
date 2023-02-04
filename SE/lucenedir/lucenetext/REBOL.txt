@@ -1,0 +1,7 @@
+REBOL
+
+REBOL（发音reb-ol ['reb-ol]，英文Relative Expression Based Object Language的缩写），程序设计语言，结合了编程语言和元数据语言的特点，具有方言化的功能。针对分布式计算而设计。
+
+REBOL由设计，他是AmigaOS的系统架构师。
+
+或

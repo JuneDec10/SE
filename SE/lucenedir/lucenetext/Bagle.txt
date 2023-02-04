@@ -1,0 +1,9 @@
+Bagle
+
+Bagle是一种电脑蠕虫病毒，会感染Windows系统。首只Bagle病毒（Bagle.A）的传播速度不高，但其后出现的变种则比A型的狠得多。
+
+Bagle是靠电邮方式传播，当使用者下载并执行附件后，病毒会复制到Windows的系统资料夹，并会开启指定的TCP port作为后门。
+
+此外，Bagle会删除Netsky的病毒档案，并隐藏著针对Netsky的字句。例如在Bagle.J病毒中有以下的
+
+

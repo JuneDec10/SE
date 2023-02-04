@@ -1,0 +1,11 @@
+Beyond Compare
+
+Beyond Compare是一套由Scooter Software推出的内容比较工具软件。除了可以作档案比较以外，还可以比对档案目录、FTP目录及压缩档案的内容等。因为这些功能，Beyond Compare被应用于版本控制及资料同步的工作上。
+
+透过另外下载的外挂，Beyond Compare可以达成以下的各种比较：
+此外，透过额外安装的比较规则，亦可作MS Word文本、MS Excel之间的比较。
+
+Beyond Compare的强项在于可以设定成为git的difftool或mergetool的预设比较工具。
+
+Beyond Compare是一套以Delphi及Kylix开发的软件.。
+

@@ -1,0 +1,29 @@
+Mandriva Linux
+
+Mandriva Linux是一个由Mandriva开发的Linux发行版，它使用RPM包管理器及KDE SC、GNOME等桌面环境。每个发布版本提供12个月的桌面软件更新，以及18个月的基础组件更新。
+
+Mandriva Linux的前身为欧洲最大的Linux厂商，法国Mandriva公司所拥有的Mandrake Linux。
+2015年5月26日Business Inside报导Mandriva公司已经正式宣告结束营运。
+
+1998年7月发布的最初发行版是基于Red Hat Linux 5.1和KDE 1.0。后来它与Red Hat分道扬镳，并加入了一些原有的工具用以方便配置系统。Mandriva Linux由Gaël Duval所创建，其目标是使得新用户更容易使用Linux。。Mandrake项目是世界上第一个为非技术类用户设计的易于使用，安装和管理的linux发行版本。
+
+Mandrake Linux早期方便的字体安装工具和默认的中文支持，为Linux普及做出了很大的贡献。但是2004年前后Mandrakesoft陷入财务危机，濒临破产。公司于2005年2月24日与拉丁美洲最大的Linux厂商Conectiva达成了收购协议，金额为170万欧元，约合223万美元，以股票形式交易，新公司Mandriva旗下品牌Mandrake Linux更名为Mandriva Linux。但是Mandrakesoft的创始人Gaël Duval，却于2006年被新公司解雇。
+
+从创立开始一直到8.0版，Mandrake将其品牌名称一直为Linux-Mandrake。从8.1版到9.2版，其名称为Mandrake Linux。
+
+在2004年2月，MandrakeSoft输掉了与King Features集团的所有者赫斯特公司之间的官司。赫斯特认为，MandrakeSoft的Mandrake魔术样式商标对King Features集团的商标造成了侵权。作为预防措施，MandrakeSoft将其产品名称作了更改，将品牌名字和产品名称之间的空白字符去掉，并将产品名称的首字母改为小写，因此而成为了一个单词。从10.0版本开始，Mandrake Linux便成为现在熟悉的Mandrakelinux，而它的品牌标志也因此更改。同样地，MandrakeMove也改为了Mandrakemove。
+
+在2005年4月，Mandrakesoft发布公告称，该公司与巴西的Conectiva、法国的Edge IT和美国的Lycoris收购合并。 由于这次收购行动以及和赫特斯公司之间的法律纠纷，使得Mandrakesoft宣布新公司的名称是Mandriva，而Mandriva Linux也成为新产品的名称。
+
+以下是Mandriva Linux的主要特点
+Mandriva Linux包含了Mandriva Control Center，这是用于易于进行系统设置的控制中心。它有许多像Deakes或Draks这样的众所周知的程序组成，并被统一命名为drakxtools，用于配置更多不同的系统设置。例如"MouseDrake"用来配置鼠标参数，"DiskDrake"用于设置磁盘分区，"drakconnect"用于配置网络连接。这些都是使用GTK+和Perl所编写的，大多数的这类程序都能够在图形模式和命令行字符模式下使用ncurses界面运行。
+
+Mandriva Linux使用KDE SC或GNOME作为标准桌面，但实际上它还包括了其它的像Xfce、twm这样的桌面系统。
+
+它有一个提供了软件与桌面环境保持一致的独特的主题。 Mandrake银河桌面背景在9.1版出现，而Mandrake银河II则出现于10.0，作为桌面背景。Mandrake银河的一个变体是"Mandrake平方银河"，这是使用平方窗口按钮而不是以往的圆方形。一个叫做"Ia Ora"的新的默认主题则出现于Mandriva Linux 2007正式版中，但"银河"依旧作为可选的喜好设置保留在系统中。
+
+Mandriva以rpm作为软件管理工具，部分兼容Red Hat Linux／Fedora Core的预编译包。
+
+Mandriva Linux 目前的发行周期约为半年，在每年的4月和10月发行一个新的版本。
+
+

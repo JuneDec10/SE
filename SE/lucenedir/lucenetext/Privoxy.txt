@@ -1,0 +1,13 @@
+Privoxy
+
+Privoxy是一款不进行网页缓存且自带过滤功能的代理服务器，针对HTTP、HTTPS协议。通过其过滤功能，用户可以保护隐私、对网页内容进行过滤、管理Cookie，以及拦阻各种广告等。Privoxy可以单机使用，也可以应用到多用户的网络。它也可以与其他代理相连（通常与Squid一起使用），更可以突破互联网审查。
+
+Privoxy基于Internet Junkbuster，按照GNU通用公共许可证（GPL）进行发布。可以在Linux、Microsoft Windows、MacOS、AmigaOS、BeOS以及大多数类Unix系统上运行。基本上所有网页浏览器均可使用Privoxy。此软件当前托管在SourceForge上。Tor项目曾将Privoxy与Tor捆绑在一起，但2010年起他们推行自己的内部Tor浏览器计划，不再推崇第三方代理。若人工配置正确，Privoxy仍能正常使用。对于没有原生支持SOCKS代理的第三方非浏览器应用程序而言，仍然推荐使用Privoxy。
+
+的沙香克·沙尔玛（Shashank Sharma）给了Privoxy以9/10星的评价并说：“Privoxy有着高度自定义性、简单的配置流程和良好的软件文档并且使用它很有乐趣。用它吧！”PC World的埃雷兹·祖克曼（Erez Zukerman）给了Privoxy以4/5星的评价并称它虽然很复杂但是功能十分强大。 的米歇尔·练（Michelle Delio）称Privoxy是“保护个人隐私的绝佳方法”。
+
+修改HTTP请求头的字段，如Referrer和用户代理（User Agent），从而隐藏用户上一个查看的网页和用户正在使用的浏览器。 
+
+移除网络广告（可用Adblock Plus或uBlock Origin替代）
+
+

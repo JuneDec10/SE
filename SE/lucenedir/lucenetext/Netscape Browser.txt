@@ -1,0 +1,11 @@
+Netscape Browser
+
+Netscape Browser是Netscape网页浏览器的第8版，改写自Mozilla基金会的Mozilla Firefox浏览器，不同于以往导航者（Navigator）与邮件软体（Netscape Mail & Newsgroups）一起推出的套装形式。原本的HTML编辑器也被独立出来，成为由Linspire公司研发的Nvu。
+
+该软体仅有Windows作业系统执行的版本。由美国线上（AOL）发行，开发方面则委托加拿大公司Mercurial Communications负责。该款浏览器是自Netscape结束浏览器开发业务后，首款以Netscape名义推出的浏览器，也是Netscape浏览器系列的延续。
+
+特征是并内建了两种网页排版引擎，包含Firefox原本的Gecko排版引擎，与微软Internet Explorer的Trident （MSHTML）排版引擎。预设有两种布景主题，其中一种不跟随微软介面称为Fusion的主题，或是原本Netscape使用的传统主题设计Winscape。正式版于2005年3月19日推出，并且在发布的同日旋即推出更新版。
+
+Netscape Browser并未有中文化的版本或是语言套件。
+
+

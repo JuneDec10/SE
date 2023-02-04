@@ -1,0 +1,7 @@
+剪切模量
+
+剪力模数（shear modulus）是材料力学中的名词，弹性材料承受剪应力时会产生剪应变，定义为剪应力与剪应变的比值。公式记为
+
+其中，formula_2 表示剪力模数，formula_3 表示剪应力，formula_4 表示剪应变。在均质且等向性的材料中：
+其中，"formula_6" 是杨氏模数(Young's modulus )，"formula_7" 是泊松比(Poisson's ratio)。
+

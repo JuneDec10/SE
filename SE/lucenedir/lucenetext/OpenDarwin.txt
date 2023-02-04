@@ -1,0 +1,9 @@
+OpenDarwin
+
+OpenDarwin 是一种自由、多重平台以XNU为内核的类Unix系统，其XNU内核采用BSD 和Mach 3.0 基础。它有 PowerPC 和 IA-32 架构的版本，最后的版本是 8.0.1。
+
+在2002年4月成立，OpenDarwin 专案的目标，是建立一个独立的 Darwin 作业系统分支，增加苹果的开发者和 开放原始码 社群的合作。苹果电脑 可从该专案获得好处，因为 OpenDarwin 的发展也经常合并到 Darwin 的释出；而开放原始码设群也可得到好处，因为他们对于它所拥有的作业系统可获得完整的控制。
+OpenDarwin 的吉祥物是 鸭嘴兽 Hexley。
+在多重原因影响下，该项目已经于2006年7月终止。2007年另一个PureDarwin专案成立去接手OpenDarwin之前的目标。
+
+

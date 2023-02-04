@@ -1,0 +1,13 @@
+金钱的时间价值
+
+金钱的时间价值、货币的时间价值或资金的时间价值（英文：time value of money，TVM）是金融的基础概念。金钱具有时间价值，是基于人们希望现在而不是未来取得金钱，因而当金钱用于存款或投资时，理应获得利息，这样，金钱的未来终值（future value）应大于现值（present value）。
+
+金钱不会自动随时间而增值，金钱的时间价值经过实际的投资才能实现。 欧文·费雪（Irving Fisher）的利息论则认为，利息是由不耐（impatience）及投资机会（opportunity to invest）产生。人们希望现在而不是未来取得金钱，是时间价值本身推动劳动，并以劳动实现时间价值。
+
+其中，P是现值（present value），F是终值（future value），r是每期必要报酬率（required rate of return per time period），n是期数（number of time periods）。
+
+其中，F是终值（future value），A是年金（annuity），r是每期必要报酬率（required rate of return per time period），n是期数（number of time periods）。
+
+其中，P是现值（present value），A是年金（annuity），r是每期必要报酬率（required rate of return per time period），n是期数（number of time periods）。
+
+

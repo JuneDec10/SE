@@ -1,0 +1,39 @@
+基站子系统
+
+基站子系统（Base Station Subsystem，简称：BSS）是传统的蜂窝电话网络的一个组成部分，负责处理一个移动电话和网络交换子系统之间的通信流量和信令。BSS负责通过空中接口（Air_interface）进行通话信道（channel）的转码、向移动电话分配无线电信道、寻呼（paging）、传输（transmission）以及其它和无线电网络相关的任务。
+
+基地收发机站（Base Transceiver Station，简称：BTS）包含用于传输和接收无线电信号的设备（收发机）、天线，以及用于加密和解密与基站控制器（Base Station Controller，简称：BSC）之间的通信。通常情况下，除了微微蜂窝（picocell）之外，所有的BTS都会有若干个收发机（英文：transceivers，简称：TRX），允许在多个频率和该蜂窝的多个不同扇面（sectors，如果是分扇面的基站的话）上提供服务。
+
+一个BTS由一个父节点的基站控制器（简称：BSC）通过基站控制功能（Base Station Control Function，简称：BCF）来控制。BCF被做为一个独立的单元实现，或者甚至在紧凑型基站中（Compact Base Stations），与收发机（TRX）合并在一起。BCF提供一个面向网络管理系统（Network Management System，简称：NMS）的操作和维护（Operations and Maintenance，简称：O&M）连接，并管理每个TRX的操作状态，以及处理告警采集的软件。不论具体的无线通信技术是怎样，BTS的基本结构和功能都是一样的。
+
+根据所使用的蜂窝技术和蜂窝电话提供商的不同，BTS的功能也有所不同。有一些厂商提供的BTS就是一个简单的收发机，它通过Um空中接口（Um air interface）从移动台（mobile station，简称：MS）接收信息，然后将其转换为基于TDM（PCM）的接口，即Abis接口，然后将其发往BSC。也有厂商生产的BTS可以处理信息、生成目标蜂窝列表，甚至完全能够处理蜂窝内（intracell）的切换（HO）。这种方式的优势在于，可以节省昂贵的Abis接口上的压力。
+
+BTS装备有能够调制（modulate）一层的Um接口的无线电收发设备，对于GSM 2G+而言，调制类型是高斯最小频移键控（Gaussian Minimum-Shift Keying，简称：GMSK），而对于启用了EDGE的网络来说，则是GMSK和八比特相位偏移调制（8-PSK）。这个调制是一种连续相位（continuous-phase）频率偏移调制。在GMSK中，要被调制成载频（carrier）的信号，首先被一个高斯低通滤波器进行平滑处理，很好地降低了相邻信道的干扰。
+
+天线合路器（combiner）用来实现让多个TRX（载频）使用相同的天线，越多的TRX被合路，则合路器丢失就越大。最高8:1的合路器只能在微蜂窝（micro cell）和微微蜂窝（pico cell）中能被找到。
+
+跳频（frequency hopping）常被用于提升BTS的整体性能。这牵涉到在一个扇面中的TRX之间的语音通信流量的快速切换。使用该扇面的手机和TRX都遵循一个跳跃顺序。可以使用多个跳跃顺序，而一个特定蜂窝所使用的顺序被该蜂窝持续地广播，这样手机就可以知道。
+
+一个TRX（收发机，也称“carrier”，即载频）按照GSM的标准，接收和发送无线电信号。这个标准规定了每个无线电频率上的8个TDMA时隙（timeslot）。一个TRX可能丢失一些容量，因为一些信息需要被广播给处于该BTS所服务区域的手机。这个信息允许手机去识别网络，并获得对它的访问。这个信令（signalling）使用一个被称为“广播控制信道”（Broadcast Control Channel，简称：BCCH）的信道。
+
+通过在一个基站上使用各自指向不同方向的定向天线（directional antenna），可以扇面化（sectorise，即划分成多个扇面）一个基站，这样就可以从同一个地点来为多个蜂窝提供服务。通常这些定向天线具有65到85度的波束宽度（beamwidth）。这样就增加了该基站的通信流量的容量（每个频率可以承载8个语音信道），而不会增加太多对相邻蜂窝的干扰（对于任何给定的方向，只有少量频率被广播）。通常，每个方向使用两个天线，放置在相距10倍或更多倍波长的位置上。这使得运营商可以能够克服由于多重路径接收（multipath reception）等物理现象而导致的衰落造成的影响。对接收到的信号在它离开天线时进行的放大工作经常被用于平衡上行和下行信号。
+
+基站控制器（Base Station Controller，简称：BSC）经常被用于提供在BTS之后的智能部分。通常，一个BSC控制数十个或甚至数百个BTS。BSC处理无线电信道的分配，接收来自移动电话的测量，并控制从一个BTS到另一个BTS的切换（BSC间的切换不在此列，这种情况下，由锚附MSC控制）。BSC的一个关键功能是扮演一个集中器（concentrator）的角色，在它上面，许多到BTS（具有相对较低的利用率）的低容量的连接，被减少为较少数量的去往移动交换中心（MSC，具有一个较高水平的利用率）的连接。总体上看，这意味着各个网络常常被建设为具有很多BSC分布在靠近它们的BTS的区域，然后会连接到更为集中的MSC站点上。
+
+BSC毫无疑问是BSS中最健壮的网元，因为它不仅仅是一个BTS控制器，而且，对于许多厂商来说，是一个完整的交换中心，同时还是一个具有到MSC和业务GPRS支撑节点（SGSN，当使用GPRS的时候）的连接的SS7节点。它还向运营支撑系统（Operation Support Subsystem，简称：OSS）以及性能度量中心提供所需的数据。
+
+一个BSC常常是基于一个分布式计算架构的，对于关键功能单元具有冗余设计，以确保在故障条件下的可用性。冗余设计通常还会超出BSC设备本身，并且经常在电源系统和提供面向PCU的A-ter接口的传输设备中被使用。
+
+BSC中的数据库存储所有站点的信息，包括诸如载波频点、跳频列表、发射功率降低的程度、用于确定蜂窝边界的接收电平强度等。这些信息来自于无线电规划工程（Radio Planning Engineering），包括对信号传播（signal propagation）的建模，以及对通信流量的计划（traffic projections）。
+
+转码器（transcoder）负责对语音信道编码进行转码，即在移动网络中使用的编码和世界上的陆地电路交换网（terrestrial circuit-switched network），也就是PSTN中所使用的编码之间，进行转码。具体来说，GSM为移动设备和BSS之间的语音数据，使用一个固定间隔脉冲激励 - 长期预测（Regular Pulse Excited-Long Term Prediction，简称RPE-LTP）编码器，但是在BSS的上游，使用脉冲编码调制（在ITU G.711中被标准化的A律和 μ律）。RPE-LPC编码的结果是一个13 kbps的用于语音的数据速率，而标准PCM编码结果则是64 kbps。由于这样一个对于相同的语音呼叫的数据速率的变化，转码器同时还具有一个缓冲的功能，这样PCM的8比特字可以被重新编码，来构建GSM 20ms通信流量块。
+
+尽管转码（压缩/解压）功能被相关标准定义为一个基站的功能，但是有一些厂商是在BSC之外实现这个解决方案的。一些厂商将其实现在一个独立的机架上，使用私有的接口。在西门子和诺基亚的架构中，转码器是一个能区分的独立子系统，通常被和MSC放在一起。在一些爱立信的系统中，它被集成到MSC而不是BSC。这些设计的原因是，如果对语音信道的压缩工作被在MSC的站点完成，那么在BSS和MSC之间的固定传输链路就可以减少，从而降低了网络基础设施的代价。
+
+这个子系统也被称为转码器和速率适应单元（Transcoder And Rate Adaptation Unit，简称：TRAU）。一些网络在网络的陆地侧（terrestial side）使用32 kbps的自适应差分脉冲码调制（Adaptive differential pulse-code modulation，简称：ADPCM），而不是64 kbps的PCM，而TRAU也被相应地转换。当通信流量不是语音而是类似传真或电子邮件这样的数据的时候，TRAU就启用它的速率适应单元（rate adaptation unit）功能，来在BSS和移动交换中心的数据速率之间提供兼容性。
+
+分组控制单元（Packet Control Unit，简称：PCU）是对GSM标准的一个迟到的补充。它实现BSC的一些处理任务，但是是用于分组数据的（packet data）。语音和数据之间的信道分配是由基站来控制的，但是一旦信道被分配给PCU，则PCU完全接管该信道的控制。
+
+PCU可以被建设在基站或BSC中，或者甚至，在一些被建议的架构中，它可以被建设在SGSN站点中。在GPRS的早期应用中，PCU常常是一个独立的节点，与无线电侧（radio side）的BSC和Gb侧的SGSN通信。
+
+

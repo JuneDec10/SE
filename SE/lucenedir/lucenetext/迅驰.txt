@@ -1,0 +1,39 @@
+迅驰
+
+迅驰（）是英特尔公司旗下的结合Pentium M，Pentium或酷睿处理器、Intel的芯片组和Intel无线网卡的移动计算解决方案的品牌。每当开发新一代技术都会再使用新的英文开发代号区别，因此迅驰泛指英特尔Pentium M，Pentium或酷睿笔记本电脑主板及无线网络组合的总称。
+
+从2008年发布的Montevina平台开始，英特尔开始使用“迅驰2”的品牌。
+
+从2009年发布的Calpella平台开始，英特尔开始使用“ix（i3、i5、i7）”（智能处理器）的品牌，「迅驰」品牌已经较少使用，仅使用「Intel Core」、「Intel Pentium」、「Intel Core vPro」等。
+
+Carmel是首代迅驰的开发代号，它于2003年3月启动。Carmel包括了一个Pentium M 处理器，一个英特尔855系列主机板，一个IEEE 802.11b或 IEEE 802.11ab无线网路接收器。
+
+刚开始，行家大多批评Carmel平台欠缺 IEEE 802.11g无线网路，因为很多独立无线WiFi制造商，如 Broadcom 及Atheros均已发布802.11g产品。英特尔回应指IEEE官方当时尚未完善802.11g的标准规格，所以其当时并未加入802.11g的支持。
+
+尽管面对这些批评，Carmel平台很快便吸引到很多OEM厂商及顾客。Carmel平台具有超过旧Pentium 4-M 平台的性能，同时有长的电池耐用时间，大约可在一个48 Wh电池下操作4-5小时。Carmel亦容许笔记本生产商制造更轻巧的笔记本，因为它的合套件并不会发出大的热量，因此不需要太大的冷却系统。
+
+在2004年初，在802.11g规格最终定下后，英特尔在迅驰系列加入了IEEE 802.11bg的选项。
+
+Sonoma 是英特尔第二代迅驰平台，在2005年1月启动。它包括了一个更快的代号为Dothan的Pentium M 处理器，其具有133MHz(四倍频后为533MHz)的前端汇排，英特尔移动915Express核心家族，支持IEEE 802.11bg或 IEEE 802.11abg的WiFi 接收器。
+
+但速度提升的同时，因为使用了PCI Express及更快的Pentium M处理器使得Sonoma笔记本的电池续航力使用时间减少，Sonoma笔记本在53 Wh电池的情况下大约可使用3.5-4.5小时。
+
+Napa平台是英特尔在2006年1月发布的迅驰组合。它包括一个双核心Intel Core处理器，代号为Yonah，一个移动945Express主机板家族及英特尔PRO/Wireless 3945ABG，其将支持最常用的三种IEEE 802.11 标准。计划搭配Santa Rosa平台，代号为Merom的Core 2 Duo处理器于2006年8月推出，搭配了该款处理器的Napa平台一般被称为Napa Refresh，主要变化是提供了64位计算能力。
+
+开发代号为Santa Rosa的新平台于2007年初推出，Santa Rosa平台使用开发代号为Crestine的新晶片组。对于Crestine方面的消息仍十分的有限，内建GPU使用Grantsdale/Alviso世代，支持DirectX 9的Intel Extreme Graphics 3，记忆体方面支援DDR2-667。
+
+在2007年Santa Rosa平台中，Intel搭载的无线网路Kedron将会是主要焦点，其所支援的IEEE 802.11n技术将使NB无线传输速度由目前IEEE 802.11a/g的54Mbps大幅提升至300Mbps，等于一次拥有3线道的传输及接送资料，传输距离也增至300公尺。此外，Intel在Robson计划中，支援Intel Turbo Memory技术，将有关的程式档案放置于Mini Card的Flash Rom中，使系统开机及存取速度加快，也是Santa Rosa平台特色之一。
+
+开发代号为Montevina是第五代迅驰平台，为了和之前的迅驰平台所区别，被称作迅驰2，2008年7月15日正式发布。
+
+第六代的迅驰平台，竞争对手是AMD的Fusion。
+
+第七代迅驰平台。
+
+第八代迅驰平台。
+
+将于2013年发售的第九代迅驰平台。
+
+英特尔投资了3亿美元在Centrino的广告宣传上。但因为其无处不在的市场推广计划主要标榜Pentium M的性能，所以很多顾客错误地将Pentium M等同迅驰。部份顾客甚至认为迅驰是笔记本电脑连接无线网路的惟一方法。结果便使得英特尔的PRO/Wireless芯片需求大增。
+
+

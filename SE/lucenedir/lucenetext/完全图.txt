@@ -1,0 +1,7 @@
+完全图
+
+完全图是每对顶点之间都恰连有一条边的简单图。formula_1个端点的完全图有formula_1个端点及formula_3条边，以formula_4表示。它是formula_5-正则图。所有完全图都是它本身的团（clique）。
+
+平面图不会包含formula_6或formula_7（完全二部图）。所以，当formula_8时，formula_4不会是平面图。
+
+每一张formula_4的完全图都正好是n-1维单纯形的投影。

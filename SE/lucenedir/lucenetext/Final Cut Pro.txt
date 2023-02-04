@@ -1,0 +1,6 @@
+Final Cut Pro
+
+Final Cut Pro是一款由Macromedia（现已被Adobe收购）推出，之后由苹果公司接手研发、销售的非线性影片剪辑软体。最新版本为Final Cut Pro X，能在装载英特尔处理器和OS X 10.6.7以后版本的麦金塔电脑上运行。本软体能让使用者将影片记录和传输至硬碟上（内建或外接），之后进行编辑、剪辑、处理和输出成多种格式。
+
+自2000年代初期起，Final Cut Pro的使用者开始大量增加，尤其是业余的影片剪辑者和独立电影制作者。Final Cut Pro同时也开始与Avid Technology的Media Composer软体在电影和电视剪辑业界中竞争。根据2007年SCRI的研究，Final Cut Pro在美国专业剪辑市场中的占有率为49%，而Avid为22%。2008年由美国电影剪辑公会发表的调查报告指出，其会内成员使用Final Cut Pro的比例为21%。
+

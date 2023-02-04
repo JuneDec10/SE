@@ -1,0 +1,12 @@
+X.Org Server
+
+X.Org Server（全称）是X Window System的官方参考实作，它是开放源代码的自由软件。
+
+这个项目由X.Org基金会运作，存放于freedesktop.org的主机上。
+
+由于在XFree86 4.4最终版本采用新许可证问题上的分歧，Xorg服务的第一个版本X11R6.7.0从XFree86 4.4 RC2派生出来，并加入了X11R6.6的一些改动。许多原先XFree86的开发者加入了这个比XFree86更开放的项目。
+
+选择XOrg作为提供图形与桌面服务为主的套件，逐渐在开源实作的类Unix操作系统中流行。
+
+它被以下发行版本采用以代替XFree86：Gentoo Linux、Fedora Core、Slackware、SUSE、Mandrake Linux、Cygwin/X、Debian GNU/Linux、Ubuntu Linux、OpenBSD和FreeBSD。
+

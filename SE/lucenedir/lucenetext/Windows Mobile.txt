@@ -1,0 +1,65 @@
+Windows Mobile
+
+Windows Mobile是微软针对移动产品而开发的精简作业系统。2009年2月，微软发布了Windows Mobile 6.5系统。Windows Mobile捆绑了一系列针对移动设备而开发的应用软件，这些应用软件建立在Microsoft Win32 API的基础上。可以运行Windows Mobile的设备包括Pocket PC、Smartphone和Portable Media Center。该作业系统的设计初衷是尽量接近于桌面版本的Windows。继任者Windows Phone作业系统出现后，Windows Mobile系列正式退出手机系统市场。2010年10月，微软宣布终止对Windows Mobile的所有技术支持。
+
+Windows Mobile通常有以下特点：
+
+
+
+
+
+
+
+Windows Mobile采用Windows CE内核，最早被用作Pocket PC 2000的作业系统，后开发出适用于手机及其他掌上设备操作系统，之后又将其整合于一起。在Windows Mobile 2003版本之前操作系统名称为Pocket PC、Smartphone等，后改为现名。Windows Mobile包括掌上电脑的Windows Mobile Standard、用于手机的Windows Mobile Classic、Windows Mobile Professional和用于移动媒体的Portable Media Center三大版本。
+
+Pocket PC 2000最初代号为"Rapier"（双刃剑），发布于2000年4月19日。这是后来被称为Windows Mobile的作业系统的首次亮相，意味著要继承智慧型手机的作业系统。Pocket PC 2000年主要用于Pocket PC，但是一些掌上型电脑系统有能力加以更新。此外，一些手机的Pocket PC 2000年被发布，但智慧型手机的硬体平台尚未完全建立。这个版本只支援QVGA（320x240）的解析度。
+设计上，Pocket PC 2000跟Windows 98，Windows Me和Windows 2000类似。
+
+功能及内建的应用程式：
+
+Pocket PC 2002的代号为"Merlin"（默林），发布于2001年10月。虽然主要对象为240×320（英寸，QVGA）屏幕解像度的Pocket PC，2002也可以用于掌上电脑的手机，并首次可适用于用于智能手机。这些掌上电脑智能手机，主要是2002年的GSM设备。就像当时新推出的Windows XP一样，Pocket PC 2002的界面图标采用了相似的新设计。
+
+新功能及内置的应用程序：
+
+Windows Mobile 2003的原代号为"Ozone"，发布于2003年6月23日，是第一个版本的Windows Mobile。它共有四个版本："Windows Mobile 2003 for Pocket PC Premium Edition", "Windows Mobile 2003 for Pocket PC Professional Edition", "Windows Mobile 2003 for Smartphone"及"Windows Mobile 2003 for Pocket PC Phone Edition"。除专业版外，其他版本都缺少了一些功能，如客户端的L2TP及IPsec VPN等。
+
+新功能及内置的应用程序：
+
+Windows Mobile 2003 SE是Windows Mobile 2003的第二版，发布于2004年3月24日。
+
+新功能及内置的应用程序：
+
+Windows Mobile 5的代号为"Magneto"（磁电机），释放于Microsoft's Mobile and Embedded Developers Conference 2005拉斯维加斯（2005年5月9日至5月12日）。微软打算提供主流支持的Windows Mobile 5，直到2010年10月12日，并扩展支持到2015年10月13日。
+
+Windows Mobile 5包括Microsoft Exchange Server的push mail功能，改进与Exchange 2003 SP2的工作。push mail功能也需要供应商/设备支持。随著AKU2软件升级所有Windows Mobile 5都支持DirectPush 。
+由于需要持续的存储能力，Windows Mobile 5精选增加电池寿命。
+
+新功能及内置的应用程序：
+
+Windows Mobile 6的原代号为"Crossbow"（石弓），释放于在2007年2月12日的2007年3GSM世界大会（3GSM World Congress）。它有三个不同的版本：“Windows Mobile 6 Standard”(用在智能手机，没有触控摸屏），“Windows Mobile 6 Professional”（用在智能手机，有触控摸屏，以及“Windows Mobile 6 Classic”（用在掌上电脑，没有无线电）。
+
+就像当时新推出的Windows Vista作业系统一样，Windows Mobile 6的含义是相同的设计。功能上，它很接近Windows Mobile 5，但有更好的稳定性和更美观。
+
+新功能及内置的应用程序：
+
+Windows Mobile 6.1于2008年4月1日推出。这是从Windows Mobile 6一个小的升级，但带来了各种性能增强，重新设计的主屏幕采用横向设计，扩大对点击的支援能显示更多信息，这部分更新仅在Windows Mobile的Standard版本。但是，这项功能却是莫名其妙地排除在专业版中。 
+其他一些改进，如会话式的短信界面，支持整页缩放的Internet Explorer Mobile和'域名注册'。还补充说，随著"mobile"版本的Microsoft OneNote及互动"入门"向导的域名注册功能将设备连接到System Center Mobile Device Manager 2008, a product to manage mobile devices.
+最突出的差异是，用户的标准版（如旧版）仍然与电话号码中的任务和约会创造了自动链接，从而能够很容易（和安全驾驶时）点击和拨打在电话中储存的电话号码。出于某种原因，专业版也消除了这一重要功能。Windows Mobile 6.1还精选提高push-email的利用效率，在其随身电邮议定书“ActiveSync的”的增加高达40％，这减少了数据的使用，所以造成电池寿命大大改善。
+除了视觉和功能的区别，基本上可以用Windows CE的版本来区分Windows Mobile 6和Windows Mobile 6.1。Windows Mobile 6的Windows CE号码小数点后有4个数字（如HTC Wings的5.2.1622），而Windows Mobile 6.1的Windows CE号码小数点就是有5个数字（如Palm Treo 800w的5.2.19216）。
+
+Windows Mobile 6.5是一个对现有Wndows Mobile 6.1平台的升级，释放给制造商的时间是09年5月，但在9月之后才正式推出。尽管可以说是一个更新，但据说包括大量新的增值功能。它也将包括新的Internet Explorer Mobile browser dubbed IE "6 On 6"。微软在MWC 09宣布推出这版本的Windows Mobile
+同时，Motorola宣布下半年推出的手机大多都会使用Windows Mobile 6.5。而使用这个版本的Windows Mobile的手机会被称为"Windows phones"。随著Windows mobile 6.5的推出，微软宣布了几个云计算服务代号"SkyBox", "SkyLine", "SkyMarket"。"SkyBox"已被证实是一个类似My Phone的功能，而"SkyMarket"则被证实是Windows Marketplace的Windows Mobile版本。主屏幕已被重新设计，使此版本将被设计为令手指更容易使用。而据推测微软将渐渐放弃非触摸屏式的Windows Mobile手机（即Windows Mobile Standard系列，亦即在更早的版本中被称为Smartphone的手机）微软还计划把几个来自Zune的软件或功能新增至这个版本。
+
+2010年2月2日，索尼爱立信M1i手机搭载Windows Mobile 6.5.3正式发布，成为世界上第一台Windows Phone 6.5.3智能手机。2009年11月以来，一些6.5.3版本开始泄漏（28nnn），并已经非正式地移植到一些Windows手机。
+
+Windows Mobile 6.5.3带来更友好的用户界面，一些新的易于使用的功能，如支持多点触摸，完全触摸控制（即无需手写笔），和拖放开始菜单图标。Internet Explorer Mobile 6也有一些重大更新，包括减少页面载入时间，改进的内存管理和平滑手势。
+
+较新的附加功能的Windows Mobile 6.5.3版本包括线上电子邮件和Office Mobile 2010。
+
+2010年10月11日，微软公司正式发布了新的智慧型手机作业系统Windows Phone，用以接续旧版的Windows Mobile 系列，Windows Mobile就此走入了历史。
+
+微软研发的Windows Mobile平台，比苹果iOS和和Google Android平台早推出数年，但根据市场研究机构IDC估计，2012年Windows Phone加上Windows Mobile只占智能手机市场的5.2%，落后Android的61%、iOS的20.5%，2012年2月，微软创办人比尔盖茨接受哥伦比亚广播公司（CBS）访-{}-问，对于流动通讯新时代，他坦言微软创新不足。
+
+使用Windows Mobile为作业系统之装置列表：
+
+A3100Ace Athena BlackJack BlackJack II Dash DX900 eXpo HD2 i600 i780 Incite Jack KS20 MAX 4G nüvifone M10 nüvifone M20 Omnia Omnia II Omnia Lite Omnia Pro B7330 Omnia Pro B7610 Propel Pro Saga Shadow Smartflip TG01 Touch Touch2 Touch 3G Touch Cruise Touch Diamond Touch Diamond2 Touch Dual Touch HD Touch Pro Touch Pro2 Touch Viva Treo Pro TyTN TyTN II Vox Wing Wings Xperia X1 Xperia X2LG GW825v

@@ -1,0 +1,6 @@
+Qt Extended
+
+Qt Extended（2008年9月30日前称Qtopia）是一个软体平台，主要用于采用嵌入式Linux系统（embedded Linux-based system）的电子手帐或移动电话。Qt Extended的主要用途，在于提供一个跨平台的软体平台，以便软体开发者可以为系统提供更多的软体。Qt Extended是由Nokia的子公司Qt Software（前称Trolltech）所开发。
+
+2009年3月3日，Qt Software宣布Qt Extended不再继续作为独立产品而开发，部份功能整合进Qt Framework。OpenMoko以Qt Extended Improved作为它的分支，继续开发。
+

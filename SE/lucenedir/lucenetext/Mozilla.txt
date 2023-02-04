@@ -1,0 +1,18 @@
+Mozilla
+
+Mozilla是一个自由软体社群，由网景通讯公司的成员于1998年创立。在非正式的场合下，「Mozilla」这个名字常用于不同的事物上。这些事物大都与现已歇业的网景通讯公司及其旗下的应用软体相关。许多其它「Mozilla」名词的用法请见下方叙述。
+
+最初，「Mozilla」这个名字被用作网景领航员的开发代号。网景通讯公司希望网景领航员能够取代当时世界第一的Mosaic，而这个名字由「Mosaic Killa」（Killa是俚语中Killer的拼法）变化而来，并与经典的虚拟怪物哥吉拉谐趣：「Godzilla eat the Mosaic」，即Mosaic+Godzilla+Killa=Mozilla，Netscape工程师杰米·加文斯基说他是在一次Netscape员工会议上想到这个名字的。
+1998年3月31日，Netscape在源码开放许可证的安排下，公开了网景通讯家的大部分原始码。这个项目沿用了Mozilla的名称，并且新成立了Mozilla开发社群，及其专门网站Mozilla.org。不过由于通讯家的原始码老旧难以维护，通讯家的原始码差不多被全部抛弃，Mozilla社群开发出更稳定、更多功能的新一代互联网应用套件。经过一段长时间的开发之后，应用套件终于在2002年6月5日诞生。Mozilla当时成为该应用套件的名字。
+
+Mozilla的程式码成为了Netscape 6和Netscape 7的基础。而由基金会推出的Mozilla Firefox、Mozilla Thunderbird也是基于Mozilla最底层的程式码。为了帮助一般用户分辨基金会旗下的多个软件，基金会开始把应用套件称呼为「Mozilla Application Suite」，简称「Mozilla Suite」。
+
+Mozilla基金会已不维护Mozilla Application Suite，以便集中开发人员的精神在Firefox和Thunderbird上。现时Mozilla Application Suite已由非正式的SeaMonkey所取代。
+
+Mozilla社群由来自全球的积极贡献者支持，部分志工参与运作，包括软体在地化、程式设计等。
+
+Mozilla社群也指一个非严密组织。其成员使用、开发、推广并支持Mozilla相关计划及Mozilla宣言开放网路理念，名为「Mozillians」（）。
+具体的行动包括：
+许多此类活动为志愿工作，而部份则由Mozilla基金会赞助。
+
+

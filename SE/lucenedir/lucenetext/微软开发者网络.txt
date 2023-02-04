@@ -1,0 +1,41 @@
+微软开发者网络
+
+微软开发者网络（）是早期微软公司在推广Win32 程式设计以及开发工具时，专门为开发人员所提供的一个服务，是使用微软技术开发软体或应用程式时必定会参访的地方，同时它也有提供订阅的服务，由微软不定时供应最新的软体及技术文件，MSDN的技术文件库是免费开放让所有人在线上阅读，但光碟的版本必须要利用MSDN Library Subscription才可以拿到，不过自从Visual Studio 2005开始，MSDN Library即提供免费的网路下载。
+
+也许是受到MSDN成功与广为开发人员所知的影响，升阳也将它们的Java文件库定名为Sun Developer Network (SDN)。
+
+MSDN自开始发行以来，经历了数个版本的变化，每个版本 (等级)都提供了不同程度的软体资源，等级愈高者提供的资源愈多，甚至于绝大部份除了游戏与一般性软体以外，所有的微软软体。
+
+早期在网际网路未普及之前，微软为提供给开发人员详细的开发工具与软体发展规格，开始以光碟为媒介，包装了许多文件以及书籍（Microsoft Press出版的几乎有完整的内容，其他出版社的则为试阅章节）以及专门的浏览工具：InfoView，发行了MSDN Library光碟，此为最低等级的MSDN版本，后来随著开发工具的进步，变为使用HTML Help来编制，目前MSDN Library的所有内容都已上载到其官方网站，并且在Microsoft Download Center中提供各版本Visual Studio的MSDN Library免费下载。
+
+此为Visual Studio 6.0开始提供的等级，除了MSDN Library外，另提供Windows作业系统 (用户端与伺服器都有)的授权，以及为Windows作业系统开发应用程式所需的SDK工具，但未提供Visual Studio系列的开发工具。
+
+这个等级目前仍存在MSDN等级中。
+
+此为微软为专业开发人员所规划，提供Visual Studio的Professional版本，以及MSDN Operating Systems所有的软体授权。
+伺服器另增SQL Server Developer Edition以及SQL Server Enterprise Edition的授权。
+
+这个等级目前由Visual Studio 2005/2008 with MSDN Professional Subscription所取代。
+
+此为微软为企业级开发人员所规划，除了MSDN Professional以外，还加上Microsoft Servers (当时称为Microsoft BackOffice Servers)系列的所有伺服器，例如Exchange Server、SharePoint Server、SQL Server、Host Integration Server、System Management Server等等，开发工具为Visual Studio的Enterprise版本。
+
+这个等级目前已终止。
+
+此为微软系列开发人员所公认的终极等级，在这个等级中所包含的软体授权包含除微软发展的游戏以及一般性软体外所有的微软软体，亦及包含Microsoft Office以及MSDN Enterprise等级的所有软体授权。
+
+这个等级目前由MSDN Premium接手。
+
+目前微软为搭配Visual Studio 2005/2008 Professional及以上的版本 (Team Architect, Team Developer, Team Tester以及最高等级的Team Suite)发行的MSDN等级，具有MSDN Universal版本等级相同的软体授权，除了开发工具依所搭配的开发工具等级外。
+
+MSDN在Operating System以上的等级都有附微软的软体授权，根据MSDN的使用者授权合约（EULA），软体只授权给使用MSDN的那一位开发人员，专供开发与测试之用，其他人不可使用MSDN所附软体。包含企业不能用MSDN附的SQL Server Enterprise Edition做为生产环境中的资料库伺服器；秘书不能使用MSDN所附的Office 2007等等。
+
+MSDN Library则没有单一授权的限制。
+
+在新订阅MSDN时，在台湾，会由台湾微软递送中心寄发启动码给订户，订户可以使用启动码到MSDN Subscription网站注册，以启用MSDN随附的权益（免费的技术支援问题数，以及最有价值的MSDN Subscriber Downloads权限），并且会收到一份Welcome Kit，内含光碟整理盒，部份MSDN的DVD（或CD，订阅时可以选择要用CD或DVD），手册以及EULA等，之后随著软体的更新或发表，每月会寄发补充的光碟集，称为Increment Pack，直到订阅期结束为止（但不一定每个月都有）。
+
+订户可以选择继续订阅，可以用较低的价格续约，以继续享受订户权益，但不会再收到Welcome Kit。
+
+订阅MSDN Operating Systems以上等级的订户，可以利用微软寄发的启动码，注册并取得进入MSDN Subscriber Downloads的权利，在这个地方有：
+
+
+

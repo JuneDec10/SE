@@ -1,0 +1,7 @@
+GreatNews
+
+GreatNews是一个主要针对大量RSS阅读而开发的桌面RSS阅读绿色软件，开发者是Jack Pan。
+
+主要特点包括：
+
+

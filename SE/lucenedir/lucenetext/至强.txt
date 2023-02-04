@@ -1,0 +1,78 @@
+至强
+
+Xeon（读作/'zi:on/）是Intel的一个中央处理器品牌，中国译名至强，主要供伺服器及工作站使用，亦有超级计算机采用此处理器。它与奔腾（Pentium）系列一样，经过几代处理器架构的变迁后，名字仍保留下来。旧款Xeon的名字是将Xeon放到相对的Pentium名字之后（Pentium II Xeon），新款的则直接叫作Xeon。Xeon采用x86架构和/或x86-64架构，和Itanium不同；Itanium采用特殊的IA-64架构，IA-64架构不兼容x86和x86-64。
+
+过往的Xeon跟Core一样分为三个系列，另有加速卡Xeon Phi。只有部份Xeon E3提供内置绘图核心，其余均没有iGPU。
+
+四位数字型号的第一个数字代表最大的处理器数目，有单路、双路、四路和八路。第二个数字代表CPU插座类型，共有四种规格，第一代产品1、2、4、6、8分别代表BGA 1284、LGA 1155、LGA 1356、LGA 2011和LGA 1567。
+
+Xeon E3是针对工作站和入门级伺服器的单路处理器系列，有E3-1100和E3-1200两个子系列，除E3-1220L为双核心以外均为四核心，但有四线程和八线程型号。Xeon E3的更新速度最快，每年跟随消费级的Core i7一同更新，插座也跟消费级产品相同，采用LGA 1155和LGA 1150，第一/二/三代产品的型号为E3-1200/E3-1200v2/E3-1200v3。
+
+一些DIY玩家会购买Xeon E3-1230代替Core i7，因为E3-12X0型号（E3-1260L除外）没有iGPU（因为此类玩家多会另外购置显卡而不是采用iGPU），价钱较便宜。在一般的主机板使用，ECC功能会被停用，PCI-E总线只能使用16条，而非全部20条。但从Xeon E3 V5开始，E3系列处理器已不支援Intel的桌上型晶片组，必须搭配Intel的企业级晶片组才可使用。
+
+从Coffee Lake微架构开始，Intel用Xeon E取代Xeon E3的定位。
+
+Xeon E5是针对高端工作站及伺服器的处理器系列，此系列每年更新，不过架构落后Xeon E3一代。2013年第3季，Xeon E5更新到Ivy Bridge微架构。与此同时，Xeon E3更新到Haswell微架构。
+
+Xeon E5共有五个子系列，入门的单路处理器系列E5-1400，高端的单路处理器系列E5-1600，入门级双路处理器系列E5-2400，主流级双路、四路处理器系列E5-2600及E5-4600，前两者采用LGA 1356，后两者采用LGA 2011。
+
+Xeon E7是面向关键任务和数据中心的处理器系列，强调可靠性、可用性和可服务性（RAS）。
+
+第一代Xeon E7于2011年第2季推出，提供三个子系列，顶级的八路、四路及双路处理器系列E7-8800、E7-4800及E7-2800，分别最大支持4TB、2TB及1TB记忆体。全线代号均为Westmere-EX，支援四通道记忆体技术，采用LGA 1567，亦是唯一采用此插座的系列。
+
+第二代Xeon E7于2014年第1季推出，代号Ivy Bridge-EX，提供三个子系列E7-8800/4800/2800v2，全部型号支持最大1.5TB记忆体，采用LGA 2011，最多15核心30线程及37.5MB L3。采用八路Xeon E7支持最多12TB记忆体。虽然名称相同，但此款LGA 2011是Xeon E7专用，并不相容Xeon E5或Core i7。
+2017年，英特尔推出新的Xeon Scalable CPU（Xeon可扩充处理器），型号命名方式上，不再使用E5和E7，而是采用4种不同等级代替E5和E7的定位。全新的Xeon可扩充处理器分为青铜级、白银级、黄金级和铂金级四个等级。
+
+Xeon Phi是运算加速卡的品牌，采用MIC架构（Many Integrated Core），最多61个核心，利用硬件型超线程让每个核心拥有4个线程，总共244个线程，但此超线程无法关闭。Xeon Phi用作高效运算（HPC）加速，主要用于超级电脑及HPC伺服器。Xeon Phi的出现是为了抗衡GPGPU（通用GPU）在HPC领域的普及，美国橡树岭国家实验室的超级电脑泰坦（2012年11月–2013年6月全球最快的超级电脑）的主要运算能力并不是来自CPU，而是来自NVIDIA Tesla GPGPU。
+
+第一批Xeon Phi代号均为Knights Corner，不计算客制化产品，共有六款型号，3100/5100/7100各有两款型号，分别有57/60/61个核心及6GB/8GB/16GB内存。两款型号的分别在于散热器的不同，包括主动式、被动式和没有散热器，主动式（A）只有风扇，被动式（P）则只有一块很大的散热片，没有散热器（X）需要配合水冷使用。
+
+第一代Xeon处理器，于1998年发布，用作取代Pentium Pro。Pentium II Xeon基于P6架构，使用82440GX（双处理器晶片组）或82450NX（四处理器晶片组）。与Pentium II不同，它有一个全速，不在晶片上的L2快取。它使用一个比Slot 1更长的插槽Slot 2，分别有512KB、1MB、2MB L2，及使用100MHz前端总线。
+
+第二代Xeon，于1999年发布，用作取代Pentium II Xeon。共有两个核心版本："Tanner"及"Cascades"。Tanner与同系列的Pentium III核心（Katmai）没有分别，同有SSE及一少部份内存控制优化。第一代Casades核心的Pentium III Xeon处理器与同系列的Pentium III（Coppermine）同有133MHz的前端汇流排（外频）、256KB的L2。第二代Casades（或称Casades 2MB以分别二者），有1MB或2MB的L2但只有100MHz的外频。
+
+Xeon（除下Pentium的名字）于2001年中发布。第一代核心使用当时最新的NetBurst架构，名为Foster。跟Pentium 4不同，它的主要市场为工作站。虽然它拥有比Cascade 2MB更好的效能表现，但是因为它需要使用非常昂贵的RDRAM（Rambus Dynamic RAM），所以它的销售情况不太理想。
+
+因为Foster只支援2枚处理器，故第二版（Foster MP）发布，它有1MB L3，增加少许的效能，但比Xeon DP贵得多。
+
+2002年，130纳米的Xeon发布〔本版本核心为Prestonia〕。它支援英特尔的超线程技术，拥有512KB的L2。同时，新的晶片组E7500〔支援双管道DDR〕亦配合此Xeon发布。不久，它的前端汇流排亦由100MHz〔400MHz QDR〕提升至133MHz〔533MHz〕。因为本版本的Xeon在效能上比上一代以及对手的Athlon MP更好，另一方面，E75XX晶片组又有更大的优势，故顿时成为高销量的伺服器及工作站处理器。
+
+Prestonia的Xeon MP版本核心为Gallatin，拥有1MB或2MB的L3。这个版本亦比Foster MP更高的效能，故在受伺服器欢迎。之后，130纳米制程使到Gallatin可以有4MB的L3。
+
+因为英特尔未能成功推行Itanium及Itanium 2处理器，故在2004年，90纳米制程的Pentium 4处理器〔Prescott〕加入了64位元指令的支援，以及新一代Xeon〔核心代号Nocona〕发布。随着此代Xeon发布的晶片组为E7525〔工作站〕、E7520及E7320〔伺服器〕，加入PCI Express、DDR2及Serial ATA的支援。一般来说，虽然Xeon有超线程技术，但Xeon效能仍比对手的Opteron为低。
+
+2005年，英特尔发布新的Xeon〔Irwindale〕，但只有小量的更新：加入双倍的L2，以及在低负载时自动减低时脉。但是，在一独立测试中，Opteron的效能仍比Irwindale更高。
+
+2005年4月，64位元的Xeon MP发布，分别为较便宜的Cranford〔Nocona的MP版本〕及较贵的Potomac〔拥有8MB L3的Cranford〕。
+
+2005年10月10日，英特尔发布了其首枚双核心Xeon DP〔Paxville DP〕，它是Irwindale的双核心版本，拥有4MB的L2〔每核心2MB〕。
+2005年11月1日，双核心的Xeon MP〔Paxville MP〕发布，它有两个不同的版本：一个有2MB的L2〔每核心1MB〕，另一个则有4MB L2〔每核心2MB〕。这个系列的Xeon命名为Dual Core Xeon 7000系列，时脉由2.67至3.0GHz不等〔7020-7041〕，有667MHz或800MHz的前端汇流排。
+
+2006年3月14日，英特尔发布了全新的双核心Xeon LV〔低电压版本，核心Sossaman〕。Sossaman建基于Core Duo处理器技术，支援当时Xeon拥有的技术，Virtualization Technology，667MHz前置汇流排，但双核心处理只有32位元。
+
+2006年5月23日，英特尔发布了其65纳米的双核心Xeon〔Dempsey核心〕，并命名为Dual Core Xeon 5000系列。Dempsey为最后使用Netburst的Xeon DP处理器核心，除了支援多处理器外，其他跟其桌面版本〔Presler〕一样。本系列时脉由2.67至3.73GHz不等〔5030-5080〕，拥有667MHz或1066MHz的前置汇流排，4MB L2〔每核心2MB〕。本系列的Xeon使用全新的介面Socket J，或称LGA 771。
+
+Woodcrest为第一枚使用Intel Core微处理器架构的处理器，Intel Core 2处理器的伺服器版本，于2006年6月26日推出。它被命名为Dual Core Xeon 5100系列。时脉由1.6GHz至3GHz不等。全部支援最多两枚处理器同时运作。
+
+它使用1333MHz前置汇流排，最高80W TDP，本系列所有处理器支援EM64T、XD bit、Virtualization Technology。
+
+Nehalem-EX内为八核心，支援HT技术，因此达十六执行绪。L3 Cache容量估计达16MB至32MB，内建电晶体更多达二十三亿个。
+
+为Paxville MP的进化版本，使用65纳米制程，并加入更大的内存。Tulsa将有2MB L2〔每核心1MB〕及最多16MB L3〔由两核心共享〕。
+
+由两枚Woodcrest核心组成的四核心处理器核心，估计使用1066MHz前置汇流排。计划于2006年年前发布，且时脉会比Woodcrest核心为低。本核心亦有Xeon-MP版本，核心名为Clovertown-MP。
+
+目前唯一采用此处理器的电脑乃是Apple的Mac Pro
+
+四核心处理器核心，部份建基于Woodcrest。使用Common System Interface（CSI）汇流排，取代传统的前置汇流排。它将有16MB L2，第一代使用65纳米制程、后代会使用45纳米制程。但在现时的处理器路线图上，它已经被取消，取而代之的是Tigerton核心。
+
+四核心处理器核心，用作取代Whitefield。暂一切不明。
+
+45纳米版本的Tigerton，四核心。
+
+45纳米八核心，12MB L2。
+Apple的Mac Pro已于最近一次更新（2008年初）采用此处理器。
+
+四核心，使用Nehalem处理器微架构。传闻由3.0GHz起跳。
+
+

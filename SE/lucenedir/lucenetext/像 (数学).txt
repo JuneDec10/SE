@@ -1,0 +1,14 @@
+像 (数学)
+
+在数学中，像是一个跟函数相关的用语。
+
+令formula_1 是一由定义域formula_2 映射至到达域formula_3 的函数。
+
+设formula_4 是定义域formula_2 的元素，formula_4 在 formula_1之下的像便是 formula_8。
+
+设formula_9 是定义域formula_2 的子集，formula_9 在 formula_1之下的像便是
+
+令formula_1 是一由定义域formula_2 映射至到达域formula_3 的函数。
+
+设formula_19 是到达域formula_3 的子集，formula_19 在 formula_1之下的原像便是
+

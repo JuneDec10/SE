@@ -1,0 +1,34 @@
+Microsoft Excel
+
+Microsoft Excel是Microsoft为使用Windows和Apple Macintosh操作系统的电脑编写的一款试算表软件。直观的界面、出色的计算功能和图表工具，再加上成功的市场营销，使Excel成为最流行的个人计算机数据处理软件。在1993年，作为Microsoft Office的组件发布了5.0版之后，Excel就开始成为所适用操作平台上的电子制表软件的霸主。
+
+1982年，Microsoft推出了它的第一款电子制表软件──Multiplan，并在CP/M系统上大获成功，但在MS-DOS系统上，Multiplan败给了Lotus 1-2-3。这个事件促使了Excel的诞生，正如Excel研发代号Doug Klunder：做Lotus 1-2-3能做的，并且做的更好。1985年，第一款Excel诞生，它只用于Mac系统；1987年11月，第一款适用于Windows系统的Excel也产生了（与Windows环境直接捆绑，在Mac中的版本号为2.0）。Lotus1-2-3迟迟不能适用于Windows系统，到了1988年，Excel的销量超过了Lotus
+，使得Microsoft站在了PC软件商的领先位置。这次的事件，促成了软件王国霸主的更替，Microsoft巩固了它强有力的竞争者地位，并从中找到了发展图形软件的方向。此后大约每两年，Microsoft就会推出新的版本来扩大自身的优势，目前Excel的最新版本为16，也被称作Microsoft Office Excel 2016。
+
+早期，由于和另一家公司出售的名为Excel的软件同名，Excel曾成为了商标法的目标，经过审判，Microsoft被要求在它的正式文件和法律文档中以Microsoft Excel来命名这个软件。但是，随著时间的过去，这个惯例也就逐渐消逝了。
+
+Excel虽然提供了大量的用户界面特性，但它仍然保留了第一款电子制表软件VisiCalc的特性：-{zh-hans:行;zh-hant:列}-、-{zh-hans:列;zh-hant:栏}-组成单元格，数据、与数据相关的公式或者对其他单元格的绝对引用保存在单元格中。
+
+Excel是第一款允许用户自定义界面的电子制表软件（包括字体、文字属性和单元格格式）。它还引进了「智能重算」的功能，当单元格数据变动时，只有与之相关的数据才会更新，而原先的制表软件只能重算全部数据或者等待下一个指令。同时，Excel还有强大的图形功能。
+
+1993年Excel第一次被捆绑进Microsoft Office中时，Microsoft就对Microsoft Word和PowerPoint的界面进行了重新设计，以适应这款当时极为流行的应用程序。
+
+从1993年，Excel就开始支持Visual Basic for Applications（VBA）.VBA是一款功能强大的工具，它使Excel形成了独立的编程环境。使用VBA和巨集，可以把手工步骤自动化，VBA也允许创建窗体来获得用户输入的信息。但是，VBA的自动化功能也导致Excel成为-{zh-hans:宏病毒; zh-hant:巨集病毒;}-的攻击目标。
+
+从5.0到9.0，Excel中都隐藏了不同的-{zh-hans:复; zh-hant:复}-活节彩蛋。
+
+用于MS-DOS 的版本包括：
+
+用于Microsoft Windows的版本包括：
+用于Apple macOS的版本包括：
+
+用于OS/2的版本包括：
+此外尚有针对iOS、Android、Windows 10 Mobile的移动版Excel，Excel Mobile。
+
+开源类库支持在 Microsoft Excel 应用程序以外的环境中打开 Excel 电子表格。 Excelize 是 Go 语言（Golang）编写的一个用来操作 Office Excel 文档类库，可以使用它来读取、写入带有复杂样式的 XLSX 文件。 Apache POI 开源项目提供用于读取和写入 Excel 电子表格文件的 Java 库。 PHPExcel 是一个 PHP 语言的实现，可在 Web 应用中读取 Excel5，Excel 2003 和 Excel 2007 格式的文档。 Excel Services 是使用 .NET 开发的工具。 使用 xlrd 和 openpyxl 可以使用 Python 访问 Excel电子表格。 js-xlsx 和 js-xls 可以使用 JS 打开 Excel 电子表格。
+
+Microsoft Excel中的密码保护提供了几种类型：
+Excel 7.0 (Excel 95) 及之前版本行数只能达到16384（=2）；Excel 8.0 (Excel 97/98) 至 Excel 11.0 (Excel 2003/2004) 将这一限制更改为16384（=2）行、256（=2，列标签为IV）列。自 Excel 12.0 (Excel 2007/2008) 起，-{zh-hans:行;zh-hant:列}-数上限更改为1048576（=2）， -{zh-hans:列;zh-hant:栏}-数上限被更改为16384（=2，列标签为XFD）。
+
+
+

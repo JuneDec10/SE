@@ -1,0 +1,12 @@
+WebLogic
+
+WebLogic是美商Oracle的主要产品之一，系购并得来。是商业市场上主要的Java（）应用伺服器软体（）之一，是世界上第一个成功商业化的J2EE应用服务器，目前已推出到12c（12.1.1）版。而此产品也延伸出WebLogic Portal, WebLogic Integration等企业用的中介软体（但目前Oracle主要以Fusion Middleware融合中间件来取代这些WebLogic Server之外的企业套件），以及OEPE（Oracle Enterprise Pack for Eclipse）开发工具。
+
+WebLogic最早由WebLogic Inc.开发，后并入BEA公司，最终BEA公司又并入Oracle公司。
+
+下表列出了WebLogic Server所支持的主要标准.
+
+
+
+2010年，Oracle Corporation认定下列产品为"核心组件"
+

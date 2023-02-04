@@ -1,0 +1,36 @@
+网际网路资讯服务
+
+-{zh-tw:网际网路资讯服务（），在中国大陆被称为互联网信息服务;zh-cn:互联网信息服务（），在台湾被称为网际网路资讯服务}-，是由微软公司提供的基于运行Microsoft Windows的网际网路基本服务。最初是Windows NT版本的可选包，随后内建在Windows 2000、Windows XP Professional和Windows Server 2003一起发行，但在普遍使用的Windows XP Home版本上并没有IIS。
+
+IIS包括FTP/FTPS、NNTP、和HTTPS／HTTP、SMTP等服务。
+IIS可设定的内容包括：虚拟目录及存取权限、预设文件名称、以及是否允许浏览目录。
+
+IIS Express是IIS的轻量化版本，能够被安装在Windows XP Service Pack 3与之后版本的Microsoft Windows。IIS 7.5 Express只支援HTTP或HTTPS。
+IIS Express可以单独下载安装或是为Microsoft WebMatrix安装的一部分。另外，Visual Studio 在编写网页 / 网站并测试运行时也使用 IIS Express 提供虚拟站点服务，避免直接打开本地网页时页面上的 JavaScript 由于安全设置而被屏蔽。
+
+在命令行使用IIS Express：<br>
+增加一个site：<br>
+查看site列表：<br>
+启动site：<br>
+或者<br>
+启动一个临时网站：<br>
+
+IIS Express 默认只支持本地连接，不能用ip去访问。开启/关闭外部连接：
+
+IIS Express配置文件默认位于“我的文档\IIS Express\Config\”。其中，applicationhost.config是核心配置文件，包含了site的定义、应用程序和应用程序池以及整个WEB服务器的配置。
+
+IIS是在Windows操作系统平台下开发的，这也限制了它-{只}-能在这种操作系统下运行。在Windows XP Professional中IIS的一些功能做出了限制，以与Windows Server 2003有所区隔。
+
+IIS的发展伴随著安全漏洞；而随著IIS 6.0的发布，这种情况有所好转。在低于6.0的版本中，其使用者权限是系统用户；而在IIS 6.0中，引入了网络服务帐户，这是一个限制用户。这样，即使服务遭到了破坏，也不会造成系统的瘫痪。
+
+
+
+
+
+
+
+
+Extension
+
+
+

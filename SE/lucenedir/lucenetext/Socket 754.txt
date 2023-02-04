@@ -1,0 +1,16 @@
+Socket 754
+
+Socket 754是AMD处理器专用插座的一种，用作取代Athlon XP所使用的Socket A，也是首款支援自家的64位平台AMD64（x86-64）的插座。它采用HyperTransport技术与晶片组连接。
+
+这款插座属PGA-ZIF形式，使用时-{只}-要把杠杆拉起，将处理器依正确方向插入，再把杠杆推落锁紧即可。
+
+Socket 754支援K8微架构的Athlon 64、Sempron、Turion 64及Athlon XP-M处理器，与Socket 939主要不同的地方计有：
+
+
+此外，Socket 754并不如Socket 939般支援双通道记忆体，主要针对低价处理器Sempron及单通道记忆体版的Athlon 64，而AMD方面也宣布即将停止生产Socket 754版的Athlon 64。
+
+
+
+
+
+

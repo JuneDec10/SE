@@ -1,0 +1,7 @@
+Amaya
+
+Amaya是一套由W3C及INRIA所制作的自由及开放原始码网页浏览器及网页制作软体。它是Grif这套所见即所得的SGML编辑器及SymposiaHTML编辑器的后代。
+
+Amaya最初的设计成一套HTML及CSS编辑器，但它后来扩展成支持XML相容规格的编辑器，如XHTML，MathML及SVG。它可以显示开放图像格式如PNG，SVG及SVG动画。它被广泛用于新网页技术试验台，以测试那些未能于主流浏览器上运行的技术。
+
+

@@ -1,0 +1,20 @@
+Nautilus档案浏览器
+
+Nautilus是GNOME桌面预设的档案浏览器。它被设计为档案浏览器，但同时亦可作为网页浏览器及档案检视器。它是用来在GNOME2.0中取代GNOME1.0所使用的Midnight Commander。
+
+它曾是已消失的Eazel公司的旗舰产品。
+
+
+在GNOME 2.6中，Nautilus转变为独立视窗模式。而传统的介面亦可由"编辑 ->偏好设定 ->运作模式"内选取"总是以浏览视窗开启"打开。
+
+Nautilus支持像浏览本地文件系统一样浏览下面的网络服务：FTP站点，Windows SMB共享，Files transferred over shell protocol，WebDAV服务器和SFTP。这个得益于GNOME VFS库的支持。
+
+另外，Nautilus还支持书签，窗口背景，徽标，备忘和扩展脚本，并且用户可以选择是图标视图还是列表视图。它会将访问过的文件夹保存为历史，非常容易再次访问，就像浏览器一样。
+
+Nautilus可以显示文件的预览，如文本文件，图像，声音或视频文件的预览。视频文件通过Totem取得预览。声音文件当指针移到它们上面时得到预览。
+
+对于它自己的界面，Nautilus包含了原始的由Susan Kare设计的vectorized图标。
+
+在Gamin库的支持下，Nautilus将实时跟踪本地文件的修改，解决了需要手动刷新的问题。
+
+

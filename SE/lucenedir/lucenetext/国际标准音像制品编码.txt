@@ -1,0 +1,13 @@
+国际标准音像制品编码
+
+国际标准音像制品编码（International Standard Recording Code，ISRC），由ISO 3901定义，是国际通用的录音及音乐录像制品出版物的代码。IFPI被ISO指定为注册ISRC编码的机构。负责ISRC编码的标准。
+
+ISRC编码的形式为：ISRC 国家码-出版者码-录制年码-记录码-记录项码
+
+举例：ISRC SE-A23-99-029-11、ISRC CN-M01-01-0030-0
+
+
+
+
+
+

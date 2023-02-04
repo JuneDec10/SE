@@ -1,0 +1,25 @@
+原根
+
+在数论，特别是整除理论中，原根是一个很重要的概念。
+
+对于两个正整数formula_1，由欧拉定理可知，存在正整数formula_2， 比如说欧拉函数formula_3，即小于等于formula_4的正整数中与formula_4互质的正整数的个数，使得formula_6。
+
+由此，在formula_1时，定义formula_8对模formula_4的指数formula_10为使formula_11成立的最小的正整数formula_12。由前知formula_13 一定小于等于 formula_14，若formula_15，则称formula_8是模formula_4的原根。
+
+设formula_18，则formula_14等于6。
+
+
+
+
+
+除了直接运算以外，至今还没有一个办法可以找到模特定m时的原根，但假如已知模m有一个原根，则可找出它其他的原根。
+
+模 p 的最小原根 g 定义为在 1 到 p-1 中最小的原根。数学家已经给出最小原根的上界及下界的一些限制。
+
+伯吉斯(1962)证明对任何 ε>0，存在一个 C>0，使得
+formula_51。
+
+Emil Grosswald (1981) 证明如果 formula_52，则 formula_53。
+
+
+

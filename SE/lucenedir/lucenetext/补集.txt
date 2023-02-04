@@ -1,0 +1,30 @@
+补集
+
+在集合论和数学的其他分支中，存在-{zh-cn:补集; zh-tw:差集;}-的两种定义：-{zh-cn:相对补集; zh-tw:相对差集（差集）;}-和-{zh-cn:绝对补集; zh-tw:绝对差集（补集）;}-。
+
+若formula_1和formula_2是集合，则formula_1在formula_2中的-{zh-cn:相对补集; zh-tw:相对差集（简称差集）;}-是由所有属于formula_2但不属于formula_1的元素组成的集合。
+
+formula_1在formula_2中的相对补集记为formula_9或formula_10。
+
+形式上：
+
+例如：
+
+下列命题给出一些相对补集同并集和交集等集合论运算相关的一些常用性质。
+
+命题1：若formula_17是集合，则下列等式恒成立：
+
+若给定全集formula_26，则formula_1在formula_26中的相对补集称为formula_1的-{zh-cn:绝对补集（简称补集）; zh-tw:绝对差集（又称为补集）;}-，记为formula_30，即：
+
+（注意：根据ISO与中华人民共和国国家标准，formula_1中子集formula_2的补集记作formula_34。）
+
+例如，若全集为自然数集合，则奇数集合的补集为偶数集合。
+
+下列命题给出一些绝对补集同并集和交集等集合论运算相关的一些重要性质。
+
+命题2：若formula_1和formula_2是全集formula_26的子集，则下列恒等式成立：
+
+上述表明，若formula_1为formula_26的非空子集，则formula_49是formula_26的一个分割。
+
+补集的符号为“∁”（Unicode：U+2201）。
+

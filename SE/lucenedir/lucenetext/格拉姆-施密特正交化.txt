@@ -1,0 +1,44 @@
+格拉姆-施密特正交化
+
+在线性代数中，如果内积空间上的一组向量能够组成一个子空间，那么这一组向量就称为这个子空间的一个基。Gram－Schmidt正交化提供了一种方法，能够通过这一子空间上的一个基得-{出}-子空间的一个正交基，并可进一步求出对应的标准正交基。
+
+这种正交化方法以和命名，然而比他们更早的拉普拉斯（Laplace）和柯西（Cauchy）已经发现了这一方法。在李群分解中，这种方法被推广为岩泽分解（Iwasawa decomposition）。
+
+在数值计算中，Gram－Schmidt正交化是数值不稳定的，计算中累积的舍入误差会使最终结果的正交性变得很差。因此在实际应用中通常使用豪斯霍尔德变换或Givens旋转进行正交化。
+
+
+Gram-Schmidt正交化的基本想法，是利用投影原理在已有正交基的基础上构造一个新的正交基。
+
+设formula_14。formula_15是formula_1上的formula_17维子空间，其标准正交基为formula_18，且formula_13不在formula_15上。由投影原理知，formula_13与其在formula_15上的投影formula_23之差
+是正交于子空间formula_15的，亦即formula_26正交于formula_15的正交基formula_28。因此只要将formula_26单位化，即
+
+那么formula_31就是formula_15在formula_13上扩展的子空间formula_34的标准正交基。
+
+根据上述分析，对于向量组formula_35张成的空间formula_36 (formula_37)，只要从其中一个向量（不妨设为formula_38）所张成的一维子空间formula_39开始（注意到formula_38就是formula_39的正交基），重复上述扩展构造正交基的过程，就能够得到formula_1 的一组正交基。这就是Gram-Schmidt正交化。
+
+首先需要确定已有基底向量的顺序，不妨设为formula_43。Gram-Schmidt正交化的过程如下：
+
+</math>
+
+这样就得到formula_52上的一组正交基formula_53，以及相应的标准正交基formula_54。
+考察如下欧几里得空间R中向量的集合，欧氏空间上内积的定义为 = ba：
+
+下面作Gram－Schmidt正交化，以得到一组正交向量：
+
+下面验证向量formula_58与formula_59的正交性：
+
+将这些向量单位化：
+
+于是formula_63就是 formula_64 的一组标准正交基底。
+
+随着内积空间上内积的定义以及构成内积空间的元素的不同，Gram-Schmidt正交化也表现出不同的形式。
+
+例如，在实向量空间上，内积定义为：
+
+在复向量空间上，内积定义为：
+
+函数之间的内积则定义为：
+
+与之对应，相应的Gram－Schmidt正交化就具有不同的形式。
+
+

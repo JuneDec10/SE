@@ -1,0 +1,6 @@
+NForce 3
+
+nForce3是NVIDIA研发的第三代晶片组产品，采用南桥与北桥整合设计，单晶片功耗也较低。其为AMD的Athlon 64处理器设计。由于早期的nForce 3 150只支援600MHz的HyperTransport总线，被竞争对手VIA挪喻不完全支援Athlon 64。
+
+
+

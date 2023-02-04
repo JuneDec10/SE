@@ -1,0 +1,5 @@
+W Window系统
+
+W Window 系统是一种图形的视窗系统，是现代X Window系统在名字和概念上的前辈。
+W原本是由Paul Asente和Brain Peid于史丹福大学所发展的，且原本运行于V。在1983年，Paul Asente和Chris Kent把系统移植到VS100的Unix上，给了一份拷贝给MIT的电脑科学实验室。
+于1984年，MIT的Bob Scheifler把W的同步协定换成非同步的，并且命名为X。

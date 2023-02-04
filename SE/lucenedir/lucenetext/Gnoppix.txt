@@ -1,0 +1,5 @@
+Gnoppix
+
+在电脑上，Gnoppix是一个建基于Ubuntu Linux的LiveCD，而且是采用GNOME桌面环境。它不同于Knoppix，Gnoppix是建基于Ubuntu Linux，而Knoppix是建基于Debian。Gnoppix可以由光碟启动，又可以安装在硬碟上。
+
+

@@ -1,0 +1,28 @@
+系统发生树
+
+系统发生树（）又称演化树或进化树（），是表明被认为具有共同祖先的各物种间演化关系的树状图。是一种亲缘分支分类方法（）。在图中，每个节点代表其各分支的最近共同祖先，而节点间的线段长度对应演化距离（如估计的演化时间）。
+
+树可分为有根树和无根树两类。有根树是具有方向的树，包含唯一的节点，将其作为树中所有物种的最近共同祖先。右图即是一个有根树，表示了三域系统(Woese 1998)。最常用的确定树根的方法是使用一个或多个无可争议的同源物种作为外群（英文outgroup），这个外群要足够近，以提供足够的信息，但又不能太近以至于和树中的种类相混。
+
+把有根树去掉根即成为无根树。一棵无根树在没有其他信息（外群）或假设（如假设最大枝长为根）时不能确定其树根。无根树是没有方向的，其中线段的两个演化方向都有可能。
+
+近邻结合法 neighbor-joining (NJ)
+
+最大简约法 maximum parsimony (MP)
+
+最大似然估计 maximum likelihood (ML)
+
+贝叶斯法 Bayesian
+
+官方网站：http://evolution.genetics.washington.edu/phylip.html （英文）
+
+官方网站：http://www.arb-home.de/ （英文）
+
+官方网站：http://mrbayes.csit.fsu.edu/index.php （英文）
+
+http://www.mathcs.duq.edu/larget/bambe.html (英文)
+
+软件列表
+
+
+' Hillis Plot (image)

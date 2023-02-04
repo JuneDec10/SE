@@ -1,0 +1,44 @@
+XScale
+
+Xscale是Marvell 公司（之前是Intel）针对嵌入式产品的核心，当初是ARM架构v5TE指令集的CPU。2006年6月，Intel将其通信及应用处理器业务出售给Marvell公司，并作为一系列不同微架构的处理器的品牌。
+
+Intel的XScale处理器主要用于掌上电脑等便携设备，它是Intel公司始于ARM v5TE处理器发展的产品，前身为StrongARM，在架构扩展的基础上同时也保留了对于以往产品的向下兼容，因此获得了广泛的应用。相比于标准ARM的ARM9/ARM11处理器，XScale功耗更低，系统伸缩性更好，同时核心频率也得到提高，达到了400Mhz甚至更高。这种处理器还支持高效通讯指令，可以和同样架构处理器之间达到高速传输。其中一个主要的扩展就是无线MMX，这是一种64位的SIMD指令集，在新款的 Xscale处理器中集成有SIMD协处理器。这些指令集可以有效的加快视频、3D图像、音频以及其他SIMD传统元素处理。但随着ARMv7的推出，采用两代前指令集的xScale开始显得过时，故Marvell开始在xScale品牌内推出采用较新、ARM官方的Cortex微架构的产品。
+
+
+代号Sabinal
+
+代号Cotulla
+
+
+PXA27x 系列 (内部代号 Bulverde) 包括了 PXA270 和 PXA271-PXA272 几款处理器。这次升级是XScale系列处理器的一次巨大提升。PXA270 有以下几种运行频率： 312 MHz, 416 MHz, 520 MHz 。对于封装内没有内置内存的单独CPU版本，还可以运行在624 MHz的高频率。PXA271 可以运行在 312 MHz 或 416 MHz，在同一个封装内还集成了32 MiB 的 16位 stacked StrataFlash 闪存和32 MiB 的 16位 SDRAM 内存。 PXA272可以运行在312 MHz, 416 MHz 或 520 MHz，并内置 64 MiB 的 32位 stacked StrataFlash 闪存。
+
+Intel 还在 PXA27x 系列中加入了如下的新技术：
+
+
+PXA27x系列于2004年4月发布。此外Intel还发布了2700G嵌入式图形协处理器 。
+
+
+
+
+pxa16x处理器具有强劲的运算能力，尤其适用于对于成本敏感的系统和嵌入式系统，比如电子相框、电子阅读器、多功能打印机显示器、IP电话，网络相机以及家庭控制系统。
+Marvell推出了PXA90x处理器，她集成了GSM/CDMA 通讯模块的XScale核心
+
+PXA90x 运用130 nm 技术制造
+
+PXA930和PXA935系列处理器使用了发展自Marvell公司的架构,以替代原有的Xscale或ARM的设计。这个设计,被称为Sheeva内核,是ARM兼容的。Sheeva内核是一款所谓的多核架构内码名为Tavor;多核意味着它支持ARMv5TE, ARMv6和ARMv7指令集。这一新的架构相对于旧的Xscale架构而言有突破式的跨越。PXA930使用65纳米技术而PXA935建筑在45纳米之上。
+
+PXA930用在黑莓Bold9700上。
+
+PXA940系列处理器基于ARM Cortex-A8内核，但是并不为大家所熟知。 它采用了45纳米的加工工艺生产，黑莓的Torch 9800手机采用了这款芯片。
+
+其为双核Cortex A9处理器。用于Samsung Galaxy Tab 3 7.0等装置。
+
+这是个配撘了Vivante GPU的Cortex A7四核心处理器
+
+
+目前有IOP303, IOP310, IOP321, IOP331, IOP332与IOP333。工作频率自100MHz到800MHz。
+
+IXP产品线主要用来设计网路设备以及工业控制用机器。主要应用有IP电话、网路交换机（switch）、无线网路产品（wireless AP）以及数位媒体播放器（Digital Media Player）。目前有下列产品：
+
+
+

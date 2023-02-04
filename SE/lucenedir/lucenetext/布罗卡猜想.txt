@@ -1,0 +1,4 @@
+布罗卡猜想
+
+布罗卡猜想指在formula_1和formula_2之间，至少有四个质数，其中formula_3指第formula_4个质数。
+

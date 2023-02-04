@@ -1,0 +1,14 @@
+Microsoft Max
+
+Microsoft Max，或称Microsoft Codename Max，是美国微软公司推出的一款基于WinFX技术的图片软件。这个软件的主要作用是用本地的图片生成列表，并与好友共享图片。该软件的界面采取了Windows Vista风格。
+
+2006年10月31日，Microsoft Max Blog宣布Max计划终止。
+
+微软只提供过Max的在线安装程序，并暂时仅能在英文版Windows XP或加载多国语言包的英文版Windows XP上安装，界面也暂时只有英文版。由于WinFX技术属于下一代微软产品使用的技术，因此，正式安装前会被安装程序引导安装WinFX Runtime Components，并有可能需要重新启动系统。注意，有时候重新启动后，安装程序会在中途报错并退出，只需在桌面点击安装程序生成的快捷方式就可以继续完成安装。
+
+系统要求
+
+Microsoft Max需要使用Microsoft Passport Network账号登录，并在第一次使用某一个Microsoft Passport Network账号登录时，会被要求在电子邮件中确认该账号（同时包含取消该账号使用Microsoft Max资格的超链接）。
+
+登录后，可以从本地图片创建图片共享列表，允许在你的Microsoft Max好友列表上的账号查看这些图片，同时也可以查看对方图片。该软件也可以创建本地的图片相册，并以多种方式显示，并可以放大缩小的三维视觉感受观看，这在微软以前的作品中几乎难以体会。
+

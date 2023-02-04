@@ -1,0 +1,20 @@
+Windows Media Video
+
+WMV（Windows Media Video）是微软公司开发的一组数位影片编解码格式的通称，它是Windows Media架构下的一部分。
+
+它最初是为低速率流媒体应用作为专有编解码开发出来的，但是2003年微软公司基于Windows Media Video第9版编解码起草了视频编解码规范并且提交给SMPTE申请作为标准。这个标准在2006年3月作为SMPTE 421M被正式批准，这样Windows Media Video 9编解码就不再是一个专有的技术。早期的编解码版本（7和8）仍然被认为是专有技术，因为它们不在SMPTE 421M标准的涵盖范围内。
+
+WMV不是仅仅基于微软公司的自有技术开发的。从第七版（WMV1）开始，微软公司开始使用它自己非标准MPEG-4 Part 2。但是，由于WMV第九版已经是SMPTE的一个独立标准（421M，也称为VC-1），有理由相信WMV的发展已经不像MPEG-4那样是一个它自己专有的编解码技术。现在VC-1专利共享的企业有16家（2006年4月），微软公司也是MPEG-4 AVC/H.264专利共享企业中的一家。
+
+WMV可以使用如MPlayer或者Windows Media Player这样的播放器播放，Windows Media Player只能在微软视窗和Macintosh系统上使用。有许多用于如Linux这样不同平台上的使用FFmpeg实现WMV编解码的第三方播放器。
+
+视频流通常与Windows Media Audio音频流组合在一起并且使用扩展名为.wmv或者.asf的Advanced Streaming Format的文件进行封装。WMV通常使用Advanced Streaming Format（ASF）封装，它也可以使用AVI或者Matroska格式封装。如果是AVI封装的文件结果文件可以是.avi，如果是ASF封装的话则是.wmv或者.asf，如果是MKV封装的话则是.mkv。
+
+当使用VirtualDub编码器编码和WMV9 VCM编解码实现的时候WMV可以存储在AVI文件中。用于Mac的微软公司媒体播放器不支持所有的WMV编码的文件，因为它只支持ASF文件封装，Flip4Mac和QuickTime或者用于MacOSX的MPlayer可以播放更多的文件。
+
+当使用ASF文件格式封装的时候，WMV能够支持用于保护知识产权的数字版权管理（DRM）工具。
+
+
+The WMV Format can contain a range of video types. 
+
+

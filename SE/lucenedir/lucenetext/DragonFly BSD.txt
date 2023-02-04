@@ -1,0 +1,19 @@
+DragonFly BSD
+
+DragonFly BSD是一套开放原始码的类Unix作业系统，自FreeBSD 4.8分支。
+
+由于FreeBSD开发组将于FreeBSD 4.11后不再推出新的4系列版本（仅做安全性更新），而新的FreeBSD 5系列初期又有效能及稳定性等等的质疑，因此Matt Dillon在2003年六月另外成立分支计划，并于同年七月时于FreeBSD的邮件讨论群组上公布。
+
+Dillon当时认为FreeBSD 5所使用的Threading与SMP架构将会使得系统难以维护，但不被FreeBSD的发展团队接受，于是决定自行发展分支。即便如此，DragonFly BSD的发展团队仍与FreeBSD密切合作，双方仍然经常互相帮助对方修正bug，以及驱动程式的更新。
+
+虽然DragonFly BSD在逻辑上是FreeBSD 4.x系列的后继，但DragonFly BSD与FreeBSD已有显著的差异。例如DragonFly BSD包含了新的的实现、轻量级的ports/messaging系统和含有丰富功能的文件系统。DragonFly计划采纳的方案中有许多来自AmigaOS操作系统。
+
+DragonFly BSD初期打算改写FreeBSD 4中的几个子系统，包括了Cache、I/O架构、Messaging、Threading、User API及VFS架构。
+
+DragonFly BSD自FreeBSD 4.8分支后引入了许多FreeBSD 4与5的新功能以及修正，像是FreeBSD 4所发展的ACPI及新的ATA驱动程式。由于初期DragonFly BSD的发展人数不多，而且大多都集中精力在基本架构的修改，所以周边驱动程式大多都是从FreeBSD 5取得。
+
+如同OpenBSD，DragonFly BSD的维护者将C语言程式码中"K&R" style换成ANSI style。另外DragonFly BSD的GCC（GNU Compiler Collection）也引入了OpenBSD所特有的「Stack-Smashing Protector」（之前被称为「ProPolice」），提供对于buffer overflow攻击额外的保护，并预设开启使用。不过在2005年7月23日时，核心预设不使用此功能进行编译。
+
+如同其他大多数的BSD，DragonFly以BSD许可证授权方式释出。
+
+

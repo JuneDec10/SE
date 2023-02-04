@@ -1,0 +1,6 @@
+Turion 64
+
+是AMD公司的64位流动平台处理器，其中文官方名称为「炫龙」，与英特尔的同类产品Pentium M及其继承者Intel Core竞争。该处理器使用Socket 754插座，拥有512KB或1MB的L2快取，内建64位单通道记忆体控制器，以及单向800MHz、双向1600Mhz的HyperTransport传输速度。另外，第二代的Turion 64 X2及其他AMD移动型处理器使用新的Socket S1插座，已于2006年推出。2008年推出Turion 64 Ultra。从2009年开始，中文官方名称改为「锐龙」（与2017年3月发售的中文名为“锐龙”的AMD Ryzen并无关系），并推出Turion Ⅱ和Turion Neo。
+
+
+

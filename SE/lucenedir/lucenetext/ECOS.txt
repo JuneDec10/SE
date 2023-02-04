@@ -1,0 +1,12 @@
+ECOS
+
+eCos（embedded configurable operating system）是一个在1997年由Cygnus Solutions Inc.开发的小型开放原始码实时操作系统。后来该公司被Redhat收购。在2002年的早些时候，Redhat停止了eCos开发，并解散了开发队伍。很多原开发者继续开发eCos，并且成立了他们自己的公司来为该软件提供服务。迫于开发者的要求，Redhat在2004年一月份将eCos的版权转移给了自由软件基金会，并于2008年5月份最终完成了版权转移。
+
+此系统和嵌入式Linux系统的差异是它采用静态链接(static library)的方式，最低编译核心可小至10K的级别，适合用于做bootloader增强，或者用于构建微小型系统。
+eCos的发行版还包括RedBoot，一个开放原始码的应用程序。它使用硬件抽象层提供嵌入式系统的启动固件。
+
+除了自由版本以外，eCos还有一个称为eCosPro的商业版本。它是eCos的一个商业分支，由eCosCentric开发，并包含有私有组件。它是稳定并经过测试和认证的版本。在2017年，2017, eCosCentric发布了对于全部树莓派单板计算机的eCos移植，并同时发布了这些移植的自由版本。
+
+eCos可以在一系列平台上运行，包括如下架构：
+
+

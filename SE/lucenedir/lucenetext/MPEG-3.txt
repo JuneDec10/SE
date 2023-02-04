@@ -1,0 +1,5 @@
+MPEG-3
+
+MPEG-3是MPEG组织制定的视频和音频压缩标准。本来的目标是为HDTV提供20-40Mbps视频压缩技术。在标准制定的过程中，委员会很快发现MPEG-2技术足以取得类似的效果，因此将其合并到MPEG-2，成为MPEG-2的延伸。目前用于HDTV广播的MPEG-2比特率约14Mbps（美制HDTV上限为19.5Mbps），而一般DVD最高只有9.6Mbps。
+
+MPEG-3并非等于MP3。MP3是MPEG-1音频Layer 3部分。

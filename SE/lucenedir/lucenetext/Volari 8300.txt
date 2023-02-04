@@ -1,0 +1,7 @@
+Volari 8300
+
+Volari 8300是一种PCI-ELow Profile显示卡，由XGI设计。自前一代Volari V系列AGP显示卡惨淡收场后，XGI索性苦修一年，直接推出原生PCI-E显示卡。本作不以效能出名，而是靠其优秀的视讯播放质素。
+最**eXtreme Cache -- 与nVidia TurboCache及ATi HyperMemory技术类似，透过PCI-E介面借用系统记忆体，作为显视记忆体。这是动态借用的，。当执行2D程序时，便会释放借用了的系统记忆体。
+
+Volair 8300 Mobile是Volair 8300的流动版本。架构与Volair 8300没有分别，只是核心运作电压较低，减少消耗电池。它亦会采用nVidia提倡的MXM绘图接口，手提电脑可以简单地过渡使用 Volair 8300 Mobile，而不需重新设计基板，减少研发时间。
+

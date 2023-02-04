@@ -1,0 +1,88 @@
+Microsoft Visual Studio
+
+Microsoft Visual Studio（简称VS或MSVS）是微软公司的开发工具套件系列产品。VS是一个基本完整的开发工具集，它包括了整个软件生命周期中所需要的大部分工具，如UML工具、代码管控工具、集成开发环境（IDE）等等。所写的目标代码适用于微软支持的所有平台，包括Microsoft Windows、Windows Phone、Windows CE、.NET Framework、.NET Compact Framework和Microsoft Silverlight。
+
+而Visual Studio .NET是用于快速生成企业级ASP.NET Web应用程序和高性能桌面应用程序的工具。Visual Studio包含基于组件的开发工具（如Visual C#、Visual J#、Visual Basic和Visual C++），以及许多用于简化基于小组的解决方案的设计、开发和部署的其他技术。
+
+Microsoft Visual Studio 有以下几个版本：
+
+
+
+
+为第一代Visual Studio，于1997年推出。它包含当时大部份由微软推出的程式设计工具，包括Visual Basic 5.0、Visual C++ 5.0（主要用作视窗程式设计）、Visual J++ 1.1（用作Java及视窗程式设计）及Visual FoxPro（用作xBase设计）。它亦加入当时全新的Visual InterDev，使用ASP动态制作网站。
+
+Visual Studio 97是Microsoft第一次尝试对于多种语言使用同一种开发环境。Visual J++、InterDev、和MSDN Library全都使用同一个环境，名为Developer Studio。Visual C++和Visual Basic则是分开的，和Visual FoxPro相似。
+
+接下来的版本6.0在1998年6月发行，最后一个运行在Win9x机器上的版本。所有部件的版号，包括Visual J++ 1.1及Visual InterDev1.0都归到6.0。当微软集中.NET框架开发时，Visual Studio 6.0是微软开发系统这4年中的基础。
+
+支援.Net FrameWork 1.0。
+微软在2002年发行了代号为“Rainier”的Visual Studio .NET（2001年在MSDN上发行过测试版）。其最大的改进就是使用.NET框架引入了受控代码开发环境。使用.NET开发的程序并不会像C++那样被编译为机器语言，而是被编译成一种叫做微软中间语言（MSIL）或者通用中间语言（CIL）的格式。当一个MSIL应用程序被执行的时候，它会被即时编译成适用于所运行平台的机器语言，这样就使代码可以跨平台运行。被编译成MSIL的程序只能运行在安装了通用语言架构（CLI）的平台上，而一些非微软.NET的环境，如Mono和DotGNU使得在Linux和Mac OS X上运行MSIL程序成为可能。
+
+这是第一个必须运行于基于Windows NT的Windows平台上的Visual Studio版本，其安装程序强化了这种需求。微软引入了一种被称为C#的新的编程语言，目标是.NET。它还引入了Visual J#作为Visual J++的继任者。Visual J#程序使用Java的语法，但是与Visual J++程序不同，Visual J#只能以.NET Framework为目标，而不是像其他Java工具那样以Java虚拟机为目标。
+
+Visual Basic被彻底地改变以适应新的框架，其新版被称为Visual Basic .NET。微软还为C++添加了C++托管扩展，这样C++程序员就可以创建.NET程序了。
+
+Visual Studio .NET可以被用来开发Windows应用程序（使用Windows Forms，.NET框架的一部分）、Web应用程序（使用ASP.NET和Web服务）以及移动设备（使用.NET Compact Framework）。
+
+Visual Studio .NET把除了Visual FoxPro以外的所有语言整合进了一个开发环境。与以前的Visual Studio相比，它的界面更简洁，集成性更好。
+
+在这个版本里，Visual FoxPro仍然没有被捆绑进来，而是单独销售。
+
+Visual Studio .NET的内部版本号是7.0，微软在2005年3月发布了Visual Studio .NET 2002 SP1。
+
+支援.NetFrameWork 1.1。
+2003年，微软发布了Visual Studio .NET的一个较小的升级版，称作Visual Studio .NET 2003，代号为“Everett”。它包含.NET框架的升级版.NET框架1.1，以及为使用ASP.NET或.NET Compact Framework来开发移动设备程序提供了内置支持。同时，Visual C++编译器也更加标准化，特别是在模版偏特化方面。Visual C++ Toolkit 2003是一个与Visual Studio .NET 2003自带的C++编译器相同的无IDE的免费版本，它现在已经被Express Editions代替。
+
+Visual Studio 2003发行了4种版本：学院版（Academic）、专业版（Pro）、企业开发版（Enterprise Developer）、企业架构版（Enterprise Architect
+）。企业架构版包含了Microsoft Visio的模型技术，可以创建应用程序架构的基于统一建模语言的可视化表现。新增的“企业模板”也可以帮助大型开发团队标准化代码风格以及强化组件使用和属性设置的策略。
+
+微软在2006年9月13日发布了Visual Studio 2003的Service Pack 1。
+
+Visual Studio .NET 2003的内部版本号是7.1，但文件格式版本是8.0。
+
+Visual Studio .NET 2003 SP1发布于2006年9月13日。
+
+Visual Studio 2005, 代号Whidbey。
+支援.NetFramework 2.0。
+微软在2006年年初公布了Visual Studio的免费版本Visual Studio 2005 Express。包含常会使用到的Visual Basic 2005 Express。相关技术支援资讯请参阅Microsoft MSDN，或是Visual Studio 2005的中文网站 。
+
+Visual Studio 2005 SP1发布于2006年12月14日，该安装包安装过程很长（约需要1至2个小时），安装过程中需要临时存储空间较大（约1GB）。
+
+Visual Studio 2005 SP1 Update for Windows Vista发布于2007年6月3日，安装前仍需要安装Visual Studio 2005 SP1。本次更新用于处理Visual Studio中受Windows Vista增强功能所影响的领域。
+
+微软在2008年2月1日上市。支援.NET Framework 2.0/3.0/3.5。Visual Studio 2008总计新增了逾250个新功能。
+
+Visual Studio 2008 SP1发布于2008年8月11日，同时更新.NET Framework至3.5 SP1。
+
+ Visual Studio 2010，代号为"Hawaii"，已于2010年4月12日上市。一个社区技术预览（CTP）版的Visual Studio 2010以一个包含Windows Server 2008操作系统的预装虚拟硬盘的形式发布。2009年5月18日，Visual Studio 2010 Beta 1发布给Microsoft developer network用户，而后在2009年5月20日向公众开放。此测试版是可安装的，不像上述的CTP版本是内置于一个虚拟硬盘的。
+
+微软称Visual Studio 2010集成开发环境（IDE）的界面被重新设计和组织，变得更加清晰和简单。新的IDE更好的支持了多文档窗口以及浮动工具窗，并且对于多显示器的支持也有所增强。IDE的外壳使用WPF重写，内部使用重新设计，以提供比先前版本更好的扩展性。新的多重编程范式ML变体F#语言将会成为Visual Studio 2010的一部分，同时增加的还有文本模型化语言M，以及可视化模型设计器"Quadrant"，这些都是微软Oslo发展的一部分。
+
+Visual Studio 2010将会带来.NET Framework 4.0并且支持开发面向Windows 7的应用程序。除了Microsoft SQL Server，它还将会支持IBM DB2和Oracle数据库（详情参见IBM.com和TeamFuze.net）。它将具有内置的Microsoft Silverlight开发支持，包含一个交互设计器。Visual Studio 2010将会提供一些工具来使并行计算更加简单：除了.NET Framework的本地代码并行扩展以及并行模式库（Parallel Patterns Library），Visual Studio 2010还包含了用于调试并行程序的工具。这些新工具使并行任务以及它们的运行时堆栈可视化。这些工具可以用来可视化线程等待时间以及线程在多核心之间的移动。
+
+Visual Studio 2010代码编辑器现在支持高亮引用；当一个符号被选择时，所有对于这个符号的引用都会被高亮。它还提供了一个"快速查找"特性来增量查找所有在C++、C#以及VB.NET工程中的符号。快速查找支持子串匹配以及驼峰式大小写查找。"调用继承树"（Call Hierarchy）特性允许开发者查看所有被当前方法调用的方法，以及所有调用当前方法的方法。Visual Studio的IntelliSense支持一个"consume-first"模式，在这种模式下，IntelliSense不会自动完成标识符，这就允许开发者使用未定义的标识符（如变量或方法名）并在以后来定义它们。Visual Studio 2010还可以在能够通过它们的使用情况来识别出其类型的时候自动定义他们。
+
+Visual Studio Team System 2010，代号为"Rosario"，被定位为用于应用程序生命周期管理。它将包括新的建模工具，包含可以图形化显示工程和类，以及它们之间关系的架构浏览器。它支持UML活动图、组件图、（逻辑）类图、序列图以及用例图。Visual Studio Team System 2010还包括测试影响分析（Test Impact Analysis），它可以在不实际运行测试用例的情况下，对于源代码的修改会影响那些测试用例给出建议。影响分析提供线索的测试案例的影响，修改的源代码，但实际运行的测试案例。由于避免了运行不需要的测试用例，测试的速度会有所提高。Visual Studio Team System 2010还包括一个历史调试器。与目前只记录当前活动栈的调试器不同，历史调试器的历史记录所有的活动，包括之前的函数调用、方法参数、事件、异常等。这允许执行代码回退到错误发生的地点，即使没有设置断点。历史调试将导致应用程序运行速度比目前的调试器慢，并且将使用更多的内存用于记录额外的数据。微软允许配置应记录多少数据，实际上允许开发人员来平衡执行的速度和资源的使用。Visual Studio Team System 2010的实验室管理组件使用虚拟化技术来为测试者和开发人员创建一个类似的执行环境。这些虚拟机使用检查点来标记，这些检查点可以在以后用来检查问题，并且可以重现问题。Visual Studio Team System 2010还包括记录测试运行的能力，可以记录操作环境的特定状态以及运行测试的必要步骤。这些步骤可以回放来重现问题。
+
+在推出了若干测试版本后，微软于2012年8月2日正式发布Visual Studio 2012。这一版本整合了Windows 8的开发。微软重新设计了界面，以更好地配合Metro。同时，新的HTML和CSS编辑器更好地支持HTML5与CSS3。
+
+微软于2013年10月17日正式发布Visual Studio 2013。包括Ultimate、Premium、Professional、Test Professional、Team Foundation Server等版本。
+
+预览版的Visual Studio 2013在 2013 年会上被宣布，并于当年6月26日发布。Visual Studio 2013 RC（预发布版（Release Candidate））于当年9月9日在MSDN上面向开发者提供下载。
+
+正式版的Visual Studio 2013于2013年10月17日携手.NET 4.5.1一同发布。Visual Studio 2013官方 于当年11月13日在由S. Somasegar主办，承办的预发布活动中宣布“Visual Studio 2013 Update 1”（Visual Studio 2013.1）将在2014年1月20日发布。Visual Studio 2013.1旨在更新一些客户反馈中较为关键的部分。“Visual Studio 2013 Update 2”（Visual Studio 2013.2）将在2014年5月12日发布。Visual Studio 2013 Update 3于2014年8月4日发布。随之而来的将是，Visual Studio允许禁用在VS2012中引入的全大写菜单（the all-caps menus）。
+
+Visual Studio Community 2013于2014年11月12日发布。提供与Professional版本相同的功能以及用于教育、学术研究、开放性原始码贡献的个人及小团队免费授权。
+
+Visual Studio 2013增强了滚动条的显示功能。默认打开滚动条的标记（annotation），即彩色小标块（marker）以提示源代码中的各类信息：
+滚动条也可以改用预览模式代替传统的滑块（bar）模式。这使得滚动条的外观是当前源文件的缩略图；当滚动时，一个小窗口浮现并显示对应位置的代码，使得用户可以快速定位。定制滚动条的功能时，可以鼠标右键点击滚动条，然后选择“Scroll Bar Operations...”。
+
+Visual Studio "14"的第一个社区技术预览版（CTP）于 2014年6月3日被公布。其第二个社区技术预览版于2014年7月8日被公布。第三个社区技术预览版在2014年8月18日发布。Visual Studio 2015这个名称官方公布于2014年11月12日。最终测试版（Release Candidate）发布于2015年4月29日。
+
+Visual Studio 2015正式版（RTM）发布与2015年7月20日。
+Visual Studio 2015 Update 1 发布于2015年11月30日。
+Visual Studio 2015 Update 2 发布于2016年3月30日。
+Visual Studio 2015 Update 3 发布于2016年6月27日。
+
+Visual Studio 2017最初称作Visual Studio "15"，其Preview发布于2016年3月30日。Visual Studio 2017 RC版于2016年11月16日发布。
+

@@ -1,0 +1,18 @@
+Apache Tomcat
+
+Tomcat是由Apache软件基金会属下Jakarta项目开发的Servlet容器，按照Sun Microsystems提供的技术规范，实现了对Servlet和JavaServer Page（JSP）的支持，并提供了作为Web服务器的一些特有功能，如Tomcat管理和控制平台、安全域管理和Tomcat阀等。由于Tomcat本身也内含了HTTP服务器，因此也可以视作单独的Web服务器。但是，不能将Tomcat和Apache HTTP服务器混淆，Apache HTTP服务器是用C语言实现的HTTPWeb服务器；这两个HTTP web server不是捆绑在一起的。Apache Tomcat包含了配置管理工具，也可以通过编辑XML格式的配置文件来进行配置。
+
+Tomcat提供了一个Jasper编译器用以将JSP编译成对应的Servlet。
+
+Tomcat的Servlet引擎通常与Apache或者其他Web服务器一起工作。除了用于开发过程中的调试以及那些对速度和事务处理只有很小要求的用户，很少会将Tomcat单独作为Web服务器。但随着版本的更新，正有越来越多的用户将其单独作为Web服务器用以那些对速度和可靠性有较高要求的环境中。
+
+和其他Apache软件基金会旗下的项目一样，Tomcat是由该基金会的会员和其他志愿者开发与维护的，并且是一个被置于Apache协议之下的开源软件。用户可以根据该协议免费获得其源代码及可执行文件。最初被发布出来的版本是Tomcat 3.0.x。
+
+
+
+
+
+
+最新版的tomcat
+
+

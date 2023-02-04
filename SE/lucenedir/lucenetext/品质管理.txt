@@ -1,0 +1,10 @@
+品质管理
+
+品质管理（Quality management）是指为保障、改善制品的品质标准所进行的各种管理活动。其非仅包括在制品的制造现场所进行的品质检查，还包括在非生产部门为提高业务的执行品质而所进行综合性的品质管理。
+
+品质管理可以使品质成本由20%降至2.5%，品质成本包含预防成本、鉴定成本、内在成本、外在成本等，透过品质管理活动，虽然增加了预防性支出，但是可以减少检测等鉴定费用与相关失效改善之内外支出，即产品于设计阶段将可靠度设计植入（design in）是必要，且有利于企业经营。
+
+全面品质管理（TQM, total quality management）是从企业业务的全流程中都进行品质管理，由美国品质管理大师戴明发明。
+
+汽车业中常使用的5大品质管理手册为：SPC (Statistic process control), APQP (Advanced product quality plan), MSA (Measurement system analysis), PPAP（生产件批准程序，Production part approval process), FMEA (Failure mode effective analysis)。
+

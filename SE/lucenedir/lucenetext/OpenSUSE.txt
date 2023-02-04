@@ -1,0 +1,45 @@
+OpenSUSE
+
+openSUSE（），前身为SUSE Linux和SuSE Linux Professional，是一个Linux发行版与项目，由SUSE Linux GmBH与其他公司赞助。openSUSE在全世界被广泛使用，尤其是在德国。它的开发重心是为软体开发者和系统管理者创造适用的开放原始码的工具，并提供易于使用的桌面环境和功能丰富的伺服器环境。openSUSE针对桌面环境进行了一系列的优化，是一个对Linux新手较为友好的Linux发行版。
+
+openSUSE释出的第一个版本是一个SUSE Linux 10.0的测试版。目前的稳定版本是openSUSE Leap 15。该社区项目提供了一个名为openSUSE Tumbleweed的滚动版本，该版本不断更新，并通过经过测试的稳定软件包进行更新。更新的机制基于名为“Factory”（工厂）的滚动开发代码库。与openSUSE项目相关的其他工具和应用程序包括YaST、Open Build Service、openQA、Snapper、Machinery、Portus 和 Kiwi 等。
+
+2003年11月4日，Novell以2.1亿美元收购SuSE Linux AG后创建了openSUSE。2011年，The Attachmate Group收购Novell，并将Novell和SUSE拆分为两家独立的子公司。2014年11月，The Attachmate Group与Micro Focus合并，但SUSE仍是其业务部门。
+
+openSUSE Project由SUSE公司赞助，开发和维护著SUSE Linux发行版部件。openSUSE是SUSE Linux Professional的接替者。
+
+除linux发行版以外，openSUSE项目还提供了一个网站供社区成员参与开发。社区成员可以通过openSUSE的开放式编译服务（the Open Build Service）参与openSUSE的协作开发、文档撰写以及美工设计，通过邮件列表或IRC参与开发讨论。社区成员也可参与openSUSE网站的wiki建设以提升网站的质量。
+
+openSUSE通过其openSUSE Leap版本提供了一个稳定的基石版本。喜欢追逐新版本自由软件的用户可以使用其滚动发布版本Tumbleweed。 用户也可以使用其开放构建服务（OBS，Open Build Service），参与openSUSE的软件开发。此外，openSUSE的灵活性使得为特定目标（例如运行Web或邮件服务器）重新调整系统功能变得容易。
+
+像大多数Linux发行版一样，openSUSE包括一个默认的图形用户界面（GUI）和一个可选的命令行界面。openSUSE 的用户可以选择几种桌面环境 GUI，包括GNOME、KDE、Cinnamon、MATE、LXQt、Xfce。 openSUSE 提供了数千个自由软件包或免费软件包的支持。
+
+继openSUSE 13.2之后的新版本为openSUSE Leap 42.1，从这一个版本开始命名规则和产品开发模式都进行了重大的改变。openSUSE Leap开始直接使用SLE（SUSE Linux Enterprise）的源代码，而openSUSE Leap 42.1几乎就是SLE 12 SP1。openSUSE Leap 42.3之后命名规则又发生了改变，Leap 42的下一个大版本号为Leap 15。
+
+YaST（Yet another Setup Tool，“另一种安装工具”）是 openSUSE 的重要特性之一。它能让系统管理员在集成界面内处理包括磁盘分区、系统安装、网络与防火墙配置、RPM软件包管理、在线更新、用户管理等诸多功能。
+
+YaST还包括一些其他的重要功能分支。
+
+AutoYaST 是 YaST2 的一部分，用于自动安装。安装配置将存储在一个XML文件中，以配置没有交互下的自动安装。
+
+ 是 YaST 的网页界面版本。它可以配置所运行的 openSUSE 系统的设置和更新。它也可以关闭并检查系统主机的状态。
+
+ZYpp（或libzypp）是一个Linux软件管理引擎，它具有强大的依赖解析器和便捷的包管理API。
+
+开放构建服务为软件开发人员提供了用于编译、发布软件的工具，它已被用于许多发行版系统，包括Mandriva、Ubuntu、Fedora、Debian和Archlinux等。 它通常能够有效简化打包过程，因此开发人员可以更轻松地为许多发行版以及许多 openSUSE 发行版打包单个程序，使得无论用户使用何种分发版本都可以安装并使用。它是在GNU GPLv2+协议下发布的。
+
+默认情况下，OpenSUSE在更新安装时使用 （增量 RPM）。 Delta RPM 包含软件包的旧版本和新版本之间的区别。这意味着只需要下载已安装软件包和新软件包之间的更改。这减少了带宽消耗和更新时间，对慢速 Internet 连接尤为重要。
+
+2006年1月2日，SUSE开发人员David Reveman 发布了一种X服务器体系结构 Xgl，旨在通过OpenGL驱动程序利用现代显卡，并通过 glitz 在 OpenGL 上进行分层。 Compiz 是X Window系统的首批合成窗口管理器之一，它也发布了可以利用这种OpenGL加速功能的版本。
+
+SUSE多年来一直是KDE项目的主要贡献者。 SUSE在这方面的贡献非常广泛，影响着KDE的许多部分，如 kdelibs 和 KDEBase，Kontact 和 kdenetwork。 其他值得注意的项目包括：KNetworkManager——NetworkManager的前端和Kickoff——KDE Plasma Desktop的新 K 菜单。
+
+当 Ximian 集团成为 Novell 的一部分后，它通过F-Spot，Evolution和Banshee等应用程序继续为 GNOME 做出了一些贡献。 从openSUSE 10.2到openSUSE 11.4，它的GNOME桌面使用 "slab" 而不是经典的双面 GNOME 菜单栏。在openSUSE 12.1中，"slab"被上游的GNOME Shell和GNOME Fallback设计所取代。12.2版本中，最新的GNOME Shell支持被包含在内，并且支持在没有3D硬体的老笔电、虚拟机上开启3D效果。
+
+
+openSUSE 项目一般每8个月发布一个新版本。自11.2版以来，为两个版本提供的关键更新额外延长了两个月，从而导致了18个月的支持期。
+
+从版本12.1开始，为了增加可预测性并防止人们认为.0版本更为重要，openSUSE版本方案进行了修改。所有11月份发布的版本都为.1，所有七月份发布的版本都为.2，所有三月份发布的版本都为.3。每隔两年，当另一个.1版本发布时，主要版本号就会出现。从版本Leap 42.1（在版本13.2之后）开始，每个主要版本预计至少可支持36个月，直到下一个主要版本（例如43.1）与SUSE Linux Enterprise版本一致为止。每个次要版本（例如42.1,42.2等）预计将每年发布一次，与SUSE Linux Enterprise 服务包（Service Pack）一致。用户被要求在它可用周期的6个月内升级到最新的小版本，从而产生类似的支持18个月的生命周期。Evergreen（常青）版本是一个社区提供支持的延长维护版本，能够在选定的 openSUSE 版本达到官方周期后延长其支持周期。
+
+
+

@@ -1,0 +1,4 @@
+Forté Agent
+
+Forté Agent是一款流行于Windows系统平台上的Usenet客户端。该软件从1990年代中期开始一直流行至今，Forté是第一款真正易于使用的Usenet客户端。无论如何，近几年该软件的使用人数由于其他同类型产品的竞争而有所缩减，特别是Microsoft Windows系统上绑定的Outlook Express对其威胁最大。但是，对于那些乐于下载并解码大量二进制文件的用户，类似Forté Agent这样高性能的软件要比Outlook Express好。
+

@@ -1,0 +1,5 @@
+UltraEdit
+
+UltraEdit（原名UltraEdit-32）是跨平台的一套商业性文字编辑器，由IDM Computer Solutions在1994年创造。UltraEdit有很强大的编程功能，支持巨集、语法高亮度显示和正则表达式等功能。档案在标签中可以被浏览和编辑。安装需要约30 MB的磁碟空间。UltraEdit也支援以Unicode和hex编辑的模式。官方网站提供30天试用版本的软体下载。
+
+

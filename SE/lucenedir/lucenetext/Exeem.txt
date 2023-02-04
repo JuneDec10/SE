@@ -1,0 +1,14 @@
+Exeem
+
+eXeem是个全新的点对点（P2P）档案分享客户端，大致上（但不完全是）是以 BitTorrent通讯协定为基础。eXeem是设计用来代替需要中央追踪伺服器（tracker）的需求。tracker是BitTorrent网路中参与中继资料传输的伺服器。eXeem在许多著名的tracker因被美国电影协会于2004年12月的法律行动而被迫关闭的情况下，对档案分享社群更显得重要。
+
+"eXeem"是位于圣克里斯多福及尼维斯（加勒比海国家）的Swarm Systems Inc.公司所创。该公司雇用了创立Suprnova.org的Sloncek为eXeem的发言人和代表。五千位 Suprnova.org使用者被邀请参加eXeem的测试，而后2005年1月21日eXeem放出了「public beta」（公共测试版）。
+
+大家公认eXeem应有的功能（但不一定有）：
+
+确认有的功能：
+
+eXeem在首次出现后，就开始出现许多批评，如：
+
+
+

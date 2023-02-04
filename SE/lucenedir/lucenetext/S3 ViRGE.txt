@@ -1,0 +1,5 @@
+S3 ViRGE
+
+ViRGE，全称为"Video and Rendering Graphics Engine"（视讯描写图形引擎），是第一代电脑的2D／3D加速卡，于1995年由S3公司推出。ViRGE为2D及DRAM帧缓冲显示卡带来了新标准，而一个循环的EDO计时使得当时的ViRGE/325成为了最高评分的DRAM基础2D加速卡。但在3D加速方面，ViRGE使不少用家感到失望。
+
+

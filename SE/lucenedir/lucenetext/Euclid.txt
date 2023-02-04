@@ -1,0 +1,6 @@
+Euclid
+
+Euclid，是一套电脑辅助设计软体，由法国马特拉集团子公司马特拉资料视觉于1980年代所开发。1996年，马特拉发表在CAS.CADE平台开发的新一代软体EUCLID QUANTUM。1998年，马特拉资料视觉转型为软体服务供应商，而QUANTUM系统软体，包括Euclid Styler与Euclid Machinist等，则由达棱系统公司并购。
+
+1999年，马特拉资料视觉将CAS.CADE公开成为开源软体Open CASCADE。
+

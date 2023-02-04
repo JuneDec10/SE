@@ -1,0 +1,5 @@
+Unihan (消歧义)
+
+Unihan 通常指中日韩统一表意文字，缩写自英文Han Unification。
+
+Unihan 也可以指：

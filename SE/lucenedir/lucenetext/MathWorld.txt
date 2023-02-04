@@ -1,0 +1,12 @@
+MathWorld
+
+MathWorld是线上数学百科全书，由沃夫朗研究公司（Wolfram Research inc.，WRI）赞助和享有版权，大部分由 Eric W. Weisstein 创建和编写。沃夫朗研究公司即是全球闻名的数学软件Mathematica的生产商。MathWorld亦有接受美国国家科学基金会的承认的伊利诺大学厄巴纳-香槟分校支持。
+
+埃立克·魏尔斯史甸是该网的作者，原为物理和天文学生，有记录数学笔记的习惯。1995年他将笔记放上网并称之为「Eric's Treasure Trove of Mathematics」。那里有许多文章，包涵了很大范围的数学主题。那时，它誉为网上最好的独立数学资源，很受欢迎。1998年，魏尔斯史甸和 CRC Press 联络，将网站内容出版为书本和CD-ROM，以「CRC Concise Encyclopedia of Mathematics」为题，其时免费网上版本只部分开放。1999年魏尔斯史甸加入WRI，WRI将该网站重新命名为 "MathWorld" 并放在公司网站 http://mathworld.wolfram.com 而且不设访问权限。
+
+2000年，CRC Press控告WRI、WRI主席史蒂芬·沃尔夫勒姆及魏尔斯史甸，因为他们违反合约：MathWorld的内容-{只}-能在纸上出现。MathWorld在诉讼期间暂时关闭。WRI给了CRC Press一笔数目不详的金钱，庭外解决。这个案件在在线出版界引起不小的波浪。
+
+MathWorld的暂时关闭令很多人尝试编写其他免费的网上数学百科全书，例如PlanetMath和维基百科。
+
+某些数学圈子，特别是usenet社群sci.math，对MathWorld的文章质素颇有微言。
+

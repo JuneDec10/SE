@@ -1,0 +1,10 @@
+Xterm
+
+是一个上的标准虚拟终端。用户可以在同一个显示器上开启许多，每一个都为其中运行的进程提供独立的输入输出（一般来说此进程是）。
+
+xterm 最先是Jim Gettys的学生Mark Vandevoorde在1984年夏天为VS100写的独立虚拟终端，当时X的开发才刚刚开始。很快人们就发现它作为X的一部分比作为独立的程序更为有用，于是它开始针对X而开发。Gettys曾讲述过有关的故事 ，“"xterm内部如此恐怖的部分原因，是最初想法把它作为单独进程驱动多个VS100显示窗。"”（""part of why xterm's internals are so horrifying is that it was originally intended that a single process be able to drive multiple VS100 displays.""）
+
+作为X参考实现的一个部分后多年，1996年左右，开发的主干转移至了XFree86（从X11R6.3版本派生出来），现在由Thomas Dickey维护。
+
+有许多xterm变体可用。大多数的X虚拟终端都是从xterm的变体起步的。
+

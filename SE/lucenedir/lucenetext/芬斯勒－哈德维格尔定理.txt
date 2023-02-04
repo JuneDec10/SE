@@ -1,0 +1,4 @@
+芬斯勒－哈德维格尔定理
+
+芬斯勒–哈德维格尔定理（Finsler-Hadwiger Theorem）说明：若两个正方形ABCD和AB'C'D'拥有同一个顶点A。B'D的中点、BD'的中点、ABCD的中心和AB'C'D'的中心将组成一个正方形。
+

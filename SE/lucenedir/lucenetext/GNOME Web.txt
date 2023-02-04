@@ -1,0 +1,6 @@
+GNOME Web
+
+GNOME Web（原名Epiphany）是GNOME桌面下的免费网页浏览器。该浏览器是Galeon的分支，由于Galeon开发者希望以功能齐全为目标，因此在发展方向上出现了分歧。Web意在构建符合GNOME的浏览器，奉行简单唯美的理念。
+
+Epiphany原本使用Gecko排版引擎，2.28版使用WebKitGTK+排版引擎。
+

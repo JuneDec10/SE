@@ -1,0 +1,13 @@
+IChat
+
+iChat是在Mac OS X上兼容AIM与Jabber的用户端，使用类Jabber协议与Bonjour，也允许区域网络通讯。iChat的AIM协议由AOL完整支持，并使用官方的AIM OSCAR协议。使用Jabber传输，iChat使用者可整合他们的MSN与Yahoo联系人至Jabber框架，所以在Mac上几乎只需要一种即时通讯软件就好了。
+
+它支持金属样式界面、使用谈话气球与个人图片以满足在线聊天历程。在iChat，联系人名单的名字旁以绿色（可用）与红色（离开）色点来表示状态。
+
+2003年6月，苹果电脑公告iChat AV Public Beta，一个可以作音讯与视频聊天的新版iChat。它也引入了iSight摄影机，设计用来与iChat AV搭配使用。这些能力基于行业标准，但未广泛地被应用于Webcam与VoIP的SIP。该版本内附于Mac OS X v10.3并同时以29.95美元贩卖给Mac OS X v10.2的使用者。最后苹果电脑终止了iChat AV的独立版本，现在仅能透过购买OS X或新Mac以得到iChat。
+
+2004年2月，美国在线推出了Windows版本的AIM 5.5，此版本允许在AIM协议上作视频（但非语音）交谈，并可兼容iChat AV。同一天，苹果电脑释放iChat AV 2.1 Public Beta，允许Mac OS X使用者可以与AIM 5.5使用者作视频会议。
+
+自OS X Mountain Lion起，iChat被“讯息”程式代替。
+
+

@@ -1,0 +1,12 @@
+NForce 4
+
+nForce 4系列是NVIDIA研发的第四代主机板晶片组，代号为CK 8，首款产品在2004年10月推出，与nForce 3一样是单晶片组，吸取了nForce 3 150对HyperTransport支援不足的经验。nForce 4系列效能比同期的VIA K8T890高，使其成为AMD平台市场占有率最高的晶片组，一洗nForce 3 150效能比VIA K8T800差的颓气。
+
+后期nForce 4系列推出Intel平台的nForce 4 SLI Intel Edition，亦是nVIDIA的首款Intel平台晶片组产品，效能相较同期的Intel自有晶片组为高。
+
+
+
+
+Intel平台的晶片组完全支援Pentium 4和Pentium D，支援双通道DDR2。除了nForce 4 Ultra Intel Edition外更支援SLi，而nForce 4 SLi X16 Intel Edition则可以把Quad SLi的效能完全发挥。nForce 4 SLI XE Intel Edition与nForce 4 SLI Intel Edition的分别是后者不支援硬体防火墙、而且只支援八个USB，但都支援HD Audio。nForce 4 Ultra与nForce 4 SLI XE的分别只是前者不支援SLi而已。
+
+

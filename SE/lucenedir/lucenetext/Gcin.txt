@@ -1,0 +1,40 @@
+Gcin
+
+gcin是一个在类Unix作业系统上运行的中文输入法平台（目前亦有gcin for windows与gcin for android），是目前台湾最常用的输入法平台之一。gcin作者为Edward Liu，是原xcin的开发者之一，gcin开发的目标是取代旧有的xcin，让繁体中文的GNU/Linux使用者在使用中文输入法时能有更多的选择。
+
+目前gcin仍在持续开发中，可从gcin更动纪录查询各版本所新增功能或细节。
+
+2011年12月13日，由于意见上的分歧，部分原gcin社群成员决定独立，自行开发分支版本－HIME。
+
+
+
+如果想在进入X Window时自动启动gcin，可输入以下指令：
+
+注：
+注2：
+如果使用 EEEPC + LXDE包装的版本或其他预设非gcin中文输入软体，<br>
+换装gcin的时候要注意语系是否一致，否则许多软体会有执行不能的情况，<br>
+如 mplayer、realplayer...等。
+
+或是
+im-switch是Debian GNU/Linux为了能让初学者方便入门所开发出来的一个特别套件，只要在安装了im-switch的电脑上稍作设定就能快速设定好中文环境。
+
+gcin支援im-switch，只要将 ~/.xinput.d/default 或是/etc/X11/xinit/xinput.d/default 设定为指向/etc/X11/xinit/xinput.d/gcin 的连结：
+并编辑/etc/environment 如下：
+
+之后重新启动 X Window 即可。
+
+gcin的操作方式和倚天中文相类：
+
+【Ctrl】+【Space】 = 切换成中文输入。
+【Ctrl】+【Shift】 = 在输入法中切换。
+【Shift】+【Space】 = 切换 全形／半形。
+【Ctrl】+【Alt】+【1】 = 输入法快捷键，切换为『仓颉输入法』。
+【Ctrl】+【Alt】+【2】 = 输入法快捷键，切换为『简易输入法』。
+【Shift】+【Alt】+【F】 = 符号快捷键，打出【『】。
+【Shift】+【Alt】+【G】 = 符号快捷键，打出【』】。
+
+其中的输入法快捷键及符号快捷键还有其它不同的组合，使用者可以自行尝试。
+
+使用者可以修改 ~/.gcin/phrase.table 来自订惯用的符号快捷键。
+

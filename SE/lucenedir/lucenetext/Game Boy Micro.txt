@@ -1,0 +1,12 @@
+Game Boy Micro
+
+Game Boy MICRO是任天堂公司于2005年发售的便携式游戏机，是GBA的衍生机型，完全兼容GBA游戏软体。
+
+Game Boy MICRO发售于2005年9月13日，特别为超级玛利欧20周年纪念。性能等同于Game Boy Advance／Game Boy Advance SP，且非常小巧，便于携带。其荧幕缩小至2.0英寸（GBA/SP为2.9英寸），但同时在亮度上大幅度提高并有可调节的背光。
+
+GBM是任天堂采用背光液晶屏幕的Game Boy Advance系列的款式，可做5级的亮度校调。同GBA不可折叠，但其机型亦为系列中最轻巧的。
+
+Game Boy MICRO也是Game Boy Advance系列中唯一不向下相容以前Game Boy和Game Boy Color游戏。只支援GBA游戏，另外连线配件也与Game Boy Advance系列不相容。
+
+
+

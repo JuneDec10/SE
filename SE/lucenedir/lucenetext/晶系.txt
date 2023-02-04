@@ -1,0 +1,6 @@
+晶系
+
+晶体通常可以分为七个不同的晶系，即立方晶系、六方晶系、四方晶系、三方晶系、正交晶系、单斜晶系、三斜晶系。其中的立方晶系具有各向同性，属于高级晶族。
+
+晶系的特征与细分关系如下表: 
+Cornelis Klein, Barbara Dutrow, 2007. Manual of Mineral Science, 23rd Edition

@@ -1,0 +1,8 @@
+JScript
+
+JScript是由微软公司开发的动态脚本语言，是微软对ECMAScript规范的实现。
+
+JScript最初随Internet Explorer 3.0于1996年8月发布。在网络程序员谈论Internet Explorer中的JavaScript的时候，他们实际上是指JScript。和其他活动脚本一样，它后来也被Windows Script Host和Active Server Pages所支持。典型的JScript源文件使用的扩展名是codice_1。
+
+JScript最新的版本是基于尚未定稿的ECMAScript 4.0版规范的JScript .NET，并且可以在微软的.Net环境下编译。JScript在ECMA的规范上增加了许多特性。
+

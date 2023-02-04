@@ -1,0 +1,18 @@
+FreeMind
+
+FreeMind是一款跨平台的、基于GPL协议的自由软件，用Java编写，是一个用来绘制思维导图的软件。其产生的文件格式后缀为.mm 。可用来做笔记，脑图记录，脑力激荡等。
+
+FreeMind 包括了许多让人激动的特性，其中包括扩展性，快捷的一键展开和关闭节点，快速记录思维，多功能的定义格式和快捷键。
+可设置节点文字和背景颜色,形状(叉状/泡状),自动布局,闪烁节点等.
+节点可导出, 并支持多种格式的导出,如HTML,XHTML,OpenOffice Writer, PNG, JPEG,Applet,Flash,SVG,PDF等.
+支持多种语言如中文.
+
+由于 FreeMind 使用 Java 编写，支持使用 Python 编写的扩展插件。另外文件格式是xml的。
+
+
+最新稳定版为：FreeMind 1.0.1 （更新于2014年4月12日）
+
+<div class="http://freemind.sourceforge.net/wiki/index.php/Main_Page">
+http://freemind.sourceforge.net/wiki/index.php/Main_Page
+</div>
+

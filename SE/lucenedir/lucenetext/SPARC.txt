@@ -1,0 +1,8 @@
+SPARC
+
+SPARC，名称源自于可扩充处理器架构（Scalable Processor ARChitecture）的缩写，是一种RISC指令集架构，最早于1985年由升阳电脑所设计，也是SPARC国际公司的注册商标之一。这家公司于1989年成立，其目的是向外界推广SPARC，以及为该架构进行符合性测试。此外该公司为了扩阔SPARC设计的生态系统，SPARC国际也把标准开放，并授权予多间生产商采用，包括德州仪器、Cypress半导体、富士通等。由于SPARC架构也对外完全开放，因此也出现了完全开放原始码的LEON处理器，这款处理器以VHDL语言写成，并采用LGPL授权。
+
+SPARC架构原设计给工作站使用，及后应用在升阳、富士通等制造的大型SMP伺服器上。而升阳开发的Solaris作业系统也是为SPARC设计的系统之一，除Solaris外，NeXTSTEP、Linux、FreeBSD、OpenBSD及NetBSD系统也提供SPARC版本。
+
+现时最新版本的SPARC为第8及第9版，在2005年12月，升阳方面宣布其UltraSPARC T1处理器将采用开放原始码方式。2007年，升阳电脑宣布UltraSPARC T2处理器已经加入OpenSPARC开放原始码计划。
+

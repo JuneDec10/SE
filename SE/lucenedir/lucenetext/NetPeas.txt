@@ -1,0 +1,9 @@
+NetPeas
+
+随著网际网路的盛行，如果能利用全球资讯网及网页程式设计所带来的便利性、即时性、及可程序化，建构一套具严谨匿名特性的网路化同侪互评系统(Networked Peer assessment system，英文简称NetPeas，中文简称网荳，作者们期望能像繁盛的荳苗般散诸于国内外的网路教学；Liu, Chiu, Lin, & Yuan, 1999)，借此增加同侪间的互动与回馈。且其主要考量为，学生们在相互评量的过程中相互观摩、互相学习，以达到较佳的学习效果，且此观点亦与社会学习论(Bandura, 1977) 中的替代学习(vicarious learning) 有异曲同工之处。
+
+1. Bandura, A. (1977). Social learning theory. Englewood Cliffs, NJ:Prentice Hall.
+
+2. Liu E. Z. –F., Chiu C. –H., Lin S. S. –J., & Yuan S. –M. (1999). Student participation in computer science courses via the Networked Peer Assessment System (NetPeas). Advanced Research in Computers and Communications in Education, 2, 744-747.
+
+刘旨峰 (2002)。网路同侪互评的探讨、实施、评估与增进实施品质的建议。实践大学：2002电子商务与数位生活研讨会。（下载网址）（本篇文章的引用已获得当事人的同意，查询电邮：totem@cc.ncu.edu.tw）

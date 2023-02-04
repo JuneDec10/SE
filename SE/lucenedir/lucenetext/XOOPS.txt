@@ -1,0 +1,14 @@
+XOOPS
+
+XOOPS是一种开放原始码的内容管理系统，衍生自PHP-Nuke，采用PHP语言跟MySQL资料库。功能、界面全部模组化设计，可用于建构各种网路社区。
+
+XOOPS的发布采用GPL协议，可免费使用和修改；在遵循GPL相关条款的前提下，可自由再发布。
+
+XOOPS是 eXtensible Object Oriented Portal System 的缩写，按照英语规则，XOOPS应该读作“zoo'ps”。
+
+XOOPS的用途很广泛，对于个人使用者，可以启用XPress-{zh-hans:模块; zh-hant:模组;}-（针对XOOPS的WordPress），作为个人的网志。对于较大规模的网站，可以根据需要，安装更多的-{zh-hans:模块; zh-hant:模组;}-，如新闻发布、论坛、资源下载、友情连结，以及线上购物、广告管理等，对于Wiki、RSS，XOOPS也有相应的-{zh-hans:模块; zh-hant:模组;}-。
+
+在国际语言支持方面，XOOPS有二十种以上的语言版本，包括英文、繁体中文、简体中文，编码可自由选择采用GB 2312、BIG 5或是UTF-8。
+
+
+

@@ -1,0 +1,8 @@
+DAEMON Tools
+
+（即）是在Windows系统上运行、用于制作或虚拟CD/DVD/Blu-ray光碟的软体。其中，DAEMON Tools Ultra是提供制作光碟映像、光碟烧录、虚拟烧录机及挂载映像等进阶实用的功能。DAEMON Tools Lite则是该系列最低阶的产品，但对于个人使用是免费的，并提供使用者额外的付费功能。
+
+
+
+
+

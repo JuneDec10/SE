@@ -1,0 +1,23 @@
+奔腾III
+
+Pentium III是英特尔的x86（更准确地说是P6）架构之微处理器，于1999年2月底推出。刚推出的版本与早期的Pentium II非常相似，最值得注意的不同是SSE指令的扩充，以及在每个晶片制造的过程加入有争议的序号进去。与Pentium II相同，也有低阶的Celeron版本和高阶的Xeon版本。Pentium III最后被Pentium 4所取代，Pentium III的改进设计就是后来的Pentium M。
+
+原先的版本Katmai与Pentium II非常相似（均使用0.25µm制程），唯一的差别是加入SSE，以及改进第一级快取控制器（导致其比Pentium II拥有较好的效能）。首次推出的速度是450和500MHz。另外两个版本是：550 MHz于1999年5月17日推出；600MHz于1999年8月2日推出。在1999年9月27日，Intel推出533B和600B的版本，分别是533/600MHz，但是使用的是133MHz前端汇流排，而先前的是使用100MHz。Katmai使用与Pentium II相同的插座介面。
+
+第二个版本Coppermine整合CPU内的低延迟性全速256KB第二级快取，比Katmai有效能上的进步。在AMD Athlon处理器的竞争压力下，Intel重作晶片内部的设计，最后修正了广知的指令管线拖延问题。这个结果是使处理指令的效能增加了卓越的30%。
+
+它使用0.18µm制程制造。Pentium III Coppermine执行速度为500、533、550、600、650、667、700和733MHz，于1999年10月25日推出。从1999年12月到2000年5月，英特尔共推出了速度为750、800、850、866、900、933、1000MHz (1GHz)的Pentium III。
+
+1.13GHz的版本于2000年中期推出，但是在普遍的硬体评论网站证明他在编译Linux时候不够稳定，因而回收。这个问题是由于整合到内部的快取无法在1GHz以上的速度运作。英特尔花费至少6个月来解决这个问题，于2001年推出1.1和1.13GHz的版本。
+
+FC-PGA2封装的Coppermine CPU针脚与Tualatin相同，因此无法与FC-PGA主机板相容。
+
+第三个版本Tualatin只是实际上英特尔的0.13μm制程试验。Tualatin运行得相当好，512KB L2快取的Tualatin性能在大多数软件中都可以超过主频高得多的Willamette核心奔腾4，最终Intel把512KB的Tualatin改为Pentium III-S，不对大众用户销售，以避免影响奔腾4的销售。Pentium III-S主要是给那些功率消耗有关的机器，也就是刀锋伺服器。
+
+Pentium III Tualatin是在2001年至2002年早期之间所推出，速度分别为1.0、1.13、1.2、1.26、1.33和1.4 GHz。Intel不想重蹈先前低价的Celeron能与更贵的Pentium II相抗衡的覆辙，因此Tualatin从来没有更快于1.4 GHz，也就是Pentium 4刚推出的时脉频率，已经设计好的512KB二级缓存Tualatin也改为专供服务器领域使用的“Pentium III-S”。后来，Pentium M证明了这个设计很好，可以在0.13 μm到达1.7GHz。
+
+Tualatin核心是以俄勒冈地区的Tualatin谷和Tualatin河来命名。
+
+
+
+

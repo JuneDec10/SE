@@ -1,0 +1,23 @@
+FidoNet
+
+FidoNet，中译为「惠多网」，是美国加利福尼亚州旧金山人Tom Jennings于1984年创立其协定（Protocol）支援站际通讯功能，解决了 BBS 各站之间无法往来的问题，促使 BBS 网路化，在 Internet 尚未普及之前，FidoNet 是世界上最为著名使用人数最多的网路系统。据说Fido一词的来源是Tom Jennings爱犬的名字。
+
+站点列表（NodeList）
+
+洲区邮递小时（ZMH）
+
+FidoNet自上而下分为洲区（Zone），地区（Region），网络（Network），次网 (Hub)，站台、节点（Node），点站（Point）。
+
+洲区是最高级的区划
+
+1988 年一共3个洲区：
+
+1991年重新划分有6个洲区：
+
+一个站台编号格式为：zone:net/node.point 或 zone:region/node.point 所有的区域划分、站点编号可能会随著 FidoNet 组织结构异动而变动，而非一成不变<br>
+例如：<br>
+
+每个洲区，地区，网络都有其协调人（Coordinator），也就是洲区协调人（ZC）、地区协调人（RC）和网络协调人（NC）。通常也使用诸如R65C这样的形式来称呼65地区的协调人。
+
+除此之外，另有洲区协调人议会和国际协调人（IC）。
+

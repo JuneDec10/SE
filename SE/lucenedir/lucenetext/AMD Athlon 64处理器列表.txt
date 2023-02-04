@@ -1,0 +1,33 @@
+AMD Athlon 64处理器列表
+
+Athlon 64，AMD的第八代微处理器。
+
+（Stepping值，制程）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+备注1:
+在一般的处理器中，倍频的数字与外频相乘便是其时脉速度。Athlon 64、FX和Opteron处理器均整合了记忆体控制器去取代传统的外频概念，该记忆体控制器与处理器以同样的时脉速度运作，可把系统记忆体以200MHz（PC-3200 RAM）或以下（使用较慢的PC-1600、PC-2100或PC-2700 RAM）来运行。另外，在CPU与晶片组之间使用了HyperTransport技术，其速度为800MHz（Socket 754、Socket 939或Socket 940）或1GHz（Socket 939或Socket 940）。以上列表的倍频数字是用在200MHz系统时脉上，而非HyperTransport的数字。
+
+备注2:
+Athlon 64 3300+只在HP及IBM的产品中使用，而Socket 939（Newcastle及Venice内核）版本的3400+则只有随机销售，它们均不单独发售。另外，这款3400+除800MHz的HyperTransport时脉外，其余功能均与3500+相同。另外，1500+仅用于HP BladeSystem bc1500伺服器上。
+
+备注3:
+Socket 939版本的A64 X2 3600+及G1 Stepping的5200+双核处理器仅随原厂机或散片装销售。
+

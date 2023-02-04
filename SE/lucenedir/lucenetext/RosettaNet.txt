@@ -1,0 +1,5 @@
+RosettaNet
+
+RosettaNet 是1998年6月由四十家IT企业所联合创立的一个非营利性组织，其宗旨为建立、应用并提倡开放性的电子商务标准，并形成一共同的电子商务语言，以使全球各交易伙伴间的各类程序能一致化。
+
+RosettaNet的命名来源为1799年被拿破仑军队所发现的一块黑色玄武岩罗塞塔石碑。在这块石碑上刻有三种古代语言，而其年代则可远溯至西元前196年。科学家利用其中一种的古希腊语解读出另两种原本未知的埃及文字，圣书体与世俗体，破解了象形文字之谜。而RosettaNet所代表的精神正如同1799年初期被发掘的文物一样，将跨越语言的障碍来创造历史，象征企业为了分享商业讯息而创造出单一的电子共同语言或是程序。RosettaNet的标准包括：RosettaNet商务字典、RosettaNet技术字典、RosettaNet Implementation Framework (RNIF)和RosettaNet Partner Interface Processes (PIPs)。

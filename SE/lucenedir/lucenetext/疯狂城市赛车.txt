@@ -1,0 +1,8 @@
+疯狂城市赛车
+
+是微软与Angel Studios共同开发的赛车游戏，其赛道设在全球知名的国际城市。
+
+比赛共设有Blitz、Checkpoint及Circuit三种模式，在一些比赛中获胜可把某些车种及车身颜色解锁。而Cruise模式则可让玩家在城市内自由奔驰，横冲直撞。
+
+游戏中收录了不少真实车种供玩家选择，有Ford Mustang、Mini Cooper、Panoz GTR-1等，不少玩家自制了很多新车种及新城市，以香港为例，有玩家在MM2内加入了香港城市及巴士。而且还有很多外国巴士及汽车。还有改车程式（Midtown Madness 2 Vehicle Editor）。
+

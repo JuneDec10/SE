@@ -1,0 +1,13 @@
+XMLHttpRequest
+
+XMLHTTP是一组API函数集，可被JavaScript、JScript、VBScript以及其它web浏览器内嵌的脚本语言调用，通过HTTP在浏览器和web服务器之间收发XML或其它数据。XMLHTTP最大的好处在于可以动态地更新网页，它无需重新从服务器读取整个网页，也不需要安装额外的插件。该技术被许多网站使用，以实现快速响应的动态网页应用。例如：Google的Gmail服务、Google Suggest动态查找界面以及Google Map地理信息服务。
+
+XMLHTTP是AJAX网页开发技术的重要组成部分。
+
+除XML之外，XMLHTTP还能用于获取其它格式的数据，如JSON或者甚至纯文本。
+
+XMLHTTP最初是由微软公司发明的，在Internet Explorer 5.0中用作ActiveX对象，可通过JavaScript、VBScript或其它浏览器支持的脚本语言访问。Mozilla的开发人员后来在Mozilla 1.0中实现了一个兼容的版本。之后苹果电脑公司在Safari 1.2中开始支持XMLHTTP，而Opera从8.0版开始也宣布支持XMLHTTP。
+
+大多数使用了XMLHTTP的设计良好的网页，会使用简单的JavaScript函数，将不同浏览器之间调用XMLHTTP的差异性屏蔽，该函数会自动检测浏览器版本并隐藏不同环境的差异。
+
+在DOM 3（文档对象模型 Level 3）的读取和保存规范（Load and Save Specification）中也有类似的功能，它已经成为W3C推荐的方法。截止2011年，大多数浏览器已经支持。

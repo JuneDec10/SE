@@ -1,0 +1,7 @@
+DVD+R
+
+DVD+R（Digital Versatile Disc Recordable）是可写入光碟格式之一，其标称容量为4.7GB，实际容量为4.38G=4485.12MB（共计2,295,104区段，每区段含有2,048位元组）143,444个ECC Block（Error Correction Code Block，错误纠正码区块）。
+
+2002年中由众多公司共同支持的DVD+RW联盟（DVD+RW Alliance）开发。由于DVD+R格式是直接与DVD-R格式竞争，而且DVD-R的开发是由DVD论坛负责，所以DVD+R不被DVD论坛批准和接纳，并声称DVD+R并非官方的DVD格式。
+
+2003年10月，DVD+RW联盟成功研制出单面双层储存的DVD+R，使光碟容量增至8.5GB，差不多是单面单层版本的两倍。该技术已于2004年中期得到相关产品的采用。（参阅DVD+R DL）

@@ -1,0 +1,62 @@
+Mac mini
+
+Mac mini 是由苹果公司所推出的Mac电脑，于2005年1月11日的Macworld中公布。它的低价加上小巧和容易使用的设计，主要吸引使用Windows的电脑、iPod、和旧型麦金塔电脑的使用者。Mac mini最初有两款不同的型号，于2005年1月22日在美国推出（1月29日全球发售）。其上一个更新版本Mac mini于2014年10月16日推出，采用Intel Core i5或Intel Core i7处理器。最新版Mac mini于2018年10月推出，搭载第八代Intel Core i3/i5/i7处理器，拥有深空灰色机身，最低8GB的DDR4内存与128GB的PCle固态硬盘。
+
+Mac mini的特别之处在于受到Power Mac G4 Cube影响而有特别小的尺寸和外观——长宽均6.5英吋（16.5公分），高2英吋（5.1公分），重2.9磅（1.3公斤），是麦金塔桌上型电脑家族中最小的一个。出售时不包含显示器、键盘和滑鼠。其键盘和滑鼠与USB标准相容，现有的PC用户可直接使用现有的键盘、滑鼠，以及显示器。
+
+Mac mini预先安装了OS X作业系统 ，也包含了如西洋棋等游戏，iWork办公室软体，以及用来处理视讯、音乐、相片等多媒体的iLife。
+
+两款型号于2005年1月11日在美国三藩市举行的Macworld中公布：
+
+2005年7月26日，所有新推出的Mac mini均配备：
+
+1.25GHz的型号（售价美金499元）包含：
+
+
+1.42GHz的型号（售价美金599元）包含：
+
+
+这个型号可以额外购买吸入式CD-RW/DVD复合光碟机。
+
+额外的选购：
+
+多份报告指出，Mac mini在2005年10月被静静地升级至64MB VRAM，以及1.33 GHz（原本为1.25 GHz）和 1.5 GHz（原本为1.42 GHz）的G4处理器，配备512MB PC3200记忆体；而80GB硬碟为希捷的Momentus 5400.2 ST9808211A 型号，配备2MB 的快取记忆体，和5400 RPM的转速。而SuperDrive则用上MATSHITA的DVD-R UJ-8450，支援 +R 写入，并非官方型式地支援DVD-RAM。
+
+Mac mini在2006年2月至 2006年9月 升级至64MB VRAM，以及1.5 GHz 和 1.66 GHz.配备512MB PC5300 DDR2
+
+Mac Mini于2006年9月16日追加1.83GHz来取代原本1.66GHz的最高型号，CPU为Intel的Core Duo双核心处理器
+
+8月7日，苹果公司发布新款Mac Mini，CPU采用Intel Core 2 Duo，分为两个等级，较低阶的版本采用1.83GHz之CPU、1GB-{A|zh:内存; zh-hans:内存; zh-hant:记忆体}-、80GB硬碟和Combo Drive光碟机（能读取DVD-ROM但是只能烧录CD-RW），较高阶的版本采用2.0GHz之CPU、1GB内存、120GB硬碟和DVD烧录机。
+另外也提供选购升级硬碟、记忆体的服务。
+
+3月3日，苹果公司再次发布新款Mac Mini，包括一系列硬件升级：
+绘图效能，使用 NVIDIA GeForce 9400M (含 128MB 共享 DDR3 SDRAM)；核心，2.0 GHz Intel Core 2 Duo；光碟机，8 倍速双层 SuperDrive；扩充，五个 USB 2.0 埠，一个 FireWire 800 埠；传输，内建 AirPort Extreme Wi-Fi (802.11n)5，内建 Bluetooth 2.1 + EDR (加强的资料传输)。
+
+10月20日，苹果公司再次发布新款Mac Mini，升级内容:
+
+
+增加一个伺服器版本，去除光驱，安装两块500GB的硬盘并附带Mac OS X Server版 
+
+6月15日苹果公司发表新设计的Mac mini，与Macbook一样采用了一体化（Unibody）的铝合金外壳设计（厚度压缩至1.4吋（3.556公分）），加入了HDMI接口和SD读卡器。搭载2.4GHz酷睿2双核CPU，2G内存和320G硬盘，内置802.11n无线网络适配器和NVIDIA GeForce 320M显示芯片。有一个Firewire 800火线接口，四个USB接口和一个Mini DisplayPort接口，内建蓝牙+EDR和8速光驱。最大支持8GB内存。
+
+伺服器版本CPU升级为2.66 GHz，4GB内存，最大支持8GB内存，内有2颗2.5吋SATA硬碟可组成RAID 0或1，但没有光碟机。
+
+7月20日苹果公司发表小改款的Mac mini，仍分桌上版及伺服器版，两种版本均不再内建光碟机，CPU改用Intel Core i5或i7，并新增Thunderbolt连接埠，同时兼容Mini DisplayPort接口的设备（均可直接插入Thunderbolt接口直接使用）。显示适配卡分为CPU内建的Intel HD Graphics 3000（与主内存共用288Mb 显存）和AMD Radeon HD6630M-{zh-cn:显示适配卡; zh-tw:显示卡}-（搭载256Mb GDDR5显存）。硬盘均标配500GB SATA 5400rpm，可选750GB SATA 7200 RPM或者256GB SSD。作业系统同时改为Mac OS X v10.7 Lion，并配备了蓝牙4.0传输模块。由于取消了内建的光驱，因此不再随机附带Mac OS X Lion的恢复光盘，而改用内建于Mac OS Lion系统中的恢复工具以及Recovery HD来进行系统恢复和修复。
+在十月的特别发布会中，Mac mini连同iMac一同更新。新款Mac mini外形与2011年版没有什么改动，主要是规格上的更新，例如采用Intel的Ivy Bridge处理器，和标配4GB (两条 2GB) 1600MHz DDR3 记忆体。显示卡一律采用CPU内建的Intel HD Graphics 4000，硬碟则标准配置为1TB SATA 5400rpm，部分型号可选1TB Fusion Drive或256GB SSD。预载的作业系统为OS X Mountain Lion。另外设有4个USB 3.0接口，1个FireWire 800接口和1个Thunderbolt接口。
+此代Mac mini采用Intel的Haswell处理器，硬碟采PCIe介面，支援蓝牙4.0、802.11ac Wi-Fi网路，并具备两个Thunderbolt 2、一个HDMI及四个USB 3.0连接埠，内建SDXC读卡机。价格亦下调两成，从HK$4688下调至HK$3788。
+
+第四代Mac mini于2018年10月发布。其机身换用深空灰配色，100%由回收铝合金制成。该代Mac mini搭载Intel第八代 Core i5/i7四核、六核处理器，Intel UHD Graphics 630 图形处理器。机身搭载8GB DDR4内存，且可升级至64GB；硬盘全部为PCle固态硬盘，最高可升级至2TB。另外，Mac mini 第四代还搭载了Apple T2安全芯片与多种端口。
+
+有些第一代 mac mini 的拥有者使用补土刀撬具来开启电脑的外壳，因此可以借由拆开外壳来安装较便宜的其他厂商记忆体来升级 。苹果电脑也把补土刀送给他们的经销商。官方的 Mac mini 维修手册详细的说明了这个程序。网路上也有热心使用者提供拆解步骤的图片。除了使用补土刀外，有些人利用几支免洗筷来开启。
+
+开启外壳并不会使得 Mac mini 的保固失效，然而，打开外壳时若造成任何损坏并不为保固所涵盖。
+
+其他的修改包含对处理器的超频、更换更快的CPU，以及在机器上安装Linux等。
+
+有些猜测说某些内部的元件暗示本来是计划成为内建 iPod 的 dock 。他们发现光碟机的竖板也包含有 FireWire 汇流排。在这之后的另外一个说法是本来是用来作为额外的 FireWire 埠，但是在这个设计中被移除掉了。
+
+2010年出品的第二代Mac mini（Unibody）在底部有个圆形底座，只要转开该底座即可更换记忆体。不过苹果于2014年的新Mac mini换成不可转开的底座。
+
+就像 iPod 一样，有很多的协力厂商推出mini的周边商品。MiniMate可以增加最大到400GB额外硬碟空间和3个额外USB和FireWire埠。其他包含针对Mac mini形状而设计的支架或灯光。
+
+

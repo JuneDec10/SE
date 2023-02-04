@@ -1,0 +1,52 @@
+ActionScript
+
+ActionScript是原Macromedia公司（后并入Adobe）为其Flash产品开发的一种基于ECMAScript的面向对象编程语言。ActionScript可用于网页制作、Adobe Flash动画和RIA应用程序的开发。
+
+ActionScript和JavaScript均基于ECMAScript语法，因而拥有类似的语法。理论上它们互相可以很流畅地从一种语言翻译到另一种。不过JavaScript的文档对象模型是以浏览器窗口、文档和表单为主的，ActionScript的文档对象模型则以SWF格式动画为主，可包括动画、音频、文字和事件处理。
+
+ActionScript 开发时可借由导入 ANE 作为跨平台使用；并且官方公布之认证Starling （基于OPGL协定）开放框架，可使用GPU高速绘图，而非传统的CPU运算功能。
+
+ActionScript 首次出现于Flash 5并实现了在Flash内编程。这个版本被命名为ActionScript 1.0。Flash 6通过增加大量的内置函数和对动画元素更好的编程控制更进一步增强了编程环境的功能。Flash 7（MX 2004）引进了ActionScript 2.0，它增加了强类型和面向对象特征，如显式类声明、继承、接口和严格数据类型。ActionScript 1.0 和 2.0 使用相同的编译形式编译成Flash SWF文件。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+在ActionScript 2.0里，函式馆物件（如影片片段、按钮）可与类联系在一起。类可写在外在文件档案内，并且这些文件必须有.as后缀。类是增设部分──对ActionScrip语言来说，可让程式员自行开发，虽然有许多内建类譬如MovieClip类──可被用来动态地在荧幕上画出向量──已经满足需求了。类档案可使编程更加容易，并且类档案如果需要的话可在许多专案间转移。
+
+Flash ActionScript实现的特点如下，JavaScript程式员也许感兴趣：
+
+
+ActionScript代码常常直接写在Flash开发环境。该环境提供参考、代码提示和句法强调。原代码常常与电影一起存在.fla档案里。自外部文件档透过#include语法导入ActionScript代码也相当常见。在这种情况下，外部档案也许被Flash整合开发环境内建编译器，或Motion Twin ActionScript2编译器（MTASC）编译。
+
+下-{面}-列印Hello World。值得注意的是这只能在整合环境下执行，因为trace函式只有支援整合环境。
+
+下-{面}-代码利用onMouseMove事件当滑鼠移动时输出现行滑鼠位置。同样的这只有在整合环境下执行。
+
+这个较先进的范例创造一个包括数字与字串的阵列，并利用原形函式（prototype function）与函式递归给变数名codice_1指定一个数，给变数codice_2指定一个字串。然后，利用MovieClip应用程序介面，文字区域被显示在屏幕上，文字区域里头写入了变数值。
+
+下面先进的Hello World程序目前需要在Flex 2.0公开Alpha测试版整合环境中编译。
+
+导入SWC 或相关SDK以后,在建构子内加入以下这段
+便可启用GPU高速框架开发相关swf 或是跨平台软体
+
+官方正式说明文件连结提供查证-
+开源团队官网说明文件连结提供查证-
+线上电子书连结提供查证-
+amazon连结提供查证-
+
+
+
+
+

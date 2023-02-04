@@ -1,0 +1,37 @@
+Plone
+
+Plone是一种建立在Zope应用服务器之上的开源内容管理系统。Plone是自由软件并且设计为可扩展的。它可以使用于内网和外网服务器，文档发布系统，并且可以作为位置分享的实体协作软件工具。
+
+其最早由Alan Runyan、Alexander Limi与Vidar Andersen在1999年开始，之后迅速成为流行而又强大的内容管理系统。
+
+Plone的名字来源于一个来自英国伯明翰，叫做Plone的电声乐队。
+
+Plone最早由Alan Runyan,Alexander Limi与Vidar Andersen在1999年开始开发。
+
+Plone稳定版本http://plone.org/products/plone
+
+Plone运行在Zope应用程序服务器上，使用Python编写。
+
+Plone主要是用Python开发。但是在该项目中也使用其他的语言。下面是一个表，总结了在Plone中使用的语言，最新的使用情况查看网站：
+
+
+其他类别包括CSS，XSLT等。
+
+目前的清单中，在113个国家地区，有360个服务供应商。
+
+超过70个基金会成员
+
+10个以上的赞助商提供资金支持，其中包括谷歌、OpenID基金会和CA公司。
+
+目前使用Plone的2283个网站其中包括知名的：
+
+通过各公司的网站，社区的支持和分发数以千计的附加组件，但主要是通过PyPI和www.plone.org。目前在PyPI上，有2149个软件包可用于定制Plone。
+
+Plone相比比其他流行的内容管理系统享有良好的安全记录。此安全记录已导致了Plone被广泛采用。
+
+Plone被评为最安全的内容管理系统，根据Mitres CVE's CVE's via Mitre直到2012-12-01:
+这些是一些在Plone 4中可用的功能 :
+
+这些是一些在Plone 3.0中可用的功能：
+
+

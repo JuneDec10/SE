@@ -1,0 +1,14 @@
+InterBase
+
+InterBase由Embarcadero Technologies软件公司开发的数据库。
+
+
+最新版本是InterBase 2017。
+
+曾经一度开源，当时的版本是InterBase 6.0。Borland公司继续开发出后续的6.5、7.0、7.1、7.5、8.0等多个版本。2008年底开始Embarcadero Technologies开发出2009、XE、XE7、2017等版本。
+
+开源社区基于IB6的源代码继续开发，开源版本后来更名为FireBird。
+
+FireBird是InterBase 6.0的C源代码的C++重写版本，并从1.5起开始加入新特性。
+
+

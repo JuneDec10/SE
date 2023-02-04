@@ -1,0 +1,26 @@
+裂项和
+
+裂项求和（Telescoping sum）是一个非正式的用语，指一种用来计算级数的技巧：每项可以分拆，令上一项和下一项的某部分互相抵消，剩下头尾的项需要计算，从而求得级数和。
+
+裂项积（Telescoping product）也是差不多的概念：
+
+formula_3
+
+formula_4
+
+formula_5
+
+formula_6（三角恒等式）
+
+formula_7（帕斯卡法则）
+
+formula_8
+
+若有formula_9，则formula_10
+
+若有formula_12，则formula_13
+
+这是错误的。将每项重组的方法只适用于独立的项趋近0。
+
+防止这种错误，可以先求首N项的值，然后取N趋近无限的值。
+

@@ -1,0 +1,60 @@
+Microsoft Word
+
+Microsoft Word是微软公司的一个收费文字处理应用程序，最初在1983年由Richard Brodie为了运行DOS的IBM计算机而编写的，随后的版本可运行于Apple Macintosh（1984年）、SCO UNIX和Microsoft Windows（1989年），并成为了Microsoft Office的一部分。现时最新的版本是Word 2016 for Windows及Word 2016 for Mac。
+
+为全录帕罗奥多研究中心开发的图形使用者介面文本编辑器Bravo当中的许多概念和想法被带进了Microsoft Word。Bravo的创始人Charles Simonyi离开PARC后于1981年进入微软公司。当年和他一起开发Bravo的Simonyi雇佣了Brodie，于是他在当年夏天离开了PARC。
+
+为MS-DOS计算机开发的Word的第一代于1983年底发行，但是反响并不好，销售落后于WordPerfect等对手产品。尽管如此，在Macintosh系统中，Word在1985年发布以后赢得了广泛的接受，尤其是对于在两年以后第二次大型发布的Word 3.01 for Macintosh（Word 3.00由于有严重的Bug，所以很快就下架了）。和其他Mac软件一样，Word for Mac是一个真正的所见即所得编辑器。
+
+由于MS-DOS是一个字符界面系统，Word for DOS是为IBM PC研发的第一个文本编辑器，在编辑的时候屏幕上直接显示的是“黑体”“斜体”等字体标识符，而不是“所见即所得”。其他的DOS文本编辑器，如WordStar和WordPerfect等，在屏幕显示时使用的是简单文本显示加上标识代码，或者加以颜色区别。 
+
+尽管如此，和大多数DOS软件一样，程序为了执行特定的功能，都有自己特殊的，而且往往是复杂的命令组需要使用者去记忆。（比如在Word for DOS中，保存文件需要依次执行Escape-T-S），而大部分秘书们已经知道如何使用WordPerfect，公司就不大愿意更换成对手产品，何况提供的新优点有限。
+
+第一个Windows版本的Word发售于1989年，价格是500美元。在Windows 3.0发行之后的一年，销售开始好转，（Word 1.0与Windows 3.0的协作比先前版本更好）。制作一个Windows版WordPerfect的失败已经证实为致命的错误。它是Word 2.0版本，但是却作为市场主流坚实地发展起来。
+
+Word在苹果机市场上没有强大的竞争对手，尽管有程序像Nisus Writer提供“不连续的选择”等的特色功能，这些功能直到Office XP中的Word 2002才添加。另外，一些用户抱怨Word没有在1987年的3.01版与1991年的5.0版之间实行大的检查。相对于它的易用性和特色功能来说，由于典雅，苹果机的Word 5.1是一个主流的文字处理器。但是1994年发布的苹果机的6.0版却受到了广泛的嘲笑。这是Word第一个基于Windows和Mac之间通用代码的版本；许多人抱怨它慢、简陋及占过多内存。Windows版本也计入6.0在内以协调跨越不同平台的产品命名（尽管事实上最早的Windows版本为Word 2.0）。
+
+Word的较晚版本拥有比文字处理更多的功能。绘图工具可进行简单的桌面出版运作，如在文件中加设图像。近年来已增设Collaboration、文件校对、多语言支援与及其他功能。
+
+Word 97有着和更晚的版本Word 2000相同的主操作界面。这是第一个增加了Office助手的版本，“大眼夹”（可以更换）是一个在所有Office程序中使用者的动画帮助者。这是对早先推出的Microsoft Bob概念的一个接替。
+
+Macintosh版本Word 98增加了不少功能，与Macintosh Office 98一同发售。文件的兼容性达到与Office 97相同的水平，并使Word在Mac上成为与Windows上对应的可行的商业替代品。不过从此Mac上的Word（以及Excel）有被宏病毒破坏的可能，导致可能出现绝无仅有的跨平台病毒情况。Windows版本只集成在日语/韩语版本的Microsoft Office 97中，替代Word 97，不能单独发售。
+
+对于大多数用户来说，Word 2000（以及其他的Office 2000组件）一个最明显的变化增加了多重剪贴板，可以保存多次复制/剪切的内容。另一个显著的变化是，出现在Word 97中经常不请自来干扰用户的Office助手，变得更少出现了。
+
+Word 2001集成在Macintosh Office中，可以获得大多数（但不是所有）的Office 2000功能。在2000年十月发布。Word 2001也有单独发行的版本。Macintosh版本的Word X在2001年发布，它是第一个原生支持（并且需要）Mac OS X的版本。
+
+Word 2002在2001年连同Office XP发售。与Word 2000功能版本差不多，不过就增加了「任务窗格」功能，以更快地提供大量以往在对话框中出现的信息和功能特性。一个重要的的广告策略是移除了Office助手以支持新的帮助系统，尽管它仅仅只是在默认情况被禁用了。
+
+在Microsoft Office 2003中，为了强调Office套装的统一性而把Word 2003改名，从此“Microsoft Word”改称为“Microsoft Office Word”。
+
+2004年5月在Mac发行新的版本。包括Word、Excel、Powerpoint应用程序，与Windows版Office 2003具有完全相同的功能，是一个非常有用的发布版本。微软发布了补丁程序以消除这个版本几年来著名的宏漏洞。虽然苹果推出了公开源代码程式NeoOffice，但是Word仍然是在Macintosh中最受欢迎的文书处理程式。
+
+这次发行包含了许多变化，包括新的支持XML的文件格式，重新设计的界面，集成的公式编辑器和书目管理。此外，提出了XML数据包，经过对象模型和文件格式可以得到的，称作自定义的XML——这可以利用在同一个新的被称作连接控制工具结构文档的特性的关联之中。它也有只针对带有焦点的对象有特殊功能的内容标签，还有一些其他特性如Live Preview（通过它你可以在不作出任何永久变化时查看文件）、迷你工具栏，超级工具提示，快速访问工具栏SmartArt等。
+
+Word 2007使用.docx新档案格式。Windows系统的Word 2000-2003用户可以安装一个名为“Microsoft Office兼容包”的免费的插件从而可以打开，编辑以及保存新的Word 2007文件。另外，Word 2007版本开始可以以.doc格式储存文件，该格式可在Word 97至2003中使用。
+
+Word 2007是Microsoft Office 2007 System的一部分，是继Word 2003之后的版本。这版本包括很多的改变，包括了对新的基于XML文件格式的支持以及一个被重新设计的界面。
+
+
+Microsoft Word在当前使用中是占有巨大优势的文字处理器，这使得Word专用的档案格式Word文件（.doc）成为事实上最通用的标准。Word文件格式的详细资料并不对外公开。Word文件格式不只一种，因为随Word软体本身的更新，文件格式也会或多或少的改版，新版的格式不一定能被旧版的程式读取（大致上是因为旧版并未内建支援新版格式的能力）。微软已经详细公布Word 97的DOC格式，但是较新的版本资料目前仍未公开，只有公司内部、政府与研究机构能够获知。
+
+其他与Word竞争的办公室作业软体，都必须支援事实上最通用的Word专用的档案格式。因为Word文件格式的详细资料并不对外公开，通常这种相容性是借由逆向工程来达成。许多文字处理器都有汇出、汇入Word档案专用的转换工具，譬如AbiWord或OpenOffice.org。Apache_POI是一个开放原始码的Java资料库，其主要目标是存取Word的二进制文件格式。不久前，微软自己也提供了检视器，能够不用Word程式就检视Word文件,并取代了Word Viewer 2003及其先前的版本。参见：Word Viewer。
+
+Word 97到Word 2003之前的Word文件格式都是二进制文件格式。不久以前，微软声明他们接下来将以XML为基础的档案格式作为他们办公室套装软体的格式。Word 2003提供WordprocessingML的选项。这是一种公开的XML档案格式，由丹麦政府等机构背书支持。Word 2003的专业版能够直接处理非微软的档案规格。
+
+跟其它Microsoft Office程式一样，Word可使用固定宏语言（巨集语言）来高度定制。（最初是WordBasic，但自从Word 97以来就变成Visual Basic）然而，这种性能也可以在文档中嵌入就像梅利莎蠕虫的电脑病毒。这就是电脑用户需要安装防火墙和 反病毒软件的另一个原因。Microsoft's security advice
+
+人们所知道的第一个感染Microsoft Word文档的病毒叫做概念病毒，一个相对危害很小的病毒，它的出现是为了证明巨集病毒出现的可能性。
+
+MS-DOS的版本包括：
+
+Apple Macintosh的版本（Mac OS及Mac OS X）包括：
+
+SCO UNIX的版本包括：
+
+OS/2的版本包括：
+
+
+
+

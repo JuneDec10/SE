@@ -1,0 +1,13 @@
+Mission Control
+
+Mission Control（直译「」，前身为 ）是在Mac OS X中管理开启视窗（特别是视窗数量很多）的工具，允许使用者可以快速地看到所有开启的视窗（或是某些指定的集合），而不需要在很多视窗之间按滑鼠选择，就可以找到指定的目标。
+
+Exposé 于 Mac OS X 10.7 开始被 Mission Control 取代。
+
+有三种不同的使用不同标准的不同模式来安排这些视窗：
+在前面两个例子中，当被启动后，使用者可以在视窗上面使用滑鼠点选来选择任何视窗，或使用键盘导向的游标和按下"Enter"来选择它。接著就会消失，留下前景是所选择的视窗。
+用来启动的按键可以自订为任何的功能键，如shift，control，option，或是command键，PowerBook和iBook上的fn键，甚至可以是多键滑鼠上的按键。
+Quartz Compositor确保动画效果和缩放可以快速和平滑呈现。
+于2003年10月的Mac OS X v10.3（"Panther"）中加入。从那开始，好几个Microsoft Windows和Linux应用程式已经复制它的功能，包含给Windows平台的 TopDesk，WinPLOSION（原先称为），Entbloess，Switcher以及给数种Unix及类Unix平台的Skippy，Expocity，Komposé
+微软曾在2000年之前作过视觉地呈现应用程式的某些研究，把应用程式他们自己的用缩小版本而不是小图示来呈现，且结论是这样是比较好的方法。然而，这个研究的成果似乎从来没有变成产品。在研究计划TaskGallery中，取自StartPalette的设计描述：“替代容易混淆和学习小图示的困难，以荧幕截图和他们实际上外观的较小版本来显示作为开启文件和执行应用程式。”
+

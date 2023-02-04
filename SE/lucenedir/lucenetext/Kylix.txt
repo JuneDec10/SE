@@ -1,0 +1,7 @@
+Kylix
+
+Kylix是Borland公司推出的GNU/Linux版的开发环境，相对于Windows下的Delphi以及C++ Builder。通过Kylix，程序员可以在GNU/Linux下使用Object Pascal、C++或者C语言，进行软件开发。
+
+目前这个工具的前景不明朗，没有推出新版（Kylix 4）的迹象。对于Delphi 2005，也没有升级的途径，Delphi 2005可能不包含CLX（跨平台元件库）的支持。此外，对其最新的GNU/Linux官方支持包括：RedHat 7.2、SUSE 7.3以及Mandrake 8.2。在更新版的GNU/Linux中，应该也能用，但可能需要搜索一下网络，看看如何对默认配置进行相应的调整，比如保留旧版的glibc等。
+
+

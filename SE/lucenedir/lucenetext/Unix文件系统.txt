@@ -1,0 +1,7 @@
+Unix文件系统
+
+Unix文件系统（，缩写为UFS），是一种文件系统，为许多UNIX和类Unix操作系统所使用。它也被称为伯克利快速文件系统（Berkeley Fast File System），BSD快速文件系统（BSD Fast File System），缩写为FFS。
+
+FFS对Unix System V文件系统“FS”有所继承。FFS在Unix文件系统（1或2）之上，提供目录结构的信息，以及各种磁盘访问的优化。UFS（以及UFS2）定义了on-disk数据规格。
+
+

@@ -1,0 +1,37 @@
+FlashGot
+
+FlashGot 是为 Mozilla Firefox 和基于Mozilla Application Suite的网页浏览器所开发的扩展 ("Extensions"，现称为 "Add-on's")，是基于GPL发布的自由软件 (Freeware)，拥有四十多种各国语言版本。此附加组件（扩展）的作者 Giorgio Maone 亦开发了另一款热门的 Firefox 附加组件 : NoScript。
+
+FlashGot 允许 Firefox 等浏览器使用大多数流行的外部下载管理器处理单一的和全部("全部" 和 "选择")下载，支持 Windows, Mac OS X, Linux 和 FreeBSD 系统。安装它之后，就可以在 Mozilla Firefox 中像 Internet Explorer 一样在下载链接(URL)上使用右键菜单调用下载软件进行下载。
+
+需要注意的是，由于名称上的相近，FlashGot 和 FlashGet 很容易使用户发生混淆，实际上 FlashGet 是一个下载工具，而 FlashGot 则是在浏览器和下载工具传递URL参数的“中间程序”，其本身并不具备下载能力。
+
+截至目前版本（1.1.8.4），FalshGot 支持的多平台外部下载管理器（下载软件）如下:
+
+（如果有某些下载软件不在下列范围内的，亦可要求 FlashGot 的开发者在后续版本中将其加入支持列表。）
+
+1.Windows系统:
+
+BitComet （比特彗星）/ Download Accelerator Plus / DownloadStudio / FlashGet （快车） / Free Download Manager / Fresh Download / GetRight / GigaGet（迅雷的英文版） / HiDownload / iGetter / InstantGet / Internet Download Accelerator / Internet Download Manager / LeechGet / Mass Downloader / Net Transport （影音传送带） / NetXfer (Net Transport 2) / NetAnts （网络蚂蚁） / Orbit / ReGet / Retriever / Star Downloader / Thunder （迅雷） / TrueDownloader / Ukrainian Download Master / WellGet / wxDFast；
+
+2.Linux / FreeBSD / 其他 Unix 内核系统:
+
+Aria / cURL / Downloader 4 X / GNOME Gwget /KDE KGet / wxDownloadFast，可通过Wine支持很多Windows平台的下载软件。
+3.Mac OS X:
+
+iGetter / Leech / Speed Download / wxDownloadFast.
+
+FlashGot 适用于以下各版本产品（范围将随下列产品的升级而变更）
+
+Firefox 1.5 - 3.2 alpha1pre
+
+Flock 0.4 - 2.0.*
+
+Mozilla 1.7 - 1.8+
+
+SeaMonkey 1.0 - 2.0 beta1 
+
+Songbird 0.7 - 1.2.0 
+
+Thunderbird 1.5 - 3.0 beta2pre
+

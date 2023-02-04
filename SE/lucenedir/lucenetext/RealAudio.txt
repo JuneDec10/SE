@@ -1,0 +1,5 @@
+RealAudio
+
+RealAudio是一种由RealNetworks发展的RealMedia多媒体音频文件格式，仅指RealPlayer中能够识别的音频文件，也可以理解为real格式的音频文件。
+
+Realaudio有很多版本，这些格式不同，依赖的媒体播放器也不同。有些rm文件能播放出来，有些不能，这个时候可以看一下是不是realaudio编码的版本问题。

@@ -1,0 +1,149 @@
+Visual Basic .NET
+
+Visual Basic .NET（VB.NET）是.NET Framework框架下的一种多重编程范式高级语言。
+
+VB.NET，是微软公司于2002年作为原有的Visual Basic的继承者而推出。虽然自2005年起，语言名称中的“.NET”就已经被去掉了。但为了与VB 6.0及以前版本的Visual Basic进行区分，“Visual Basic .NET”的名字仍然被社会公众用来指代VB 7.0及以后的Visual Basic。VB.NET与C#同为.Net Framework框架下两种主要的程序设计语言，都是为了调用.Net Framework的类库资源，因此两种语言具有很高的对应性，数据类型、控制结构与语言特性都存在一一对应，容易把源代码从一种语言对译为另一种语言。
+
+微软公司的集成开发环境Visual Studio是最为广泛使用的VB.NET开发工具。然而Visual Studio的大部分版本都是价格不菲的商业软件，除了Express版本和Visual Studio Community（以上两者皆为免费软件）。除了Visual Studio，SharpDevelop和Mono也是可用的VB.NET开发环境。
+
+VB.Net的数据类型，实际上是.Net Framework定义的数据类型。
+
+此外，还有SByte、UShort、UInteger、ULong等无符号数据类型。
+
+&O123表示八进制；&H123表示十六进制。
+
+VB使用的名字是大小写不敏感的。但是，CLR是大小写敏感的。所以建议保持一致的大小写。
+VB自版本5以后的数据类型来源于COM，而其根源是OLE数据类型。
+
+在与空值做比较时，需要区分各种不同用法：
+
+对于可空类型，实际上是Nullable(Of T)泛型结构。例如，下述三行等价：
+比较表达式someVar = Nothing的结果永远是Nothing，应该用someVar.HasValue()方法去判断是否为空，或者用Is或IsNot关键字。
+
+数组的下标开始自0，这遵从了.NET的标准。如果不指定数组的下标上界，则为动态数组，其长度可以动态调整。
+
+
+包括下述几种：
+
+
+
+或
+
+
+
+实现迭代器遍历一个序列，每次获取一个返回值。迭代器可以作为一个方法或属性的get访问器，其中的Yield 语句返回迭代器的返回值，并记住当前执行的位置。下次再调用迭代器，从该执行位置恢复执行，直至迭代器代码执行完或者遇到Exit Function或Return语句。编译器把迭代器作为一个状态机的类。 
+
+物件导向时，类的声明范例：
+
+上述示例中的Public关键字表示可存取性(accessibility)，表示可以被任意代码存取；它可以替换为其他的可存取性：Private（仅限该Class自身存取）、Friend（仅限同一项目中的代码存取）、Protected（仅限自身或衍生类别存取）、Protected Friend等。如果使用ReadOnly，则表示资料成员或属性是唯读；WriteOnly表示只写。Shadows关键字表示复盖父类中同名（但不一定参数相同）的Event。使用关键字MyBase引用基础类别。
+
+类可用继承修饰词：NotInheritable关键字，表示该类不能做基础类别；MustInherit关键字，表示这是一个抽象类。
+
+类的属性与方法能否被覆盖：Overridable关键字表示可被覆盖；Overrides关键字表示复盖了基础类别中同名的方法或属性；NotOverridable关键字表示不可覆盖；MustOverride表示方法或属性仅声明没有实现，这时该类必须有MustInherit修饰词，是一个抽象类或者介面，仅能包含属性、方法、函数的声明。
+
+如同其他.Net语，Visual Basic不允许多重继承，但可以同时实现多个interface。
+介面是一类特殊的抽象类，不能包括可执行代码与类的资料成员的声明：
+
+介面中这些成员都强制是Public可存取性。
+
+实现一个介面，使用Implements关键字：
+基于继承的多型，是指用基础类别类型的变数系结不同的子类别物件，这样呼叫基础类别变数的方法，在执行时动态确定实际执行了哪个衍生类别的同名的方法。多型的优点是可以针对基础类别（或介面）的方法来写一个通用的过程或者资料容器，适用于各种不同的衍生类别的具体实现。
+
+委托本质上是一种Class，衍生自System.Delegate，包含了三部分资料：一个类物件的地址、该物件所属类的一个方法的地址，以及另一个委托的引用（reference）。前两部分可以实现对一个类物件的方法的呼叫；第三部分把委托形成一个连结串列，使其依次被呼叫执行。如下声明了一个委托：
+
+委托常用于事件处理（Event Handler）。.Net Framework的事件是类的属性（实际上是一个巢状类），用于封装参数格式固定的委托；该委托的参数总是为(ByVal sender As Object, ByVal e as System.EventArgs)，返回值为void（即Sub类型）。例如：
+
+对一个具体的-{zh-cn:实例; zh-tw:实体;}-，可以给它的事件在运行时动态追加上一个或多个事件处理函数：
+AddHandle指向引发事件的对象；AddressOf把一个函数或过程名转化为一个隐式创建的委托-{zh-cn:实例; zh-tw:实体;}-，用于确定该事件物件所要呼叫的事件处理程序。在AddressOf关键字可隐式创建一个引用特定过程的委托的-{zh-cn:实例; zh-tw:实体;}-。
+
+程序可以抛出一个事件：
+using语句，定义一个范围，在范围结束时自动释放对象所占用的资源。
+例如：
+集合（Collection）对象的初始化与普通类对象的属性初始化，分别使用From与With关键字。例如：
+例如：
+即无名的函数或过程，作为表达式的值。可以写为一行或多行。例如：
+可以在声明匿名函数的同时调用它。单行的lambda表达式不能使用Return关键字，其返回类型是自动推导得出；其参数要么都是用As关键字指明类型，要么全部是自动推导出类型。
+
+lambda表达式在定义时可以使用所在上下文（context，即C++语言的闭包closure）的局部变量、参数、属性、Me等等的值，即使lambda表达式离开了定义时所在的context，这些被使用的局部变量等的值仍然有效。这是因为lambda表达式在定义时把所用到的context的值保存到它自己的定义类中。lambda表达式可以嵌套定义。
+例如：
+
+Try
+Catch ex As Exception When condition
+Catch ex As Exception
+Finally
+End Try
+
+ From element [ As type ] In collection [, element2 [ As type2 ] In collection2 [, ... ] ] [Where 表达式]
+
+这里给出了一个Hello World的例子。通过它们您可以更好地理解Visual Basic的特性。（此源代码运行于命令行下）
+
+Module Mdl_Main
+End Module
+
+这个程序能输出"Hello World"。
+
+Module Mdl_Main
+
+第一行是模块定义，命名空间的定义一般可以省略。VB.NET中，所有函数，过程与变量的声明都必须在模块或者类的内部，而不能直接存在于命名空间内部。
+Sub Main()
+
+第二行定义了名为Main的过程。一般来说，“Sub Main()”是程序的入口点。
+Console.WriteLine("Hello World")
+
+第三行输出“Hello World”。
+End Sub
+
+第四行结束了过程Main的定义。
+End Module
+
+第五行结束了模块Mdl_Main的定义。
+与旧版VB（VB 6.0及以前）相比较，VB.NET明显受到了.Net Framework中其他语言思想的影响。与旧版VB相比，VB.NET更加严格而不失灵活。
+
+Visual Basic 6：（注意此过程的名称不可改变）
+
+Private Sub Button1_Click()
+End Sub
+
+VB.NET：（注意此过程的名称无关紧要）
+
+Private Sub Button1_Click(ByVal sender As Object, ByVal e As EventArgs) Handles Button1.Click
+End Sub
+
+
+与C家族语言相比，VB.NET则较多保留了VB的特征，比如：
+
+下面这两份功能一致的代码展现出了VB.NET与C#的很多不同之处：
+
+Namespace N
+
+End Namespace
+
+
+namespace N
+
+VB.NET与C#同为.Net Framework的两大主力程序设计语言，尽管有着各种各样的不同，两者最终都编译为MSIL并由CLR运行。两者功能基本一致，并可以在.Net Framework框架下方便地互相调用与协同开发。关于两者的优劣一直见仁见智。
+C语言编写的DLL文件，VB在调用时，需要注意：对于C语言的数组指针，在VB中调用时应将数组的首元素传递给DLL。不能直接传递数组名,因为如果传递数组名,VB实际会传一个复杂的结构类型给DLL。C函数无法确定数组大小，通常用另一个参数指出数组的大小。
+Visual Basic .NET（VB 7.0）是随Visual C#和ASP.NET一起在2002年发布的最初始的VB.NET版本。C#被大力宣传为微软对付JAVA的王牌，受到媒体极力关注。然而VB.NET（有时被称为VB 7.0）影响面不广，这导致VB社区之外很少人关注它。那些试用过此版VB.NET的人在层层幕布下发现一个强大却艰深的语言，而且还有不少缺点，例如它的运行阶段组件（Run-Time）比VB6大了十倍，存储器使用量也大大增加。
+
+VB 7.0引起了广泛的争议，主要原因在于对旧版VB的改动过大。许多资深的VB程序员抱怨VB.NET，因为VB.NET 2002丢掉了许多不再发行的VB6中使用的大量语言结构和用户界面功能，并且对保留下来的东西也改变了语意。例如，在VB.NET参数默认是以值方式传递的，而不是以引用方式。VB.NET 2002被半嘲讽半认真地称为Visual Fred或VB DOTNOT。作为对2005年3月8日微软拒绝为VB6再提供维护与支持的回应，当月月底出现了反对者的请愿。
+
+VB.NET的支持者们认为新语言在很多方面比旧版本更为强大，比如它以相比早期版本更为自然、紧密和完全的方式地加入了现代面向对象的编程范式。反对者们有不同意见，虽然VB6对对象模型支持有缺点，但是二次开发升级到VB.NET的成本比升级后的收益要高得多。而开发软件发布因特网版本的独立程序员也对VB.NET的RunTime尺寸过大不满。
+
+针对开发者的不满，微软主要做了如下努力：使新的开发更容易启动，而把已经开发的VB6代码升级到VB.NET。例子主要包括：完成VB6中的常见任务如打印预览；整合VB6和VB.NET解决方案（dubbed VB Fusion），从VB6代码转换到VB.NET。
+
+微软在后续版本中撤销了一些过激的更改，并且吸取了经验。在以后版本中，语法的更改变得更加谨慎。
+
+Visual Basic .NET 2003（VB 7.0）和.NET Framework 1.1一起发布。新功能包括对.NET Compact Framework的支持和更好的VB升迁向导。并改进了运行状况，IDE稳定性（尤其是后台编译器），以及运行时RunTime稳定性。另外，VB.NET 2003还有一个学院版Visual Studio .NET 2003 Academic Edition（VS03AE），它是分发给各国某些学者免费使用的版本。
+
+Visual Basic 2008（VB 9.0）于2007年11月9日与Microsoft .NET Framework 3.5一起发布。
+
+在VB2008中，微软增加了许多功能，包括：
+
+Visual Basic 2010于2010年4月发布。
+
+Visual Basic 2015（VB 14.0）于2015年7月20日发布。
+
+Visual Basic
+Visual Studio
+C#
+

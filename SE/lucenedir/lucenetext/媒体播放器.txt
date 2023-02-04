@@ -1,0 +1,8 @@
+媒体播放器
+
+媒体播放器，又称媒体播放机，是用于播放多媒体档案的应用软体。媒体播放器显示磁带录音机及CD播放机等装置上为人熟知的媒体控制图示，如：播放（）、暂停（）及停止（）等。
+
+主流作业系统内建至少一个媒体播放器。例如：Microsoft Windows内建Windows Media Player；OS X内建QuickTime；Linux发行版通常也内建有一个媒体播放器，如SMPlayer、Amarok、Audacious、Banshee、MPlayer、Rhythmbox、Totem、VLC或xine等。
+
+由于在Windows Me前的中文Windows，一直都把Windows Media Player称作媒体播放器，所以媒体播放器在电脑老用户中成了Windows Media Player的代名词。
+

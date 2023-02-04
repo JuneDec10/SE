@@ -1,0 +1,5 @@
+Kibibyte
+
+Kibibyte是一种资讯计量单位，代表1024字节，即2字节，一般简称为KiB。Kibibyte是来自英文 " kilo binary byte " 的缩写，意思为「千位二进位字节」。
+
+

@@ -1,0 +1,49 @@
+Blogger
+
+Blogger.com是公司创建，针对个人用户，且以因特网为平台，提供网志书写、发布的网站，同时也是全球最大、最为知名的个人网志服务提供商。Pyra Labs和Blogger.com目前已经被Google公司收购，成为其旗下的一项服务内容。
+
+Blogger服务使得网路日志的发布更加容易。Blogger提供免费主机Blogspot.com存放网志，用户不必写任何代码或者安装伺服器软体或脚本，通过所见即所得（WYSIWYG）界面轻松地建立、发布、维护和修改自己的网志。但Blogger也允许有经验的用户自由地设计网志界面，并在在线帮助页面提供了详细的资料和指南。
+
+Blogger与其他的博客提供的显著优势在于有强大的模板编辑功能，对于HTML及CSS的高手Blogger无疑是最好的选择，模板完全支持HTML编辑，你可以把Blogger打造成一个专业的站点，而Blogger就好像空间提供商，而这个服务是非常稳定的。
+
+另外，使用Blogger你可以注册一个Google AdSense帐号，然后就可以在您的个人网志上投放Google的广告，从而营利。
+
+1999年8月三个朋友在互联网泡沫的大潮中创建了Blogger.com，它是全球第一批专用于网志发布的工具之一，被公认对推广网志有重要贡献。而Blogger这个名词也随之成了最新的互联网时尚名词。具体来说，用户不用手动编写HTML帖子，并且频繁上传新的帖子，而是通过提交一个Blogger网站上的表单来发布新的网志帖子。
+
+2002年，Blogger网站的用户数达到了高峰，这项服务倍受网友好评。
+
+2003年，搜索引擎巨头Google公司收购了Pyra Labs，包含Blogger网站。Google提供了Pyra需要的资源。此外，以前需要付费订购的一些高级功能在Google的帮助下全部可以免费使用了。
+
+2004年Google收购了Picasa，并将其相片分享功能并入Blogger。同年5月9日，在和网页设计公司Adaptive Path以及Stopdesign的合作下，Blogger重新启动了一个全新的模板设计，增加的特点包括兼容CSS标准的模板，单独的帖子和评论的归档页，以及使用电子邮件来发布网志等功能。
+
+2006年8月15日，Google推出了Blogger Beta，增加了不少新的功能，作了大量的改进。比起旧版本，新版本增加了例如标签、所见所得的模板更改器等新功能。如需使用这个版本，用户需要注册一个Google帐号以供登入。旧的Blogger可以直接转换到beta版，beta版还提供了添加多种页面元素的功能，Google Adsense也被当作标签，系统自动会匹配多种适合你的网站模板的广告，方便用户的添加。HTML及JavaScript是其中一种页面元素，你可以添加任何其他的代码，比如可以将多种Widget嵌入Blogger中，丰富了网站的内容。或者是你的个人Blogger的RSS或Atom的订阅功能代码，可以从FeedBurner得到。也可以通过Google API嵌入一些Google的产品，例如 Google Earth。
+
+2006年12月，Blogger离开了beta。2007年5月，Blogger完全转移到Google的伺服器。
+
+2010年Blogger提供的免费主机Blogspot.com在50大重要性的网域名中排名第4。
+
+2016年3月，Google开始执行迁移blogspot计划到官方Google blog，迁移是从更改域名开始，新的域名是https://webmasters.googleblog.com，Google计划在接下来的几个月结束他们的迁移计划。
+
+Blogger默认把用户的网志发布到免费提供的Blogspot.com主机上。2010年5月1日之前，Blogger也支持把内容发布到用户选择的伺服器上（通过FTP或SFTP），这项功能可以被绝大多数网页服务器所支持。
+
+当前Blogger已经推出了完整的中文界面，具有成熟的中文网志书写和发布功能。
+
+Google在其Google Toolbar中增加了一个名为 BlogThis! 的新功能，增加了一个连结，使得本来不被支持的电脑也可以使用BlogThis!工具。BlogThis工具允许在访问一个站点时打开一个弹出式视窗，显示一个可以不登录Blogger中央网站就可以直接发布网志的表单，并且保持正在访问的网站也处于打开状态。
+
+2005年8月16日，Google发表了官方的免费外挂程式 Blogger for Word。这个外挂软件会在微软文字处理软件Microsoft Word的主界面中增加一个工具栏，用户可以直接在Word中编辑文字，并立刻发布到Blogger上，所以线上和离线同样都可以编辑文章。此外挂还允许用户把网络上已经发布的帖子备份到本机上编辑修改。不过遗憾的是，这款插件不支持图片编辑功能，且只能安装到Word 2000以上版本的Word软件中。
+
+如果你登录Blogger比较麻烦，或者无法登录，你可以通过电子邮件来发布到Blogger，如果你的邮件是支持多文本编辑，效果会更好。方法是在Blogger中的设置-->电子邮件-->mail to blogger中填写一个个性化的好记的名字，以后你可以直接给这个完整的邮件地址写信就可以立即发布到Blogger了。
+
+现在Google官方推出的Google文件已经支持发布到Blogger，用户可以在Google文件中先编辑好你要写的内容，支持html编辑和所见即所得编辑，多种图片和视频。如果Blogger帐户中有多个博客，系统首次会让用户设置，让用户选择发布到哪一个博客。
+
+不过目前发布的时候，Google文件设置的文章标题和标签不会自动发布到Blogger.com，需要在Blogger.com中自己再次修改。对于用FeedBurner烧制的Feed来说，可能会产生2条文章，一个没有标题，一个有标题。
+
+Windows程式集里的可以经由一些设定，支援发布文章到Blogger。
+
+在2004年，Google公司收购了Picasa（图像软体制作商）和它的相片分享工具Hello。后者与Gmail、Blogger可以集成，允许用户张贴相片到他们的网志。这样，Blogger和hello的集成使得图像网志的发布变得非常方便。
+
+Mozilla基金会推出的免费网络浏览器Firefox为所有Blogger公司内部职员使用。而Blogger也鼓励其用户，特别是AOL用户，切换到Mozilla Firefox来获得最好的Blogger使用体验。
+
+除了因为Firefox本身是一款优秀的开放源代码软件之外，还因为Firefox支持网友自行开发的各种插件。通过这些插件，用户可以方便地在浏览的同时，把各种感兴趣的内容直接写成网络日志，发布到blogger.com上。
+
+

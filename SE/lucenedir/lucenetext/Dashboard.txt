@@ -1,0 +1,14 @@
+Dashboard
+
+Dashboard（为仪表板之意）是一个苹果公司Mac OS X v10.4 Tiger作业系统中的应用程式，用作称为「widget」的小型应用程式之执行基础。其界面主要为一半透明的图层，在启动以外的时间是隐藏起来的，使用者可透过按下热键来启动，而热键可在偏好设定中变更指定。
+
+当Dashboard启动时，使用者的桌面会变暗，而widgets则会渐入出现于前景中。如同一般的应用程式视窗，widgets可以被四处移动、重新配置、关闭，以及重复开启（因此能够同时开启多个相同的widget，并且针对每一个做出不同的设定）。可使用选单列开启新的widget，只需点选或拖曳widget的图示至画面上即可。等待widget载入后就能立即使用。
+
+开发者可以利用超文件标示语言（HTML）、层叠样式表（CSS）和JavaScript制作Dashboard widgets。由于和制作网站使用的程式语言相同，许多网路开发者都有制作widgets的能力。Widgets本质上是显示于Dashboard图层中的简单HTML档案；widgets使用了WebKit应用程式架构（application framework），该架构也使用于苹果的Safari网路浏览器，这代表即使是没有Dashboard的旧版Mac OS X也能制作widgets。
+
+Dashboard widgets通常包含以下六个档案：
+
+当以上所有的档案都放在一个档案夹中，并命名与加上「.wdgt」副档名之后，这个档案夹就会变成一个可在Dashboard中执行开启的widget。更复杂的widget可能会包含Cocoa widget附加元件（plugin，用作指定平台的功能）、一个或多个JavaScript档案（进行文字卷动、偏好设定等）或多个图片（提供可自定的选单或按钮）。
+
+苹果推出的作业系统Mac OS X 10.5 Leopard内建一套名为Dashcode的开发程式，让开发者能更轻松容易的制作widgets。
+

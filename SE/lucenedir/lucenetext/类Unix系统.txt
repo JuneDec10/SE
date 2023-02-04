@@ -1,0 +1,8 @@
+类Unix系统
+
+类Unix系统（）经常被称为 UN*X 或 *nix，指各种Unix的衍生系统，比如FreeBSD、OpenBSD、SUN公司的Solaris，以及各种与传统Unix类似的系统，例如Minix、Linux、QNX等。它们虽然有的是自由软件，有的是私有软件，但都相当程度地继承了原始UNIX的特性，有许多相似处，并且都在一定程度上遵守POSIX规范。
+
+UNIX的商标权由国际开放标准组织所拥有，只有符合单一UNIX规范的UNIX系统才能使用UNIX这个名称，否则只能称为类UNIX（UNIX-like）。
+
+
+

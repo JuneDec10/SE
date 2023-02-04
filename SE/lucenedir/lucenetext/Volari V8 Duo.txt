@@ -1,0 +1,13 @@
+Volari V8 Duo
+
+Volari V8 Duo是一种AGP双核心显示卡，XGI设计，于2003年12月发布，支援DirectX 9.0和OpenGL 1.4。有报导称Volari V8 Duo曾在日本秋叶原电脑市场上市销售。效能大约等于GeForce 5700 Ultra 或 Radeon 9600XT 。XGI将两颗中阶核心合并成一张显示卡，对抗GeForce 5900 或 Radeon 9800。由于驱动问题，效能一般。
+
+"Volari"这个名字，源自于"Velocity"的谐音。后者的意思是速度，或力量。Volari V8 Duo是Volari系列产品线的旗舰级产品。Duo的意思，是将两颗中等级的显示核心，集成在同一张显示卡中，作协同计算。有点像SLI和CrossFire技术。Volari V8 Duo是继3dfx的Voodoo后，再有厂商以单卡双核心形式推出显示卡。可是，这种产品的驱动程式设计复杂，各向异性过滤等级和效能比较低(只支援4X，当时的ATI Radeon 9800XT 可以支援16X)，而且容易造成不稳定。计算方面有两个模式，分别是 Frame Interleave 和 Line Interleave 。前者是一个显示核心负责一个页框，后者是将一个页框分割成多个扫描线，一个显示核心负责单数扫描线，另一个则负责偶数。由于是AGP的限制，实际上只有一个显示核心是连接主机板。两个显示核心是主从关系，透过BitFluent技术连接。主显示核心透过AGP连接主机板，也连接从显示核心。而从显示核心只会跟主显示核心沟通
+
+显示核心没有集成TV Encoder 编码单元，需要透过 SiS301 编码芯片作电视输出。影音解码方面，可以硬体支援MPEG-2和H.264。
+
+以下列表以单一个显示核心表示
+
+由于XGI Volair Duo V8 Ultra是双核心显示卡，所以此卡配置是：
+
+

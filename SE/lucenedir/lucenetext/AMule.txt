@@ -1,0 +1,16 @@
+AMule
+
+aMule是一个开源免费的P2P文件共享软件，遵循GNU通用公共许可证协议发布。类似于eMule。基于xMule和lMule。可应用eDonkey网络协议，也支持KAD网络。可在包括各种类Unix系统、Windows在内的多种操作系统下运行。
+
+完整的 aMule 有以下元件：
+
+目前aMule使用i18n，有28种语言界面供选择，包括简体和繁体中文。
+
+aMule意为。
+
+动态反吸血驴保护（英文全称：Dynamic Leecher Protection, 英文缩写：DLP）是内建于 eMule Xtreme Mod 等一些 eMule 的修改版软体（即 eMule Mod）中的功能元件。在这些 eMule Mod 连线上 eDonkey 网路后，它会根据 DLP 函式库中的列表，侦测出吸血驴并对其做减分或遮蔽处理。
+
+目前aMule尚未内建DLP功能，但仍然可用 aMule-dlp 版本加入。
+
+
+

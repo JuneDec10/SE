@@ -1,0 +1,23 @@
+元素 (数学)
+
+在数学领域，集合的元素（）指构成该集合的任意，也可以称作成员（）。
+
+formula_1表示集合formula_2中有四个元素，分别是数字1、2、3、4。由集合formula_2中元素组成的集合是formula_2的子集，例如 formula_5。
+
+集合本身也可以是元素。例如 formula_6，那么集合formula_7中的元素不是 1、2、3、4 四个数，而是1、2、集合 formula_8，共三个元素。
+
+符号「∈」表示「是formula_9中的元素」的关系，这种关系也称集合隶属关系（）。可以用
+
+表示「formula_11是formula_2中的元素」，也可以表达为「formula_11是formula_2的成员」「formula_11在formula_2中」「formula_11属于formula_2」。
+
+有时也用「formula_2包含formula_11」表达集合隶属关系，但因为这样的说法也可以用来表达「formula_11是formula_2的子集」，应该谨慎使用，避免歧义。不过使用符号时没有歧义，可以用
+
+来表达「formula_2包含formula_11」。
+
+不隶属的关系可以用符号「formula_26」表示，记作
+
+意思是「formula_11不是formula_2的元素」。
+
+formula_30源自希腊字母ε，虽然已经极少，但在一些文献中还有在使用，例如John Milnor的"Topology from the Differentiable Viewpoint" (1965,1997)。
+
+在资讯科技上：

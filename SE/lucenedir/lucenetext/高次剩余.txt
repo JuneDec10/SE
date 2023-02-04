@@ -1,0 +1,23 @@
+高次剩余
+
+高次剩余意即对于任意的整数formula_1的formula_2次方数formula_3(formula_2为正整数)除以任意正整数formula_5所余的数formula_6，我们称此formula_6为"模formula_5的formula_2次剩余"，以下讨论n是质数的情况(且此质数为奇质数，以下formula_10且formula_11不能整除formula_6)：
+
+当对于某个formula_6及某个formula_1，formula_15 此式成立时，称「formula_6是模formula_11的formula_2次剩余」
+
+当对于某个formula_6及某个formula_1，formula_15 此式不成立时，称「formula_6是模formula_11的formula_2非次剩余」
+
+formula_2次剩余有类似于二次剩余欧拉判别法的判别法如下：
+若formula_26（即formula_2能整除formula_28） 则(formula_11是奇质数且formula_11不能整除formula_6)formula_6是模formula_11的formula_2次剩余的充要条件为：
+
+formula_35
+
+且有解时，解数为formula_2
+若formula_2不能整除formula_28，则formula_6是模formula_11的formula_2次剩余的充要条件为：
+
+formula_42，其中formula_43，且有解时解数为formula_44
+
+两个n次剩余相乘犹然是formula_2次剩余，formula_2次剩余和formula_2次非剩余相乘为formula_2次非剩余，但是当两个formula_2次非剩余相乘时，并不一定是formula_2次剩余
+
+对于二次剩余（formula_51）的状况，可以透过计算勒让德符号来确定，但是当高斯企图对于任意formula_52寻找类似算法时（高斯考虑了formula_53和formula_54的情况），却找不到类似的算法，高次剩余在某些方面的不规则是一个极困难的问题。
+
+二次剩余

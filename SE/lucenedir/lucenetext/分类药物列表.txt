@@ -1,0 +1,301 @@
+分类药物列表
+
+Nervous System
+
+Antiepileptics
+Hydantoin derivatives
+Carboxamide derivatives
+
+Fatty acid derivatives
+Barbiturates and derivatives
+
+Analgesics
+Opioids
+Natural opium alkaloids
+Phenylpiperidine derivatives
+
+Benzomorphan derivatives
+Anilides
+
+Psycholeptics
+Antipsychotics
+Phenothiazines with aliphatic side-chain
+Phenothiazines with piperazine structure
+Butyrophenone derivatives
+Benzamides
+
+Anxiolytics
+Benzodiazepine derivatives
+Carbamates
+Hypnotics and sedatives
+Barbiturates
+Benzodiazepine derivatives
+Benzodiazepine related drugs
+
+
+Psychoanaleptics
+Antidepressants
+Non-selective monoamine reuptake inhibitors
+
+Selective serotonin reuptake inhibitors
+
+Monoamine oxidase A inhibitors
+Psychostimulants, agents used for ADHD and nootropics
+Xanthine derivatives
+
+Centrally acting sympathomimetics
+Anti-dementia drugs
+Anticholinesterases
+
+Anti-parkinson drugs
+Anticholinergic Drugs
+Dopaminergic agents 
+Monoamine oxidase B inhibitors 
+Adamantane derivatives
+Dopamine agonists
+
+Anesthetics
+
+Parasympathomimetics
+Choline esters
+Anticholinesterases
+
+Drugs used in addictive disorders
+Drugs used in alcohol dependence
+Drugs used in nicotine dependence
+
+Circulatory System
+
+Cardiac therapy
+Cardiac stimulants
+Phosphodiesterase inhibitors
+Adrenergic and dopaminergic agents
+Antiarrhythmics
+Antiarrhythmics, class I
+Antiarrhythmics, class III
+Vasodilators used in cardiac diseases
+
+Antihypertensives
+Antiadrenergic agents
+
+Diuretics
+High ceiling diuretics
+
+Potassium-sparing agents
+
+Beta Blocking Agents
+Beta blocking agents, non-selective
+Beta blocking agents, selective
+Alpha and beta blocking agents
+
+Calcium Channel Blockers
+Mainly vascular effects
+Direct cardiac effects
+Benzothiazepine derivatives
+Phenylalkylamine derivatives
+
+Agents acting on the renin-angiotensin system
+ACE inhibitors
+Angiotensin II antagonists
+Renin-inhibitors
+
+Lipid-modifying agents
+HMG CoA reductase inhibitors
+
+Antithrombotic Agents
+Vitamin K antagonists
+Platelet aggregation inhibitors
+Enzymes
+
+Antihemorrhagics
+Antifibrinolytics
+Blood coagulation factors
+
+Blood substitues and perfusion solutions
+
+Digestive System
+
+Stomatological preparations
+
+Antiemtic
+Serotonin (5HT3) antagonists
+
+Drugs for acid-related disorders
+Drugs for peptic ulcer and gastro-oesophageal reflux disease
+H2-receptor antagonists
+
+Proton pump inhibitors
+
+Drugs for functional gastrointestinal disorders
+Propulsives
+Drugs for functional bowel disorders
+
+Adjuvant for Hepatic and Biliary Diseases
+
+Antidiarrheals
+Corticosteroids acting locally
+Aminosalicylic acid and similar agents
+
+Antiobesity Preparations
+Centrally acting antiobesity products
+
+Peripherally acting antiobesity products
+
+Drugs used in diabetes 
+Sulfonamides, urea derivatives
+Biguanides
+Thiazolidinediones
+
+Enzymes
+
+Vitamin
+Vitamin A
+Vitamin D and analogues
+
+Respiratory system
+
+Antihistamines
+Substituted alkylamines
+Piperazine derivatives
+
+Drugs for obstructive airway diseases
+Glucocorticoids
+
+Immune System
+
+Immunostimulants
+
+Immunosuppressants
+Selective immunosuppressants
+
+Tumor necrosis factor alpha (TNF-α) inhibitors
+
+Interleukin inhibitors
+Calcineurin inhibitors
+
+Anti-inflammatory and antirheumatic products
+Butylpyrazolidines
+Fenamates
+Propionic acid derivatives
+Acetic acid derivatives and related substances
+Oxicams
+Coxibs
+
+Muscle relaxants 
+Muscle relaxants, peripherally acting agents
+Muscle relaxants, centrally acting agents
+
+Urinary system
+
+Genital system
+
+Sensory organs
+Ophthalmologicals
+Antiglaucoma preparations and miotics
+
+
+Antifungals
+
+Preparations for treatment of wounds and ulcers
+
+Antibiotics
+
+Disinfectants
+Biguanides and amidines
+Phenol and derivatives
+Iodine products
+
+Anti-acne preparations
+
+Antineoplastic Agents
+
+Alkylating Agents
+Nitrogen mustard analogues
+Ethylene imines
+Nitrosoureas
+Alkyl sulfonate
+
+Antimetabolic Agents
+Folic acid analogues
+Pyrimidine analogues
+Purine analogues
+
+Plant alkaloids and other natural products
+Vinca alkaloids and analogues
+Taxanes
+
+Cytotoxic antibiotics and related substances
+Actinomycines
+Anthracyclines and related substances
+
+Platinum compounds
+
+Monoclonal antibodies
+
+Sensitizers used in photodynamic/radiation therapy
+
+Protein kinase inhibitors
+
+antiinfectives
+
+Antibacterials
+β-Lactam Antibiotics
+Tetracycline Antibiotics
+Aminoglycoside Antibiotics
+Macrolides
+
+Chloramphenicol Antibiotics
+Quinolone antibacterials
+Fluoroquinolones
+
+Antimycobacterials
+
+Antimycotics
+Triazole derivatives
+
+Antiviral Agents
+Neuraminidase inhibitors
+Protease inhibitors
+Nucleoside and nucleotide
+Nucleoside and nucleotide reverse transcriptase inhibitors
+
+Non-nucleoside reverse transcriptase inhibitors
+
+Immunoglobulins
+
+Vaccines
+Bacterial vaccines
+Viral vaccines
+
+Antiparasitic Drugs
+Anthelmintics
+Antinematodal agents
+Benzimidazole derivatives
+
+Avermectines
+
+Antitrematodals
+
+Antiprotozoals
+Methanolquinolines
+Aminoquinolines
+Artemisinin and derivatives
+
+Hormone preparations
+Calcium homeostasis
+Anti-parathyroid agents
+Calcitonin
+Parathyroid hormones and analogues
+Thyroid therapy
+Corticosteroids
+Pituitary hormones and analogues
+Somatropin and somatropin agonists
+
+Hypothalamic hormones
+Sex hormones
+Estrogens
+Antiprogestogens
+
+Antidotes
+
+

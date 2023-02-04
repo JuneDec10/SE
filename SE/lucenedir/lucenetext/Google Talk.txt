@@ -1,0 +1,41 @@
+Google Talk
+
+-{Google Talk}-是Google公司于2005年8月24日推出的一款IP电话及即时通讯的服务。与其他即时通讯服务不同的是，-{Google Talk}-在使用开放的XMPP协议（原名Jabber），使用-{Google Talk}-服务不一定要通过官方客户端。VoIP使用XMPP扩展的Jingle协议。
+
+-{Google Talk}-用户端仅支援Windows（2000、XP、Server 2003、7）和Google Chrome OS；在Android上被系统原生支持；对于其它的移动电话，支持BlackBerry、iPhone。XMPP协议的客户端软件列表列举了很多非Google提供的兼容软件。
+
+-{Google Talk}-在其开发者页面 以开放的通讯为大标题，深入客户端、服务、平台三方面的选择。
+
+2016年6月26日，Google Talk正式关闭，并被Google Hangouts取代。
+
+Google即时通讯服务的点子最早由Apple-X于2004年8月23日提出，它以Jabber为基础。一年后，纽约时报与洛杉矶时报均于2005年8月23日报导Google即将发布即时通讯软件的传言，一个运作的Jabber服务器的二级域名talk.google.com被发现。不久，在Google正式开通此服务前，两个登入此服务器的端口均被博客作者发现。8月23日晚间，许多使用"5222"端口的用户均不能够登入，但"5223"仍可，在UTC时间04:12:52，这些用户收到了来自gmail.com的广播信息，“损坏的链接已修复，谢谢你们成为我们的第一批用户！”。而发现"5222"端口可以继续使用。2006年2月7日，登入Gmail的用户可在其页面上使用-{Google Talk}-上的即时通讯功能，此功能将更提升-{Google Talk}-的重要性。
+
+Google声明-{Google Talk}-服务具有通透性，Jabber提供了即时通讯和“当前状态”信息功能。官方用户端并未实作其中的离线信息功能，但透过其他用户端（如Adium）可以使用。2006年1月17日，Google支持服务器互相通讯，可与任何支援dialback协议的Jabber服务器「结盟」（federate，即伺服器互通之意）。
+
+2005年12月15日，Google发表了libjingle，一个实践Jingle的C++库。Jingle是一个“扩展了IETF的的扩展信息（Extensible Messaging and Presence Protocol, XMPP）以及IP电话、视频交流，以及其他点对点的多媒体协议”。 Libjingle是Google用作为点对点传输的库，以大量的STL与template的技术实作，甚至在sigslot namespace内有基于原则设计的程式设计风格，并可用于BSD许可证。
+
+-{Google Talk}-并未对Jabber加密，反倒使用了HTTPS以认证。比起Google本身，其他的用户端在送出密码前都会遵循TLS，并在整个通讯状态下加密。Google要求所有的信息（文字、语音）都得在未来的版本中加密。
+
+现在对话记录可以自动地被记录到Gmail，可让使用者简单的查询他们的对话历史，且不会记录在电脑上。然而也可以使用关闭记录（off the record）模式以让Gmail不记录，但使用其他用户端的有它自己的设置，如Gaim。
+
+支持离线信息，语音留言，和在线用户间的文件传输。
+
+早期的评论家指责-{Google Talk}-客户端不支持超过20行的文本信息，也不能保存离线信息，与Google收集所有资讯的理念相互矛盾。但不久之后-{Google Talk}-就开始将可以超过2GB的对谈记录存入Gmail帐户中。
+
+网站也指出此产品并未像其他Google产品（如Gmail与Google地图）产生“哇”效果。此外，他们也指出-{Google Talk}-只支援PC对PC的语音交谈，并不可延伸至传统的电话网络（PSTN）。尽管一些批评者称此产品“平淡无奇”；也有一些人预言-{Google Talk}-将有其他新鲜（印象深刻）的特色。
+
+在Windows的-{Google Talk}-用户端上也有不少的程序错误，如任务栏上图示的电子邮件通知并不可靠，在有对话通知时会出现干扰等问题。当视窗开启了一段时间，按下Esc键时该视窗并无法产生任何作用。其他的问题，联络人视窗若长期未最小化，可能就会并在Windows重新启动后自动地“最大化”（至原来的相同尺寸），并持续这个动作。在使用中文输入法如“微软拼音输入法”的时候，当文字输入多到碰触栏位右边时，所拼得音会被自动截开而产生不是所想的文字。这一点在-{Google Talk}-的新版本中已经修改完善。
+
+在2006年1月-{Google Talk}-加入服务器对服务器传输功能，在此之前许多人批评-{Google Talk}-无法与庞大的Jabber公开网络作传输。
+
+-{Google Talk}-也没有多人交谈的功能，用户-{只}-能在同一个时间与另一人对话。然而，一个自定义的Python程序可让使用者使用多人交谈功能。使用者可借由其他Jabber服务器（如conference.ursine.ca）加入多人交谈。目前-{Google Talk}-采用JEP-0166与JEP-0167作为(P2P)连线的标准。
+
+许多批评者，在指责它的缺点时，都异口同声地赞美它拥有其他即时通讯软件所没有的简洁界面。此简洁界面与Google的计划一样，从它的首页至其他的服务都是。
+
+此外，有人发现，包含简体中文，以及其他多国语言的-{Google Talk}- 1.0.0.105版本，其通过网络传输的聊天内容是未经加密的。而只提供英文的1.0.0.104版本，是使用TLS加密的。
+
+2013年，Google Talk被Google+ Hangouts取代。
+Google在Gmail上有着遵循用户建议的良好评价，但与Gmail不同的是，Google并不会泄露他们正在开发的功能，虽然FAQ表示他们正在研发加入富文本功能。
+
+在2005年12月20日Google买下5%的AOL股份后，-{Google Talk}-使用者被指将可以与AOL的主导产品AIM做联系。 -{Google Talk}-使用者将直接与AIM用户联系，不需要注册AIM的用户名称。但截至2010年7月，Google仅仅在美国英语版本的Gmail中整合了Open AIM，即用户需要同时登录自己的Gtalk和AIM帐号，而XMPP网关并未如预料般开启。
+

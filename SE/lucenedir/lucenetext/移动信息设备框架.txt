@@ -1,0 +1,28 @@
+移动信息设备框架
+
+行动资讯装置设定档（，简称“MIDP”）是为类似手机和PDA这样的无线通讯领域的嵌入式设备上的Java语言制订的规范。
+
+MIDP是J2ME架构的一部分，它基于CLDC Configuration ，目前版本2.0。规范内容主要是对适应于类似手机这样的产品的应用的Java API，但限于一些必须和很常见的功能，因此经常厂商会附加一些可选包以提供对更多功能的支持。MIDP部分解决了无线终端产品上Java应用程序的兼容问题。
+
+MIDP 1.0对游戏和多媒体的支持很弱，在2.0中增加了诸如按键状态查询、主动渲染和基本的声音支持。
+MIDP规定了一些需要支持的具体网络协议类型：1.0支持HTTP协议，2.0补充了socket、UDP、逻辑串口、HTTPS、TLS、SSL等等
+
+其核心API由下层的CLDC Configuration规定，MIDP1.0增加的部分如下：
+
+J2ME的I/O操作类。（CLDC中关于通用连接的类路径也在javax.microedition.io内）
+
+J2ME的GUI类。由于手机一般使用LCD显示器，因此称为 "LCD UI" ；但其API并非为此特别裁剪的。
+
+为J2ME提供持久存储。
+
+这是J2ME程序——MIDlet——的基类。
+
+"MIDP 2.0" saw the introduction of gaming and multimedia APIs. 
+
+多媒体播放的基类。
+
+为简单的2D基于sprite（用帧实现动画）游戏API。
+
+为安全连接而提供鉴权API。
+
+

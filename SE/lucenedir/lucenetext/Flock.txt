@@ -1,0 +1,8 @@
+Flock
+
+Flock是一个已停止开发的网页浏览器，其特点为整合多种社群网路服务服务。Flock的早期版本使用Mozilla的Gecko排版引擎。2.6.2版本发布于2011年1月27日，是基于Mozilla Firefox开发的最后一个版本。从第3版开始，Flock基于Chromium开发并使用WebKit排版引擎。
+
+2011年1月，Flock公司被Zynga收购。2011年4月26日，浏览器宣布停止开发和停止支援。
+
+Flock 2.5整合了社交网络和媒体服务，包括MySpace、Facebook、YouTube、Twitter、Flickr、Blogger、Gmail、Yahoo! Mail等。当登入到任一支援的社群服务时，Flock可以追踪朋友的个人资料、上传照片等等。
+

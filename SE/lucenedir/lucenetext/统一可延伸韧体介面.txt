@@ -1,0 +1,72 @@
+统一可延伸韧体介面
+
+统一可延伸韧体介面（，缩写）是一种个人电脑系统规格，用来定义作业系统与系统固件之间的软件界面，作为BIOS的替代方案。可扩展固件接口负责加电自检（POST）、联系作业系统以及提供连接作业系统与硬体的介面。
+
+UEFI的前身是Intel在1998年开始开发的，后来被重命名为可延伸韧体介面（，缩写）。Intel在2005年将其交由统一可扩展固件接口论坛（Unified EFI Forum）来推广与发展，为了凸显这一点，EFI也更名为UEFI（Unified EFI）。UEFI论坛的创始者是11家知名电脑公司，包括Intel、IBM等硬件厂商，软件厂商Microsoft，及BIOS厂商、Insyde及Phoenix。
+
+可延伸韧体介面（EFI）最初是由英特尔开发，于2002年12月英特尔释出其订定的版本——1.1版，之后英特尔不再有其他关于EFI的规范格式发布。有关EFI的规范，英特尔已于2005年将此规范格式交由UEFI论坛来推广与发展，后来并更改名称为Unified EFI（UEFI）。UEFI论坛于2007年1月7日释出并发放2.1版本的规格，其中较1.1版本增加与改进了加密编码（cryptography）、网络认证（network authentication）与用户接口架构（User Interface Architecture）。
+
+2009年5月9日，发布2.3版本。截至今日为止，2.7A版是最新的公开的版本。
+
+众所周知，英特尔在近二十年来引领以x86系列处理器为基础的PC技术潮流，其产品如CPU，芯片组等在PC生产线中占据绝对领导的位置。因此，不少人认为此举显示英特尔公司欲染指固件产品市场的野心。事实上，EFI技术源于英特尔安腾处理器（Itanium）平台的推出。安腾处理器是英特尔瞄准服务器高端市场投入近十年研发力量设计产生的与x86系列完全不同的64位新架构。在x86系列处理器进入32位的时代，由于相容性的原因，新的处理器（80386）保留16位的运行方式（实模式），此后多次处理器的升级换代都保留这种运行方式。甚至在包含EM64T技术的至强系列处理器中，处理器加电启动时仍然会切换到16位的实模式下运行（BIOS）。英特尔将这种情况归咎于BIOS技术的发展缓慢。自从IBM PC兼容机厂商通过净室的方式复制出第一套BIOS源程序，BIOS就以16位汇编代码，寄存器参数调用方式，静态链接，以及1MB以下内存固定编址的形式存在十几年。虽然由于各大BIOS厂商近年来的努力，有许多新元素添加到产品中，如PnP BIOS、ACPI、传统USB设备支援等等，但BIOS的根本性质没有得到任何改变。这迫使英特尔在开发新的处理器时，都必须考虑加进使效能大大降低的相容模式。用一个比喻来讲：这就像保时捷新一代的全自排跑车，被人套上去一个蹩脚打档器。
+
+然而，安腾处理器并没有这样的顾虑，它是一个新生的处理器架构，系统固件和操作系统之间的接口都可以完全重新定义。并且这一次，英特尔将其定义为一个可扩展的，标准化的固件接口规范，不同于传统BIOS的固定的，缺乏文档的，完全基于经验和晦涩约定的一个事实标准。基于EFI的第一套系统产品的出现至今已经有五年的时间，如今，英特尔试图将成功运用在高端服务器上的技术推广到市场占有率更有优势的PC产品线中，并承诺在2006年间会投入全力的技术支持。
+
+二者显著的区别就是UEFI是用模块化，C语言风格的参数堆栈传递方式，动态链接的形式构建的系统，较BIOS而言更易于实现，容错和纠错特性更强，缩短了系统研发的时间。它可以执行于x86-64、IA32、IA64等架构上（在个人电脑上通常是x86-64平台），突破传统16位代码的寻址能力，达到处理器的最大寻址。它利用加载EFI驱动程序的形式，识别及操作硬件，不同于BIOS利用挂载真实模式中断的方式增加硬件功能。后者必须将一段类似于驱动程序的16位代码（如RAID卡的Option ROM）放置在固定的至之间存储区中，运行这段代码的初始化部分，它将挂载实模式下约定的中断向量向其他程序提供服务。例如，VGA图形及文本输出中断（INT 10h），磁盘存取中断服务（INT 13h）等等。由于这段存储空间有限（128KB），BIOS对于所需放置的驱动程序代码大小超过空间大小的情况无能为力。另外，BIOS的硬件服务程序都以16位代码的形式存在，这就给运行于增强模式的操作系统访问其服务造成了困难。因此BIOS提供的服务在现实中只能提供给操作系统引导程序或MS-DOS类操作系统使用。而UEFI系统下的驱动程序可以由EFI Byte Code（EBC）编写而成，EFI Byte Code是一组专用于EFI驱动程序的虚拟机器语言，必须在EFI驱动程序运行环境（Driver Execution Environment，或DXE）下被解释运行。采用EBC编写的EFI驱动程式拥有平台无关性，打个比方说，一个带有EBC EFI驱动程序的PCIe设备，既可以将其安装于采用x64 UEFI韧体的伺服器中，也可以将其安装到采用UEFI韧体的ARM系统中，而它的EFI驱动不需要重新编写。实际上绝大部分Intel/AMD电脑的UEFI韧体都是x64架构的。另外，由于EFI驱动程序开发简单，所有的PC部件提供商都可以参与，情形非常类似于现代操作系统的开发模式，这个开发模式曾使Windows在短短的两三年时间内成为功能强大，性能优越的操作系统。基于EFI的驱动模型可以使UEFI系统接触到所有的硬体功能，在作业系统执行以前浏览全球资讯网站，实现图形化、多语言的BIOS设定界面，或者无需执行作业系统即可线上更新BIOS等等不再是天方夜谭，甚至实现起来也非常简单。这对基于传统BIOS的系统来说是件难以实现的任务，在BIOS中添加几个简单的USB设备支持都曾使很多BIOS设计师痛苦万分，更何况除了添加对无数网络硬件的支持外，还得凭空构建一个16位模式下的TCP/IP协议栈。
+
+BIOS多使用CMOS晶片保存BIOS设定值与硬体侦测资料，CMOS保存资料需要电力供应，如果主板上的CMOS电池已没有电量，那么在电脑断电后，CMOS中储存的资料会遗失，且系统时钟无法运作。UEFI多采用NVRAM储存韧体设定及硬体侦测资料。
+
+一些人认为BIOS只不过是由于兼容性问题遗留下来的无足轻重的部分，不值得为它花费太大的升级努力。而反对者认为，当BIOS的出现约制了PC技术的发展时，必须有人对它作必要的改变。
+
+UEFI在概念上非常类似于一个低阶的操作系统，并且具有操控所有硬件资源的能力。不少人感觉它的不断发展将有可能代替现代的操作系统。事实上，EFI的缔造者们在第一版规范出台时就将EFI的能力限制于不足以威胁操作系统的统治地位。首先，它只是硬件和预启动软件间的接口规范；其次，UEFI环境下不提供中断的机制，也就是说每个EFI驱动程序必须用轮询（polling）的方式来检查硬件状态，并且需要以解释的方式运行，较操作系统下的机械码驱动效率更低；再则，UEFI系统不提供复杂的缓存器保护功能，它只具备简单的缓存器管理机制，具体来说就是指运行在x64或x86处理器的64位元模式或保护模式下，以最大寻址能力为限把缓存器分为一个平坦的段（Segment），所有的程序都有权限存取任何一段位置，并不提供真实的保护服务。当UEFI所有组件加载完毕时，便会启动作业系统的启动程式，如果UEFI韧体内建EFI Shell，也可以启动EFI Shell命令提示（部分UEFI固件内置EFI Shell），在这里，用户可以调入执行EFI应用程序，这些EFI程序可以是OEM提供的硬体诊断软体，OEM提供的备份软体，作业系统的启动程式等等，也可以载入EFI驱动程式档案（如档案系统驱动程式）。实际上大部分OEM PC的UEFI BIOS会在UEFI开机功能表上提供执行内建诊断程式、内建还原程式的功能。EFI应用程式和EFI驱动程式可以是PE格式的.efi档案，可用C语言编写。在UEFI开机模式下，作业系统的启动程式也是EFI应用程式，启动程式的EFI档案储存在EFI系统分区（ESP）上。作业系统的启动程式将控制权交给操作系统并执行UEFI函式ExitBootServices()后，停止UEFI的Boot Services，结束由UEFI韧体控制硬体的阶段，由作业系统直接控制硬体，UEFI的少部分服务如Runtime Services、UEFI GOP（作业系统载入显示卡驱动程式后则不再使用UEFI GOP）等等则继续工作，为作业系统提供系统时间等功能。
+
+x64电脑平台的UEFI通常包含以下几个部分：
+
+在实现中，统一可延伸韧体介面（UEFI）初始化模块和驱动执行环境通常被集成在一个只读存储器中。Pre-EFI初始化程序在系统开机的时候最先得到执行，完成记忆体的初始化工作，然后载入UEFI DXE（驱动程序执行环境）。当DXE被载入运行时，系统便具有了枚举并加载其他UEFI驱动程序的能力。在基于PCI Express架构的x64电脑系统中，系统会载入UEFI内建的驱动程式模组，完成UEFI韧体、CPU、记忆体、晶片组及主板的进一步初始化，然后初始化各PCIe控制器、PCIe适配器（如RAID扩充卡或显示卡）及晶片组内建PCIe适配器（如晶片组内建的SATA、USB、网卡等功能）并载入这些PCIe装置的UEFI驱动程式（如果有的话，也有可能是载入PCIe装置的Legacy Option ROM）。UEFI驱动程式不仅可以包含在PCIe适配器的ROM中（作为PCIe装置的UEFI Option ROM），还可以以.EFI档案的形式被方便的载入。在UEFI规范中，一种突破传统MBR磁盘分区结构限制的GUID磁盘分区系统（GPT）被引入，新结构中，磁盘的主分区数不再受限制（在MBR结构下，只能存在4个主分区），另外UEFI+GPT磁碟分割表结合还可以支持2.1 TB以上硬盘（3TB以上硬盘使用MBR磁碟分割表，并且安装Windows 64位系统，Windows只能识别到2.1TB），并且分区类型将由GUID来表示。GPT磁碟分割表的硬碟可包含EFI系统分区（ESP），EFI系统分区（ESP）可以被UEFI固件存取，可用于存放操作系统的引导程序、EFI应用程序（如OEM的备份程式和硬体诊断程式）等等。EFI系统分区采用FAT档案系统，在Windows作业系统下预设在「本机」中隐藏。UEFI韧体通过执行EFI系统分区中的启动程式档案（副档名为.EFI的UEFI应用程式）启动作业系统。CSM是在x86平台UEFI系统中的一个特殊的模块，它将为不具备UEFI引导能力的操作系统以及16位的传统Option ROM（即非EFI的Option ROM）提供类似于传统BIOS的系统服务。Secure Boot功能要求原生UEFI（即关闭CSM），因此在UEFI韧体设定中开启CSM前，需要在UEFI韧体设定中关闭Secure Boot。
+
+Intel EFI最早被用于Intel Itanium（IA-64）系统中。Intel、AMD、HP、Apple等企业于2005年共同成立UEFI论坛（UEFI Forum）。早年UEFI并未成熟，2011年以前大部分个人电脑并不支援UEFI开机。最早采用EFI韧体的电脑之一是Apple的Intel Mac（Apple自推出Intel Mac后，所有采用Intel处理器的麦金塔电脑都使用EFI韧体）。随后微星科技推出了少数支援UEFI的主板（同时期采用UEFI韧体的零售PC主板很少）。2009年IBM和Dell也推出了采用UEFI韧体的伺服器，HP等电脑厂商也推出了少量支援UEFI开机的高阶个人电脑。部分采用EFI规范的BIOS韧体并不支援EFI开机，尤其是许多早年的OEM BIOS（尤其是笔记型电脑），这些BIOS虽然采用EFI规范，但是只支援Legacy开机。从2011年的Intel Sandy Bridge平台（第二世代英特尔酷睿i系列处理器）及AMD Llano平台（初代AMD APU）开始，大多数零售主机板采用UEFI韧体并支援UEFI开机，但在2011年时大部分PC显示卡（包括Intel处理器的Intel HD Graphics内显）未支援UEFI GOP规范，需要UEFI韧体的CSM才可以识别显示卡，该时期大部分的PC主板的UEFI也不能关闭CSM。英特尔的Ivy Bridge平台（第三世代英特尔酷睿i系列处理器）进一步完善UEFI支援，比如改善Intel HD Graphics内显的UEFI GOP支援，支援原生UEFI（即没有CSM的UEFI），支援Secure Boot，从Ivy Bridge平台开始，大部分PC主板的UEFI可以关闭CSM（虽然UEFI提供关闭CSM的选项，但是如果显示卡不支援UEFI GOP规范，则无法关闭CSM，或者关闭CSM后系统无法开机），随后，微软又要求，预装Windows 8的电脑，必须采用UEFI开机模式，以及Secure Boot。从2014年开始，大部分零售独立显示卡开始逐步支援UEFI GOP及Secure Boot。
+
+Linux内核自2000年开始，已经支援EFI启动。早期使用ELILO作为EFI下的启动程式。现在，GRUB的EFI版本已代替ELILO，大多数Linux发行版已使用GRUB作为UEFI下的启动程式。从Linux版本3.15起，来自英代尔的工程师Matt Fleming将64位元核心提供了支援32位元UEFI韧体的可能，前提只需要UEFI作业系统启动程式支援EFI handover协定 ，譬如流行的GRUB2。同样流行的32位元版Linux，譬如Ubuntu 16.04.3 LTS，也可以使用这类启动程式在64位元版UEFI韧体的机器上使用。
+
+安腾版本的Windows 2000已于2002年加入对EFI 1.10的支持。安腾版本的Windows Server 2003和Windows XP 64-Bit Edition（以IA-64架构作为执行平台）已支援EFI。
+
+从Windows Vista SP1开始，x86-64架构的Windows作业系统已支援UEFI。但是，若在UEFI模式下安装和启动Windows Vista SP1（或Windows Server 2008）或Windows 7（或Windows Server 2008 R2）通常需要在UEFI韧体设定中开启CSM，因为Windows 7/Windows Server 2008 R2并不支援原生UEFI显示使用的UEFI GOP协定。32位元的Windows Vista和Windows 7不支援UEFI启动。从Windows 8开始，支援Secure Boot，UEFI模式下的启动亦无须CSM（支援原生UEFI），32位元版本的Windows 8亦支援32位元的UEFI（不支援64位元的UEFI）。
+
+现在，x86-64架构的FreeBSD、OpenBSD和NetBSD已支援UEFI。
+
+VMware Workstation支援对UEFI的模拟，但是在VMware Workstation 11以前，VMware Workstation并未正式支援UEFI，需要手动编辑虚拟机的.vmx档案以开启虚拟机器的UEFI。VMware Workstation 11及以后的版本正式支援对UEFI的模拟。从VMware Workstation 14开始支援Secure Boot。
+
+VirtualBox支援对UEFI的模拟，但是VirtualBox的UEFI并不支援Windows Vista和Windows 7。
+
+QEMU/KVM可通过OVMF支援对UEFI的模拟。
+
+微软的第二代虚拟机器支援对UEFI的模拟，以及Secure Boot。
+
+类别0，这类系统使用x86 BIOS韧体，只支援传统作业系统。
+
+类别1，这类系统采用支援UEFI和Pi规范的韧体，启用CSM层功能，只支援传统作业系统。
+
+类别2，这类系统采用支援UEFI和Pi规范的韧体，启用CSM层功能，同时支援传统和UEFI启动的作业系统。
+
+类别3，这类系统采用支援UEFI和Pi规范的韧体，不再提供或完全关闭CSM层功能，只支援由UEFI启动的作业系统。
+
+类别3+，在类别3的系统基础上提供并启用Secure Boot功能。
+
+微软公司的Windows 8及之后的作业系统适用于上述所有类别的电脑，之前支援UEFI韧体的作业系统适用于类别0至类别2型电脑，不支援UEFI韧体的作业系统仅可用于类别0和类别1的电脑。所有支援UEFI启动的Linux作业系统适用于类别0至类别3型电脑，多数现行分发版也支援类别3+中的Secure Boot功能，譬如Ubuntu等。 Intel计划将于2020年推出的UEFI Class 3规范中，将Legacy BIOS界面完全舍弃，Intel旗下的所有产品将使用UEFI Class 3（有一部分产品可能是3+）。
+
+Ronald G. Minnich（coreboot的共同作者）和 Cory Doctorow（科幻小说家）和数位权利运动者批评EFI是企图借由禁止使用者完整控制他们的电脑，来保护智慧财产权。
+它并没有解决BIOS长期以来对多数硬体需要两种不同驱动程式的问题－－一个给韧体，一个给作业系统。 
+
+TianoCore（一个提供制作基于UEFI自由韧体工具的开放原始码专案）缺乏用来启动晶片组的专门的驱动程式，因此需要晶片组厂商提供额外的功能。TianoCore是coreboot的一个附加选项，它包含了启动晶片组的程式码。
+
+由于UEFI比起原先的BIOS技术可以对远端网路开机提供更高的弹性，因此在标准的安全规定有一些疑虑。
+
+在UEFI 2.3.1 Errata C规范中定义了一项名为「Secure Boot」的协定，Secure Boot只允许载入有适当数位签章的EFI驱动程式和EFI启动程式，作业系统核心也只载入有特定有效数位签章的驱动程式（尤其是Windows 10，当开启UEFI Secure Boot后，对驱动程式数位签章的检查更严格），因此Secure Boot可让开机过程更安全。但是Red Hat开发者Matthew Garrett在他的文章"UEFI secure booting"中忧虑UEFI的Secure Boot功能可能会影响Linux（贴有Windows 8认证贴纸的机器，预设Secure Boot启动，只预载了OEM和微软金钥，可能无法以Linux开机）。微软回应称顾客可以停用UEFI韧体中的secure boot。然而，某些OEM厂商仍然可能在其产品中省略这项功能。稍晚，报告指出微软显然禁止在ARM系统上实作停用Secure Boot的功能。
+
+自由软体基金会（FSF）的Josh Gay对UEFI的"Secure Boot"实作提出忧虑，并发表公开声明及连署说：
+我们—连署者—敦促所有实作了UEFI中称为"Secure Boot"的电脑制造商立即允许自由的作业系统可以被安装。基于尊重使用者的自由权以及确切保护使用者安全，制造商必须允许电脑拥有者停用开机限制，或是提供一个确切可能的方法让他们安装并执行自由的作业系统。我们承诺我们将不会购买、也不会推荐剥夺使用者重要自由的电脑，并且，我们将积极地敦促社会大众避免如此禁锢使用者的系统。
+2012年1月，微软释出一份关于OEM硬体认证的文件，指出所有的x86和x86-64装置应该将UEFI Secure Boot启动，不过可以改用一个可让使用者增加数位签章的自订secure boot模式。然而，在执行Windows的ARM装置上使用自订secure boot模式或停用都是不可能的。这份称为Windows硬体认证需求（）证实了执行Windows 8、基于ARM的装置被禁止了任何安装其他作业系统的可能性。现在，Ubuntu、Fedora、openSUSE、RHEL（从RHEL 7开始）、CentOS（从CentOS 7开始）等Linux发行版已经支援Secure Boot。大部分PC/x86伺服器也可以关闭Secure Boot（包括微软Surface）。Windows 8以后的微软Windows作业系统可支援Secure Boot，Windows 10在开启Secure Boot的情况下更可使用Device Guard等功能。Secure Boot要求原生UEFI环境，即不能开启CSM，也就是开启Secure Boot的系统不支援Legacy开机及Legacy Option ROM。
+
+针对UEFI进行攻击的可行性已经被证实，不过首支被确认的感染UEFI的rootkit恶意程式在2018年9月底才被发现。该恶意程式在东欧、巴尔干地区甚至到中欧均有被感染案例，去除该恶意程式的唯一方法是重新灌写UEFI韧体，欲防止再次被感染则是要额外开启Secure Boot或依靠主机板禁止更新韧体的功能，Intel 5 系列 PCH 以后的装置也许不受影响，但不少政府部门、公司机构中仍保有大量的旧型且使用UEFI韧体的电脑，仍有大规模爆发的危险。
+
+

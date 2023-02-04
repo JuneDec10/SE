@@ -1,0 +1,11 @@
+Open Sound System
+
+开放声音系统（Open Sound System，OSS）是一个在 Unix 操作系统上用于发出和取得声音的介面。它是基于标准的 Unix 设备（即 POSIX 的读、写、ioctl 等）。
+
+OSS 是在 1992年由 Hannu Savolainen 创造的，目前可用于11个主流的类Unix操作系统。OSS 可以在4种授权选择下发布，其中3种是自由软体授权，因此 OSS 是自由软体。
+
+这个 API 设计成使用传统 Unix 的 open()、read()、write() 和 ioctl() 架构，存取特定的设备。例如，声音输入和输出的预设设备是 /dev/dsp。使用Shell 的例子：
+
+2007年7月，4Front Technologies 发布用于 OpenSolaris 的 CDDL 和用于 Linux 的 GPL 授权的 OSS 原始码。 2008年1月4Front Technologies发布基于 FreeBSD （和其它 BSD 系统）下BSD许可证的 OSS。
+
+

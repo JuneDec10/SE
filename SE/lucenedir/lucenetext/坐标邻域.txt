@@ -1,0 +1,8 @@
+坐标邻域
+
+坐标邻域（Coordinate Neighborhood）是拓扑空间中的开集与其在欧几里得空间上的映射的有序对。
+
+当从拓扑空间formula_1的开集formula_2，到formula_3维欧几里得空间formula_4中的开集formula_5的同胚映射
+存在时，formula_2和formula_8的有序对formula_9称为formula_3维坐标邻域。
+
+

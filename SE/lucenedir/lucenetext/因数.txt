@@ -1,0 +1,55 @@
+因数
+
+因数（又称约数)是一个常见的数学名词，用于描述非零整数 formula_1 和整数 formula_2 之间存在的整除关系，即 formula_2 可以被 formula_1 整除。这里我们称 formula_2 是 formula_1 的倍数，formula_1 是 formula_2 的因数、约数或因子.
+
+设 formula_9 满足 formula_10. 若存在 formula_11 使得 formula_12, 那么就说 formula_2 是 formula_1 的倍数， formula_1 是 formula_2 的约数。这种关系记作 formula_17,读作“formula_1 整除 formula_2”.
+
+例如 formula_20. 所以 formula_21，同时 formula_22 是 formula_23 的因数；formula_24 是 formula_25 的因数。
+
+
+
+
+
+这里对最后一条性质进行证明:
+
+formula_40
+
+formula_41 
+
+证毕。
+
+任何一个正整数都有且仅有一种方式写出它所有素数因子的乘积表达式。这个过程称为质因数分解
+
+如果 formula_42, 那么 
+
+formula_43, 其中 formula_44 是一个素数.
+
+这种表示方法是唯一的。
+
+自然数 formula_45 的因数个数以 formula_46 表示。
+
+若 formula_45 唯一分解为 formula_48, 则 formula_49.
+
+例如 formula_50，则其正因数个数 formula_51。
+
+自然数的正因数和，以因数函数 formula_52 表示。由质因数分解而得。
+
+若 formula_45 唯一分解为 formula_48, 则 formula_55.
+
+再由等比级数求和公式可知，上式亦可写成：
+
+formula_56
+
+例如formula_50，则其正因数之和
+
+formula_58。
+
+
+由上式同样可证明，一个整数及其相反数必然为自身的因数，叫做明显因数。
+
+
+
+这个程序可以打印给定正整数 formula_65 的所有正因数。时间复杂度为 formula_66
+
+这个程序可以打印 formula_67 的所有因数之和，由于这个答案可能很大，所以会对一个整数取模，默认为 2147483648.
+

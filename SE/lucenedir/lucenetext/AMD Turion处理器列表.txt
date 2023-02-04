@@ -1,0 +1,14 @@
+AMD Turion处理器列表
+
+Turion 64是AMD公司为流动平台而设的K8处理器。
+
+备注:列表中除了罗列Turion系列处理器外，也会罗列其架构衍生出来的Athlon,Sempron等系列处理器。
+
+
+
+
+
+
+
+
+

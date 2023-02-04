@@ -1,0 +1,13 @@
+Socket AM2
+
+，原称“”，是供AMD桌上型处理器使用的CPU插座，用以取代Socket 754和939，并已于2006年5月23日推出。内含940个接脚，支援双通道DDR2 SDRAM，但针脚的排列方式与Socket 940不相同，又因为S940不支援DDR2 SDRAM，因此两者并不兼容。据AnandTech一份近期的测试报告指出，在配备相同周边产品的环境下，使用AM2的系统的性能比使用S939的快0-7%。
+
+首批支援AM2的处理器，计有代号Orleans的单核Athlon 64（3200+至3800+）、Windsor的双核Athlon 64 X2（3800+至5000+）及Athlon 64 FX（FX-62），代号Santa Ana的Opteron 1200系列，以及代号Manila的Sempron，全数均使用90纳米制程，支援SSE3及虚拟化技术。而代号Brisbane的双核Athlon 64 X2（3600+至5000+）及Athlon X2（BE-2300和BE-2350）、代号Lima的单核Athlon 64（3500+和3800+），以及代号Sparta的Sempron（LE-1150），则使用65纳米制程。
+
+Socket AM2也是AMD的主流CPU插座之一，另有供Opteron 2000系列以上及Athlon FX-70以上使用的Socket F，及供行动电脑使用的Socket S1。
+
+AM3处理器使用新的记忆体控制器，支援DDR2及DDR3；由于AM2处理器只支援DDR2，因此不能用于AM3底板。Socket AM2与Socket AM3之间有过渡产品Socket AM2+，加入HT3.0支援。
+
+Socket AM3及Socket AM2+处理器可用于Socket AM2底板，只是系统汇流排速率会从原HT3.0(5200 MT/s)降至HT1.0(2000MT/s)，但非所有主机厂商皆提供BIOS更新。
+
+

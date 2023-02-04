@@ -1,0 +1,9 @@
+奔腾Extreme Edition
+
+它是第一代Pentium Extreme Edition所用的核心，跟Penitum D 8XX系列一样，唯一不同的是它有超执行绪技术。这个系列只有一枚处理Pentium Extreme Edition 840。
+这个系列必须使用英特尔的i955X或i975X及NVIDIA的NForce 4 SLI Intel Edition晶片组，使用i945系列晶片组的话会关闭超执行绪功能。
+
+它是第二代Pentium Extreme Edition的核心，跟Pentium 9XX系列一样，但开启了超执行绪技术，使用1066MHz FSB，以及解除了倍频锁。这个系列有两枚处理器，分别是955及965。Presler必须搭配英特尔的i975X晶片组或NVIDIA的nForce4系列。
+
+英特尔将以使用Intel Core微处理器架构的Intel Core 2 Extreme取代Pentium Extreme Edition。
+

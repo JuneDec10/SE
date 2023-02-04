@@ -1,0 +1,18 @@
+到达域
+
+对应域（），或称为陪域、上域、目标集合()。
+
+在数学领域中，一个函数的对应域指的是至少包含所有此函数的输出值的一个集合。在函数符号formula_1中，formula_2是函数formula_3的对应域。
+
+formula_3的值域是formula_2的一个子集，若formula_3是一个满射函数()，则formula_3的对应域和值域相等，反之则代表有formula_8不存在于formula_3的值域中，使得方程式formula_10无解。
+
+定义三个函数：
+其中formula_14。
+
+定义formula_29为介于两个线性空间的线性变换：
+formula_29也可以被表达成一个的实数矩阵，代表一个从定义域formula_32到对应域formula_32的对应方式。
+假设
+则代表把所有定义域中的点formula_35 对应到对应域中的点 formula_36。由于formula_29的值域只搜集了所有formula_38的点，例如点formula_39不在formula_29的值域中，但在formula_29的对应域formula_32中，因此formula_29不是一个满射函数。
+
+在此例中，的矩阵在秩(rank)等于2时，为满射函数，小于2时则非。对应域和值域是否相等可做为判断矩阵是否有满秩(full rank)的依据，因为formula_29的值域小于对应域，所以formula_29没有满秩。
+

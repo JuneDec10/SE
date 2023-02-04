@@ -1,0 +1,14 @@
+RMVB
+
+RealMedia Variable Bitrate，缩写RMVB，是由RealNetworks开发的RealMedia多媒体封装格式的一种动态比特率扩展。采用此格式文件的后缀名为“.rmvb”。
+
+相较于一般使用了固定位元率的RealMedia视讯文件格式「.rm」，RMVB副档名多出的「VB」指的是可变动的位元率（Variable Bitrate）。也由于变动位元率的缘故，RMVB可以在画面变动不大或是简单的影片片段，降低位元率；反之，在画面变动大或是动态的影片片段，提高位元率，借以在档案大小以及画质之间取得一个平衡。一般而言，在较低的平均位元率下，RMVB格式的影像画质会较原先固定位元率的RealMedia档案来得要好。
+
+RealMedia用了许多与MPEG-4 Part 10编解码器（像是H.264）相似的压缩技术。
+
+RMVB在传递亚洲地区的影片，尤其是动画和中文的影集，非常的流行。因此，在档案分享平台上，例如BitTorrent、eDonkey和Gnutella上，RMVB非常流行。
+
+主要的媒体播放程式对于RMVB的支援有限，一般是在Windows平台上。包括商业软体RealPlayer 10，和在使用了适当的DirectShow过滤器、或是Real Alternative的开放原始码软体Media Player Classic。MPlayer和totem等程序，可以在Linux或UNIX为基础的x86电脑上，借由使用WIN32的动态连接库（DLL），或是原生的封闭原始码函式库播放。
+
+
+

@@ -1,0 +1,33 @@
+SUSE
+
+SUSE（发音/ˈsuːsə/）是Linux作业系统的发行版之一，也是德国的一个发行版。SUSE属于Novell旗下的业务，它同时亦是Desktop Linux Consortium的发起成员之一。
+
+SUSE Linux原是以Slackware Linux为基础，并提供完整德文使用界面的产品。1992年 Peter McDonald成立了Softlanding Linux System（SLS）这个发行版。这套发行版包含的软件非常多，更首次收录了X Window及TCP/IP等套件。Slackware就是一个基于SLS的发行版。
+
+SuSE于1992年末创办，目的是成为UNIX技术公司，专门制为德国人推出量身订作的SLS/Slackware软件及UNIX/Linux说明文件。1994年，他们首次推出了SLS/Slackware的安装光碟，命名为S.u.S.E. Linux 1.0。其后它综合了Florian La Roche的Jurix distribution（也是一个基于Slackware的发行版），于1996年推出一个完全自家打造的发行版 - S.u.S.E. Linux 4.2。其后SUSE Linux采用了不少Red Hat Linux的特质。（使用RPM及/etc/sysconfig）
+
+"S.u.S.E."后来改称/简短为"SuSE"，意思为"Software-und System-Entwicklung"，那是一句德文，英文为"Software and system development"。现在这家公司的名字再度更改成SUSE Linux，"SUSE"一字已经不包含甚么意义了。有非官方的谣言说"SUSE"同时是指德国电脑先驱Konrad Zuse的一个双关语。
+
+2003年11月4日，Novell表示将会对SUSE提出收购。收购的工作于2004年1月完成。Novell也向大家保证SUSE的开发工作仍会继续下去，Novell更把公司内全线电脑的系统换成SUSE LINUX，并同时表示将会把SUSE特有而优秀的系统管理程式 - YaST2以GPL授权释出。
+
+2005年8月4日，Novell公共关系科的领导及代言人 － Bruce Lowry表示，SUSE Linux Professional系列的开发将变得更开放以及让社群参与当中的工作。新的开发计划名为openSUSE，目的是为了吸引更多的使用者及开发人员。相比以往，现在所有的开发人员及使用者能够测试SUSE的产品并一起开发新版本的SUSE。在以往，SUSE的开发工作都是于内部进行的。SUSE 10.0是第一个给予公众测试的版本。为了配合这个转变，用户除了能够购买盒装版本的SUSE外，也可以从网络上免费下载。一系列的改变让于2005年10月6日推出的SUSE Linux有三个版本 － "OSS版"（完全地开放原始码）、"试用版"（同时包含开放原始码的程序及专属程序如Adobe Reader、Real Player等，其实就是盒装零售版，也可以免费下载，可以安装在硬碟上，并且没有使用限制或限期，但不含说明手册及Novell提供的技术支援）及盒装零售版。
+
+2013年11月9日，发布内核版本openSUSE 13.1，它是SUSE Linux Enterprise的产品基础。该内核版本更新了所有的应用程序的版本，包括服务器的应用程序和桌面的应用程序，引入一些新的特性，吸纳了1000多个的开源项目，比方引进了OpenStack Havana将近400个新的功能点等。
+
+2011年4月Attachmate集团购并了网威，连带购并了SUSE，但该集团将SUSE分立成一个独立的事业单位，之后2014年10月Micro Focus国际购并了Attachmate集团，连带拥有网威与SUSE，但SUSE依然维持独立事业单位。
+
+SUSE包含一个安装及系统管理工具YaST2。它能够进行磁碟分割、系统安装、线上更新、网络及防火墙组态设定、用户管理和其他更多的工作。它为原来复杂的设定工作提供了方便的组合界面。
+
+SUSE支持在安装的时候调小NTFS硬碟的大小，令把Linux安装到一台已经安装了Windows 2000或XP的电脑的工作进行得更顺利。此外，SUSE亦会自动侦测很多常见的Windows数据机并为它们安装驱动程式。
+
+SUSE也收录了Linux下的多个桌面环境如KDE和GNOME及一些视窗管理员，比如是Window Maker、Blackbox等。YaST2安装程式也会让使用者选择使用GNOME、KDE或者不安装图形界面。SUSE已经为使用者提供了一系列多媒体程式如K3B（CD/DVD烧录）、amaroK（音乐播放器）和Kaffeine（影片播放器）。它也收录了OpenOffice.org，以及其他的文字阅读／处理格式，如PDF等。
+
+SUSE Linux 11 分别有零售版本及自由、开放源码的版本，叫作SUSE Linux OSS。在软体收录方面，两者几乎一模一样。它们最大的分别是，零售版含有一些专属软体如Macromedia Flash Player。此版本的售价为$59.95美元，包括一本手册以及有限度的技术支援。SUSE Linux OSS则可以于它的网站上免费下载。零售版及可于网络上免费取得试用版有1片DVD及5片CD，SUSE Linux OSS则只提供5片CD，但DVD所包含的就是那5片CD的软体，它只是为用户提供一个更方便的安装媒介。
+
+SUSE Linux也提供了一个企业伺服器版本，名为SUSE Linux Enterprise Server。它可以免费取得，但如果不付款，它只提供30天的更新服务。
+
+过往，SUSE有别于其他的Linux般发行版提供立即为他们的新版本提供免费下载。SUSE首先释出盒装，包含说明手册的个人版（Personal）及专业版（Professional），然后才于几个月后提供FTP网络安装。近年SUSE有提供特别的专业版本，该版本缺少一些商业软体，但此版本没有提供一般的iso影像档，而是要使用者下载一片小型的开机碟（磁片或光碟）并使用上面所提及的网络安装。从9.2版开始，一片LiveDVD试用光碟可以免费取得。
+
+现在，由于openSUSE计划，无论是SUSE Linux OSS，还是试用版光碟，都可以于SUSE Linux释出新版本后马上取得。
+
+

@@ -1,0 +1,105 @@
+ITunes
+
+iTunes是一款媒体播放器的应用程式，2001年1月10日由苹果电脑在旧金山的推出，用来播放以及管理数位音乐与视讯档案，是最受欢迎的管理iPod与iOS设备档案的主要工具之一。此外，iTunes能连线到iTunes Store（在有网路连线且苹果公司在当地有开放该服务的情况下），以便下载购买的数位音乐、音乐影片、电视节目、iOS应用（在iOS 11推出后去除）、各种Podcast以及标准长片。2015年起电脑端的Apple Music服务也被整合进了iTunes中。
+
+此程式原来由和开发，当初称作，1999年由发表。2000年被苹果电脑买下，更换新的使用者介面，增加烧录CD的功能，并且移除面板支援，改名为iTunes。起初只能在Mac OS 9 作业系统上运行，九个月后，第二版支援Mac OS X系统，第三版停止支援Mac OS 9。2003年10月，iTunes 4.1版本发布，增加了对Windows 2000和XP的支援。2007年，微软发布最新的作业系统Windows Vista，与iTunes有数个已知的相容性问题，苹果已发行新版本以修正问题。
+
+iTunes可从苹果的网站免费下载取得，麦金塔电脑和一些iPod产品也有附带此软体。它也曾是苹果iLife多媒体应用程式套件的一部分。
+
+iTunes是从SoundJam MP——由Mac软件公司Casady & Greene发行的一个流行的商业MP3软件——发展而来的。苹果公司买下了SoundJam MP的版权并且雇佣了创建了SoundJam的三位程序员比尔·金凯德、杰夫·罗宾和戴夫·海勒。iTunes的第一个发行版与SoundJam MP十分相似，增加了CD烧录功能与一个更好的用户界面。苹果已经在iTunes的后续版本中增加了许多重要的功能。
+
+苹果也已开发在行动电话上（例如Motorola ROKR、Motorola RAZR与Motorola SLVR）执行的iTunes商标软体。
+
+使用者能够将他们的音乐组成播放清单、编辑档案资讯、烧录CD、透过它内建的Music Store购买音乐、下载Podcast、备份歌曲至电脑中、执行视觉化、及时配合音乐表现生动的效果和编码音乐成为许多不同的音讯格式。
+
+iTunes在两个档案中存储关于音频档案的元数据。
+
+第一个是名为"iTunes Library"的二进位档案（先前版本中名叫"iTunes "x" Music Library"），它使用了自己专有的曲库格式。它不仅缓冲类似艺术家和类型这样的储存在音频档案的标记空间（例如ID3标记）中的信息，也存一些像「播放计数」和「采样率」的iTunes特殊信息。
+
+第二个档案名为"iTunes Music Library.xml"，它在iTunes中的信息改变时被刷新。它是XML格式的，允许开发者容易的开发像Apple的iDVD、iMovie和iPhoto或Freshly Squeezed Software's Rock Star.一样的可以存取它的信息的软件。
+
+这一系统防止厂商占有对一条音轨的元数据的任何改变，除了「播放计数」、「最后播放」和「采样率」这些被存储在专有档案中的元数据，其它所有信息通过XML档案而变得有效。
+
+iTunes用户可选择以不同方式浏览iTunes影音资料库，例如目录、目录附有相应的封面图片、网格浏览模式或Coverflow。
+
+iTunes音乐资料库中的歌曲可以使用Bonjour（之前称作Rendezvous）而在区域网路中分享－这是Apple的Zeroconf（无需设定，Zero Configuration Required）开放式网路标准实做。这个技术可以让同一个子网段中的歌曲可以自动的被分享而且侦测。当一首歌曲被分享的时候，iTunes会将这首歌曲串流到另外一台电脑上，但是为了防止被拷贝而不能被储存。那些使用版权保护AAC的歌曲也可以被存取，但是需要由iTunes Music Store取得授权。每24个小时之中最大容许五个使用者连线。
+
+曾经在iTunes 4.0中，使用者可以透过网际网路自由的存取被分享的音乐，除了透过同一子网路外，也可以透过指定那些远端分享音乐资料库的IP地址。苹果电脑很快地在4.0.1版中移除了这个功能，它们声明这违反了终端使用者许可协定（EULA）。
+
+音乐分享使用了数位音乐存取协定（DAAP, Digital Audio Access Protocol），这是由苹果电脑所创立的协定专门用于分享音乐的用途。 DAAP已经由逆向工程而解开了，而目前则常被用于非苹果公司出的软体来分享播放清单。
+
+iTunes 9目前可以读取、写入以及转换于MP3、AIFF、WAV、MPEG-4、AAC与Apple Lossless之间。
+
+iTunes也能播放任何QuickTime能播放的（甚至是一些视讯格式），包括来自iTunes Store与Audible.com有声书的受保护的AAC档案。为了播放其他格式，例如内含Ogg的Vorbis或Speex编码，iTunes需要安装Xiph QuickTime元件。
+
+曾经有一些对苹果公司MP3编码器对于以可变位元率编码的品质评论。在2004年1月，双重匿名的六种MP3以128 kbit/s编码的编码器，由Roberto Amorim带领公开收听测试，iTunes MP3 VBR编码器排名最后。该带领人稍后以iTunes如何被测试有严重问题的经过证实。
+
+iTunes的Windows版本能自动地转换未受保护的WMA（包括版本9）档案至其他的音讯格式，但它不支援直接播放或编译过的WMA格式。
+
+iTunes使用电脑的音效卡播放音乐。iTunes也包含了音频处理的功能，叫做等化器（equalizing），和「音频增强」（sound enhancer），有些语言也翻译成「音频改进」（sound improver）。
+
+于2005年5月9日，iTunes 4.8及iTunes视讯支援一同推出。用户可直接从电脑把影像片段拉入iTunes资料库中加以分类及管理。影像可分别在iTunes主视窗中的小框，分开的视窗或全荧幕浏览。在iTunes中，视讯支援的功能不太完善：虽然在资料库中的影像是由电视或显示器的小图示与音乐分开，但仍然与普通音乐档放在一起及由相同的音乐类别（如"专辑"及"作曲者"）所分类。iTunes也与一些主流的格式不兼容，包括AVI及WMV。
+
+在2005年10月12日，苹果公司推出能于iTunes音乐商城购买及收看视讯内容的iTunes 6.0.当时iTunes音乐商城推出了过千支精选的音乐影像及5套电视节目，包括ABC's的"LOST档"，在节目播放后24小时即时可在商城购买，还包括了一些上一季度的精选节目；当时的精选节目同时也包括了NBC Universal, USA Network, Sci-Fi Channel shows及Viacom，期后也加入了一些Disney-owned networks'的节目。商城同时也公开了一些苹果公司的精选电影预告片。在商城购买的视讯格式是128 kbit/s Protected MPEG-4 video（H.264）1.
+
+到2006年1月26日为止，iTMS提供超过40个电视节目下载，包括最新添加的Nickelodeon以及MTV的多个系列如"SpongeBob SquarePants"以及明星大整蛊。目前许多的视讯和Video Podcast需要Quicktime（7）的最新版本，而与MacOS的旧版本不相容（仅v10.3.9与其以后版本才被支援）。
+
+到2006年7月4日为止，iTunes音乐商店提供超过了一百五十种电视节目供人下载；其中包括最近新加入的Discovery Channel，MTV and FOX的节目等。
+
+音乐商城的影片内容为受保护的，含有大约128 kbit/s AAC音轨的540 kbit/s编码MPEG-4视讯（H.264）。
+许多影片及视讯Podcast需要最新版的Quicktime，Quicktime 7在较古早的MacOS上可能不相容（只有v10.3.9及后续版本可以支援）。
+
+第三代iTunes引进了「智能播放列表」，以取代静态播放列表，智能播放列表可被设定为基于一个自订的列表选择标准自动更新（线上更新），（像一个资料库查询）。用户可设定多个选择标准控制播放列表。
+
+所有使用者都可iTunes Store发布播放清单，这是所谓的iMix。
+
+播放列表可以随机或按顺序播放。「随机性」乱序算法可以从一张专辑或一位艺术家的不同的音轨中选出不同的音轨进行播放（iTunes 5.0版本中的一个新特性）。派对随机播放也可以从评定等级较高的曲目中选取音轨进行播放。
+
+派对随机播放列表被用作一个简单的DJ助手。预设情况下，它随机的从曲库或其它播放列表里选取音乐；用户可以通过删除其中的音乐来凌驾它的自动选取的结果（iTunes将选取新的乐曲来替代它们），也可以通过即拖即放或右键选单添加自己的音乐来达到同样的效果。这样就可以使一个播放列表中同时包含使用者预选的和随机选取的音乐。派对随机播放列表可以在运行中撷取；这使所有随机选取的音乐在播放列表播放时被替换。
+
+此为8.1派对随选歌曲的更新
+
+iTunes 8.0引进了Genius播放列表。Genius播放列表能从使用者的音乐资料库自动产生包含一个25，50，75，或100首和已选取的歌曲类似的播放列表。Genius播放列表的结果可重新整理或储存。Genius栏会根据已选取的歌曲从iTunes Store推荐歌曲。为使Genius播放列表变得完整，使用者需要一个iTunes Store帐号，一些讯息和使用者的音乐资料库都会被传送到苹果资料库。Genius会因编制用户的音乐资料库已变得「聪明」，Genius产生的结果也会随时间变得更加准确。
+自iTunes 4开始，苹果为iTunes引入了iTunes Store音乐商城，iTunes使用者可以从商店中购买并下载歌曲，这些歌曲可以被使用在有限个数的电脑以及无限台iPod。从iTunes Store中购买的歌曲会使用苹果的FairPlay数位版权管理（DRM）系统防止用户自行拷贝。从2003年四月28号该商店开张以来至2006年2月22号为止，已经有超过1亿首歌被下载了。
+
+有些使用者开始抱怨iTunes Music Store和iTunes的紧密整合导致了购买的音乐没有办法被使用Mac OS X或是Microsoft Windows以外作业系统（像是Linux，以及其他所有不被iTunes支援的作业系统）的使用者播放。这些抱怨导致了许多其他的播放程式开始被开发，使用了一些小技巧或是被公开的破解方式，让iTunes Music Store的顾客可以使用自己所想用的播放软体或是作业系统。在这些软体中，最引人注目的是PyMusique，苹果电脑公司曾多次想要封锁这套软体但都失败了。
+
+其他的抱怨来自于他们的音乐只能够在iTunes或是iPod中轻松的播放（虽然事实上，这些歌曲是可以被合法的烧录成光碟的）。这些抱怨启发了如Hymn这类软体的开发，这些软体可以将已经购买的音乐解密（只支援iTunes 6.0以前的版本），让他们可以在任何播放器上播放甚至是分享出去。
+
+其他一些比较小的抱怨像是缺乏回复的功能，像是使用者可以重新下载那些不小心丢失的音乐。iTunes的许多竞争者就提供了这样的服务，但是iTunes只允许重新授权（或者恢复已购买音乐的授权）。
+
+美国的iPod主人们当第一次连接他们的iPod到电脑上时，他们会被带到一个特殊一次性的iTunes Music Store页面。这个页面目前提供了一个由Lava和Atlantic Records所免费提供的试听专辑，您可以下载整张专辑或是只下载单首歌。一个Universal Records提供的试听专辑曾经可以在这个页面中找到，而现在可能依然可以透过特殊的网址而取得。
+
+目前iTunes Music Store在以下国家和地区提供服务：香港、美国、英国、法国、德国、奥地利、比利时、芬兰、希腊、意大利、卢森堡、荷兰、葡萄牙、西班牙、加拿大、爱尔兰、瑞典、挪威、瑞士、丹麦、日本、澳大利亚、新西兰、墨西哥、保加利亚、塞浦路斯、捷克、爱沙尼亚、匈牙利、拉托维亚、立陶宛、马耳他、波兰、罗马尼亚、斯洛文尼亚、斯洛伐克、阿根廷、巴西、玻利维亚、智利、哥伦比亚、哥斯达黎加、多米尼加、厄瓜多尔、萨尔瓦多、危地马拉、洪都拉斯、尼加拉瓜、巴拿马、巴拉圭、秘鲁、委内瑞拉、文莱、柬埔寨、老挝、澳门、马来西亚、菲律宾、新加坡、斯里兰卡、台湾、泰国和越南。
+
+MiniStore在iTunes 6.0.2版本中加入。MiniStore是在主视窗的底部增加了一个可以显示／隐藏的小视窗。当用户在曲库中选择了一个条目，条目的相关信息将被送往iTunes商店，MiniStore将显示相关的歌曲或者影片。起初，由于担心这个特性会被用做间谍软件，人们对MiniStore存有争议。苹果声明MiniStore并没有从用户处获得任何信息并在之后将其作为可选项。
+
+2007年5月30日，苹果在iTunes Store上发布iTunes U。iTunes U用iTunesU这种格式把大学课程发表在Store上供用户下载。iTunes U涵盖美国、英国、澳大利亚、加拿大、爱尔兰和新西兰的一些大学课程。
+
+2005年6月28日发布的4.9版本的iTunes增加了内建Podcasting（中文译名「播客」）支持。用户可以在iTunes Music Store或者透过登入feed URL订阅podcasts。订阅了之后，podcast将被自动的下载。用户可以选择每周、每日、每小时或手动更新podcast。苹果维护了四个「官方的」podcast：Podfinder（Adam Curry）、Street Official Real Talk（采访hip-hop艺术家）、iTunes New Music Tuesday和Apple Quarterly Earning Call。目录的首页同样显示来自商业广播电台和独立播放的引人注目的Podcast。要获得关于Podcasting的资料，请看外部连结。
+
+iTunes 6介绍了对视讯播客的支持，尽管video和RSS支持已经非正式的存在于iTunes 4.9了。用户可以通过iTunes Music Store和feed URL订阅RSS feed。Video podcast不但可以包含可下载的视讯档（MOV、MP4、M4V、MPG），而且可以包括串流甚至IPTV。可下载的档可以传输到新型的iPod上，而且可下载的档案和串流可以在苹果新的Front Row媒体中心程序中播放。
+
+每当一个iPod与它相连时，iTunes会自动的同步它的音乐与影片库（OS X版本的iTunes可以同步几种不同的数字音频播放器；Windows版本的iTunes只支持iPod）。新的曲目与播放列表被自动的复制到iPod上，电脑曲库里删除了的曲目也会在iPod中被删除。iPod中对曲目的评价将被反馈到iTunes曲库里，有声书将记住最后一次播放的位置。
+
+自动同步可以关闭，以便手动复制单独的曲目或完整的播放列表；然而，iTunes只可以把音乐复制到iPod上却不可以反向进行，这启发了第三方软件支持把音乐从iPod中复制出来。通过一些软件，在Unix命令行也可以做这一工作。
+
+当与电脑相连的iPod没有足够的剩余空间来同步iTunes中的曲库时，将会创立一个与其相连的iPod同名的播放列表。这个播放列表可以被用户更改以充当可用的空间。
+
+iTunes与苹果电脑Macintosh中的Mac OS X操作系统下的数位生活套装软体iLife和其专业文案制作套装软体iWork能够紧密配合无间。这些苹果电脑软体套装下的各个成员都可以直接的读取iTunes数据库里的播放清单和MP3文档。iTunes下的音乐档可以直接地植入Pages的档案里或用于提供配乐给iWeb、iDVD、iMovie和Keynote下的制作。GarageBand所制作和输出的音档会自动地写入iTunes的数据库里。同时Front Row也是从iTunes和iPhoto中读取数据，所以iTunes因此也能与FrontRow配合无间。
+
+iTunes Artwork.saver是一个包括在10.4中的屏幕保护程序，它将专辑插图显示作屏幕保护。iTunes.widget是一个用于控制iTunes的Dashboard Widget。
+
+众多的第三方应用程序也使用者iTunes数据库。iEatBrainz是一个MusicBrainz通过AppleScript查询和更正iTunes数据库的标签添加程序。
+
+为弥补物理CD的不足，iTunes能打印自订的珍藏版插页及歌曲／专辑列表。在从播放列表中烧制CD完成后，用户可以选择这个播放列表并点按档案-打印，打开一个有著打印选项的对话框。这些用户能选择打印单专辑封页（购买的iTunes专辑）或者一个组合封页（用户自创列表）。iTunes能自动设置一个一面包含专辑图片，另一面包含轨道标题的模板。
+
+iTunes 1.0附带了对Kerbango网际网路广播电台服务的支持，提供给iTunes用户一个另一个可用的流行线上广播电台串流媒体的选择。2001年，Kerbango公司推出了商业，苹果公司为iTunes 2.0及其后续版本建立了它自己的网上广播服务。截止于2005年7月，iTunes广播服务已经可以支持大约200到300个不同的「广播站」（网上共有超过400个支持多比特率的串流媒体），大多数是MP3串流的格式。节目涵盖了许多种类的音乐和谈话，其中包括了像Radio Paradise、DI.fm、SomaFM之类的主要的线上广播以及以KKJZ、WFMU和WMVY为代表的地面电台。iTunes同样支持可以用Winamp播放的.pls和.m3u格式档，iTunes几乎使用了所有的串流媒体格式。
+
+苹果公司目前不再升级Internet广播电台了，iTunes网站上也没有任何消息被提起。
+
+iTunes支持视觉化和设备插件。视觉效果插件允许开发者建立音乐驱动的视觉效果（iTunes包括一个预设的视觉效果，G-Force，许可证来自SoundSpectrum）。视觉效果插件SDK for Mac与Windows可以从苹果网站上免费下载。设备插件允许对附加音乐播放设备的支持，但是苹果将只授权API给那些签署了保密协议的"bona fide"OEM。
+
+2015年6月30日，随着Apple Music在iOS上率先推出，苹果公司也正式宣布Apple Music同时会整合进iTunes中。
+
+

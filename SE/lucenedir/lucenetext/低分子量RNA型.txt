@@ -1,0 +1,9 @@
+低分子量RNA型
+
+低分子量RNA型(low molecular weight RNA pattern, LMW-RNA pattern)，又称低分子量RNA指纹(LMW-RNA fingerprinting)是一种电泳技术，用来分离小分子量的RNA，如5S rRNA(107~131nt)、第二族tRNA(82~96nt)、第一族tRNA(72~79nt)等。
+
+对于纯菌株，tRNA和5S rRNA的指纹图谱可用于鉴别基因型和分类（5S rRNA用于不同属，tRNA用于不同种）。
+
+在分子生态学中，低分子量RNA型的5S rRNA带可以给出群落多样性的概貌。
+
+实验步骤为：

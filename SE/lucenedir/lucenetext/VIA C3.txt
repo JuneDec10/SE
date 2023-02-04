@@ -1,0 +1,9 @@
+VIA C3
+
+VIA C3是一款x86处理器，早期为继承从Cyrix收购来的智慧产权，而被命名为「VIA Cyrix III」，但它实际上是由从Integrated Device Technology（IDT）中收购来的Centaur Technology部门的开发人员以WinChip处理器为基础而开发，由台湾的威盛电子（VIA）制造，与基于Joshua核心的Cyrix III无关。后被更名为VIA C3，是VIA“中国芯”C系列的经典版本。
+
+
+
+
+
+

@@ -1,0 +1,104 @@
+阿达马变换
+
+阿达马变换（），或称沃尔什-阿达玛转换，是一种广义傅立叶变换（Fourier transforms），作为变换编码的一种在影片编码当中使用有很久的历史。在近来的影片编码标准中，阿达马变换多被用来计算SATD(一种影片残差信号大小的衡量)。
+
+在数字信号处理大型积体电路演算法的领域中，阿达马变换是一种简单且重要的演算法之一，主要能针对频谱做快速的分析。
+
+在H.264中使用了4阶和8阶的阿达马变换来计算SATD，其变换矩阵为：
+
+当计算4x4块formula_3的SATD时，先使用下面的方法进行二维的阿达马变换：
+
+然后计算formula_5所有系数绝对值之和并归一化。
+类似的，当计算8x8块formula_6的SATD时，先使用下面的方法进行二维的Hadamard变换：
+
+然后计算formula_8所有系数绝对值之和并归一化。
+
+阿达马变换转换主要型式为 formula_9 点的转换矩阵，其最小单位矩阵为 2x2 的阿达马变换矩阵，以下分别为二点、四点与如何产生 formula_9 点的阿达马变换转换步骤。
+
+
+formula_11 
+
+
+formula_12
+
+
+步骤一： formula_14
+步骤二： 根据正负号次序 (Sign change,正负号改变次数) 将矩阵 (Matrix) 内的列向量做顺序上的重新排列。
+
+formula_15
+
+formula_16
+formula_17
+
+
+formula_18
+
+其表示 Walsh-Hadamard 转换矩阵中，不同的列向量 (Row verctor) 做内积 (Inner product) 为零。
+
+
+可简单从 Walsh-Hadamard 转换矩阵中发现，其奇数列向量呈现左右两边偶对称(Even symmetric)。反之，其偶数列向量呈现左右两边奇对称(Odd symmetric)。
+
+
+若 formula_19
+
+则 formula_20
+
+
+formula_21
+
+范例：
+
+formula_22
+
+其运算方式为布林代数内的 XOR 逻辑闸。
+
+
+formula_23
+
+其中， formula_24
+
+
+若 formula_25
+
+则 formula_26
+
+
+若 formula_25
+
+则 formula_28
+
+
+若 formula_29
+
+若 formula_30 
+
+则 formula_31
+
+
+若 formula_19
+
+则 formula_33
+
+其中 formula_34 代表逻辑折积 (Logical convolution)。
+
+
+formula_35
+
+其中 formula_36 与 formula_37 分别都为行向量 (Column vector) 。
+
+
+阿达马变换转换主要为一种非常适合应用于频域分析 (Spectrum analysis) ，去执行快速之分析。可惜的是对于折积性质是一种逻辑折积，与离散傅立叶变换上之折积性质截然不同。因此，较折积上无法取代离散傅立叶变换。
+
+主要应用范围：
+其主要是一种调变 (modulation) 与解调 (Demodultion) 之技术。
+
+广义来说，其实阿达马变换转换是 Jacket 转换中的一项特例情况，其将 formula_38 即可求得。
+
+以下为四点的 Jacket 转换：
+
+formula_39
+
+
+formula_41
+
+

@@ -1,0 +1,13 @@
+NASA World Wind
+
+NASA World Wind（有直译为世界风者），是NASA发布的一个开放源代码的地理科普软件，由NASA Research开发，NASA Learning Technologies来发展，它是一个可视化地球仪，将NASA、USGS以及其它WMS服务商提供的图像通过一个三维的地球模型展现，近期还包含了火星和月球的展现。
+
+用户可在所观察的行星上随意地旋转、放大、缩小，同时可以看到地名和行政区划。软件还包含了一个软件包，能够浏览地图及其它由因特网上的OpenGIS Web Mapping Service提供的图像。
+
+World Wind（version 1.2e）现在已经包含了到维基百科的超链接。
+
+低分辨率的Blue marble数据现在包含的初始安装内，当用户放大到特定区域时，附加的高分辨率数据将会自动从NASA服务器上被下载。
+
+附加的数据也可以被加入，如行政边界，地名以及经纬度等。
+
+

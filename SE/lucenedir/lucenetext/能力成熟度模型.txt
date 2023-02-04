@@ -1,0 +1,48 @@
+能力成熟度模型
+
+能力成熟度模型（CMM, Capability Maturity Model）是以软体开发专案的自我能力改进及软体承包商的选定作为研究的目标，在初期发展阶段，CMM的用途是协助美国国防部等政府单位进行重要软体外包作业时，作为分析软体厂商开发能力，以及评选合格软体承包商的工具。
+
+CMM涵盖一个成熟的软体发展组织所应具备的重要功能与项目，它描述了软体发展的演进过程，从毫无章法、不成熟的软体开发阶段到成熟软体开发阶段的过程。以CMM的架构而言，它涵盖了规划、软体工程、管理、软体开发及维护等技巧，若能确实遵守规定的关键技巧，可协助提升软体部门的软体设计能力，达到成本、时程、功能与品质的目标。
+
+1984年在美国国防部的支持下，卡内基美隆大学（Carnegie Mellon University, CMU）成立了软体工程学院（Software Engineering Institute, SEI）。1986年11月，在Mitre公司的协助下，开始发展一套帮助软体业者，改善软体流程的流程成熟度架构（process maturity framework）。
+
+卡内基美隆大学的软体工程研究所在1987年完成以软体流程评鉴（Software Process Assessment, SPA）与软体能力评估（Software Capability Evaluation, SCE）为基础的能力成熟度模型（CMM, Capability Maturity Model）。1987年6月，SEI发表软体流程成熟度架构摘要，9月出版基本成熟度问卷，协助业者找出软体流程需要改善之处。
+
+1991年，SEI正式发表软体能力成熟度模型CMM 1.0，并在隔年4月举办座谈会。在综合超过400位软体专家的意见之后，又于1993年发表SW-CMM 1.1修正版。SW-CMM 的核心是以软体开发流程作为全面品质管理（Total Quality Management, TQM）改善的架构，提升组织管理软体开发的能力。SW-CMM的成功，促使其他学门也相继开发出类似的流程改善模型；例如，系统工程（SE-CMM）、集成产品开发（IPD-CMM）、需求工程、人力资源、软体采购等，都从CMM 衍生出一套改善模型。
+
+一般认为，CMM并不涉及到具体的软体流程的细节，仅仅是关注了制定、管理、控制软件流程所必须关注的管理要点，但是在某些情况下，CMM的确暗含了某种脱胎于国防工程的过程样式，在指导商业企业依据SW-CMM/CMMI等进行流程改进时，必须充分了解到这一点。
+
+它用于衡量软件企业的开发管理水平，既可作为软件发包方评估承包方执行能力的参考标准，也可以被软件企业作为软体流程改进工作的参考模型。实际上，CMM已经发展成为了众多标准的集合体，比如关于人力资源的，关于软件采办的SA-CMM等等。
+
+若要开发出高效率、高质量及低成本的软体，就必须从改善软体生产流程著手。这是CMMI的基本信仰，认为流程的能力，会影响到最终产品的品质。因此，CMM初始的作者－Watt Humphrey大量借用许多TQM与Philip Crosby的品质管理成熟度矩阵，作为改善软体开发的基础。
+
+新的品质管理标准，如EIA/IS 731的出现，也刺激了CMM的发展。从1997年开始，SEI开始新的整合计划，并在2000年8月发表了CMMI-SE/SW 1.0版本，提供一个整合性的架构，将当时的SW-CMM v2.0 draft C（软体能力成熟度模型）、SECM（系统工程能力模型）与IPD-CMM v0.98（集成产品开发能力成熟度模型）等三种模型，整合到统一的框架内，并进一步强化对某些流程领域（例：需求、风险、工程管理）的重视。
+
+1984：成立Software Engineering Institute（SEI）。
+
+1987：发表CMM技术报告初稿。
+
+1989：发表第一本有关软体成熟度架构的著作。
+
+1991：发表CMM 1.0。 
+
+1993/1994：发表CMM 1.1以及PSP（Personal Software Process）。
+
+1995：发表各种专门化的CMM，包括针对软体采购（SA-CMM）、系统工程（SE-CMM）、集成产品开发（IPD-CMM），以及人力资源管理（People-CMM）。
+
+1996：TSP（Team Software Process）发表。
+
+1997：新的品质管理标准，如EIA/IS 731出现；开始CMMI整合计划。
+
+2000：发表CMMI 1.0。
+
+2001：发表CMMI 1.1。
+
+2006：发表CMMI 1.2。
+
+2010：发表CMMI 1.3。
+
+历经20年的沿革，SEI不断地延展CMM意涵与适用性，如今的CMMI模式包含了系统工程（Systems Engineering, SE）、软体工程（Software Engineering, SW）、整合产品与流程发展（Integrated Product and Process Development, IPPD），以及委外作业（Supplier Sourcing, SS）四个专业领域。不只涵盖原有的CMM，还将系统工程标准EIA 731、国际品保ISO等标准整合起来。
+
+
+https://www.dropbox.com/s/k7wxzvffscascsb/ipd%20manufacture.txt?dl=0

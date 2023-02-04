@@ -1,0 +1,8 @@
+KKMAN
+
+KKMAN由愿境网讯于2000年1月推出，是第一个结合WWW及Telnet分页浏览的综合浏览器。使用者在KKMAN下可以很方便地在一个视窗中浏览多个网页及BBS站台。
+
+KKMAN目前仅支援Windows作业系统，网页浏览器部分是嵌入微软公司的Internet Explorer核心。
+
+
+

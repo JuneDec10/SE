@@ -1,0 +1,9 @@
+Xabre
+
+Xabre（代号为SiS 330）是全球第一款AGP 8X的GPU，由SiS的多媒体事业部设计，架构超越nVidia同级产品。但由于驱动程式有问题，显示卡厂商不太愿意推出采用此GPU的显示卡。SiS本来想推出Xabre II，厂商反应冷淡。最后，SiS将多媒体事业部与Trident的绘图卡部门合并，另组新公司，名为XGI Technology Inc.，推出Volari系列GPU，亦即Xabre的后代。
+
+
+
+
+
+

@@ -1,0 +1,9 @@
+AFLAX
+
+"AFLAX"是'A JavaScript Library for Macromedia's Flash™ Platform'的略称。AFLAX是(AJAX - Javascript + Flash) - 基于AJAX的“派生／合成”式（derivative/composite）技术。正如略称字面的意思，AFLAX 是融合Ajax和Flash的开发技术。
+
+主要有如下实现：
+
+Laszlo Systems - OpenLaszlo 一个OpenSource的实现。
+
+Paul Colton - The AFLAX Library JRun作者的一个OpenSource作品。

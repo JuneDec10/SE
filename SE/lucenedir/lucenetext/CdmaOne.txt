@@ -1,0 +1,9 @@
+CdmaOne
+
+cdmaOne是一个2G移动通讯标准，根本的信令标准是IS-95，是高通与Telecommunications Industry Association（TIA）基于CDMA技术发展出来的移动通信标准。CDG为该技术申请了cdmaOne的商标，cdmaOne及其相关标准是最早商用的基于CDMA技术的移动通信标准。
+
+由2G cdmaOne标准延伸的3G标准为CDMA2000（IS-2000）。
+
+IS-95是TIA为最主要的基于CDMA技术的2G移动通信的空中接口标准分配的编号，即Interim Standard（暂时标准）95，它也经常做为整个系列的名称使用。CDG为该技术申请了cdmaOne的商标。IS-95及其相关标准是最早商用的基于CDMA技术的移动通信标准，它或者它的后继CDMA2000也经常被简称为CDMA。
+
+

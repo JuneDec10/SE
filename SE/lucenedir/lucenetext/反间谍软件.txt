@@ -1,0 +1,7 @@
+反间谍软件
+
+反间谍软件（Anti-Spyware）是用于检测并清除间谍软件的软件。
+
+但是也有一些反间谍软件本身会安装其他间谍软件或作出恰恰相反的行为，例如SpyBan。关于可疑的反间谍软件，http://www.spywarewarrior.com/rogue_anti-spyware.htm Spyware Warrior有作详细的介绍。
+
+

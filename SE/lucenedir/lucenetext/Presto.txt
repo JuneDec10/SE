@@ -1,0 +1,17 @@
+Presto
+
+Presto是一个由Opera Software开发的网页浏览器排版引擎，由Opera 7.0至12.18版本所使用。
+
+Presto取代了旧版Opera 4至6版本使用的Elektra排版引擎，包括加入动态功能，例如网页或其部分可随著DOM及Script语法的事件而重新排版。Presto在推出后不断有更新版本推出，使不少错误得以修正，以及阅读JavaScript效能得以最佳化。
+
+2013年2月12日，Opera宣布将结束Presto引擎的开发，未来将以Webkit引擎为主。
+
+2016年2月15日，传出Opera被收购的消息，同日Presto内核版Opera更新到12.18。
+
+Opera的Pre-Presto版本使用了Linear A引擎。以Presto的Core fork为基础，Opera 7.0至9.27的Opera版本使用了Linear B引擎。Futhark引擎使用在Presto的Core 2 fork的一些版本，即Opera 9.5至10.10版本。在当时，Futhark是世界上最快的引擎，但在2008年，新一代JavaScript引擎如Google（V8）、Mozilla（TraceMonkey）及Apple（SquirrelFish）已领先一步，加入了机器语言生成。虽然原始JavaScript的性能是用于意义不大的日常浏览，但这开辟了在客户端和Futhark沉重的计算的可能性，虽然依旧快速和高效，但仍然无法跟上。
+
+2009年2月5日，Opera推出了Carakan引擎，拥有基于暂存器的位元组码，机器语言生成，自动对象分类及整体性能改进。
+
+
+
+原始码被泄漏到GitHub。2017年1月14日，在数位千禧年著作权法的要求下被删除。2017年1月18日，Opera软体公司已经确认了原始码的真实性。

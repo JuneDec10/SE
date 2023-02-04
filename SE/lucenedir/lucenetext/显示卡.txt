@@ -1,0 +1,26 @@
+显示卡
+
+-{zh-hant:显示卡;zh-hans:显卡}-（），是个人电脑最基本组成部分之一，用途是将计算机系统所需要的显示信息进行转换驱动显示器，并向显示器提供逐行或隔行扫描信号，控制显示器的正确显示，是连接显示器和个人电脑主板的重要元件，是「人机对话」的重要设备之一。
+
+显示卡是插在主机板上的扩展槽里的（现在一般是PCI-E插槽，此前还有AGP、PCI、ISA等插槽）。它主要负责把主机向显示器发出的显示信号转化为一般电器信号，使得显示器能明白个人电脑在让它做什么。显示卡的主要晶片叫「显示晶片」（Video chipset，也叫GPU或VPU，图形处理器或视觉处理器），是显示卡的主要处理单元。显示卡上也有和电脑记忆体相似的储存器，称为「显示记忆体」，简称显存。 
+
+早期的显示卡只是单纯意义的显示卡，只起到信号转换的作用；目前我们一般使用的显示卡都带有3D画面运算和图形加速功能，所以也叫做「图形加速卡」或「3D加速卡」。PC上最早的显示卡是IBM在1981年推出的5150个人电脑上所搭载的MDA和CGA两款2D加速卡。
+显示卡通常由汇流排介面、PCB板、显示晶片、显存、RAMDAC、VGA BIOS、VGA功能插针、D-sub插座及其他外围元件构成，现在的显示卡大多还具有VGA、DVI显示器介面或者HDMI介面及S-Video端子和Display Port介面。
+
+ISA显示卡是以前最普遍使用的VGA显示器所能支援的古老显示卡。
+
+VESA是「Video Electronic Standards Association」（影像电子工程标准协会）的缩写，由多家计算机芯片制造商于1989年联合创立。1994年底，VESA发表了64位架构的「VESA Local Bus」标准，80486的个人电脑大多采用这一标准的显示卡。
+
+PCI（Peripheral Component Interconnect）显示卡，通常被使用于较早期或精简型的电脑中，此类电脑由于将AGP标准插槽移除而必须仰赖PCI介面的显示卡。目前已知被多数的使用于486到PentiumII早期的时代。但直到显示晶片无法直接支援AGP之前，仍有部份厂商持续制造以AGP转PCI为基底的显示卡。目前已知最新型的PCI介面显示卡，是GeForce GT 610 PCI（SPARKLE制）型号为 GRSP610L1024LC 以及 ATI HD 4350 PCI（HIS制）和HIS HD 5450 PCI（HIS制）HIS 5450 Silence 512MB DDR3 PCI DVI/HDMI/VGA 产品编号 H545H512P。
+
+AGP（Accelerated Graphics Port）是英特尔（Intel）公司在1996年开发的32位元汇流排介面，用以增进电脑系统中的显示效能。分有AGP 1X、AGP 2X、AGP 4X及最后的AGP 8X，频宽分别为266MB/s、533MB/s、1066MB/s、以及2133 MB/s。其中AGP 4X以后已跟之前电压不相容。其中3DLABS的「Wildcat4 7210」是最强的专业级AGP图形加速卡，而ATI公司的Radeon HD 4670、HD3850，是当年 (2007) 性能最强的消费级AGP图形加速卡。
+
+PCI Express（亦称PCI-E）是显示卡最新的图形介面，用来取代AGP显示卡，面对日后3D显示技术的不断进步，AGP的频宽已经不足以应付庞大的数据运算。目前性能最高的PCI-Express显示卡是nVidia公司的「NVIDIA Titan V 」和AMD公司的「Radeon Pro Duo(Fiji)」。现时，2007年后出产的显示卡可-{zh-hans:支持; zh-hant:支援;}-双显示卡技术（nVIDIA的SLi及nvlink和AMD的CrossFire）。
+
+用USB或Thunderbolt高频宽线材连接到外接PCI Express显示卡盒，需要用独立电源供应。
+
+以下为常用的显示器接口：
+
+以下公司曾经或正在生产显示晶片或显示卡；包含已经倒闭、退出显示卡市场或被并购的公司。
+
+

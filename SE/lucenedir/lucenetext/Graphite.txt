@@ -1,0 +1,15 @@
+Graphite
+
+Graphite是一套由SIL开发的，跟Unicode相容的可编程构建（）及技术系统。它是一套自由的编程介面，透过GNU宽通用公共许可证及发行。
+
+Graphite是一个建基于TrueType字型格式的技术，并新增了三个自用的新表格。它允许各种智慧构建字体的规则，包括有：连体字、字型替换、字型插入、字型重排、标音符定锚、缩排及对齐。Graphite的的规则可以对内容敏感，从而可自动调节要采用的字形。例如：把所有非结尾的 s 字用 ſ 替代。
+
+Graphite字型会把所有字型构建信息直接储在字型档里，所以要显示Graphite的智慧字型构建，应用程式只需要提供为Graphite字型的支援，而无需知道有关文字的书写方式。因此，Graphite系统的设计极为适合作为无法依赖系统内建之字型构建信息的少数民族书写系统。从这方面来看，Graphite的性质与苹果电脑开发的AAT类似，但与要求应用软件提供对内建字型构建信息的OpenType又不同。
+
+Graphite本来是一套为Windows环境上的使用而设计的系统，后来亦移植到Linux，还被移植到macOS 10.6，即使在macOS电脑上苹果公司已提供有，同样提供适宜少数民族文字的支援。
+
+目前支援Graphite的应用程式计有：SIL WorldPad、XeTeX、OpenOffice.org（从3.2版本开始，不包括macOS版本）、LibreOffice（原先不包括macOS版本，5.3版本开始用于全平台）。Thunderbird 11 及 Firefox 11也都开始内建支援，从22版本开始预设启用，但到45.0.1版开始又再关掉，并于49.0版恢复。
+
+Graphite的支援可以用pango-graphite软件包添加到Linux上应用，而在Windows平台上可安装扩展性的附加组件MultiScribe。
+
+

@@ -1,0 +1,6 @@
+Dillo
+
+Dillo是一款小巧的网页浏览器，遵循GPL。用C语言编写，使用了GTK+ toolkit，该浏览器特别适合运行于老计算机，以及嵌入系统。
+
+由于GTK+2的功能变更很大，不符合Dillo「短小精悍」的需求，所以Dillo转向以FLTK作graphic toolkit。目前porting到FLTK的工作已经近乎完成。一些UNIX/Linux发行版本，包括Debian、RedHat、NetBSD等，有Dillo的安装包，一些小型的Linux系统，包括Damn Small Linux、Feather Linux，将Dillo作为主力浏览器。
+

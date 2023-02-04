@@ -1,0 +1,21 @@
+默比乌斯反演公式
+
+假设对于数论函数 formula_1 和 formula_2，有以下关系式：
+
+formula_3
+
+则将其默比乌斯反转公式定义为：
+
+formula_4
+
+设formula_5及formula_6为定义在formula_7上的复值函数并且
+
+formula_8
+
+则
+
+formula_9
+
+设formula_10，又由于formula_11，代入得到formula_12。
+
+由于formula_13的限制条件其实就是formula_14，故等式可以写成：formula_15。

@@ -1,0 +1,9 @@
+吉尔布雷斯猜想
+
+在数论上，如果将所有质数写出，然后计算出相邻数的差，得出一个新的数列，又再计算新数列相邻数的差，重复这个动作无限次：
+
+吉尔布雷斯猜想猜测除了原本质数数列之外，这些数列的首个数都是1，在1958年由Norman O. Gilbreath提出。
+
+更数学化来说，将formula_1定义为第formula_2个质数，formula_3，其中formula_4是非负整数，formula_2是正整数。证明对于所有正整数formula_6，formula_7。
+
+1993年，安德鲁·欧德里兹科检查了formula_8以下的质数（346,065,536,839行），都符合此猜想。（相关论文为"Iterated absolute values of differences of consecutive primes"，可在下载。）

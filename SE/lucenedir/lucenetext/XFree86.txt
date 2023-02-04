@@ -1,0 +1,9 @@
+XFree86
+
+XFree86是X Window系统的其中一个实现，自1992年，它一直循著自由发放的开放源代码模式被发展。它主要的运作平台是Unix类操作系统，包括各版本的UNIX、Linux、BSD、Solaris、Mac OS X、IRIX、OpenVMS及Cygwin/X等。
+
+由2004年开始，它再不是以GPL软件许可证的形式出现，而是使用XFree86®Project公司所拥有的XFree86 License version 1.1 软件许可证模式发放。现时XFree86仍由XFree86®Project公司负责开发，该公司的主要负责人是David Dawes。
+
+自1992年至2004年，XFree86是X Window系统最被广泛使用的基建平台。其后，XFree86的开发因软件许可证出现分岐，而衍生出另一个发展自XFree86 4.4 RC2版本源代码，名叫X.Org伺服器的X Window系统。大部分使用XFree86的开源操作系统和开发者都转为使用X.Org。XFree86从2008年底发布4.8.0以后已经完全停止更新。
+
+

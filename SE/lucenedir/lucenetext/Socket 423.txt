@@ -1,0 +1,7 @@
+Socket 423
+
+Socket 423是早期的Pentium 4处理器（Willamette核心）所使用的插座，由于它的设计被发现问题，以致在时钟频率上无法超越2GHz，只是一个临时性解决方案，因此它的寿命不长，被Socket 478所取代。
+
+
+台湾一家主机板制造商雅威科技推出Socket423转接Socket478的升级插槽，让早期购买Socket 423的Pentium 4与RDRAM的人，可以升级到较高时脉的Socket 478的Pentium 4处理器。另外该公司也有推出Socket370升级插槽，让较早期核心的Pentium III升级到Tualatin核心的Pentium III。
+

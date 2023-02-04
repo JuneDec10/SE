@@ -1,0 +1,21 @@
+Knoppix
+
+KNOPPIX是一套光盘或USB闪存盘启动的GNU/Linux系统（LiveCD），功能包括：自动硬件监测、支持常见的显卡、声卡、SCSI和USB设备，以及其它外设。KNOPPIX可用于Linux演示、光盘教学、系统急救，经过适当改造，还可以用于商业软件的产品演示。KNOPPIX采用了特殊的解压缩技术，不需要硬盘安装，一张CD，就容纳了2GB的可执行程序，供用户自由使用。
+
+Knoppix最初由德国工程师Klaus Knopper设计，取名于其姓氏Knopper + Linux，读作“k'nopiks”，重音在no。
+
+KNOPPIX基于Debian GNU/Linux，桌面系统主要采用KDE，主要软件还包括GIMP、LibreOffice等。不同的团体基于Knoppix的稳定性，都利用Knoppix的distro开发自己的工具碟。例如：CHFI就有一张利用Knoppix Linux改装的信息鉴证启动光盘；而台南亦有中文化的Knoppix Distro，当中还包括文鼎字型和字型编辑器。
+
+在CD版本超过有1000软件包，而在DVD版本超过有2600软件包。在DVD上，以压缩格式存储了容量高达9GB的内容。在这些软件包中包括：
+
+截至2008年4月，从版本4起直到5.1.1，Knoppix的已分割成一个DVD版的“Maxi”（与超过9 GB的软件），和CD版的“Light”，两者并行发展的。. 
+
+以下是主要发行版的版本历史记录。
+
+Knoppix的硬件支援极佳，即使是较新的产品，很多时都可以正常运用。
+
+Knoppix对中日韩环境的支援极差，在系统预建的汉字字型档里，错字、缺字连篇，字体大小亦不成比例。
+
+
+
+

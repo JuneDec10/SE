@@ -1,0 +1,9 @@
+VBulletin
+
+vBulletin（有时简称为vB，vBB）是一个商业论坛程序。由Internet Brands及vBulletin Solutions开发及销售，它使用PHP脚本语言编写，并以MySQL为资料库。
+
+vBulletin目前主要分成三种版本：
+
+以上金额为永久使用权，并提供一年内版本更新。
+
+

@@ -1,0 +1,26 @@
+交集
+
+数学上，两个集合formula_1和formula_2的交集是含有所有既属于"formula_1"又属于"formula_2"的元素，而没有其他元素的集合。
+
+formula_1和formula_2的交集写作「formula_7」。形式上：
+
+例如：集合formula_14和formula_15的交集为formula_16。数字formula_17"不"属于素数集合formula_18和奇数集合formula_19的交集。
+
+若两个集合formula_1和formula_2的交集为空，就是说他们没有公共元素，则他们不相交，写作：formula_22。例如集合formula_23和formula_24不相交，写作formula_25。
+
+更一般的，交集运算可以对多个集合同时进行。例如，集合formula_26，formula_27和formula_28的交集为formula_29。交集运算满足结合律，即
+
+以上定义可推广到任意"非空"集合的集合的交集。若 M 是一个非空集合，其元素本身也是集合，则formula_8属于 M 的交集，当且仅当对任意 M 的元素formula_32属于formula_1。符号表示为：
+
+这一概念也蕴涵了前述的定义，例如，formula_35是集合formula_36的交集。
+（若 M 为空集，有时候谈论它的交集也是有意义的，请见空交集）。
+
+这一概念的表示符号有多种。
+集合论者有时用「formula_37」，有时用「formula_38」。后一种写法可以一般化为「formula_39」，表示集合formula_40的交集。这里formula_41非空，而对于每个formula_41里的formula_43是一个集合。
+
+当索引集formula_41为自然数集合时，这种符号表示与无限序列相类似：
+
+为了排版方便，上述符号也可以写成"formula_46"，尽管严格说来，像formula_47这样的写法是无意义的。（这个例子是可数个集合的交集，非常常用；可以参看formula_48-代数条目中的例子。）
+
+最后，注意当符号「formula_49」写在其他符号"之前"，而不是"之间"的时候，需要写得大一号。（在HTML中，可以使用字体codice_1，或者尝试codice_2。）
+

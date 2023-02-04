@@ -1,0 +1,16 @@
+Kubuntu
+
+Kubuntu，是众多Ubuntu分支的一种，它采用KDE Plasma桌面为其预设桌面环境。它和Ubuntu采用同样的
+软体库。基本上，Kubuntu和Ubuntu没有太大的差异，只是预设桌面系统采用KDE，并非Unity。
+
+根据Kubuntu的Wiki，“Kubuntu的发行乃是为了让那些想用Ubuntu但又不喜欢Unity介面的用户有一个KDE的桌面环境。Kubuntu是建基于Ubuntu的强大而稳定的基础，而且有一个稳定和可预期的发行周期。它将在新版KDE SC发行后发行新版。”
+
+因无法从商业上取得成功，2012年二月Canonical的员工Jonathan Riddell宣布在Kubuntu12.04发行后Canonical将不再资助Kubuntu。。而两个月后，一个赞助许多KDE项目的Blue Systems成为了Kubuntu的新赞助商。
+
+Kubuntu首次发行于2005年4月8日。它包含了KDE 3.4及一系列经过细心选择而且具实用价值的KDE程式，例如amaroK、Kaffeine及Gwenview，不论是安装光碟还是Live CD都支援x86、PowerPC及AMD64这三种平台。它亦提供每日最新版的光碟。Kubuntu每六个月发行一个新的版本。
+
+Kubuntu的版本代号和Ubuntu同步，每个版本的代号以及版本号都是根据其发行日期而定。Canonical公司会为Kubuntu提供18个月的安全更新以及技术支援。
+
+版本资料可从这里查阅。
+
+

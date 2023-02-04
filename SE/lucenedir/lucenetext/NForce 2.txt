@@ -1,0 +1,7 @@
+NForce 2
+
+nForce 2系列是NVIDIA研发的第二代主机板晶片组，首款产品在2002年7月推出。改进了第一代产品上的众多硬体缺陷，但仍存在USB控制器兼容性问题，安装其提供的USB驱动后，将导致Windows XP某些USB设备不能被识别，唯一可行的办法是替换usbport.sys为Windows 2000 Service Pack 4 中所提供的usbport.sys。
+
+
+
+

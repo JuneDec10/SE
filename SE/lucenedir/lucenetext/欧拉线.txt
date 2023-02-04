@@ -1,0 +1,56 @@
+欧拉线
+
+在平面几何中，欧拉线，或称尤拉线（图中的红线）是指过三角形的垂心（蓝）、外心（绿）、重心（黄）和九点圆圆心（红点）的一条直线。莱昂哈德·欧拉也称尤拉证明了在任意三角形中，以上四点共线。欧拉线上的四点中，九点圆圆心到垂心和外心的距离相等，而且重心到外心的距离是重心到垂心距离的一半。注意内心一般不在欧拉线上，除了等腰三角形外。
+
+如图formula_1分别是formula_2的垂心，重心，外心
+
+连结formula_3作formula_2的外接圆直径formula_5，
+
+再连formula_6则formula_7
+
+由①formula_8③可知，
+
+formula_9，
+
+由②formula_8④可知，
+
+formula_11，
+
+formula_12为平行四边形，
+
+formula_13
+
+formula_14分别是formula_15的中点，
+
+formula_16，
+
+formula_17
+
+作formula_18边上的中线formula_19连结formula_20
+
+设formula_21交formula_22于点formula_23
+
+formula_24，
+
+formula_25，
+
+formula_26即formula_27的重心formula_28
+
+formula_29的垂心formula_30重心formula_31外心formula_32三点共线formula_33直线formula_34即欧拉线
+
+九点圆的圆心也在欧拉线上，且在垂心到外心的线段的中点
+
+如图，H、G、Ω分别是△ABC的垂心、重心、外心，三角形的三边中点I ，三高的垂足H，和顶点到垂心的三条线段的中点J 
+
+令HΩ和JI的交点为K，∵BΩ=CΩ，BI=CI，∴ΩI⊥BC，又∵AH⊥BC，∴ΩI∥AH。
+
+∵∠GΩI=∠AHG，∠GAH=∠GIΩ，∴△AGH∽△GΩI。∵AG=2GI，∴AH=2ΩI，即ΩI=JH。
+
+∵ΩI∥AH， JH=ΩI ∴JK=KI, HK = KΩ。
+
+同理JK=KI， JK=KI。 可知K为九点圆圆心。
+
+∵点K在HΩ上，HK = KΩ
+
+∴九点圆圆心在欧拉线上，且在垂心到外心的线段的中点。
+

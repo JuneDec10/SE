@@ -1,0 +1,26 @@
+ADO
+
+微软公司的ADO（）是一个用于访问数据源的COM组件，作为高层的编程界面层。ADO是在OLE DB之上，包含了很多层次化的COM对象与集合（Collections，也是一类对象，在其里面包含了其他层级对象）。允许开发人员编写访问数据的代码而不用关心数据源是如何实现与访问驱动的，而只用关心到数据库的连接。访问数据库的时候，关于SQL的知识不是必要的，但是特定数据库支持的SQL命令仍可以通过ADO中的命令对象（Command）来执行。
+ADO被设计来替代微软早期的数据访问对象层（包括RDO（Remote Data Objects）和DAO（Data Access Objects））。ADO在1996年8月与OLE DB一起被发布。
+
+ADO文件通常保存在C:\Program Files (x86)\Common Files\System\ado\目录下。
+
+
+2003年后在新的编程框架.NET Framework中，微软提供了一个面向Internet的版本的ADO，称为ADO.NET，其对象模型和ADO差别很大，基本上需要重新彻底学习。
+
+ADO包含12个对象：
+
+ADO包含4个collection：
+ADO组件的使用需要利用支持COM的高级语言，例如ASP中的VBScript或者Visual Basic，甚至微软的竞争对手Borland的产品Delphi，，现在也支持使用ADO来访问数据库。
+
+使用ADO存取资料的一些基本步骤：
+
+下列的ASP范例使用ADO于"Phonebook"表中选取"Name"栏位，其中"PhoneNumber"等于"555-5555"。
+
+这相当于下列的ASP code，以plain SQL取代Recordset object：
+
+ADO包含的对象能够创建、维护、删除给定数据源的记录。但是，创建与管理数据库及其所包含的对象，ADO就力有不逮了。为此，ADOX，即Microsoft ADO Ext. for DDL and Security，提供了这方面的功能，主要包括Data Definition Language(DDL)对象及安全管理。此外，Jet数据库引擎的许多功能都是ADO与ADOX不具备的；JRO，即Microsoft Jet and Replication Objects 2.5 Library提供了这方面的补充功能。
+
+
+
+ㄍ

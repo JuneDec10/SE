@@ -1,0 +1,7 @@
+RAC
+
+Oracle RAC是Oracle Real Application Cluster的简写，官方中文文档一般翻译为“真正应用集群”，它一般有两台或者两台以上同构计算机及共享存储设备构成，可提供强大的数据库处理能力。它现在是Oracle 10g Grid应用的重要组成部分。
+
+Oracle 真正应用集群官方网页，包含oracle 10g 11g的一些PDF文档说明 
+
+具备高可用的特性

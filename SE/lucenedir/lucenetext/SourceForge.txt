@@ -1,0 +1,20 @@
+SourceForge
+
+SourceForge是一套合作式软件开发管理系统。SourceForge本身是VA Software出售的专有软件。它集成了很多开源应用程序（例如PostgreSQL和SVN、CVS），为软件开发提供了整套生命周期服务。
+
+SourceForge.net，又称SF.net，是开源软件的开发者进行开发管理的集中式场所，也是全球最大开源软件开发平台和仓库。SourceForge.net由VA Software提供主机，并运行SourceForge软件。大量开源项目在此落户（2005年6月已经达到125,090个专案及1,352,225位注册用户），包括维基百科使用的MediaWiki，但也包含很多停止开发和一人开发的项目。
+
+SourceForge网站程序的源代码曾经也是开放的，但是后来VA Software决定不再继续发布开源版本。它可能是从2001年起变为专有软件继续开发的。在封闭前最后的正式的开源版本是2.5，而最后的CVS版本是2.61。目前存在一系列利用SourceForge软件运行的协作式网站。
+
+2003年VA Software首次发布了SourceForge Enterprise Edition 4.x，将其做为Java-J2EE程序完全重写。由采用SourceForge 4.x的组织报告说其性能和伸缩性相对SourceForge 3.x或者更早的2.x明显改善。SourceForge 4.x为将来的集成和扩展而支持SOAP、XML、Web Services等API。
+
+从SourceForge开源版本基础上还出现了开源替代物Gforge.org等。它是SourceForge的一个程序员在SourceForge最后的CVS版本基础上的重写，增加了很多新特性并继续保持自由。
+
+自由软件基金会建立了Savannah网站做为对SourceForge成为专有软件的回应，Savannah是基于2.0版SourceForge软件。
+
+Google公司推出的Google Code服务一度由于Google和众多新兴开源项目的大力支持成为SourceForge.net在全球范围内最重要的竞争对手。至2009年3月，已有超过50,000个开源项目落户Google Code。然而Google于2015年3月12日开始停止对Google Code提供技术支持，并于2016年1月25日关闭Google Code。
+
+SourceForge的其他竞争者还包括了Bounty Source、Tigris.org（由CollabNet所建立）、JavaForge（由JavaLobby采CodeBeamer建立）、berlios.de及GitHub。
+
+
+

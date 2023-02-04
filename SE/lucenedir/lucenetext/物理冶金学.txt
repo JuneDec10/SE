@@ -1,0 +1,12 @@
+物理冶金学
+
+冶金物理化学（Physical Metallurgy）指的是利用物理学原理，例如热力学（Thermodynamics）、电学（electricity）等，非化学的方法来达到提炼金属或是改变金属材料性能的学门，归属在材料科学领域，其主要探讨的主题为晶体结构与缺陷（Crystal Structure and defect）、退火（Anneal）、扩散（Diffusion）、相变化（Phase Transformation）等冶金过程的原理。
+
+
+起源于碳钢的热处理方法，现今已广泛应用于所有材料，其指的是，利用改变材料所处条件，例如温度、压力，来改变材料内部微结构，进而改变材料之物理性质、机械性质。
+
+以碳钢为例，依据不同温度下的热处理，退火可分成下列
+
+在物理冶金学中，一般是讨论金属原子在晶体中的扩散作用，金属材料在适当温度下，不同元素之原子会进行扩散，进而产生相变
+
+在物理冶金学中，一般探讨金属材料的相变，金属相变一般包含结晶（Solidification）、析出（Precipitation）、旋节分解（Spinodal decomposition）等。

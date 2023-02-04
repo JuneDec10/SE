@@ -1,0 +1,70 @@
+HyperTransport
+
+HyperTransport汇流排技术，简称“HT总线”，以前曾被称作“闪电数据传输”（Lightning Data Transport，LDT），是一种电脑处理器的互联技术。它是一种高速、双向、低延时、点对点（P2P）、串行或者并行的高带宽连接总线技术，最早在1999年由超微半导体提出并发起，并联合NVIDIA、ALi、ATI、Apple、全美达、IBM、CISCO等多个硬体厂商组成HyperTransport开放联盟，于2001年4月2日开始将此汇流排技术投入使用，并由HyperTransport联合会（The HyperTransport Consortium）负责改进和发展此技术。
+
+卖场中常有「HT汇流排」与日后英特尔「HT技术」的混淆，然而这两个是截然不同的技术。HT一般指HyperTransport，或简称HT汇流排，一般情况下HyperTransport联合会都是使用全称「HyperTransport」以免造成歧义。而应用于奔腾4处理器、英特尔Nehalem微架构及其后续微架构之处理器的「HT技术」，英特尔的官方简称是HTT，Hyper-Threading Technology 或简称HT Technology（HT技术）。
+
+HyperTransport旨在提高个人计算机、服务器、嵌入式系统，以及网络和电信设备内集成电路之间的通信速度。该技术有助于减少系统之中的布线数量，从而能够减少系统瓶颈，让当前速度更快的微处理器能够更加有效地在高端多处理器系统中使用系统内存。英特尔在使用QPI以前常用的前端汇流排，与同时代的HyperTransport汇流排规格相比，后者拥有更高的频宽以及记忆体存取速率，而英特尔的技术，要求不同的RAM存取速率范围要有各自的连接界面，这种设计导致了若要减少汇流排频宽瓶颈，势必会增加主机板的布线设计复杂度。HT汇流排的扩展HTX3.1在最高频宽时，可以作为一个统一汇流排容纳四根DDR4模组的所需频宽，若需要容纳更多的DDR4记忆体，则可能需要两个或更多的HTX3.1汇流排控制器，然而这样做会使每个控制器的传输值降低。
+
+主要特性：
+
+现时HT汇流排的一个扩展规格HTX3.1，相对于在2014年面世的高速DDR4记忆体以及较慢的TeraByte级（约1GB/s，与高阶PCIe SSD类似）ULLtraDIMM快闪型随机存取记忆体（RAM）技术，仍然在竞争中占上风。
+
+HyperTransport迄今推出了4个版本——1.x、2.0、3.0、3.1，它们之中运作频率最低200MHz，最高3.2GHz（而PCI总线频率为33MHz或66MHz）。它也是一种双倍数据速率（DDR）连接技术，意味着它可以在一个时钟信号的上行沿和下行沿各传输一次数据。HT3.1当运行在3.2GHz时可以最高以6400MT/s传递数据。而且它具有自适应性，允许根据当前的运算需求，在晶片组（北桥）或处理器中确定自己的频率。此外，HyperTransport的资料传输模式是双向传输、各向独占、同时进行的。
+
+HyperTransport支援自适应位元宽度，范围从每链路2位元到32位元；每个HyperTransport控制器还有两路单向链路。在HT3.1版本中，当运作于32位元每链路、以及HT3.1的最高规格的时脉时，理论传输值可达每个传输方向25.6GB/s（3.2GHz×每时钟周期传输两次×每链路32位元之位宽），或双向共51.2GB/s的频宽，几乎比现有的个人电脑、工作站以及伺服器的汇流排标准都要高，同样也是高效能运算及网路中最快的汇流排标准（注：QPI在英特尔的技术说明上不属于汇流排，尽管它的频宽最大可以超过HT汇流排之最高频宽）。
+
+在单个系统中，它允许不同宽度的链路混合连接，比如一个系统中CPU使用16位元链路，8位元连接至记忆体而另外8位元连接外围装置；除此以外还支援链路拆分，不同位宽标准的总线可以变为同一位宽标准的总线（比如说，其中单个16位的链路可以拆分为两个8位的链路），这就令Hypertransport既能满足CPU和内存之间的互联，也能满足周边设备之间的互联。而且HyperTransport拥有比其他的汇流排解决方案标准更低的延迟。此外，为满足多个装置的连接，HyperTransport还支援菊花链的手段实作之。连接对象除了SMP系统中处理器与处理器、普通个人电脑的处理器与晶片组以外，还有路由控制晶片、晶片组的南北桥晶片、其它汇流排的控制器等等，只要连接对象拥有HyperTransport控制器，即可进行连接，无需中介界面。
+
+电信号制式上，HyperTransport使用类似于低电压差分信号（LVDS）的1.2V运作电压。HT2.0加入post-cursor发射器去加重。HT3.0加入混杂和接收相位校准以及可选发射器前置去加重。
+
+HyperTransport的资料传输基于资料封包/包裹（Packet）。在HT汇流排中，不管连接的物理位宽是多少，每个包裹总是由32位元的数据集合组成。命令消息总是放在包裹的最前面。如果一个包裹里面包含有地址，那么命令消息的最后8位元数据和下面的32位元数据就会串成一个40位元的地址。如果有64位寻址的需求，那么就会预先计划一个附加的32位元控制数据包。另外的32位元数据是有效数据（payload）。传输的数据不管实际长度是多少，总会被填充到某个32位元的倍数。
+
+HyperTransport的包裹以位次（bit times）的方式实现互联。所需要的位次的数量由互联设备之间的位宽决定。HyperTransport还能用于转换系统管理信息、发送中断、发送探针给邻近的设备或者处理器，以及充当一般I/O和数据的交换的桥梁。HyperTransport有两种不同类型的写命令，称作Posted和Non-Posted。Posted这种写方式不需要目标的回应，一般用于高带宽设备之间的互联。None-Posted的写方式，相反地，就需要目标以一种“target done”的方式回应。读取数据同样也会使目标发送读回应。HT汇流排支援多重处理，和PCI相同的consumer/producer次序规则模型。
+
+HyperTransport提供了比ACPI更加先进的电源管理系统。它可以根据处理器睡眠状态（C State）的变化发送改变设备状态（D state）的信号。比如说，当CPU进入睡眠状态时候，关闭硬盘。另外HyperTransport提供的是2.5V的低电压。HT3.0中新增新的电源功能，允许一个集中式电源管理控制器实现电源管理策略。
+
+
+HyperTransport最知名的应用，乃作为超微的x86中央处理器产品以及配套的辉达nForce晶片组的系统汇流排架构。而HyperTransport的一个主要用处，就是用作取代英特尔定义的前端汇流排，使使用HT汇流排的x86处理器不同于英特尔的处理器。比如，奔腾及其相容处理器产品不能直接控制使用PCI-E汇流排。为了扩展系统，专有、专用的前端汇流排必须连接至各种标准汇流排控制器的适配器上，这些标准汇流排有AGP、PCI-E等。而这些标准汇流排控制器，按速率、频宽、功能分别整合至北桥晶片及南桥晶片上。
+
+而相反，HyperTransport则是由多个公司组成的协会公布并开放规格。一个包含一个HyperTransport适配器的晶片可与一颗开启HyperTransport的微处理器运作于更高的频宽上。
+
+AMD在K7微架构开始，就随AMD64技术一并使用了HyperTransport取代前端汇流排。K7及以后的微架构的Opteron、Athlon 64、 Athlon II、Sempron 64、Turion 64、Phenom、Phenom II及FX系列处理器上，都用上了HT汇流排与北桥连接。不过现时AMD APU产品线上，像是使用Socket FM1\FM2插座的平台，与FCH的连接则是使用基于PCI-E汇流排技术的UMI汇流排，而且由于不考量多颗处理器并联运行，并没有内建HyperTransport。
+
+AMD这样做的是有鉴于CPU与记忆体沟通时，北桥的延迟问题做出解决方案，当将位于北桥内的记忆体控制器移动到CPU内部时，CPU便可直接与记忆体进行沟通，避开了北桥而让整体频宽大幅提升，减轻北桥的负担，将整体效能拉升。这也就是为何当年AMD的CPU能够与INTEL抗衡的其中一个原因。而这样做，潜在的问题便是当记忆体规格有变动时，AMD将会非常头痛。由于记忆体控制器内建在CPU里面，当记忆体规格变动时，AMD便要重新设计内建新型记忆体控制器的CPU，重新量产新型CPU。考量到销售问题，还必须要等到把前一代主流产品库存销售完，而这样的问题在Socket 939过渡到Socket AM2时期非常明显。所以当厂商开发新一代CPU时，除了需要把记忆体控制器内建在CPU里面外，还必须要同时开发内建于CPU之中的「容许CPU使用北桥晶片内建的记忆体控制器的转接器」，此方法不但有利于产品过渡，而且能够吸引第三方设计厂商针对CPU平台共同设计系统晶片。同时，当使用独立显卡时，当显卡频繁调用系统主存中的纹理与顶点数据时，必须先通过北桥，再绕行CPU，才能访问系统主存。相对比于Intel CPU则因为外置内存控制器，可直接通过北桥链接内存，而获得更快的速度。这些因素也是英特尔的处理器在Nehalem微架构以前一直坚持使用前端汇流排的原因之一。
+
+除AMD以外，全美达公司也把HyperTransport技术应用在自家的x86处理器上，如TM8000处理器。除NVIDIA以外，并购ATI后的AMD、VIA和SiS也把它用于PC主板的芯片组。
+
+国际商业机器（IBM）以及苹果公司也将HyperTransport技术用于Power Mac G5上，将处理器、PCI-X控制器、SATA控制器、乙太网路卡、USB控制器、FireWire控制器、光纤数位音讯等与两组双向的HyperTransport连结架构连接起来。甚至采用英特尔处理器的微软XBox首代，其处理器也要透过NVIDIA的MCP以HyperTransport将GPU等连结。PMC-Sierra、Broadcom（博通）和Raza Microelectronics则把它应用在MIPS微架构（一种RISC微处理器架构）微处理器上。
+
+而英特尔却从来没有在它的产品中使用过HyperTransport，当年它继续选择使用一种共享的总线架构，继续使用自有的汇流排/互联界面标准，以照顾特殊的RAM级别。在Intel在新的Nehalem架构（如Core i7）中不仅采用全新的、效能更强的处理器互联技术QPI与AMD主导的HT汇流排形成有力竞争，而且也内置了记忆体控制器，相较于以往的Intel平台效能有显著的提升。此外英特尔也在2001年的英特尔开发者论坛上公布与HT汇流排竞争、基于PCI技术的3GIO，由AWG制定标准并于2002年移交PCI-SIG进行稽核和管理，成为现今的PCI-E汇流排。
+
+HyperTransport的另一主要应用是非均匀存取模型（NUMA）电脑系统中多处理器的互联。
+
+AMD使用HyperTransport配合快取一致性扩展组件（包含于AMD自家的直接连接架构（Direct Connect Architecture）中）来实作，拥有该特性的处理器有Opteron以及Quad FX平台上的Athlon 64 FX产品线。
+
+Newisys还基于AMD的技术，发展出HORUS连接器，用于高效能大型运算丛集。3Leaf Systems的Aqua装置利用HyperTransport进行虚拟化下CPU、记忆体以及输出/输入的连接。
+
+除此以外惠普、Sun Microsystems、IBM、和IWill把它用于服务器领域；克雷公司和QLogic把它用于高性能计算上。
+
+HyperTransport也可用作路由器和网路交换器的内部汇流排。路由器和交换器有多重网路界面，并且需要在这些界面上尽可能快地快速转发资料。举个例子，4个1Gbps的乙太网路连接埠若需要全速连接则需要8Gb/s的内部频宽（1Gb/s×4连接埠×两个传输方向），而HyperTransport汇流排可以轻松满足这个频宽要求。然而一个4+1连接埠的10Gb/s级路由器则要求100Gb/s的内部频宽。802.11ac 8天线、WiGig 60GHz（802.11ad）标准，配合HyperTransport等高频宽汇流排，会变得更具可行性（但任何地点需使用20至24通道以满足所需频宽）。最早是CISCO Systems（思科）把HyperTransport用于路由器领域。
+
+中央处理器和协处理器之间的延时和频宽问题，在实作中一直是它们之间的通信效能的绊脚石。而目前像是现场可程式逻辑闸阵列（FPGA）的协处理器，可以支援HyperTransport汇流排。现时主要的FPGA制造商Altera和Xilinx，它们的产品都可直接支援HyperTransport界面，并且有知识产权核（IP核）可供出售。而一些公司，像是XtremeData、DRC等，则以上述FPGA厂商的产品，开发出一种可供FPGA直接使用Opteron处理器插座的转接模组。
+
+AMD在2006年9月21日公布并启动的名为Torrenza专案，致力于提升HyperTransport在插卡式装置与协处理器中的使用。开始将Socket F用于开放给像是XtremeData以及DRC有需要的公司使用。
+
+HyperTransport联合会除了发布片上和板上使用的HyperTransport汇流排规格以外，还发布了基于插座式连接埠的规格，以供外围装置直接连接至相应的微处理器或控制器等。这个规格被称为HyperTransport eXpansion（缩写：HTX）。HTX使用和PCI-E 16x相同的物理连接器（外加一个与PCI-E x1规格相同的连接器作为电源连接），HTX可使这些扩展卡支援与CPU的直接连接以及以DMA方式存取系统记忆体。最早使用HTX连接埠的扩展卡是QLogic的InfiniPath InfiniBand HCA。后来IBM、惠普电脑以及更多的公司陆续发布支援HTX的系统产品。
+
+最初，HTX标准被限定在16位元，运作时脉800MHz。
+
+2008年8月，HyperTransport联合会发布HTX3，其运作时脉达到了2.6GHz（5.2GT/s，10.7GTi，资料传输等效时脉5.2GHz，3MT/s的编辑速率），可向下相容原来的HTX标准。
+
+定义「DUT」测试连接器来开启标准化功能测试系统互联。
+
+Infinity Fabric，是AMD于2016年公布的一个基于HyperTransport扩充而来的互联架构，用于CPU内部/之间、GPU内部/之间以及CPU和GPU之间的互联，Infinity Fabric并不相容于HyperTransport。与HyperTransport不同的是，Infinity Fabric是AMD专有的智慧财产权核，其它厂商需要购买AMD的授权方可使用。频宽在30GB/s至512GB/s之间，根据配置需求而定，Zen微架构、代号「Vega」之GPU都由Infinity Fabric实作其内联的产品。
+
+Infinity Fabric分为两部分，一个是Infinity Scalable Data Fabric（SDF），负责资料的传输；而另一个部分是Infinity Scalable Control Fabric（SCF），负责传输控制命令。SDF的传输协定、记忆体一致性和快取一致性基于HyperTransport的修改而来，不过实际上由于这些的大幅修改，与原来HyperTransport的相容变得不可能。除此以外，SDF还可根据不同的处理器系统进行修订，例如，GPU、APU以及CPU所用的SDF是不一样的，伺服器平台上SDF甚至可运行于PCIe汇流排上。不过，Infinity Fabric也就仅限于主机板范围内的使用，以主机板为一节点，节点之间的连线，AMD则是采用开放标准的Gen-Z。
+
+
+
+

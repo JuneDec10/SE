@@ -1,0 +1,6 @@
+C Shell
+
+C shell（csh）是Unix shell的一种，由比尔·乔伊在BSD系统上开发。C shell脱胎于Unix第六版的codice_1，也是Bourne shell的前身。这种shell的语法类似于C语言，与Bourne shell相比，C shell有不少特别的功能，比如codice_2（别名）、command history（命令的历史）。目前C shell已不再被广泛使用，后继者包括Tenex C shell（tcsh）、Korn shell（ksh）、GNU Bourne-Again shell（bash）。
+
+C shell在交互模式中引入许多开创性功能的同时，C shell的脚本执行能力受到了不少批评。无论如何，由于在所有的单一UNIX规范相容系统中都放了标准的Bourne shell，所以大部分人都建议使用sh来进行脚本编写。
+

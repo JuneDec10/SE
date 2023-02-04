@@ -1,0 +1,6 @@
+智能建筑
+
+智能建筑是指以建筑为平台，兼备建筑设备、办公自动化及通信网络系统，集结构、系统、服务、管理及它们之间的最优化组合，为人们提供一个安全、高效、舒适、便利的建筑环境。其主要构成包括楼宇管理自动化系统（Building Management Automation System）、通信自动化系统（Communication Automation System）和办公自动化系统（Office Automation System）。
+
+世界首幢智能建筑是1984年在美国哈特福德市建成的City Place大厦。
+

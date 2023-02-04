@@ -1,0 +1,41 @@
+Windows Embedded Compact
+
+Windows Embedded Compact（曾被称为Microsoft Windows CE），为微软研发的嵌入式作业系统，可以应用在各种嵌入式系统，或是硬体规格较低的电脑系统（例如很少的记忆体，较慢的中央处理器等）。微软并未定义CE缩写由来，一般解释则有Compact Edition、Customer Embedded、Consumer Electronics等等。在2008年4月15日举行的嵌入式系统大会上，微软宣布将Windows CE更名为Windows Embedded Compact，与Windows Embedded Enterprise、Windows Embedded Standard和Windows Embedded POSReady组成Windows Embedded系列产品。
+
+Windows CE 1.0最早于1996年推出，是单色的Windows 95简化版本。
+
+1997年Fall Comdex大会上公布的Windows CE 2.0仍是基于Win95的作业系统，效率远高于1.0版。
+
+Windows CE 3.0是微软的Windows Compact Edition，已摆脱旧有的Windows 95简化格式，是一套全新的作业系统，支持5种CPU：x86、PowerPC、ARM、MIPS、SH3/4。并且改名为Windows for Pocket PC，简称Pocket PC。
+
+2002年1月微软又推出Windows CE.Net，即Windows CE 4.0。
+
+2004年5月份推出Windows CE 5.0，开放有250万行原始码。
+
+2006年11月，微软推出Windows Embedded CE 6.0。
+
+2010年10月，微软推出 Windows Phone 7，Windows Embedded Compact 7。
+
+Windows CE可以使用在各式各样的系统上，最有名的是Pocket PC以及微软的SmartPhone。其他较不为人知的装置包括微软的车载电脑、机顶盒、生产线上的控制设备、公共场所的资讯站（Kiosk）、电子辞典及导航仪等等，有些装置甚至没有任何人机介面。
+
+Windows CE并非从桌上型电脑的Windows（NT，98，XP……）修改缩小而来，而是使用一套完全重新设计的核心，所以它可以在功能非常有限的硬体上执行。虽然核心不同，但是它却提供了高度的Win32 API软体开发介面的相容性，功能有内存管理、文件操作、多线程、网络功能等。因此，开发桌上型电脑软体的人可以很容易编写甚或直接移植软体到Windows CE上。
+
+一个与其他微软作业系统的差异是Windows CE提供原始码，首先已经提供了原始码给部分厂商，让厂商能够依照他们自己的硬体架构修改原始码， 例如在Windows CE的开发IDE软体Platform Builder中就提供了许多开放原码的常用软体元件，但是一些与硬体架构的软体元件仍然以二进制档案形式来提供。
+
+CE v3.0是Pocket PC 2002的基础. CE v3.0的下代为CE.net. 
+"PocketPC [是]核心Windows CE OS上的一整层程式... Pocket PC以Windows CE为基础，但分发的方式不太一样.". Pocket PC的使用证书禁止修改WinCE的程式.
+
+目前最新的Windows CE为Windows CE 7.0，这个版本在核心部分有很大的进步：
+
+在开发环境上，微软也提供相容于.NET Framework的开发元件：.NET Compact Framework，让正在学习.NET或已拥有.NET程式开发技术的开发人员能迅速而顺利的在搭载Windows CE .NET系统的装置上开发应用程式。
+
+用于掌上电脑Pocket PC以及智能手机Smart Phone上的Windows CE系统称为Windows Mobile，目前成熟的最新版本为Windows 10 Mobile。
+
+在2009年10月6日，Windows Mobile亦正式改名为Windows Phone.
+
+Windows CE可支援MFC，ATL，STL，COM，ActiveX，以及.NET Compact Framework。开发工作可以分为：
+
+
+
+
+

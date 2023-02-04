@@ -1,0 +1,49 @@
+VBScript
+
+VBScript是Visual Basic Script的简称，有时也被缩写为VBS。VBScript是微软开发的一种脚本语言，可以看作是VB语言的简化版，与Visual Basic for Applications的关系也非常密切。它具有原语言容易学习的特性。目前这种语言广泛应用于网页和ASP程序制作，同时还可以直接作为一个可执行程序。用于调试简单的VB语句非常方便。
+
+由于VBScript可以通过Windows脚本宿主调用COM，因而可以使用Windows操作系统中可以被使用的程序库，比如它可以使用Microsoft Office的库，尤其是使用Microsoft Access和Microsoft SQL Server的程序库，当然它也可以使用其它程序和操作系统本身的库。在实践中VBScript一般被用在以下三个方面：
+
+VBScript可以被用来自动地完成重复性的Windows操作系统任务。在Windows操作系统中，VBScript可以在Windows Script Host的范围内运行。Windows操作系统可以自动辨认和执行*.VBS和*.WSF两种文件格式，此外Internet Explorer可以执行HTA和CHM文件格式。VBS和WSF文件完全是文字式的，它们-{只}-能通过少数几种对话窗口与用户通讯。HTA和CHM文件使用HTML格式，它们的程序码可以像HTML一样被编辑和检查。在WSF、HTA和CHM文件中VBScript和JavaScript的程序码可以任意混合。HTA文件实际上是加有VBS、JavaScript成分的HTML文件。CHM文件是一种在线帮助，用户可以使用专门的编辑程序将HTML程序编辑为CHM。
+
+Windows 操作系统也提供一些 VBScript 脚本来进行高级管理功能，例如管理 Windows 激活密钥的 slmgr.vbs（Windows Server License Manager Script）。
+
+网页中的VBS可以用来控制客户端的网页浏览器（以浏览器执行VBS程序）。VBS与JavaScript在这一方面是竞争者，它们可以用来实现动态HTML，甚至可以将整个程式结合到网页中来。
+
+至今为止VBS在客户方面未能占优势，因为它只获得Microsoft Internet Explorer的支持（Mozilla Suite可以透过安装一个套件来支援VBS），并且IE11起已不再支持VBScript。而JavaScript则受到所有网页浏览器的支援。在Internet Explorer中VBS和JavaScript使用同样的权限，它们-{只}-能有限地使用Windows操作系统中的对象。
+
+在网页服务器方面VBS是微软的Active Server Pages的一部分，它与JavaServer Pages和PHP是竞争对手。在这里VBS的程序码直接嵌入到HTML页内，这样的网页以ASP结尾。网页服务器Internet信息服务执行ASP页内的程序部分并将其结果转化为HTML传递给网页浏览器供用户使用。这样服务器可以进行数据库闻讯并将其结果放到HTML网页中。
+
+最简单的例子：
+
+以codice_1文件保存。再使用codice_2或codice_3执行。
+
+一个更复杂的例子中，示出了使用codice_4作为函数（返回一个结果），并使用了三个参数，其中第二个参数使用的是常量。
+
+VBScript能访问Windows管理规范 (WMI)，就像Windows任务管理器。以下的代码执行时将会终止（“杀掉”）任何关于"notepad.exe"的进程。
+
+使用"Option Explicit"并不是必须的，但它被认为是VBScript的最佳实践。
+
+这个实例显示如何创建文件并向它添加内容。它还演示了字符串连接。
+
+SendKeys方法模拟一个或多个按键到活动窗口（模拟在键盘上输入）。 在该示例中，脚本发送字符串“Hello World！”3次，每次暂停2秒（2000毫秒）。SendKeys巨集可能会在某些程序中失效，因为一些软件（如在安装时输入许可证密钥）将检查是否是真正的按键，而不是虚拟的。
+
+执行期间，“Hello World!”将显示在命令提示符。
+
+对象FileSystemObject执行一些文件操作（例如测试一个文件是否存在），并且还创建一个文本文件（一个TextStream对象）。
+codice_5将会在按下按钮后于C:\ 驱动器根目录创建（若已经存在则更新）一个小文本文件。
+VBScript主要的优点有：
+
+缺点有：
+
+在VB中，为变量定义类型使用Dim变量名As类型
+
+但是在VBScript中这样写是错误的，VBScript中的变量都是弱类型（即Variant变体），因此它不需要指定其类型。-{只}-能使用Dim变量名，解释器会自动根据赋值的类型定义变量类型。
+
+在VB中，可以使用#If…Then、#ElseIf…Then、#Else、#End If、#Const… = …等语句定义编译时使用的语句
+
+而由于VBScript不需要编译即可被WSH（Windows Script Host）直接解释执行，所以并不需要条件编译语句。
+
+微软决定Outlook和Outlook Express中的HTML邮件可以使用VBScript后出现了许多利用Windows Script Host和ActiveX的功能的电脑病毒。这些病毒之所以能够传播开来也是因为一开始这些系统功能完全未受保护。虽然VBScript和JavaScript使用同样的使用操作系统的功能的安全措施，今天呼唤这些功能被看作不符合标准。
+
+一般很难保护VBScript的程序码不被用户看到。

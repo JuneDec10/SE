@@ -1,0 +1,9 @@
+剪应力
+
+剪应力是应力的一种，定义为单位面积上所承受的力，且力的方向与受力面的法线方向正交。公式记为
+
+即formula_2不等于formula_3的情况。其中，formula_4表示剪应力；formula_5表示在formula_2方向的剪切力；formula_7表示在formula_3方向的受力面积。
+
+其中，formula_10是剪应力，formula_11是材料受力后所产生的剪应变（shear strain），formula_12是材料的剪力模数（shear modulus）。
+
+流体的剪应力为：维持一定速度时，平板每单位面积所需施给之力。

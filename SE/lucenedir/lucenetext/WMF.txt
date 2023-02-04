@@ -1,0 +1,10 @@
+WMF
+
+WMF（）是一种Microsoft Windows的
+图形文件格式。它是一个矢量图格式，但是也允许包含位图。本质上，一个WMF文件保存一系列可以用来重建图片的Windows GDI命令。在某种程度上，它类似于印刷业广泛使用的PostScript格式。可以用Microsoft Office相关软件编辑，或是用Adobe开发的Flash和Illustrator等矢量图编辑器。
+
+WMF格式在Microsoft Windows 3.0开始引入，是一个16位元的标准。Windows NT推出时，微软又推出一个32位元的加强版标准，称之为Enhanced Metafile（简称EMF）。这个加强版除了原有的命令以外，亦新加入一批新的指令。有某几个牌子的打印机支援列印EMF格式的档案。
+
+2005年末，一些人发现利用WMF文件格式的漏洞可以在Windows程序查看图片时执行代码。McAfee在2005年12月31日报告其6%的用户受到了攻击。2006年1月6日，微软针对此问题发布了安全性更新。
+
+

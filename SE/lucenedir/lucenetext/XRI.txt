@@ -1,0 +1,5 @@
+XRI
+
+XRI是可扩展的资源标识符（英语：eXtensible Resource Identifier），XRI是一套与统一资源标志符（URI）兼容的抽象标识符体系（Scheme，如HTTP(S) URI Scheme、XRI Scheme等）和解析（Resolution）的协议，由OASIS组织XRI技术委员会提出。XRI提出的目的，是为了提供一种统一的格式，描述具有域、应用和传输无关性的标识符，使它们可以在任意数量的域和目录之间共享使用。
+
+

@@ -1,0 +1,10 @@
+UseModWiki
+
+UseModWiki（Usenet Moderation Project (Usemod)）是Clifford Adams 所开发的Wiki引擎，它采用Perl做为开发的程式语言，它最大的特点是不使用任何的资料库管理系统来储存页面内容，任何的新增页面都直接储存于档案系统内，维基百科曾采用UseModWiki做为所有语言版本的Wiki引擎，之后才自行开发MediaWiki做为现有的介面。
+
+回顾UseModWiki的发展历史，其源头是来自沃德·坎宁安的WikiWikiWeb，首先是Peter Merel依据了WikiWikiWeb的原始码而撰写成为CVWiki，其次Markus Denker再修改CVWiki开发为AtisWiki，最后Clifford Adams再根据AtisWiki修改成为UseModWiki，
+
+
+UseModWiki从2000年发布以来，其中经过13次改版，现行版本是2009年8月28日所公布的1.0.5版。
+
+

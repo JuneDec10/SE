@@ -1,0 +1,14 @@
+XAMPP
+
+XAMPP是一个把Apache网页服务器与PHP、Perl及MariaDB集合在一起的安装包，允许用户可以在自己的电脑上轻易的建立网页服务器。
+
+XAMPP的名称来自以下组合：
+
+
+XAMPP 7.2.12 Windows、Linux、Mac OSX版本，其包含了：
+
+
+XAMPP 7.2.12 Windows版本，其包含了：
+
+XAMPP 7.2.12 Linux版本，包含了：
+

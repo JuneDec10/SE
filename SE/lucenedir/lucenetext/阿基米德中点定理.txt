@@ -1,0 +1,14 @@
+阿基米德中点定理
+
+阿基米德中点定理说明：圆上有两点A,B，M为弧AB的中点，随意选圆上的一点C，D为AC上的点使得MD垂直AC。若M、C在弦AB异侧，则AD=DC-CB；若M、C在弦AB同侧，则AD=DC+BC。
+
+若为同侧：在线段formula_1上取点formula_2，使得formula_3，由于formula_4，有
+
+formula_5。又因为"M"为弧formula_6中点，formula_7。
+
+若为异侧：在线段AD延长线上取点X,使DX=AD.因为M为弧AB中点，所以角ACM=角BCM.又因为四边形AMBC为圆内接四边形，所以，延长CB至P,则角MBP=角MAC.但是AD=DX,角ADM为直角，所以formula_15 ； formula_16 ； formula_17 ； formula_18 。
+
+又 CM = CM， 所以 formula_19 。
+
+承上，所以 CX = CB。所以 AD = DC - CX = DC - CB。
+

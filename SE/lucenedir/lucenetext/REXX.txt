@@ -1,0 +1,5 @@
+REXX
+
+REXX（Restructured Extended Executor）是IBM在1980年代发明的一种程序设计语言。主要用在IBM的大型计算机（Mainframe Computer）上，但在大部份其他的平台上也可以找到它的解译器或编译器。另有面向对象的版本，称为ObjectRexx。
+
+

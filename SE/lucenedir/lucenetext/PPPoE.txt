@@ -1,0 +1,48 @@
+PPPoE
+
+PPPoE（），以太网上的点对点协议，是将点对点协议（PPP）封装在以太网（Ethernet）框架中的一种网络隧道协议。由于协议中集成PPP协议，所以实现出传统以太网不能提供的身份验证、加密以及压缩等功能，也可用于缆线数据机（cable modem）和数位用户线路（DSL）等以以太网协议向用户提供接入服务的协议体系。
+本质上，它是一个允许在以太网 广播域中的两个以太网接口间建立点对点隧道的协议。
+
+以Linux系统常用的pppd为例，支持PPP接口上面的IP、IPv6和IPX网络层协议。
+
+它使用传统的基于PPP的软件来管理一个不是使用串行线路而是使用类似于以太网的有向分组网络的连接。这种有登陆和口令的标准连接，方便了接入供应商的记费。并且，连接的另一端仅当PPPoE连接接通时才分配IP地址，所以允许IP地址的动态复用。
+
+PPPoE是由UUNET、Redback Networks和RouterWare所开发的。发表于RFC 2516说明中。
+
+PPPoE分为两个阶段：
+
+由于传统的PPP连接是建立在串行链路或拨号时建立的ATM虚电路连接上的，所有的PPP-{zh-hans:帧; zh-hant:讯框}-都可以确保通过电缆到达对端。但是以太网是多路存取的，每一个节点都可以相互访问。以太帧包含目的节点的物理地址（MAC地址），这使得该帧可以到达预期的目的节点。
+因此，为了在以太网上建立连接而交换PPP控制报文之前，两个端点都必须知道对端的MAC地址，这样才可以在控制报文中携带MAC地址。PPPoE发现阶段做的就是这件事。除此之外，在此阶段还将建立一个会话ID，以供后面交换报文使用。
+
+一旦连接的双方知道了对端的MAC地址，会话就建立了。
+
+尽管传统的PPP是点对点协议，但是由于多个主机可以通过一个单独的物理连接连接到一个服务提供者，因此PPPoE本身就是一个客户端-服务器的关系。
+发现过程包含四个步骤。主机作为客户端，ISP端的访问集中器作为服务器。这四步在下面详述。最后一步第五步是关闭一个现存会话的方法。
+
+PADI为PPPoE Active Discovery Initiation的缩写。<br>
+如果一个用户想要使用DSL拨号连入Internet，那么他的计算机必须首先在其ISP的网络服务提供点（POP）找到DSL访问集中器（DSL-AC）。在以太网上通讯只能通过MAC地址。由于计算机不知道DSL-AC的MAC地址，于是就在以太网上广播一个PADI报文。这个报文中包含发送者的MAC地址。
+
+PADI报文示例：
+"Src."（=source）包含发送计算机的MAC地址。<br>
+"Dst."（=destination）为以太网广播地址。<br>
+PADI报文可能被一个以上的DSL-AC接收。
+只有可以提供“服务名称”（Service-Name）的DSL-AC设备才应该回复。
+
+PADO为PPPoE Active Discovery Offer的缩写。<br>
+一旦用户计算机发送了PADI报文，DSL-AC就会使用PADI中提供的MAC地址回复一个PADO报文。PADO报文中包含了DSL-AC的MAC地址、名称以及服务名。如果多于一个POP的DSL-AC回复了PADO报文，用户计算机就使用提供的名称和服务来从中选择一个。
+
+PADO报文示例：
+"AC-Name ->字符串数据"包含了AC名称，这里为“Ipzbr001”（莱比锡的Arcor DSL-AC）<br>
+"Src."包含了DSL-AC的MAC地址。<br>
+DSL-AC的MAC地址还包含了了DSL-AC的制造商信息（这里为北电网络）。
+
+PADR为PPPoE Active Discovery Request的缩写。<br>
+当用户计算机收到一个来自DSL-AC的可接受的PADO报文后，就会发送一个PADR报文给DSL-AC，用来确认接受发送PADO报文的DSL-AC所提供的PPPoE连接。
+
+PADS为PPPoE Active Discovery Session-confirmation的缩写。<br>
+上面的PADR报文由DSL-AC的PADS报文进行确认，并在其中携带一个会话ID。用户计算机与此DSL-AC的连接现在就完整建立了。
+
+PADT为PPPoE Active Discovery Termination的缩写。<br>
+这个报文终结用户计算机与POP的的连接，可由用户计算机或DSL-AC任意一方发送。
+
+

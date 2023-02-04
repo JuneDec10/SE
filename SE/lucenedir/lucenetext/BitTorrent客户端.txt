@@ -1,0 +1,8 @@
+BitTorrent客户端
+
+BitTorrent客户端，有时也可称BT客户端、BitTorrent软件、BT软件等，指所有利用BitTorrent协议进行文件传输的客户端软件。
+
+以下是一些较知名的BitTorrent客户端：
+
+默认支持此协议的浏览器有：
+支持此协议的浏览器附加组件有：

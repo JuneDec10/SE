@@ -1,0 +1,25 @@
+HijackThis
+
+HijackThis，有时称为HJT，是一款由Merijn Bellekom编写，在Microsoft Windows平台上运行的间谍软件移除工具。
+
+HijackThis原是一款免费软件，2012年起在GNU通用公共许可证下成为开源软件。现在它的版本是2.0.4。
+
+该软件可以快速扫描电脑并对比无间谍软件环境创建一个与区别列表。这个列表包括如下各项：
+
+HijackThis对搜集到的信息即可以保存为纯文本日志格式也可以禁用发现项。HijackThis可以禁用正在运行的重要程序，这可能导致系统或外围设备停止工作。所以HijackThis允许创建文件和注册表备份以便当发生问题时可以恢复系统。
+
+一个常见的做法是把日志文件发布在电子公告牌上，这样以方便高级用户检视并提供移除恶意软件建议。
+
+HijackThis的后继版本将包括更多的工具，如任务管理器、hosts文件编辑器以及alternate data stream扫描工具。
+作业系统
+Microsoft Windows™ XP
+Microsoft Windows™ 2000
+Microsoft Windows™ Me
+Microsoft Windows™ 98
+Microsoft Windows™ Vista
+Microsoft Windows™ 7
+
+浏览器
+Microsoft Internet Explorer 6.0 (或更新版本)
+Mozilla Firefox™ 1.5 (或更新版本)
+

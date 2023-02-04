@@ -1,0 +1,12 @@
+NVIDIA nForce
+
+nForce是由NVIDIA开发的电脑主机板晶片组产品，Professional系列则是供伺服器使用的晶片组。nForce晶片组拥有强大的效能，曾是AMD处理器的最佳搭配。而Intel平台则拥有可以组建SLI的优势，部分高阶产品的效能亦超过Intel自有晶片组。其还推出了部分整合GeForce显示核心的晶片组。
+
+但是，在AMD收购ATi后，拥有了自有品牌的晶片组业务；Intel推出的全新架构x5x系列晶片组后，原先的授权已不适用，而NVIDIA亦没有自己的处理器业务，所以其晶片组产品受到排挤，往日的辉煌已不在，处于十分尴尬的境地。在2009年10月NVIDIA宣布放弃AMD与Intel相容晶片组的开发计划。不过仍可能会发布新的行动平台晶片组以及继续发表新的nVIDIA ION系列整合产品。
+
+在nForce 2的时代时，NVIDIA就曾经推出过System Utility软体，它可以在Windows作业系统中调较BIOS中的参数。之后从nForce 3开始，直到nForce 600，该软体更名并升级为nTune。在AMD收购ATI后，AMD为其晶片组开发了OverDrive硬件调控软体。而NVIDIA就研发System Tools对抗之。新的System Tools支援nForce 780i SLI晶片组，亦支援NVIDIA最新的ESA技术。该软体除了可以微调硬体参数外，亦可以即时监察系统的情况，例如散热扇的转速。新的System Tools包含三个软体：
+
+
+
+
+

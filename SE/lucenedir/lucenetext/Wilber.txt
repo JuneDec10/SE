@@ -1,0 +1,5 @@
+Wilber
+
+是免费的自由软体点阵图形编辑器的官方吉祥物。
+
+Wilber是在1997年9月25日由Tuomas Kuosmanen与GIMP所创造出来。他接到从其他GIMP开发者（可以在"Wilber Construction Kit"中找到）的额外辅助，包含在GIMP 原始程式码中。

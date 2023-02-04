@@ -1,0 +1,9 @@
+Visual SourceSafe
+
+Microsoft Visual SourceSafe是美国微软公司出品的版本控制系统，简称VSS。
+
+软件支持Windows系统所支持的所有文件格式，兼容Check out-Modify-Check in（独占工作模式）与Copy-Modify-Merge（并行工作模式）。VSS通常与微软公司的Visual Studio产品同时发布，并且高度集成。VSS使用文件系统作为存储方式，每次版本变更时就需要大量地读写硬盘。这也是VSS最广受垢弊的缺点。快速大量的信息交换的需要，使得VSS仅适用于快速本地网络，而无法实现基于Web的快速操作，尽管一个妥协的办法是可以通过慢速的VPN。VSS2005 拥有Web存取功能，不再与Visual Studio同时发布。为了实现VSS的远程和跨平台访问，微软推荐VSS用户使用第三方工具，例如SourceAnywhere for VSS。在Visual Studio2008 Team System 中集成了另外一个叫做Team Foundation Server的项目生命期管理工具。VSS未来将面向独立开发者和小型开发团队。
+
+VSS虽然是微软公司的产品，但微软内部却很少使用它。微软内部使用一个名为SLM的版本控制系统，直至1999年。之后，微软内部改以使用修改自Perforce的SourceDepot。
+
+其他版本控制系统

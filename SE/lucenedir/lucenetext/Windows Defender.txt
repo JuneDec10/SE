@@ -1,0 +1,7 @@
+Windows Defender
+
+Windows Defender，曾用名Microsoft AntiSpyware，是用来移除、隔离和预防间谍软件的程序，可以运行在Windows XP以及更高版本的操作系统上，并已经内置在Windows Vista以及以后的版本中。测试版于2005年1月6日发布，在2005年6月23日、2006年2月17日微软又发布了更新的测试版本。Windows Defender的定义库更新很频繁。在Windows 8中与Microsoft Security Essentials整合。
+
+Windows Defender不像某些其他同类免费产品一样只能扫描系统，还可以对系统进行实时监控，移除已经安装的ActiveX插件，清除大多数微软的程序和其他常用程序的历史纪录。
+
+

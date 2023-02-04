@@ -1,0 +1,3 @@
+UXGA
+
+超级扩展图形阵列（Ultra eXtended Graphics Array或Ultra XGA或UXGA）是一种"既成事实"的标准。分辨率为1600x1200（每像素32比特，或称本色）。

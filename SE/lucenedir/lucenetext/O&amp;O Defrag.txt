@@ -1,0 +1,4 @@
+O&amp;O Defrag
+
+O&O Defrag是一个磁盘整理工具，支持FAT32和NTFS-{zh-hans:文件系统; zh-hant:档案系统;}-，可设定整理任务。分为专业版（Professional）和服务器（Server）版。它有多种整理方式，根据不同的碎片程度选用，整理系统盘可以用NAME整理，可加快开机速度。此外对于碎片较多的可用SPACE间整理。
+

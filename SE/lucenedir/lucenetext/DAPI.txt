@@ -1,0 +1,18 @@
+DAPI
+
+DAPI即4',6-二脒基-2-苯基吲哚(4',6-diamidino-2-phenylindole)，是一种能够与DNA强力结合的荧光染料，常用于萤光显微镜观测。因为DAPI可以透过完整的细胞膜，它可以用于活细胞和固定细胞的染色。
+
+DAPI的发射光为蓝色，且DAPI和绿色萤光蛋白（Green fluorescent protein, GFP）或Texas Red染剂（红色萤光染剂）的发射波长，仅有少部分重叠，研究员可以善用这项特性在单一的样品上进行多重萤光染色。使用过程中应注意操作与抛弃的处理程序。
+1971年DAPI在一项关于制抗锥虫病的药物的研究中第一次被合成于Otto Dann的实验室。它虽然不是一种成功的药物，但更深入的研究表明它与DNA强力结合并在此时发出更强的荧光，这导致了1975年它被用在超速离心分析法中以标记线粒体DNA。与DNA结合时激发的强荧光使它被广泛用于荧光显微镜技术中对DNA的染色。上世纪70年代末证实DAPI可以被用来在植物，微生物，多细胞动物和细菌细胞中追踪DNA，1977年证实它可以被用来定量给细胞中的DNA染色，同时也证实DAPI可在流式细胞术中用作DNA染料
+
+当DAPI与双股DNA结合时,在萤光显微镜观察下，DAPI染剂在358 nm (紫外线) 处有一个最大吸收峰，并在461 nm (蓝)处有一个最大发射峰，其发射光的波长范围含盖了蓝色至青绿色，因此在荧光显微技术中DAPI被紫外线照亮且被蓝或青色滤镜检出。DAPI也可以和RNA结合，但产生的萤光强度不及与DNA结合的结果，其发射光的波长范围约在400nm左右。
+
+DAPI's blue emission is convenient for microscopists who wish to use multiple fluorescent stains in a single sample. There is some fluorescence overlap between DAPI and green-fluorescent molecules like fluorescein and green fluorescent protein (GFP) but the effect of this is small. Use of spectral unmixing can account for this effect if extremely precise image analysis is required.
+
+Outside of analytical fluorescence light microscopy DAPI is also popular for labeling of cell cultures to detect the DNA of contaminating mycoplasma or virus. The labelled mycoplasma or virus particles in the growth medium fluoresce once stained by DAPI making them easy to detect.
+
+这一DNA最近被有效地刻画
+This DNA fluorescent probe has recently been effectively modeled using the Time-dependent density functional theory, coupled with the IEF version of the Polarizable continuum model. 
+This quantum-mechanical modeling has rationalized the absorption and fluorescence behavior given by minor groove binding and intercalation in the DNA pocket, in term of a reduced structural flexibility and polarization.
+DAPI可用于固定细胞染色，但是因为活细胞染色对DAPI浓度有严格要求，它很少被用于活细胞染色。DAPI能快速进入活细胞中与DNA结合，因此DAPI对生物体而言，也被视为一种毒性物质与致癌物。然而在MSDS中它被标记为无毒。尽管DAPI没有显现出对E.coli的诱变性，它在机器制造商提供的信息上被认为是一种DNA诱变剂。由于DAPI可以掺入DNA螺旋中，它很有可能有底层的DNA诱变性，因此应小心配置和使用DAPI。
+类似于DAPI技术，赫斯特染色是一种既可以用于活细胞也可以用于固定细胞的蓝色荧光染料，并且可以使用与DAPI相同的机器滤镜设置

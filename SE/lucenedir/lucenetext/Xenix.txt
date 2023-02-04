@@ -1,0 +1,24 @@
+Xenix
+
+Xenix是一种UNIX作业系统，可在个人电脑及微型计算机上使用。该系统由微软公司在1979年从美国电话电报公司获得授权，为Intel处理器所开发。后来，圣克鲁兹作业公司（SCO）收购了其独家使用权，自那以后，该公司开始以SCO UNIX（亦被称作SCO OpenServer）为名发售。值得一提的是，它还能在DEC PDP-11或是Apple Lisa电脑执行。它继承了UNIX的特性，Xenix具备了多人多工的工作环境，符合UNIX System V的介面规格 （SVID）。
+
+Xenix是微软为微型计算机推出的Unix版本。由于微软购买的授权无法直接让该操作系统以“UNIX”为名，便命名该系统为Xenix。
+
+微软在1979年从美国电话电报公司购买了Unix授权，并于1980年8月25日发布面向16位系统的版本，由SCO公司将该系统移植至英特尔8086/8088架构。
+
+自第七版后，Xenix合作使用了BSD的技术，再加上当时x86处理器的价格低廉，很快便成为当时最受欢迎的Unix发行版。
+
+微软并不直接把Xenix销售给终端客户，而是以OEM的形式授权给英特尔、Tandy、Altos及SCO公司。最初的版本面向PDP-11，后来移植至ZilogZ8001处理器。Altos在1982年早期推出了适用于其英特尔8086结构电脑的版本，Tandy公司在1983年3月推出了基于摩托罗拉68000架构的TRS-XENIX，SCO公司也在1983年9月推出了基于IBM PC的对应移植版。在这之后也出现了基于摩托罗拉68000架构的Apple Lisa移植版；此时，Xenix已经基于美国电话电报公司的Unix System III。
+
+2.0版的Xenix基于Unix System V，于1985年释出。2.1.1版开始支持Intel 80286CPU。此后的更新改善了其稳定性。
+
+1987年，SCO公司将其移植至32位的Intel 80386CPU，2.3.1版正式支持i386，小型计算机系统接口和TCP/IP协议。SCO的Xenix System V/386是市面上首款支持英特尔x86架构系统的32位系统。
+
+当微软和IBM达成开发OS/2操作系统的协议后，便失去了推广Xenix的兴趣。1987年，微软与SCO达成了一项协议，前者以持有后者股票25%的条件转让了Xenix的所有权。在失去对OS/2的兴趣后，微软最终转向Windows NT。但在微软内部依旧在使用Xenix，其1987年为支持新功能的补丁扩散到了Xenix及SCO UNIX。据说截止至1992年，微软还在使用基于Xenix的Sun的工作站及VAX微型计算机。
+
+二十世纪八十年代末期，《The Design and Implementation of the 4.3BSD UNIX Operating System》称Xenix为“可能是传播最广的UNIX操作系统”。
+
+SCO最初推出了高端的SCO UNIX，同时保留了Xenix。与此同时，Sun和美国电话电报公司把Xenix，BSD，SunOS和System V合并成System V Release 4。SCO UNIX虽然基于System V Release 3，但也拥有Release 4的大部分功能。Xenix的最终版停留在2.3.4。
+
+Trusted Xenix是由Trusted Information Systems与开发的分支。3.0版本在1991年1月释出，次年4月释出3.0版，最终的4.0版与1993年9月释出。该版系统直至1995年还有使用。
+

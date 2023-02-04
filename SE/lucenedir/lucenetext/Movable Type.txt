@@ -1,0 +1,7 @@
+Movable Type
+
+Movable Type，简称MT，是由位于美国加州的Six Apart公司推出的网志（blog）发布系统。它是全球最受欢迎的网志系统之一，包含多用户，评论，引用（TrackBack），主题等功能，并广泛的支持各种第三方插件。
+
+Movable Type不仅可以应用于个人的网志系统，而且可以应用于商业、教育等领域。Movable Type于2007年12月12日正式宣布以GPLv2的协议开源。
+
+

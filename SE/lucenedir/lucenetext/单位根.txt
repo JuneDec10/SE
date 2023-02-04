@@ -1,0 +1,26 @@
+单位根
+
+数学上，formula_1次单位根是formula_2次幂为1的复数。它们位于复平面的单位圆上，构成正"n"边形的顶点，其中一个顶点是1。
+
+这方程的复数根 formula_4为formula_1次单位根。
+
+单位的 formula_1次根有 formula_1个：
+
+单位的 formula_1次根以乘法构成formula_10阶循环群。它的生成元是 formula_1次本原单位根。formula_1次本原单位根是formula_13，其中formula_14和formula_2互质。formula_2次本原单位根数目为欧拉函数formula_17。
+
+一次单位根有一个formula_18。
+
+二次单位根有两个：formula_19和formula_20，只有formula_20是本原根。
+
+三次单位根是
+
+其中formula_23是虚数单位；除formula_24外都是本原根。
+
+四次单位根是
+
+其中formula_26和formula_27是本原根。
+
+当formula_2不小于formula_29时，formula_2次单位根总和为formula_31。这一结果可以用不同的方法证明。一个基本方法是等比级数：
+
+第二个证法是它们在复平面上构成正多边形的顶点，而从对称性知这多边形的重心在原点。
+还有一个证法利用关于方程根与系数的韦达定理，由分圆方程的formula_33项系数为零得出。

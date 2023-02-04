@@ -1,0 +1,7 @@
+CherryOS
+
+CherryOS是一款用于在Microsoft Windows平台下模拟Power G4处理器的模拟器。CherryOS在2004年10月12日宣布开发，并在2005年3月9日首次发行，至2005年5月6日停止更新。CherryOS被很多人认为是一个可疑的软体。甚至有人认为这是一个抄袭品。
+因为PearPC的发布基于GNU协议，而CherryOS是商业软体，它有可能是一个基于PearPC的修改品，基于这个观点有人认为CherryOS违反了GNU协议而受到批评。
+
+CherryOS在2005年3月10日发表了第一个版本，声称有比PearPC更易使用且有更华丽的外观，而且拥有一些PearPC没有的功能，例如对USB、IEEE1394、网路、声音的支援。但是很遗憾，最终，PearPC所不支援的功能CherryOS都不支援。
+

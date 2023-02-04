@@ -1,0 +1,9 @@
+Becky!
+
+Becky! Internet Mail是一个电子邮件客户端软件，由日本Rimarts公司开发。
+
+主要的优点有：体积小、占用资源少、速度快、功能强大。
+
+像Mozilla Thunderbird一样，Becky!提供插件支持，用户可以通过安装插件来扩展程序的功能。Hotmail插件是Becky!上流行的插件之一，该插件使Becky!可以像Outlook一样使用Hotmail帐号收发邮件。
+
+

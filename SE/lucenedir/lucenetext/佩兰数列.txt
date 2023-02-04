@@ -1,0 +1,21 @@
+佩兰数列
+
+在数学上，佩兰数列是一个整数数列，由起始数值formula_1和递归关系formula_2定义。
+
+首数个值为3, 0, 2, 3, 2, 5, 5, 7, 10, 12, 17, 22, 29, 39, ... （）
+
+佩兰数列的递归关系和巴都万数列一模一样，只是起始值不同而已。
+
+考虑数列中formula_3的数，有1, 2, 3, 5, 7, 11, 13, ...除掉1外，这些数都是质数。
+
+已经证明了对于所有质数，formula_4。但其逆定理并不成立，这样的合成数称为佩兰伪质数，最小的一个是formula_5。（）
+
+此数列早于1878年就被爱德华·卢卡斯研究（"American Journal of Mathematics", vol 1, page 230ff）。1899年R. Perrin（"L'Intermediaire Des Mathematiciens"）又再研究。对此数列较详尽的研究是Dan Shanks及Bill Adams在1982年发表的论文（"Mathematics of Computation", vol 39, n. 159）。
+
+佩兰数列的生成函数为：
+
+和巴都万数列一样，佩兰数列的一般形式也和方程formula_8的三个根有关：实根formula_9（即银数）和两个复数根formula_10、formula_11。
+
+formula_12。
+
+因为formula_10、formula_11的绝对值少于1，在formula_15很大的时候会很接近0，可以忽略：formula_16。显然易见两个连续佩兰数之比会以银数为极限，即约1.324718。

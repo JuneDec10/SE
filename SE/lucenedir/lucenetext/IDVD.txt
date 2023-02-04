@@ -1,0 +1,6 @@
+IDVD
+
+iDVD是一款由苹果公司编写的DVD制作软件，只能运行在Mac OS X上。iDVD允许用户把QuickTime电影、MP3音乐和数码图片制作为一片可以在DVD机中播放的DVD。它通常作为苹果iLife套装的最后一步，把所有其它iLife应用软件所制作的结果输入到移动媒体中。
+
+最初只出现在带Superdrive的Mac上，现在已停止开发，从OS X Lion中去除。升级系统后想要继续使用iDVD，可以下载市面上支持更高版本的iDVD Alternative软体（for Lion/Mountain lion/Mavericks），但是苹果公司并没有发布官方的替代解决方案。
+

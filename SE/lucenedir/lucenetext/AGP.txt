@@ -1,0 +1,38 @@
+AGP
+
+AGP，全称为-{zh-hans:加速图形接口; zh-hant:加速影像处理埠;}-（Accelerated Graphics Port），是电脑主机板上的一种高速点对点传输通道，供显示卡使用，主要应用在三维电脑图形的加速上。AGP是在1997年由Intel提出，是从PCI标准上建立起来，是一种显示卡专用接口。推出原因是为了消除PCI在处理3D图形时的瓶颈。AGP通常会被视为-{zh-hans:计算机总线; zh-hant:电脑汇流排;}-的一种，但这样的分法严格来说是错误的；因为一组-{zh-hans:总线; zh-hant:汇流排;}-可容许多个设备共用，而AGP却不是。AGP不能多个插槽共用一组-{zh-hans:总线; zh-hant:汇流排;}-。一些主机板设有多条独立的AGP-{zh-hans:插槽; zh-hant:埠;}-，-{zh-hans:现时; zh-hant:目前;}-AGP已基本被PCI Express所取代。
+
+AGP插槽首次在x86兼容系统出现，是在Socket 7 Pentium和Slot 1 Pentium II主机板上。1997年10月中旬，Intel于i440LX Slot 1晶片组上加入AGP的支持，其后主要主机板供应商也大量推出一系列相关的产品。
+
+最早支持AGP的Socket 7晶片组是VIA Apollo VP3、SiS 5591/5592、以及ALi Aladdin V，而Intel从未发布配备AGP接口的Socket 7晶片组。1997年11月，大众电脑展示了首块使用VIA Apollo VP3晶片组的Socket 7 AGP主机板，名为FIC PA。1998年，磐英科技的主机板EPoX P55-VP3也使用VIA Apollo VP3晶片组，是第一块推出市场的相关主机板。
+
+于早期支持AGP的视讯晶片包括Rendition Vérité V2200、3dfx Voodoo Banshee、Nvidia RIVA 128、3Dlabs PERMEDIA 2、Intel i740、ATI Rage系列、Matrox Millennium II、和S3 ViRGE GX/2。一些早期AGP显示卡使用PCI线路连接图形处理器然后再桥接到AGP，这导致新插槽对显示卡的得益减少，剩下只有66 MHz的前端总线时脉，以及相倍PCI传输频宽的改善。这些卡的例子有Voodoo Banshee、Vérité V2200、Millennium II和S3 ViRGE GX/2。不过，Intel的i740在设计上明确要使用新的AGP功能，因为它只能从AGP记忆体中处理纹理画面，使PCI版本的显示卡难以执行。
+
+微软首次推出AGP支持是在Windows 95 OEM Service Release 2版（OSR2 version 1111或950B）上，透过USB补充OSR2修补程序更新。安装了该修补程序后，Windows 95系统会升级为Windows 95版本4.00.950。另外，首个支持AGP的Windows NT核心操作系统版本，是1997年发表的Windows NT 4.0 Service Pack 3。而Linux于1999年透过AGPgart内核模块加入对AGP高速数据传输的支持。
+
+AGP可把帧缓冲记忆体更有效地使用，除3D绘图外，2D绘图的表现也得以加强。
+
+1997年，英特尔推出了首个AGP版本，名为“AGP 1.0规格”，包括了1倍速（1x）和2倍速（2x）的速度。之后，又发布了2.0规格的4倍速（4x）和3.0规格的8倍速（8x）速度的AGP。其版本包括：
+
+
+
+
+
+AGP 3.5规格是指由微软所提及的＂通用加速影像处理埠＂（Universal AGP，UAGP），当中强制了要支援在AGP 3.0规格中部分原本被视为可选择性支援的暂存器。升级了的暂存器包括PCISTS、CAPPTR、NCAPID, AGPSTAT、AGPCMD、NISTAT、NICMD。而新増的暂存器包括APBASELO、APBASEHI、AGPCTRL、APSIZE、NEPG、GARTLO、GARTHI。
+
+不少生产商也会制造一些非标准的AGP接口。
+
+
+
+
+
+
+
+
+
+AGP显示卡是支援向上和向下相容的。不过，信号电压为1.5V的显示卡不能插入3.3V的插槽，反之亦然，只有“通用（Universal）”插槽才能同时支援两种类型的卡。AGP Pro显示卡不能装进标准AGP插槽，但标准的AGP显示卡却能工作于AGP Pro插槽上。有些显示卡，如大部分Nvidia的GeForce 6系列或ATI的Radeon X800系列，只有1.5V的凹口（key），以防止它们被安装在不支持1.5V的旧型号主机板上。而最后一代支持3.3V的显示卡有Nvidia的GeForce FX系列，GeForce 6系列（仅限NV44，NV44A）和ATI的Radeon R300系列（仅限R300，而不是R350，R360，RV350，RV360）。
+
+安装显示卡前，检查电压兼容性是相当重要的，因为一些显示卡会错误地拥有双凹口和一些不正确的主机板会有全开放插槽。此外，一些设计不佳的旧式3.3V显示卡会不当地有1.5V的凹口，将这些卡插入不支持正确信号电压的插槽可能会造成损坏。
+
+不过，也有一些独有的例外，例如苹果Macintosh电脑的Apple Display Connector（ADC）接口有一个额外的连接器可为连接的显示提供电源。此外，由于韧体上的问题，显示卡不能由一种CPU架构的电脑移动到另一种的电脑上。
+

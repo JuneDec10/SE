@@ -1,0 +1,15 @@
+奔腾M
+
+Pentium M是英特尔公司的x86架构微处理器，供笔记型电脑使用，亦被作为Centrino的一部分，于2003年3月推出。M代表“移动”（Mobile）。在推出前的核心名称为“Banias”，是以色列的地名。Pentium M是由英特尔在以色列的海尔法（Haifa）实验室研发设计的。
+
+一直以来，英特尔公司完成一款处理器的设计之后先发售桌面版，在制程上加以改良（主要是减小功耗）后推出相对应的移动版处理器。在完成基于NetBurst架构、以追求运行频率为主要目标的Pentium 4处理器之后，其移动版P4-M因为较大的能耗和发热而受到市场恶评。这时候英特尔公司针对移动处理器市场，重新推出了Pentium M处理器。Pentium M并非从Pentium 4发展而来，架构更接近了Pentium III的短流水线设计，经多方面的修改而成，当中Pentium III的设计源自Pentium Pro。该处理器具有省电、低功耗、延长电池寿命等特点，时脉方面比P4低，但其效能则与时脉较高的P4-M相近。可以近似认为，运作在1.6GHz的Pentium M总体运算性能与P4-M 2.4GHz相当。
+
+Pentium M处理器在功耗和性能两者间达成了极佳的平衡，帮助它在市场上获得了巨大的成功。
+
+2003年3月第一代Centrino芯片推出，代号Karmel，核心名称为Banias。采用0.13微米制程芯片工艺。集成1MB L2 Cache，前端总线400MHz，集成7700万晶体管。配套的芯片组主要为i855系列，采用PCI总线和DDR内存。
+
+支援指令集：MMX，SSE，SSE2，EIST
+2004年10月第二代Centrino芯片推出，代号Sonoma，核心名称为Dothan。采用0.09微米制程芯片工艺。集成2MB L2 Cache，前端总线支持到533MHz，也有400MHz产品，集成1亿4000万晶体管。配套的芯片组为i915系列，采用PCI Express总线和DDR2内存。
+
+支援指令集：MMX，SSE，SSE2，EIST<br>C0以上步进支援指令集：PAE，XD bit
+使用Pentium M架构，代号为Yonah的微处理器，已经以Intel Core品牌发行，有Core Solo与Core Duo两版本，仅有移动版。其后的正统继承者Intel Core 2采用改良后的被正式命名为Intel Core的核心，同时具有桌面版本（Conroe）、服务器版本（Woodcrest）和移动版本（Merom），这标志着Pentium M架构从移动领域向桌面领域的反噬。

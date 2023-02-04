@@ -1,0 +1,29 @@
+Red Hat Linux
+
+Red Hat Linux是由Red Hat公司发行的一个Linux发行套件。
+
+Red Hat Linux可算是一个「中年」的Linux发行套件，其1.0版本于1994年11月3日发行。虽然其历史不及Slackware般悠久，但比起很多的Linux发行套件，Red Hat的历史悠久得多。
+
+Red Hat Linux中的RPM软件包格式可以说是Linux社区的一个事实标准，被广泛使用于其他Linux发行套件中。
+
+以Red Hat Linux为基础派生的Linux发行套件有很多，其中包括以桌面用户为目标的Mandrake Linux（原为包含KDE的Red Hat Linux），Yellow Dog Linux（开始时为支援PowerPC的Red Hat Linux）和ASPLinux（对非拉丁字元有较好支援的Red Hat Linux）。
+
+自从Red Hat 9.0版本发布后，Red Hat公司就不再开发桌面版的Linux发行套件，而将全部力量集中在服务器版的开发上，也就是Red Hat Enterprise Linux版。2004年4月30日，Red Hat公司正式停止对Red Hat 9.0版本的支援，标志著Red Hat Linux的正式完结。原本的桌面版Red Hat Linux发行套件则与来自民间的Fedora计划合并，成为Fedora Core发行版本。
+
+Red Hat Linux拥有一个图形化的安装程序Anaconda，目的是为了令新手更容易使用。同时，它有一个内建的防火墙设置工具Lokkit。
+
+由Red Hat Linux 8.0开始，UTF-8成为了系统预设的字元编码设定。这对于英语用户来说无甚影响，但当用到ISO/IEC 8859-1字元集的较高位置字元时，编码方式则完全不同。对于部分法语或瑞典语的用户来说，这是一个冒犯性的举动，这问题可以透过移除"LANG"设定中的".UTF-8"来解决。
+
+8.0版本亦是第一个使用Bluecurve桌面主题的发行版本。
+
+因为可能发生的版权或专利权问题，Red Hat Linux不包含很多的功能。例如Rhythmbox和XMMS中的MP3支持被Red Hat方面移除了，并推荐用户使用没有版权问题的Ogg Vorbis取而代之，但用户可以自行安装MP3的支持。Red Hat Linux亦缺少NTFS的支持，不过有需要的用户亦可自行安装。
+
+2002年在台湾出现自由软体用户抵制Red Hat Linux的活动。自于Red Hat Linux 8.0版开始，Red Hat Linux的国家列表中，将原本的「台湾」改称「中国台湾」，并移除中华民国国旗，此举引发台湾自由软体界抵制Red Hat Linux的活动，Red Hat Linux的台湾社群用户纷纷改换其他Linux发行版。
+
+发行日期资料来源：comp.os.linux.announce（news:comp.os.linux.announce）
+
+
+Fedora计划与Red Hat计划于2003年9月22日合并。
+
+"Fedora Core的发行历史请参见Fedora Core条目"
+

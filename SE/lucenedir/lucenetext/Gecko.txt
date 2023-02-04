@@ -1,0 +1,34 @@
+Gecko
+
+Gecko是一套自由及开放原始码、以C++编写的排版引擎，目前为Mozilla Firefox网页浏览器以及Mozilla Thunderbird电子邮件客户端等Mozilla基金会相关产品所使用。Gecko原本由网景通讯公司开发，现在则由Mozilla基金会维护。
+
+这套排版引擎提供了一个丰富的应用程式介面以供网际网路相关的应用程式使用，例如：网页浏览器、HTML编辑器、客户端／伺服器等等。虽然最初的主要使用对象为Netscape和Mozilla Firefox网页浏览器，但现在已有很多其他软体在使用这个排版引擎。Gecko是跨平台的，能在Microsoft Windows、Linux和Mac OS X等主要作业系统上运行。
+
+1997年，网景领航员在各方面的表现已经比不上它的主要竞争对手Internet Explorer，这包括程式的执行速度、对W3C标准的支援度等等。于是，网景收购了DigitalStyle，开始研发下一代的排版引擎，并期望把新的排版引擎应用于下一版本的网景浏览器上。
+
+1998年初，这个新的排版引擎名为Raptor，以开放原始码的方式发放于网路上。后来，因为商标问题，Raptor改名为NGLayout（即Next Generation Layout之意）。而最后NGLayout被网景市场部门重新命名为Gecko。但由于Gecko为网景公司的商标，所以有一段时期Mozilla.org（网景成立的非正式组织，Mozilla基金会前身）以NGLayout来称呼这个新的排版引擎。
+
+1998年10月，网景公布下一版的浏览器将会使用这个排版引擎，而该浏览器亦需要被大幅度重写。对于致力推动网路标准的人，这是一个令人振奋的-{消息}-。然而，对于网景开发者而言，这是一个长达六个月的大工程，而他们在Netscape 5.0上（包括旧有的Mariner排版引擎）所花的心血亦被白白浪费，结果导致采用Gecko引擎的Netscape 6.0在2000年11月才被正式发布。
+
+随著Gecko排版引擎的开发，越来越多应用程式开始使用它。美国线上作为网景的母公司，终于在CompuServe 7.0和AOL for Mac OS X上使用了Gecko。可惜，Windows版的AOL浏览器始终没有使用过Gecko。
+
+2003年7月15日，美国线上解散了网景公司，大部分网景开发者被解雇。而Mozilla基金会亦在当天成立，继续推动著Gecko的发展。直到今天，Gecko排版引擎继续由Mozilla员工和社群所维护和发展。
+
+
+Gecko将会继续支援更多的网路标准，例如：XForms和SVG。Mozilla基金会身为WHATWG组织的成员，Gecko和其他排版引擎将会率先支援WHATWG所定下的规格，例如：可供绘画的Canvas。
+
+Gecko的绘图引擎在1.9版有重大的改变。它使用跨平台的Cairo绘图引擎来取代作业平台的绘图介面。这个改变将会令Gecko拥有更佳的绘图能力。而加上的话，更可利用3D硬体加速。而所有多媒体内容（如HTML／CSS、Canvas、SVG等）将可使用同一管道作出渲染，SVG的特效亦可以应用于HTML上。因为使用Cairo的关系，图像亦可以被输出作PNG和PDF，亦有可能达成「另存本页为PDF」的功能。
+
+Gecko主要用于网页浏览器，最早使用于Netscape 6和Mozilla Suite（后来更名为SeaMonkey）。它也用于Mozilla的其它浏览器衍生产品如Firefox和Firefox行动版。Mozilla也将其用于Thunderbird电子邮件客户端。
+
+其他使用Gecko的网页浏览器还包括Airfox、Waterfox、K-Meleon、Lunascape、Pale Moon、Firefox Portable、、、
+、HP Secure Web Browser，Oxygen和Sylera（行动装置）。
+
+其他使用Gecko的产品包括、Oxygen、、Instantbird和Google的图片管理软体Picasa（Linux版本）。
+
+，GTK+/GNOME API文件浏览器，使用Gecko来渲染文件。
+
+历史上使用Gecko的产品包括Songbird、Epiphany（现在改名为Web，已经没有使用Gecko）、Sunbird，以及其他网页浏览器，包括、Flock、Galeon、Camino、Minimo、Beonex Communicator、和。
+
+在Netscape时代，由于糟糕的技术和管理决策导致了Gecko的。因此，2001年，苹果公司选择了KHTML分支，而不是Gecko，来为其Safari浏览器建构WebKit引擎。然而，到2008年，Mozilla已经解决了一些膨胀问题，导致Gecko的性能大幅提升。
+

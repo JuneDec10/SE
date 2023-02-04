@@ -1,0 +1,6 @@
+Global IP Solutions
+
+Global IP Sound，又称Global IP Solutions，简称GIPS，是一家总部位于美国旧金山，专门从事基于IP网络的实时语音和视频处理软件研发的高科技公司。公司于1999年在瑞典斯德哥尔摩成立，后改名为Global IP Solutions。如北电网络、Skype、腾讯QQ、WebEx、AOL、EarthLink等许多项目目前都采用该公司的产品GIPS SoundWare™。
+
+2010年5月，Google以6820万美元并购GIPS。2011年6月，Google释出WebRTC。WebRTC是在浏览器内进行影像和音讯通信的一套开源技术。
+

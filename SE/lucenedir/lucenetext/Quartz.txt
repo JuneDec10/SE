@@ -1,0 +1,9 @@
+Quartz
+
+Quartz是位于Mac OS X的Darwin核心之上的绘图层，有时候也认为是CoreGraphics。Quartz直接地支援Aqua，借由显示2D绘图图形来建立使用者介面，包含即时绘制（rendering）和次像素（sub-pixel）精准的反锯齿。
+
+共有两种元件来组成Quartz：
+
+Quartz可以使用AltiVec来加速，以及透过AGP显示卡上的GPU支援的硬体绘图。这项技术在Mac OS X Tiger上被扩充为Core Image和Core Video提供即时的视讯和图片的操作。
+
+

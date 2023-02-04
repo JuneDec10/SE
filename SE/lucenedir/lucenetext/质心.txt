@@ -1,0 +1,36 @@
+质心
+
+质心为多质点系统的质量中心。若对该点施力，系统会沿著力的方向运动、不会旋转。质点位置对质量加权取平均值，可得质心位置。以质心的概念计算力学通常比较简单。质心对应的英文有 与 （或 ，源自古希腊的 "heavy" + "centre"）。后者指两个或多个物体互绕物体的质量中心。
+
+在天文学，质心座标是非转动座标，其原点是两个或多个天体的质心所在。国际天球参考系统是质心座标之一，它的原点是太阳系的质心所在之处。
+
+在几何学，质心不等同于重心，是二维形状的几何中心。
+
+质心不一定要在有重力场的系统中才会有意义，而重心则否。值得注意的是，除非重力场是均匀的，否则同一物质系统的质心与重心通常不在同一假想点上。对于密度均匀、形状对称分布的物体，其质心位于其几何中心处。
+
+在两质点系统中，取质心为原点，两质点连线为x轴，则两质点坐标formula_1和formula_2与质量formula_3与formula_4有如下关系：
+
+双星互绕时它们的质心位置：
+
+重力作用的平均位置，定义为各质点相对于重心(质心)的位置向量乘上各质点的重力之和(合力矩)为零。
+在地球表面附近，重力场可被认定为均匀且平行向下，所以重心会等同于质心。
+在物理学，使用「质心」来表示质量分布的好处，从以合力来考虑连续体的重力可以看出。考虑一个体积为V的体系（不一定是刚体），并设在物体内位置矢量为r的点的密度为ρ(r)。在均匀的重力场中，每个点r的场的作用力f由下式给出：
+其中dm是在点r的质量，g 是重力加速度，以及"k" 是定义垂直方向的单位向量。
+在这个体系中选择位置矢量为R的点为参考点，计算出点r所受的合力：
+以及点r相对点R合力矩：
+如果这个参考点R正好选在质心，则有
+这就意味着合力矩T=0。因为其合力矩为零，可以视为体系所有的质量集中于质心，而没有体系自身转动的效应。
+
+常用于天体力学
+
+一些不均匀的引力场中可以通过可变但并行的场来建模： ,其中是一些常数单位矢量。虽然不均匀的引力场不能完全平行，但如果物体足够小，这种近似可能是有效的。然后可以将重心定义为构成组成物体位置的特定加权平均值。即是质心平均超过每个粒子的质量，重心平均超过每个粒子的重量：
+
+where formula_11 is the (scalar) weight of the 粒子和 所有粒子的（标量）总重量。 该方程始终具有独特的解决方案，并且在并行场近似中，它与扭矩要求兼容。.
+一个常见的例子涉及地球领域的月亮。使用加权平均定义，月球的重心比其质心更低（更接近地球），因为它的下部受地球引力的影响更大。
+如果外部重力场是球对称的，那么它相当于点质量的场 at the center of symmetry . In this case, the center of gravity can be defined as the point at which the total force on the body is given by Newton's Law:
+
+where is the gravitational constant and is the mass of the body. As long as the total force is nonzero, this equation has a unique solution, and it satisfies the torque requirement. A convenient feature of this definition is that if the body is itself spherically symmetric, then lies at its center of mass. In general, as the distance between and the body increases, the center of gravity approaches the center of mass.
+
+Another way to view this definition is to consider the gravitational field of the body; then is the apparent source of gravitational attraction for an observer located at . For this reason, is sometimes referred to as the center of gravity of "relative to the point" .
+
+

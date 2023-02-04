@@ -1,0 +1,18 @@
+自动终端情报服务
+
+自动终端情报服务（，常缩写为ATIS，在中国大陆简称情报通播）是在繁忙的机场自动连续播放的信息服务，通常在一个单独的无线电频率上进行广播，包括主要的与飞行相关的信息，如天气、可用跑道、气压及高度表拨正值等信息。飞行员通常在和管制员等单位建立联系前收听通播，了解相关情况以减少管制员的工作量及避免频道拥挤。正常情况下通播每小时更新一次，天气变化迅速时也可随时更新，通播的版本会以字母代码 A, B, C...Z 表示，按照ICAO公布的标准字母解释法判读。
+
+
+在香港国际机场，ATIS以英文循环播放，并分为Departure ATIS（提供一切离场资料，多为女声）与及Arrival ATIS（提供一切到场资料，多为男声）
+
+以下为Arrival ATIS的例子：
+Hong Kong Arrival information Delta. At time zero zero three zero. Arrival Runway 07L. Runway surface wet. Wind 110 degree 14kts maximum 28kts. Visibility three thousands four hundreds meters. Showers. Clouds Few 700ft. Scattered 1800ft. Broken 5000ft. Temperature 26. Dew point 25. QNH niner niner four hectopascal. Tempo visibility three thousands meters. Light Showers. Acknowledge information Delta on first contact with Approach.
+
+在中国大陆的国际机场，情报通播一般使用中文和英文交替循环播放，例如以下为2018年1月16日晚上2300CST时北京首都国际机场的真实离场ATIS：
+
+"北京首都国际机场情报通播INDIA，幺五洞洞UTC。跑道独立平行离场，跑道三六左起始高度一千二，跑道三六右起始高度一千五，跑道洞幺起始高度九百。 风向幺八洞度，风速洞四米每秒，风向变化幺五洞度到两幺洞度。 CAVOK。气温负洞幺摄氏度，露点负幺三摄氏度，修正海压幺洞幺八百帕。放行频率幺两幺点六。地面滑行时请把应答机设置在S模式。如果需要全跑道起飞，请在申请放行许可时向管制员申请。Foxtrot与Hotel之间的Sierra 拐 滑行道关闭。本场RNAV离场可用。首次与管制员联络时报告您已收到通播INDIA并确认能否执行RNAV程序。"
+
+Beijing Capital International Airport information India. one-five-zero-zero UTC. Runway independent parallel departures. Runway three six left initial altitude one thousand two hundred meters, runway three six right initial altitude one thousand five hundred meters, runway zero one initial altitude niner hundred meters. Wind one-eight-zero degree at zero fow-er meter per second, wind verify one-five-zero degree to two-one-zero degree. CAVOK. Temperature minus zero one centigrade, dew point minus one three centigrade. QNH one-zero-one-eight hectopascal. Delivery frequency one-two-one-point-six. Please set transponder on mode Sierra while taxing. If you need full length runway for departure advice controller when request ATC clearance. Taxiway Sierra-seven between Foxtrot and Hotel is closed. RNAV departure is available. Advise on initial contact you have information India and confirm you will comply RNAV procedure.
+
+不使用无线电字母和数字读法译文："北京首都国际机场情报通播 i，1500UTC。跑道独立平行离场，跑道36左起始高度1200，跑道36右起始高度1500，跑道01起始高度900。 风向180度，风速04米每秒，风向变化150度到210度。 CAVOK。气温负01摄氏度，露点负13摄氏度，修正海压1018百帕。放行频率121.6。地面滑行时请把应答机设置在S模式。如果需要全跑道起飞，请在申请放行许可时向管制员申请。F与H之间的Si7 滑行道关闭。本场RNAV离场可用。首次与管制员联络时报告您已收到通播 i 并确认能否执行RNAV程序。"
+

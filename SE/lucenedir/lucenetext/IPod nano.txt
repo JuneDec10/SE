@@ -1,0 +1,17 @@
+IPod nano
+
+iPod nano是由苹果公司设计发售的可携式媒体播放器。这是苹果iPod家族内的中-{zh-hans:级;zh-hant:阶;}-产品。第一代的iPod nano是在2005年上市。iPod nano和iPod shuffle一样使用快闪记忆体，但增加一个宽型的小荧幕和iPod classic上的「click wheel」按键转轮，直到第六代才取消滚轮而改为多触控屏幕。自从首次登场以来，iPod nano至今已改款七次。在发售后不久，iPod nano就成为有史以来最畅销的MP3播放器，超越前一代的商品iPod mini。
+
+2017年7月27日起，苹果公司终止贩售iPod Nano和iPod Shuffle，但仍持续贩售iPod Touch。
+
+与iPod classic使用的硬碟不同，Nano使用快闪记忆体作为储存装置。这代表机器内没有移动元件，让Nano在突然震动时不会跳针或暂停播放音乐。
+
+iPod nano需要搭配Mac OS X或Microsoft Windows上的iTunes软体使用（在其他平台上有第三方开发者推出的软体，但苹果公司并不提供官方支援）。iPod nano使用从第三代iPod以来共通的dock连接器（第七代iPod Nano使用的是与iPhone 5相同的Lightning接头）（dock connector，iPod shuffle不适用）。也可透过苹果公司的FireWire iPod连接线进行充电，但并不支援透过FireWire同步档案。iPod nano包含码表和多时区时钟功能。同时也有密码锁可利用click wheel锁住iPod，可确保其中的行事历和连络人的资料安全，也可防止变更最大音量限制。
+
+如同之前的iPod机型，第一代和第二代的iPod nano包含一些内建的游戏软体：「打砖块」（Brick）、「音乐猜谜」（Music Quiz）、「降落伞」（Parachute）和「接龙」（Solitaire）。第三代的iPod nano也包含了内建游戏，同时也可在iTunes Store购买游戏安装于iPod nano中。三种内建的游戏是「打砖块」、「接龙」和「音乐猜谜」的改版作品，「打砖块」改名为「Vortex」，游戏舞台变为环状；「接龙」改名为「Klondike」，内容有些许的改变；「音乐猜谜」则另外加入了电视电影的小知识题目，并更改了游戏界面。
+
+与前代机种iPod mini不同的是，iPod nano的电池是固定在印刷电路板上，因此一般使用者很难直接更换。快闪记忆体晶片使用表面实装方式安装，因此无法自行升级iPod nano的记忆体容量。
+
+另外与之前的iPod机种不同的是，iPod nano无法经由FireWire同步档案，且没有线控连接孔，因此许多第三方厂商的配件无法在iPod nano上使用。第一代的iPod nano不支援录音功能；第二代和第三代的机种需要第三方厂商的配件才可录音。此外也无法使用苹果官方或其他厂商推出的Camera Connector（照片传输装置）。
+
+

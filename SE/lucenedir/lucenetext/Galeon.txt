@@ -1,0 +1,8 @@
+Galeon
+
+Galeon是GNOME桌面系统下的网页浏览器，采用Mozilla的Gecko排版引擎，按照GPL进行软件发布。
+
+
+
+
+

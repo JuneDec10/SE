@@ -1,0 +1,16 @@
+计算机支持的协同工作
+
+计算机支持的协同工作（Computer Supported Cooperative Work，缩写为CSCW）最早由美国麻省理工的Irene Greif和迪吉多（DEC）的Paul Cashman在1984年提出的。
+
+于1984年由麻省理工学院的Iren Greif与迪吉多的Paul Cashman在成立有关「科技在团队工作中扮演角色之工作坊」中提出(Grudin, 1994a)。目前虽未有完整统一定义，但可大致归纳出三种观点（Borghoff & Schlichter, 2000; 转引自黄钰棠，2007）：
+
+
+于1988年，Johansen提出了可用于把CSCW分类的矩阵。
+
+遥距交流
+
+持续性的工作
+
+沟通与协作
+
+

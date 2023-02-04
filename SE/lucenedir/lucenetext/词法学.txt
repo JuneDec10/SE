@@ -1,0 +1,10 @@
+词法学
+
+构词学（英国语言学分科学名：，“组织与形态”；morphology () is the study of words, how they are formed, and their relationship to other words in the same language.<ref>），又称形态学，是语言学的一个分支，研究单词（）的内部结构和其形成方式。如英语的dog、dogs和dog-catcher有相当的关系，英语使用者能够利用他们的背景知识来判断此关系，对他们来说，dog和dogs的关系就如同cat和cats，dog和dog-catcher就如同dish和dishwasher。构词学正是研究这种单字间组成的关系，并试著整理出其组成的规则。
+
+「Lexeme」 是指英文字的本根，dog 是dogs和dog catcher 的字根。虽然三字的义意不同，也与其字的根源有所关联。
+dog 和 cat 有不同的字形（word form） 。另一方面，Dog 和 dog catcher 是有不同解释的字词（vocabulary），他们所指的是不同的实体。
+
+英文字的原形，称为词条（lemma；原形），其引用形式（citation form），即是指可于字典上查询的字词的根本原形（vocabulary）。
+
+

@@ -1,0 +1,16 @@
+Deb
+
+deb是Debian软件包格式，文件扩展名为.deb，跟"Debian"的命名一样，deb也是因Debra Murdock（Debian创始人Ian Murdock的前妻）而得名。
+
+Debian包是Unixar的标准归档，将包文件信息以及包内容，经过gzip和tar打包而成。
+
+处理这些包的经典程序是dpkg，经常是通过apt来运作。
+
+通过Alien工具，可以将deb包转换成其他形式的软件包。
+
+deb 档是使用 tar 包装，包含了三个档案：
+
+
+其中，"*"所指代的内容随压缩算法不同而不同。常见的可能值为xz、gz、或bz2。有时也会使用lzma。
+
+

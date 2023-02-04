@@ -1,0 +1,12 @@
+Stunnel
+
+Stunnel是一个自由的跨平台软件，用于提供全局的TLS/SSL服务。
+
+针对本身无法进行TLS或SSL通信的客户端及服务器，Stunnel可提供安全的加密连接。该软件可在许多操作系统下运行，包括类Unix系统，以及Windows。Stunnel依赖于某个独立的库，如OpenSSL或者SSLeay，以实现下面的TLS或SSL协议。
+
+Stunnel使用基于X.509数字证书的公开密钥加密算法来保证SSL的安全连接。客户端也可以选用自签名的数字证书来得到授权。
+
+如果编译时与libwrap库链接，Stunnel亦可配置为proxy-firewall服务。
+
+Stunnel由Michal Trojnara 和 Brian Hatch负责维护，遵照GNU通用公共许可证进行发布。
+

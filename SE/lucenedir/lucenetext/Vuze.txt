@@ -1,0 +1,17 @@
+Vuze
+
+Vuze（旧名Azureus）是一个用Java编写的BitTorrent用户端，且支援I2P和Tor匿名网络协议。它现在支援的作业系统有Windows，Mac OS X，Linux，Unix。这个程式的徽标是蓝色的蓝箭毒蛙（Azureus）。
+
+Vuze容许用户在单一画面下下载多个档案，并且有详细选项，资讯及设定。用户下载档案时可看到：
+
+
+Vuze容许用户自行设定最高上传及下载速度，而且其自行设定性极高。Vuze并容许用户开启由其他BT下载完成的档案，以继续下载。还有的是，Vuze能够自行当tracker，容许用户自行分享档案而不需要上传至任何网站。而用户亦能透过加入不同的插件以加强其功能，其中最著名的要算是Country Locator。
+
+Vuze在版本2.3.0.0中引入了分散式资料库功能（DHT的一个模式），分散资料库功能是一个使得BT下载档案不再依赖于trackers新功能。这容许种子能够在trackers速度极慢或关闭时自行与其他连接点连接，-{只}-要其他连接点亦是使用Vuze，而且是版本2.3.0.0或以上的。这使得私人trackers（private trackers）可以出现，即是要加入为会员才可经由BT下载档案。批评者认为这是大倒退，这使BT变成和早期的P2P软体一样封闭。但亦有人视其为BT革命。Azureus使用自己的DHT模式，因而不兼容布莱姆·科亨的BitTorrent或BitComet。因此要支援的话要到他们的网页下载plugin: Mainline DHT（mlDHT）。
+
+Vuze已经被修改成能够创造本地端程式，这是使用分散式资料库来维护虚拟档案系统。
+
+Vuze（代号Zudeo）是一个基于BitTorrent技术的视频分享网站。该网站容许用户利用BitTorrent技术上载和下载高质量视频。
+
+
+

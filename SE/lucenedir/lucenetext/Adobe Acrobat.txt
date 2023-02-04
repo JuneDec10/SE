@@ -1,0 +1,20 @@
+Adobe Acrobat
+
+Adobe Acrobat是由Adobe Systems所开发的电子文书处理软体集，可用于阅读、编辑、管理和共享PDF文档。
+
+一般包含如下套件：
+
+自90年代初，Acrobat系列产品有许多竞争对手，这些对手各自推行自家的文件格式，例如：
+Acrobat在90年代后期成为实质上的标准格式，其它竞争产品渐渐走入历史。这时又有许多新的竞争对手逐一出现，它们推出了其他的PDF相关软体，其中有Ghostscript、Foxit与Nitro PDF，免费或需付费版本皆有，用于建立与修改PDF档。Adobe同时也允许第三方开发Acrobat的外挂程式，以便赋予软体更多额外功能。
+
+Adobe会不定期调整产品系列的名称，也会再把产品分为不同系列、合并或停止开发。在第三版与第五版之间，标准版和专业版合并为Adobe Acrobat。现时的主要产品如下：
+
+
+
+
+Adobe从未推出Adobe Writer或Acrobat Writer，尽管Adobe曾有一个称为PDFWriter的印表机驱动程式，与上述两者之间毫无关连。
+
+Reader Touch是Adobe为Windows 8/8.1/RT/RT8.1/10系统中提供的Metro版Reader应用程序
+
+特色（自Windows Store）
+

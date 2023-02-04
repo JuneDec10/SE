@@ -1,0 +1,10 @@
+新立得
+
+-{Synaptic}-套件管理程式（简体中文Synaptic翻译为-{新立得}-）是一个在Linux上运行的软件包管理系统，其有著友善的图形使用者介面，而且可以用来在建基于deb套件管理系统的Linux上运行，也支援RPM。这个程式大大减少了在安装程式时所要解决的相依性问题，使得使用者可以更容易为系统安装、移除元件，并能为系统进行升级。Synaptic是以GTK+编写的，其目的作为apt-get命令列的前端使用者程式，让使用者不用学习复杂的命令列指令便可轻易管理Linux上的套件。
+
+Synaptic最初是由Alfredo Kojima所编写，而现在则由Michael Vogt负责维护。
+
+
+KPackagekit是PackageKit的KDE/Qt界面版本。也是Apt的图形前端。
+
+

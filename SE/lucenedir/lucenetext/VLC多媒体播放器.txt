@@ -1,0 +1,38 @@
+VLC多媒体播放器
+
+VLC多媒体播放器（），最初名为，是VideoLAN计划的开放源代码多媒体播放器。支援众多音讯与视讯解码器及档案格式，并支援DVD影音光碟、VCD影音光碟及各类串流协定。它也能作为单播或多播的串流伺服器在IPv4或IPv6的高速网路连线下使用。调用FFmpeg计划的解码器与程式库使其有播放多媒体档案及加密DVD影碟的功能。
+
+VideoLAN最初作为大学的研究项目于1996年启动。VLC原指VideoLAN客户端（），但VLC已不再是个简单的客户端。该软件包含了客户端及服务器以通过校园网播放视频流。VLC作为VideoLAN计划所开发的客户端，最初是巴黎中央理工学院学生的专题计划，现在贡献者已经遍及世界，并由非营利组织VideoLAN开发。
+
+1998年开始重新编写，2001年1月1日通过GNU通用公共许可协议发布，获得了巴黎中央理工学院校长的许可。服务器版软件VideoLan服务器（，）的功能早已集成进VLC并停止开发。由于软件已不再是客户端/服务器基础装备，因此被更名为VLC media player。
+
+VLC的图标是源自于交通锥，由Ecole Centrale's Networking Students' Association创作。2006年由手绘的低解析度图示改成高解析度的CGI，作者是Richard Øiestad。
+
+经过13年的开发，VLC多媒体播放器1.0.0版于2009年7月7日发布。VLC多媒体播放器2.0.0版于2012年2月18日发布。
+
+2011至2012年，大部分VLC组件重新以GNU通用公共许可协议发布。
+
+VLC是最早被SourceForge完全统计下载的软件，下载量超过13亿次。
+
+VLC现在可通过苹果的App Store下载于iPad、iPhone及iPod Touch。早期因为GPL和iTunes Store许可的冲突而被下架，后来改用Mozilla公共许可证发布。
+
+2014年3月13日开始发布Windows Store的版本。支持Windows Phone及可能支持Xbox One的版本也在开发中。
+
+VLC自建的动态核心模组，使所有的介面（interfaces）、视讯和音讯输出（video and audio outputs）、控制（controls）、定标器（scalers）、解码器（codecs）、音讯/视讯滤波器（audio/video filters）包含于统一的模组之内，便于使用。在播放媒体档时，无需使用者干预，VLC会根据不同的情况自行调度输入协定（input protocol）、输入档的格式（input file format）、输入转码器（input codec）、视讯卡功能（video card capabilities）和其他参数。
+
+VLC media player具有跨平台的特性，可用于Windows、macOS、GNU/Linux、FreeBSD、NetBSD、OpenBSD、Solaris、Android、iOS、QNX、及OS/2。
+
+开启实验性功能：使用GPU加速解码（需显卡及配合驱动程式支援），用于大幅降低CPU占用率。
+
+在Windows、Linux以及某些平台，VLC提供了一个Mozilla扩充套件，使得某些网站上附带的QuickTime及Windows Media多媒体档案，可以在非微软或苹果电脑的作业系统中，正常显示于Mozilla的浏览器下。
+
+从版本0.8.2开始，VLC亦提供了一个ActiveX的扩充套件，使用户可以在Internet Explorer下，正常显示某些网站上附带的QuickTime及Windows Media多媒体档案。
+
+VLC支援播放某些没有下载完成的视讯档案部份内容。
+
+VLC支援协力厂商面板。
+
+VLC在圣诞节的前后各一周（12月18日至翌年1月1日）会自动把软件执行中的图示设置为一个戴圣诞帽的交通锥。
+
+
+

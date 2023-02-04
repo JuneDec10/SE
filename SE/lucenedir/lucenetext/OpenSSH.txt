@@ -1,0 +1,13 @@
+OpenSSH
+
+OpenSSH（）是使用SSH透过计算机网路加密通讯的实现。它是取代由SSH Communications Security所提供的商用版本的开放原始码方案。目前OpenSSH是OpenBSD的子计划。
+
+OpenSSH常常被误认以为与OpenSSL有关联，但实际上这两个计划有不同的目的，不同的发展团队，名称相近只是因为两者有同样的软体发展目标──提供开放原始码的加密通讯软体。
+
+OpenSSH是在1999年10月第一次在OpenBSD 2.6里出现，当初的计划是取代由SSH Communications Security所提供的SSH软体。
+
+发布历史：
+
+程式主要包括了几个部份：
+
+

@@ -1,0 +1,96 @@
+Microsoft SQL Server
+
+Microsoft SQL Server是由美国微软公司所推出的关联式资料库解决方案，最新的版本是SQL Server 2017，已在美国时间2017年10月2日发布。
+资料库的内置语言原本是采用美国标准局（ANSI）和国际标准组织（ISO）所定义的SQL语言，但是微软公司对它进行了部分扩充而成为作业用SQL（Transact-SQL）。
+几个初始版本适用于中小企业的数据库管理，但是近年来它的应用范围有所扩展，已经触及到大型、跨国企业的数据库管理。
+
+SQL Server一开始并不是微软自己研发的产品，而是当时为了要和IBM竞争时，与Sybase合作所产生的，其最早的发展者是Sybase，同时微软也和Sybase合作过SQL Server 4.2版本的研发，微软亦将SQL Server 4.2移植到Windows NT（当时为3.1版），在与Sybase终止合作关系后，自力开发出SQL Server 6.0版，往后的SQL Server即均由微软自行研发。
+
+在与微软终止合作关系后，Sybase在Windows NT上的资料库产品原本称为Sybase SQL Server，后来改为现在的Sybase Adaptive Server Enterprise。
+
+SQL Server的发源最早要回到1986年，当时微软已和IBM合作开发OS/2（当时为了要继承MS-DOS）作业系统，但由于缺乏资料库的管理工具，而IBM也打算将其资料库工具放到OS/2中销售之下，微软和Sybase合作，将Sybase所开发的资料库产品纳入微软所研发的OS/2中，并在获得Ashton-Tate的支持下，第一个挂微软名称的资料库伺服器Ashton-Tate/Microsoft SQL Server 1.0于1989年上市。
+
+不过在1989-1990年间，由于Ashton-Tate的dBase IV计划不顺，让微软原本打算由dBase IV来开发SQL Server应用程式的计划变得无法实现，因此微软终止与Ashton-Tate的合约，真正挂微软单一品牌的Microsoft SQL Server 1.1于1990年中出货。同一年，微软为SQL Server建立技术支援团队，并于1991年初起陆续取得Sybase的授权，有权利可以检视与修改SQL Server的原始程式码，但由于主控权仍在Sybase，因此微软的任何修正都需要由Sybase检视并且同意后才可以执行，这个里程碑对日后微软开始发展自己的资料库伺服器时，在资料库引擎的发展上，提供了相当重要的基础。
+
+然而在OS/2的销售状况不佳下，SQL Server 1.0/1.1/1.11（后续发布的1.1升级版）的销售状况都不佳。
+
+1992年，由Sybase与微软共同发表SQL Server 4.2版，微软在此版本中的贡献为：
+
+
+不过SQL Server 4.2一开始并不是以32位元为基础，而是以16位元为基础开发。
+
+在1992年时，由于市场上对32位元作业系统的需求逐渐升高，但IBM的OS/2 2.0却又没有如期在时程内完成，SQL Server的开发小组利用OS/2的32位元介面移植SQL Server到OS/2 2.0（当时为beta）测试时，发现32位元并没有如预期来的有效率，另外一方面，微软内部当时也正在开发新一代作业系统（即Windows NT），使得SQL Server团队决定要终止对SQL Server for OS/2的发展，同时挹注全力开发出支援Windows NT的版本，代号为“SQL NT”。
+
+在SQL NT中，微软将SQL Server 4.2的核心程式码，以Win32 API翻写，并于1993年Windows NT 3.1出货后30天，完成SQL Server for Windows NT（4.2）的开发工作，在市场上销售。
+
+SQL Server 4.2是第一个Windows NT上的SQL Server，也是第一个出现在微软认证考试中的SQL Server产品。
+
+在微软利用SQL Server 4.2 for Windows NT赚取高额营收（自SQL Server 4.2 for Windows NT发行起九个月内，微软SQL Server带来的营收已成长两倍）时，对于其合作伙伴Sybase而言，微软的SQL Server已不被Sybase所重视（Sybase自己要关注在自家的产品线），并且因为SQL Server的权利在Sybase手中（1987年与Sybase签订的合约），微软无法在SQL Server中自行添加与修改功能。
+
+微软自SQL Server 1.0到4.2 for Windows NT，数个版本的历程中，其SQL Server团队已经大幅成长，但受限于与Sybase的合约，微软即使有新研发的Windows NT功能，也无法加入SQL Server中，因此于1994年4月12日，微软和Sybase正式终止了合作关系（并向Sybase买下了Windows版本的SQL Server程式码版权），微软获得了对SQL Server程式码的完全控制权，不过挑战也接踵而来——Sybase即将于年底发表System 10 for Windows NT，微软必须要提出新的版本计划，以防止Sybase将原本的微软客户抢走，“SQL 95”计划这样产生了。
+
+SQL 95的命名是仿自Windows 95，也就是新一代的资料库伺服器软体，此版本于1994年10月发布第一个beta版本，并且后续又发布了不同的beta修正版，其中较引人注目的是首次出现在SQL Server中的“复制”（Replication）功能，复制功能所需要的“可卷动式资料游标”（scrollable-cursor），以及其管理工具（代号为“Starfighter”，即SQL Enterprise Manager）。
+
+SQL Server 6.0（SQL 95）于1995年6月14日完成并进入RTM（released to manufacturing），对于SQL Server团队以及微软来说，SQL Server 6.0是重要的里程碑，因为此版本是完全由微软自行开发，未假手Sybase或其他厂商，因此SQL Server 6.0的发行，让微软的资料库研发能力正式被外界认可。
+
+SQL Server 6.5发布于1996年，约于SQL Server 6.0发表后十个月后发行。
+
+当微软正在发展SQL Server 6.5时，已经另外有一个团队正在发展新的资料库，由于微软计划要能够让此种资料库引擎能够具有可向上发展，亦可以缩小到PC或笔记型电脑中，因此资料库的核心必须要重新撰写，这就会涉及资料结构的改变，为了要让资料库的升级能够确保其稳定性，微软在1997年特别邀请1000个组织备份资料库，交由开发小组进行升级，并且在升级过程中找出可能的失败原因。同时在1998年2月起，微软与ISV合作发展运行于SQL Server 7.0的软体，除了保持相容性外，也让ISV能够特别为SQL Server 7.0的特性撰写程式。
+
+在同一时间，OLE DB的技术，以及很多人熟知的MSDE（Microsoft Data Engine）也在研发中，后来OLE DB成为Windows平台上资料存取的显学，其上的ADO更获得多数开发人员的采用。而MSDE也做为Microsoft Access资料库外的另一种单机资料库的选择。
+
+SQL Server 7.0最终冻结版本为7.00.623.07，于1998年12月进入RTM。
+
+原本SQL Server 2000只是SQL Server 7.0的一个小改款，代号为“Shiloh”，版本号码为7.5；真正要做大翻修的SQL Server版本，代号则是“Yukon”。Shiloh在开发过程中，因为要加入的功能并不多，只是要完成在7.0版中没有写完的功能，并且预期可能升级的客户不多，因此当时在微软内部，只是把Shiloh视为是一个“Super Service Pack”而已，有如SQL Server 6.0和6.5的角色。
+
+不过因为几个因素，让SQL Server 7.5摆脱“Super Service Pack”的束缚：
+
+
+在微软决定要把时程展延到18个月（完整的软体周期）时，也开始为SQL Server 7.5加入新的功能，版本代码升级到8.0（最终版本为8.0.194），同时因应当时Windows 2000的计划，Microsoft BackOffice也命名为BackOffice 2000，故SQL Server 8.0也改名为SQL Server 2000。
+
+SQL Server 2000于2000年8月6日完成，并于2000年8月9日进入RTM状态。
+
+SQL Server 2000可说是微软资料库伺服器中“生命期最久”（自2000年8月9日RTM开始到2005年11月SQL Server 2005上市为止，长达五年又三个月），而且后续添加的新功能相当多，Service Pack也最多（最后的Service Pack为SP4）的版本，诸如：
+
+
+同时，它也是第一个出现在Windows CE上的SQL Server。
+
+SQL Server 2005（代号为“Yukon”）在千呼万唤下终于在2005年11月，与Visual Studio 2005一起发表，在SQL Server 2005的研发过程中，其实并不顺利。
+
+SQL Server“Yukon”在2003年底左右就发表了Beta 1，虽然已经有资料库以及部份的新功能，但由于太多的除错码（当时SQL Server作为CLR Hosting基底的.NET Framework 2.0也正在研发中），让执行速度变得很慢。一直到2004年中左右才释出Beta 2，此版本的稳定度就高些，在Beta 2和Beta 3之间，每一至三个月左右就会释出一个测试版本，由于并不是达到特定功能或特定时程的测试版，因此都以“CTP”（Community Technology Preview）的方式发行（现在广泛运用于各微软的产品测试版本中），Beta 2和Beta 3之间相距几乎一年，2005年6月才发布Beta 3，此时整个环境才大致底定下来。
+
+SQL Server 2005具代表性的新功能有：
+
+
+除了伺服器版本的改变外，MSDE也正式由SQL Server Express所接替，作为SQL Server 2005核心的微型资料库伺服器，并且在随后的版本，也添加了SQL Server Express Reporting Service以及SQL Server Management Studio Express等小工具，让SQL Server Express比MSDE更好管理。
+
+SQL Server 2008在2008年8月6日正式发表，并且同时发布SQL Server 2008 Express版本，研发代号为“Katmai”，作为SQL Server 2005的功能强化版本，其主要的新功能与特色有：
+
+
+SQL Server 2008比起以往版本存在以下优势：
+（1）保护数据库查询
+（2）在服务器的管理操作上花费更少的时间
+（3）增加应用程序稳定性
+（4）系统执行效能最佳化与预测功能
+
+SQL Server 2008 R2在2010年4月21日正式发表，并且同时发布SQL Server 2008 R2 Express版
+SQL Server 2012在2012年3月6日正式发表。提供标准、企业、智慧商务三种版本。
+SQL Server 2014在2014年4月1日正式发表。
+
+SQL Azure是微软Windows Azure Platform上的云端关联式资料库服务（Database as a Service），早期被称为SQL Server Data Services或SQL Services，应用程式可以直接利用TDS over SSL来存取SQL Azure中的资料库，同时SQL Azure基于Windows Azure平台之上，亦具有与Windows Azure相同的高可用性（High Availability），高延展性 (High Extensibility)以及高扩充性（High Scalability）。
+
+在Windows Azure的2012年度Spring Release时，进行了品牌重整，将SQL Azure纳入Windows Azure产品线下，改名为Windows Azure SQL Database。
+
+已在2016年6月1日发布。
+
+已在美国时间2017年10月2日发布。
+
+微软公司于2016年3月8日释出封闭预览测试版的SQL Server on Linux，预定于2017年上市。此为SQL Server推出27年以来，再次支援Windows以外的作业系统。
+2017年10月，SQL Server 2017 on Linux作为SQL Server 2017的多操作系统版本已发布。
+
+
+
+SQL Server依功能的不同，分成下列的版本：
+
+
+

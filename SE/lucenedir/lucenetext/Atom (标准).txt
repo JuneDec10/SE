@@ -1,0 +1,16 @@
+Atom (标准)
+
+Atom是一对彼此相关的标准。Atom供稿格式（Atom Syndication Format）是用于网站消息来源，基于XML的文档格式；而Atom出版协定（Atom Publishing Protocol，简称AtomPub或APP）是用于新增及修改网路资源，基于HTTP的协议。
+
+它借鉴了各种版本RSS的使用经验，被许多的聚合工具广泛使用在发布和使用上。Atom供稿格式设计作为RSS的替代品；而Atom出版协定用来取代现有的多种发布方式（如Blogger API和LiveJournal XML-RPC Client/Server Protocol）。Google提供的多种服务正在使用Atom。Google Data API（GData）亦基于Atom。
+
+Atom是IETF的「建议标准」，Atom供稿格式列为RFC 4287，而Atom出版协定列为RFC 5023。
+
+Atom曾命名为「Echo」。
+
+当初发展Atom的动机在于广泛应用RSS 2.0时所遇到的问题。为了降低开发支持Web聚合应用的难度，下面列出Atom 1.0所克服的RSS 2.0几个主要问题（源自）：
+
+一个Atom文档：
+
+下列标签会被插入XHTML文档的头部以提供ATOM源的链接。
+

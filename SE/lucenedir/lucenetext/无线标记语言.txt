@@ -1,0 +1,5 @@
+无线标记语言
+
+无线标记语言（，缩写：WML），是WAP规范指定的基于XML的基本内容格式，使用支持该规范的设备例如移动电话可以浏览WML的页面。 WML的页面是规范的XML文档，遵守WML（1.1，1.2，1.3，2.0）的DTD（Document Type Definition），因此可以使用W3C的验证服务去检验WML文档的规范性。
+
+下面是一个名为example.wml的WML文件示例：

@@ -1,0 +1,19 @@
+Windows Live
+
+Windows Live是微软推出的包含一系列线上应用服务的套装软体，也是Windows的网络延伸。这些服务透过网路浏览器的介面来提供像Microsoft Office这一类的服务。2005年11月1日，这套产品开始Beta版本的测试，并已经完成对大部分语言的开发。
+
+目前Windows Live的大部分项目已经结束服务，包括使用率甚高的Windows Live Messenger（一款即时通讯软体）等，又或者转换另一个名称继续存在，例如Windows Live Hotmail更名为Outlook.com。
+
+Windows Live ID的密码与Xbox Live是相通的，故拥有Windows Live帐号也可以登入至Xbox Live。Windows Live品牌由Microsoft Account取代。
+
+Windows Live将是Windows Azure云端运算平台的一部份，称为Live Services，并提供一个Live Services Framework供开发人员发展云端运算服务的应用程式，目前Live Services支援16种服务：
+
+
+以下为Windows 10以后的作业系统和Windows Phone中的Windows Live服务取代方式
+w.cn和9.cn这两个超短域名由微软购得，均指向Windows Live相关服务。（现在这两个域名分别转向至生活服务网站“达步溜”和游戏平台。）
+
+2009年6月2日下午，Windows Live服务、以及一天前刚刚上线取代Windows Live Search的Bing搜索引擎被中国大陆封锁。据报道，此次网络封锁还涉及Flickr、Twitter等网站，有人估计与两天后的六四事件20周年有关。
+
+MSN中国副总裁刘振宇则表示，微软将严格按照中国政策和法律对搜索内容进行监管和过滤。6月3日，对Windows Live的封锁被解除。6月5日，对Bing的封锁被解除。
+
+

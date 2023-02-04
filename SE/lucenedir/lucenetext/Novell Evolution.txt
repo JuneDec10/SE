@@ -1,0 +1,15 @@
+Novell Evolution
+
+Evolution或Novell Evolution（在Novell于2003年收购Ximian前称为Ximian Evolution）是GNOME官方的个人资讯管理员，亦是工作群组资讯管理工具。它集合电邮、行事历、地址簿与工作排程等功能于一身。自GNOME2.8以后，它是GNOME的官方套件。现在Evolution的开发由Novell所赞助。
+
+它的用户介面及功能非常类似于Microsoft Outlook。但它亦有一些独特的特色，例如：对于所接收的邮件有全面的文字索引，以及一个「虚拟资料夹」功能。
+
+Evolution能够经由它的网路介面及一个名叫Connector的插件连接至Microsoft Exchange Server。而使用"gnome-pilot"可使其与Palm Pilot装置进行同步化，而Multisync则容许它与移动电话及其他PDA进行同步。
+
+Evolution 2，这个于2004年9月推出的新版，具有以下的新功能：
+
+在2005年1月，Novell的Nat Friedman 在他的博客上 指出该公司正在招募将GIMP移植至微软视窗的程式设计师来为Evolution进行同样的工作，最近更公布 测试版。
+
+在这个通告公布之前，有少数有著相同的目标的计划已经开始进行（Evolution for Windows being the most notable），但却没有任何一个进入测试阶段。
+
+

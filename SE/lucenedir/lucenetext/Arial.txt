@@ -1,0 +1,17 @@
+Arial
+
+Arial是一套随同多套微软应用软件所分发的无衬线体TrueType字型。Monotype设计这套字型是要以其作为一个较便宜的替代品与Linotype的Helvetica竞争。由于Helvetica是支援Adobe PostScript语言的印表机所指定的其中一款字型，用户选用它能确保文件可正确打印，所以是一套流行的字型。微软购买了较便宜的Arial的使用许可，所以只包含了类似Helvetica字型如Arial及MS Sans Serif在视窗系统里面。
+
+虽然比例及字重（weight）和Helvetica极之相近，但Arial其实是Monotype Grotesque系列的变种。设计Arial时考虑到会在电脑上面使用，在字体及字距上都作了一些细微的调整和变动，以增加它在电脑屏幕上不同解析度下的可读性。
+
+从微软在Windows 3.1上推出购自苹果电脑的TrueType技术起Arial就一直跟随视窗系统分发。TrueType的推出就是打算取代PostScript语言所使用的Type 1字型。而微软也曾尝试以自行开发的TrueImage印表机描述语言彻底取代PostScript。
+
+最新版本的视窗系统都带有Arial的Unicode版本：Arial Unicode MS。这字型依据Unicode标准包含多国语言文字在内。虽说比如Bitstream Cyberbit和Code2000都比它收录更多字元更完整，不过以跟随作业系统大规模分发的字型来说，Arial Unicode MS就是最完整的一部了。
+
+最新的PostScript语言除了原有的Helvetica也包括了Arial作为标准字型。使用PostScript第三级（level 3）语言的机器都应该支援。
+
+Arial的英文发音有很多不同说法。虽然有人习惯读作"air-ree-al"[]，但其实应该读作"are-ree-al"[]。
+
+以下是著名的Arial变体：
+
+

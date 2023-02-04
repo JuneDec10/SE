@@ -1,0 +1,79 @@
+对Internet Explorer的批评
+
+Internet Explorer是一款招致了许多批评的网页浏览器。大部分批评都集中在其安全架构以及对开放标准的支持程度上。
+
+Internet Explorer 的安全性已被来自电脑安全研究社群全面审查，部分原因是因为市场被其独占。Internet Explorer 的安全漏洞已经使得其成为主流浏览器中较不安全的一个。
+
+2005年6月20日，安全咨询网站Secunia列出了 Internet Explorer 6 的20个无补丁的安全漏洞，在每一个安全级别中，绝大部分漏洞存在的时间都比其他浏览器的时间长，但其中的一些漏洞只会影响特定版本的 Windows 上的某些 Internet Explorer 或是在与某些其他应用程序结合时才会暴露。
+
+另一安全咨询网站SecurityFocus列出了存在于 Windows XP Service Pack 2 的 Internet Explorer 6 中 27个无补丁安全漏洞。在 Windows XP SP2 上的早期 Windows 中存在更多。
+
+2004年6月23日，一个目的在于大公司 IIS 服务器的攻击即是通过使用 Internet Explorer 中两个先前未发现的漏洞，借以在不知情的大量最终用户的浏览器中插入垃圾邮件发送软件而成。该恶意软件被定名为Download.ject，它会在用户浏览网页时偷偷电脑中安装后门以及一个键盘击键记录软件。被感染的电脑包括许多金融网站。
+
+Art Manion 是美国电脑紧急相应小组（US-CERT）的一名代表，他指出 Internet Explorer 6 SP1 的许多设计使得 Internet Explorer 6 天生就不可能安全，他说道：
+
+Manion随后声名他的讲话大部分是相对于2004年发布 SP2 前的，并且其他浏览器也开始在上述CERT文件中面临类似的问题。
+
+值得注意的是XP SP2所提供的一些功能对于先前版本的Windows并不可用，它们包括 Windows 9x，NT 和 2000。
+
+另外，一些与Internet Explorer相关的安全漏洞也令需要的Windows用户突破安全权限。一个例子是，在Windows XP中，缺省时系统是不允许普通用户组（User用户组）的用户以管理员组（Administrator用户组）权限进行特权操作的。但实际上，这种情况下骇客可以运行一个专用代码实现对电脑操作系统的完全控制。这种破解行为也将导致任何浏览器以不受限的特权状态运行。对于其他系统普通用户的日常操作来说，使用超级用户（Power User用户组）进行日常操作是不明智的，但攻击者可以依赖于Windows系统中这个处于不适当级别的浏览器进程。然而，也有许多Windows中的程式离开管理员特权无法运行或效果变差，所以其他系统中的正常操作可能对于Windows用户来说是不切实际。
+
+许多的安全分析者指出IE经常爆出严重漏洞是因为它独占市场份额，所以骇客把其优先作为攻击目标。然而，也有许多批评指出这种说法是不全面的；Apache网络服务器的市场份额比微软IIS要高，但Apache几乎没有安全漏洞，就算有也相较IIS说是很轻微。微软的Craig Mundie曾经承认微软公司的产品「对常态而言是不安全的」而这是因为微软「设计时更注重功能而非安全」。
+
+结果这样导致许多问题，一些安全专家，包括Bruce Schneier 以及开源倡导者David A. Wheeler ，推荐广大用户停止使用Internet Explorer作为日常浏览器，而转换其他浏览器作为替代。一些技术专栏作家也建议过类似的话 。2004年6月6日，US-CERT发布的漏洞报告建议立即停止使用IE而该用其他，尤其是访问非信任站点时更应如此。2004年12月，宾夕法尼亚大学发布的一篇文章告诫学生和员工马上丢弃使用IE并改用其他浏览器。
+
+许多的IE安全问题皆与组件对象模块（COM）相关。IE通过ActiveX或浏览器帮助对象（Browser Helper Object）将COM深植其中。这种功能的结合为电脑病毒、特洛依木马程序以及间谍软件的进入大开方便之门。
+
+这些恶意软件的攻击与传遍通常皆要利用ActiveX。微软早已经认识到这一问题，1996年Charles Fitzgerald－微软的Java团队程序负责人曾说，「如果你想在『-{zh-hans:网上; zh-tw:网路上;}-』安全，请关掉你的电脑。我们从来没有准备让ActiveX安全。」
+
+ActiveX控件，一旦运行，即可获得用户特权而非像其竞争技术（如Java与JavaScript）那样被限制的运行。ActiveX控件一如既往的是一个非标准的不可在非Windows平台上移植的技术。一份普林斯顿大学教授Edward Felten的文章指出:
+
+ActiveX的安全依赖于安全区域的设置和数字签名，而没有类似沙盒以及元政策的指导。在O'Reilly的书中有这样的解释恶意移动代码：
+
+ActiveX的安全问题首次被发现是在1997年，混沌电脑俱乐部（Chaos Computer Club）这家机构展示了一个可以与用户手持设备中Intuit的Quicken金融软件自动进行连接的ActiveX控件，这个程序会自动将用户帐号上的钱转移至CCC的银行帐号。
+
+美国国防部(DoD)已经将ActiveX定义为1类（最危险）的移动代码技术，并严格限制ActiveX在DoD系统内的使用。
+
+也有专家认为ActiveX的风险被过分夸张了，而其实ActiveX是有安全机制的。eWeek的Larry Seltzer指出：
+
+已发布的Windows Defender可以监视Windows 2000，XP and Server 2003下IE中的BHO，并对欲新安装BHO对用户作出警告。
+
+很多人批评IE常常在发现问题很长时间后才发布对应的补丁，而且发布的补丁常常不能完全修复漏洞。如微软在2003年2月发布初始报告后200天才发布出补丁（而不是30-60天），Marc Maifrett，eEye Digital Security的Hacking部门主管说过：“如果它们真的需要花费如此长的时间来修复(以及测试)，那么他们还有别的问题。这不是一个软件公司的运作常态。”The Register则批评Maifrett公布的安全漏洞导致了CodeRed在那年的流行，也有人认为：「如果他们没有发现引起公众慌乱、ida漏洞或是他们的SecureIIS产品有能力防卫，红色代码蠕虫就不会感染数千台系统。
+
+微软将他们的延期归咎于区域测试。公司对Internet Explorer进行测试的软件是复杂而完全的。IE浏览器以26种不同语种发布在不同的Windows平台上。因此，对每个补丁的测试估计需要进行最少237次安装。
+
+虽然安全补丁持续在不同平台上发布，但现今大部分补丁只针对Windows XP发布。
+
+间谍软件与广告软件，如同其他的恶意软件一样，通常把目标对准Windows/Internet Explorer为基础的作业系统。较旧的间谍软件对系统的危害已经因为Windows XP SP2的安全增强而有所缓解，但对IE新型的攻击会在SP2上安装间谍软件。微软不建议在已经感染间谍软件的系统上安装SP2，因为这可能导致不能自举：
+
+视已安装的间碟软件而定，在SP2更新准备工作中，我们可透过反间谍工具移除间碟软件或在一些严重情形中，需要手动修改登录档（Windows Registry）。 然而，保安专家普遍建议安装Service Pack 2。
+
+在1990年代的浏览器战争时代，Internet Explorer与Netscape Navigator都不得不致力于在浏览器中添加非标准功能。这与近来以web标准设计的浏览器形成鲜明对比。在版本号5后，IE的Trident渲染引擎几乎没有进行过重大修改。结果在2005年，IE在支持标准上已经大大落后。
+
+虽然每一个版本的IE都会改善基本支援，包括在版本6中引采用的「符合标准模式」，其中用来建立网页（HTML和CSS）的核心标准却仍然是以不完全且不正确的方式来实作的。举例来说，它不支援<nowiki></nowiki> 元素，但这是HTML 4.01 标准的一部份，而且它对CSS1标准中的float-margin部分的实作有缺陷。Internet Explorer盒模型错误是Internet Explorer对CSS标准的实作中，最为人熟知的缺陷之一。
+
+由于它在市场上的主导地位，使得某些网页开发人员只用Internet Explorer来测试他们的网站。某些开发人员也使用Internet Explorer所提供的非标准扩充套件。这导致网页无法被其他浏览器正确地解读。最糟糕的情况下，它可能会阻挡其他浏览器的使用者存取这些开发人员所建立的网站。
+
+虽然Netscape已经停止开发Netscape Navigator，微软的Internet Explorer因而取得了非常大的市场占有率，而后开发Netscape Navigator的程式员与一些不满Internet Explorer的技术人员创立了Mozilla组织并以Netscape Navigator作基础开发了Mozilla Application Suite与Mozilla Firefox。
+
+由于IE不支援PNG图像的Alpha 通道，导致PNG图像格式在网上使用率的减少。虽然只是一个可选的特性，Alpha 通道却是把PNG与其他像GIF或者JPEG这样的格式相区别的一个特色。 在Internet浏览器中，透明的部分的形象将被显示作为灰色，白或者其他颜色。
+
+隔行或渐进显示对于过去大量使用的拨号上网而频宽非常有限的用户非常有用。不过，Internet Explorer的图像不支持于未完成下载时开启。但由于宽带因特网连接的引进，现在这问题已没那么重要。
+
+不像其他浏览器，Internet Explorer不允许MIME在Content-Type信头段中定义MIME类型。比如一个纯文本格式的档内包含了HTML样式的标记就会被识别为HTML文档，而不是纯文本文档。但在这种情况下，可以通过手动修改注册表的方式强行改变执行行为。
+
+微软扩展了原先网景的JavaScript并专称其为JScript，JScript是Internet Explorer的缺省脚本语言。与Netscape's JavaScript有相似的implementation, JScript supports the full specification of ECMAScript, the only standardised scripting language on the Web.
+
+最大的不同在于与JScript绑定的文档对象模型(DOM)。
+
+Internet Explorer对多语言文本支援Unicode标准，因此其理论上有能力显示任何已经安装字体的字元。但实际上，Internet Explorer不会对混和Unicode文本自动选择字体。这种情况下字元可能会以一个空格结束或显示为问号。
+
+网页设计者必须猜测在用户电脑上显示哪种字体最为合适，如果需要改变就需要对每个Unicode块进行手动改变。而对其他浏览器却可以自动完成这个操作。
+
+以Unicode之中的英文的音标为例，当网页中，欲显示的音标字串的前后有使用<nowiki></nowiki>与<nowiki></nowiki>所包起来时。IE6以前的版本，无法正常显示出英文的音标。但IE7则已修正了此Bug。
+
+随着版本的更新，Internet Explorer的下载大小也显著增大。对于Internet Explorer 6 Service Pack 1（包括Outlook Express）来说，其典型安装时的下载大小已经接近25MBs。它的大小从11MBs（最简安装）到75MBs（完全安装）不等。这大大超过了一另一些网络浏览套装（Internet suites）的大小，例如（基于Windows installer）Opera 8.0 (3.6MB)、Mozilla Suite 1.7.8 (11MB)、Mozilla Firefox 1.5.0.6(4.9MB)和SeaMonkey 1.0.4(12MB)。
+
+一个较小但似乎很有意思的批评是软件名称中Internet这个单词的使用。严格地说，Internet Explorer是为万维网（World Wide Web）而不是为整个包含了电邮, Usenet, telnet和IRC等的因特网（Internet）而设计的。由于这种以因特网（Internet）来代替万维网（World Wide Web）的误导性使用，许多对因特网没有足够了解的用户可能会认为使用Internet Explorer是进入因特网的唯一途径。
+
+

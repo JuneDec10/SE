@@ -1,0 +1,49 @@
+Arch Linux
+
+Arch Linux（或Arch )）是一款基于x86-64架构的Linux发行版。系统主要由自由和开源软件组成，支持社区参与。系统设计以KISS原则（保持简单和愚蠢）为总体指导原则，注重代码正确、优雅和极简主义，期待用户能够愿意去理解系统的操作。Arch Linux系统安装、删除和更新软件的软件包管理器叫做pacman。
+
+Arch Linux采用滚动发行模式来获取系统更新和软件的最新版本。系统安装映像只简单地包含系统主要元件。
+
+Arch Linux以社区Wiki的形式提供文档，称为ArchWiki。该Wiki经常编有特定主题的最新信息，受到了Linux社区的广泛认可，内容也应用在Arch Linux以外的领域。
+
+
+Arch Linux是由二进制软体包组成的，这些软体包会针对x86-64优化以配合目前的硬体。类似Ports/ebuild也在Arch Linux上发展，也就是「Arch Build System」。
+
+Arch Linux项目注力于简洁主义（对开发者而言），其贡献在于对发行版的组件提供具有良好注释的配置文件，而非带有图形界面的配置工具。 这也为其赢得适合“不惧怕命令行的中高级Linux用户”的发行版称号。
+
+
+Arch Linux是针对特定处理器而优化过的，能够更好地利用CPU周期以提高性能。相比Debian/Ubuntu、SUSE、RedHat/Fedora等其他发行版，Arch Linux属于轻量级选手，其简单的设计让它容易被轻松扩展和配置成为任何想要的系统类型。
+
+通过二进制-{zh-hans:包; zh-hant:套件}-管理系统pacman，仅需一个-{zh-hans:命令; zh-hant:指令}-就能完成安装、升级等多个操作。同时也附带一个类似ports的-{zh-hans:包; zh-hant:套件}-构建系统ABS（Arch Build System）。
+
+与Gentoo类似，不同于其他大部分主流Linux发行版比如Fedora和Ubuntu。Arch Linux并没有跨版本升级的概念，通过更新，任何时期的Arch Linux都可以滚动更新到最新版本。
+
+
+pacman 是 Arch Linux 的软件包管理器，具有依赖处理和构建软件包的功能。
+
+现时存在以下官方仓库：
+
+
+此外，也存在"testing"仓库，包含还未进入其他仓库的候选包。现时存在以下测试仓库：
+尚处于开发阶段的GNOME和KDE有时会被放在以下专门的测试仓库中：
+"staging、multilib-staging"和"community-staging"被用来进行一些软件包的重新构建，以避免损坏"testing"中的软件包。
+
+"unstable"仓库已在2008年7月撤销，其中的大部分软件包也已移动至其他仓库。
+在官方仓库以外还存在一些非官方的用户仓库，其中最知名的是托管在Arch Linux站点上的Arch User Repository（AUR）。此外也有不少用户独立建立的非官方仓库。
+
+ABS (Arch Build System)，Arch 构建系统。它是一套像（BSD）Ports 一样的体系，能从 source（源代码） 来构建一个软件。Pacman 是 Arch 下特定的二进制安装包管理工具（也包括管理那些从 ABS 构建的二进制安装包），而 ABS 则是 Arch 下特定的编译工具，将源代码编译为一个可供安装的 .pkg.tar.xz 包。
+
+2017年5月15日，Arch Linux宣布放弃支持ABS，并推荐用户切换到 ASP 。
+
+Arch Linux社区用户软件仓库（Arch Linux User-community Repository, AUR）是一个面对广大Arch用户、以社区为主导的软件仓库。AUR的初衷是组织社区内分享PKGBUILD，并且促使热门的用户贡献软件包进入community软件库。
+
+AUR被称为Arch的新软件包的发源地，在AUR里用户贡献出他们自己的软件包。AUR社区对它们进行投票或反对，一旦某个软件包拥有足够多的票数，AUR的受信用户就会将它加入到[community]软件库，使得可以通过pacman和ABS来使用它们。
+
+官方的Arch安装程序是基于CLI命令行界面,对于那些需要GUI图形界面安装环境的用户，可以选择这些Live CD:
+
+其他流行的衍生发行版包括Arch Linux ARM等。
+
+Arch Linux 的首个版本发行于 2002 年，但是发行周期较不规律 ，从 2012 年 7 月开始安装介质改为每月发行一次。现有的 Arch Linux 用户可以通过网络升级 Arch Linux 安装。
+
+
+

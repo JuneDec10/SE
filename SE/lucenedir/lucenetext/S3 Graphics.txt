@@ -1,0 +1,14 @@
+S3 Graphics
+
+S3 Graphics是一家以设计显示晶元为主的半导体公司，先-{zh-hans:后;zh-hant:后}-被威盛电子（VIA）和宏达电（HTC）所并购。
+
+在九十年代初，S3曾经称霸整个显示卡市场。1994年，S3凭借2D图像速度的优势，成功击败当时另一巨人泰鼎微系统（Trident Microsystem），成为主流显卡市场的领跑者。好景不长，3D应用快速普及，只是2D强劲是无用的。在1996年，nVIDIA RIVA TNT、Matrox G200、3dfx Voodoo banshee等强劲3D加速卡的到来，使S3仓促投入市场的S3 Savage 3D不能应付相关挑战。随-{zh-hans:后;zh-hant:后}-S3推出Savage 4系列显示卡，对抗nVIDIA RIVA TNT2和Matrox G400，但是驱动问题始终无法解决，翻身作惨淡收场。尽管S3推出-{zh-hans:后;zh-hant:后}-继产品Savage 2000，但究竟不能替S3挽回败局，最-{zh-hans:后;zh-hant:后}-更被VIA以3.22亿美元收购。VIA收购S3只是想取得其显示卡技术，将它融合在整合型主机板，S3的独立显示卡产品发展受阻。
+
+眼见显示技术被同为整合型晶片组竞争对手的SiS Mirage系列和Xabre系列慢慢追过，比内建Intel Graphics Media Accelerator 900显示核心的915系列晶片组的落-{zh-hans:后;zh-hant:后}-差距愈来愈大，VIA唯有重新研发独立显示卡，预备将来将新技术融合在整合型主机板。2004年S3企图东山再起，在AGP时代的最-{zh-hans:后;zh-hant:后}-时刻推出DeltaChrome S8系列显示核心，企图以传统强项的2D影像画质挽回人们信心。但由于资源条件不足，推出时机延迟，3D效能落-{zh-hans:后;zh-hant:后}-，驱动支持缓慢且错误甚多等因素，无法满足独立显卡用户的需求与期待，最终实际导入量产并推入市场的产品，销量与反应最多堪称一般。虽然DeltaChrome S8系列具有和同时期ATi与Nvidia前代产品相当的效能，锐利的2D画质，以及整合TV接口等优势，对于使用显示卡作为多媒体播放用途的非游戏玩家具有不错的吸引力。但是，由于驱动问题迟迟无法妥善解决，而且主流显示卡接口已开始由AGP转向PCI Express，S3在推出DeltaChrome S8的次年即放弃对其的驱动支持，再一次伤害支持S3显示卡的用户的权益。
+
+转入PCI Express世代-{zh-hans:后;zh-hant:后}-，S3前-{zh-hans:后;zh-hant:后}-推出GammaChrome S18与ChromeS20系列显示卡，亦为显示卡增加多种功能，例如省电、多显卡技术和影像播放加速优化技术。但在效能与售价仍无法取得好评。
+
+2011年7月6日，宏达电宣布以3亿美金买下S3 Graphics。
+
+
+

@@ -1,0 +1,6 @@
+GFTP
+
+gFTP 是一个在*NIX上使用的（unix，linux，BSD，etc.）自由的多线程FTP 客户端，其建基于X11R6 或以后的版本。gFTP在GPL下发布，并且已被翻译成41种不同语言。
+
+
+

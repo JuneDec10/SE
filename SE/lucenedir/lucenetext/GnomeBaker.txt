@@ -1,0 +1,11 @@
+GnomeBaker
+
+GnomeBaker是一个以GTK2／Gnome编写的光碟烧录软体。这是作者业余编写的软体，所以开发进度比其他同类软体为慢。
+
+GnomeBaker支援资料CD的烧录与音乐CD的烧录；在支援的音乐格式方面，分别有WAV、MP3以及OGG三种，新版亦已支援影片DVD的烧录。其功能详列于下：
+
+
+它支援CDR、CDRW、DVD-R、DVD-RW、DVD+R、DVD+RW的烧录，亦支援Double-layer。同时亦支援光碟超烧功能。
+
+GnomeBaker拥有全面的中日韩文字（也即是UTF-8）支援，所以中日韩文字的资料夹或是档案之名称是可以使用的。
+

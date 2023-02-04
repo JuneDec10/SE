@@ -1,0 +1,7 @@
+网上学校行政及管理系统
+
+网上学校行政及管理系统（简称网上校管系统；英语：Web-based School Administrative and Management Systems，WebSAMS）是香港的中、小学校所使用的校本管理系统，由原来的学校行政及管理系统发展而成。
+
+学校行政及管理系统（简称校管系统；英语：School Administrative and Management Systems，SAMS）是于1994年由当时教育署所开放的，目的是配合当时教育署的电脑化发展，所以就提供相关应用程式给香港中学和小学所使用，例如有学校管理、学生资料及学生成绩等。
+最早期的SAMS系统采用FoxPro 2.5b开发，此系统未能完全配合各学校的特殊情况，而且只提供一台伺服器及4台工作站。因为平台改变，再将SAMS 以FoxPro 3.0 编码，约2002年开始发展网上版校管系统WebSAMS，此系统是由一间商业软件公司负责编写有关程式，该公司是采用JSP配合当时最稳定的JSK1.3.1、JBoss2.4.8及Sybase的数据库开发。至2006年全港中小学已全面使用WebSAMS。
+

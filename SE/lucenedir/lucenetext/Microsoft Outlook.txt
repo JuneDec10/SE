@@ -1,0 +1,10 @@
+Microsoft Outlook
+
+Microsoft Outlook是由微软公司所出品Microsoft Office内的个人信息管理系统软件，功能包括收发电子邮件、行事历等等。它也是与Microsoft Exchange Server互相搭配的群组软体。现时最新的版本是Microsoft Outlook 2016 for Windows和2016 for Mac。
+
+虽然Outlook主要是用来传送电子邮件，可是它还包含了日历、任务管理、联系人、记事本等功能。
+
+Outlook可以以独立软件的方式运行，同时也可以面向多个公司用户与Microsoft Exchange Server和Microsoft SharePoint Server一起运行，功能例如共享邮箱与日历、共享文件夹等。微软也在大多数移动平台上发行了Outlook，其中包括iOS和Android。软体开发者也可通过Microsoft Visual Studio创建能够兼容Outlook及Office组件的软件。
+
+
+

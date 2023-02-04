@@ -1,0 +1,9 @@
+DIKW体系
+
+DIKW体系就是关于资料(Data)、资讯(Information)、知识(Knowledge)及智慧(Wisdom)的体系。当中每一层比下一层赋予某些特质。资料层是最基本的。资讯层加入内容。知识层加入“如何去使用”，智慧层加入“什么时候才用”。如此，DIKW体系是一个模型让我们了解分析、重要性及概念工作上的极限。DIKW体系常用于资讯科学及知识管理。
+
+这个模型可以追溯于托马斯·斯特尔那斯·艾略特所写的诗－《岩石》（The Rock）。在首段，他写道：“知识中的智慧我们在那里丢失？资讯中的知识我们在那里丢失？”（"Where is the wisdom we have lost in knowledge? / Where is the knowledge we have lost in information?"）。哈蓝·克利夫兰根据这个1982年12月在《未来主义者》杂志中的文章－“资讯有如资源”的基础来建设这个体系。后来这个体系得到米兰·瑟兰尼（Milan Zeleny）及罗素·艾可夫（Russell .L. Ackoff）不断的扩展。 
+
+DIKW体系透过以下的步骤来协助研究及分析：
+
+

@@ -1,0 +1,8 @@
+Atutor
+
+Atutor是一款开源的“教学内容管理系统”（Learning Content Management System，简称LCMS）。采用PHP、MySQL，HTTP Web 服务器推荐使用Apache。
+
+Atutor除了教学内容管理的功能，还包括了简化的论坛、聊天室等，另外通过模块安装，还可以扩展功能：
+
+Atutor支持二十多种语言，包括中文，志愿者可以参加翻译等工作。
+

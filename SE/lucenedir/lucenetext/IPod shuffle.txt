@@ -1,0 +1,68 @@
+IPod shuffle
+
+iPod shuffle是一种由苹果公司设计跟贩售的iPod数位音乐播放器。于2005年1月11日的公开，标榜著「Life is random」。不同于其他的iPod家族，他把档案储存在-{zh:闪存; zh-hans:闪存; zh-hant:快闪记忆体; zh-cn:闪存; zh-tw:快闪记忆体}-而不是-{zh:硬盘;zh-hans:硬盘;zh-hant:硬盘;zh-cn:硬盘;zh-tw:硬碟;zh-hk:硬碟;zh-mo:硬碟;}-。它的重量为0.78盎司（22克），第二代的重量约15克，第三代的重量为0.38盎司（10.7克），第四代的重量为0.44盎司（12.5克）。
+
+iPod shuffle的设计，可让使用者轻易地载入所喜好的歌曲，以及用随机方式来播放。他依靠iTunes上面的「Autofill」特色，会随机的从使用者的音乐库（或指定的播放清单）中选出歌曲并且尽量复制的音乐到iPod shuffle的记忆体去。（1GB的型号，以Apple的计算为主，每一首歌4分钟，128 kbit/s，AAC编码）
+
+缺少像其他iPod产品的LCD，滚轮，游戏，地址簿，月历，以及记事等这些早期iPod的能力，且无法与iSync使用。此外，不像其他iPod，它也无法播放Apple Lossless和AIFF语音档案，拥有较佳的低音音效品质。
+
+iTunes提供某些新的特色给iPod shuffle。其中一种是能够降低音乐的位元率到128 kbit/s的AAC编码。这种转换是自动完成的，而原来的档案则没有变动地留在电脑上，而更小的（更低的位元率）送到iPod shuffle。iTunes也允许iPod shuffle的播放清单在没有连线时候可以检视或是更动；到下一次连线的时候，他就会把这些更动的播放清单更新上去。
+
+iPod shuffle的按钮有播放／暂停、下一首、前一首、音量调整。在他的反面，有一个电池电量指示灯，和一个三段式开关，用来切换关掉，或者是循序或随机播放音乐。第三代一反旧代设计，机体只剩下三段式开关和指示灯，所有播放操作就依靠耳机上的控制器控制。第四代则回归第二代的面板控制设计（但比第二代紧凑），并保留第三代的线控模式。
+
+可以直接插入到电脑的USB埠（1.1或2.0）或相应的接口，透过USB可以用来替他的24小时电池充电。第一代的USB插头是隐藏在帽盖的下面。也有提供短绳可以让使用者用脖子戴著，然后iPod shuffle从帽盖的地方接上短绳悬吊著。第二代的通过相应的连接座在通过USB与电脑连接。第三代和第四代则通过与耳机插座共有端口，通过耳机插座与USB转换线与电脑连接。
+
+iPod shuffle也可以当成-{zh:闪存盘;zh-hans:闪存盘;zh-hant:随身碟;zh-cn:闪存盘;zh-tw:随身碟;zh-hk:快闪装置;zh-mo:快闪装置;}-来使用。iTunes允许使用者设定装置的多少空间是用来存放档案，多少空间用来储存音乐。
+
+iPod shuffle第三代和第四代拥有Voice Over技术，能在导入音乐时将音乐的内置介绍信息，根据所属国家语言，转换成相应语言的语音信息，并在播放时可以朗读出相应的语音信息。
+
+iPod shuffle的正面有键盘，通过正常的按压即可控制。
+
+大小变的与第一代小许多。
+
+由于第三代的iPod shuffle的体积实在太小了，机身上没有过多的空间来容纳按键，所以只在机身上保留了“电源——顺序播放——随机播放”三段式开关，大部分操作转移到了耳机线缆的控制器上。
+
+机身正面恢复为与第二代基本相同的键盘控制，侧面增加VoiceOver按键，并保留第三代的“电源——顺序播放——随机播放”控制方式。
+
+共有两种型号可选择：
+
+2006年9月款：
+
+2007年9月款：
+
+
+
+2008年9月款：
+
+2009年3月款：
+2009年9月款：
+
+2010年9月款：
+
+无论是苹果公司自己本身或是其他厂商皆为iPod shuffle制作了许多配件供其搭配使用。例如有「臂挂套」（用来方便将它挂在手臂上）和「运动护套」，不会因为环境因素而受损。此外也特别设计iPod shuffle专用基座，就跟iPod和iPod mini的底座一样，可以很轻松的连接电脑。其他厂商所提供的东西就更多了，像是兼有装饰和保护功用的护套、臂挂套、腰挂夹、游泳用避水匣，抑或是各式插头、耳机和FM音频转播器等等。
+
+iPod shuffle的同步要使用iTunes，虽然新的包装已不提供安装程序，不过可以从苹果公司网站中免费下载。使用者可以从线上音乐商店购买音乐，下载到电脑，然后借由iTunes传到iPod shuffle里。
+
+除外，也可以第三方软件进行iPod shuffle的同步，例如XPlay2，允许使用者不须经由iTunes即可将音乐档案直接拖曳放到iPod shuffle中。
+
+此外，还有一个名叫iPod shuffle Database Builder开放原始码程序，能允许使用者不须透过iTunes来操作iPod shuffle，不过安装前仍要先安装iTunes。
+
+第一代iPod shuffle与Mac mini在同一个时间公开。像iPod shuffle，Mac mini是一种缩小的产品，以更低的价位推出。这两个产品一起被视为是苹果电脑的经营策略的一部分，用来瞄准低阶市场和增加在大规模市场的可见度。
+
+到2005年4月，苹果公司的第二季财政结束，第一代iPod shuffle已经为他的制造商证明他是成功的产品。尽管苹果公司选择不指明在产品的前三个月有多少的第一代iPod shuffles被卖出，但分析家的计算在第二季卖出大概是5.3百万的iPod中的1.8百万是iPod shuffle。NPD估计iPod shuffle在2005年2月快闪记忆体的市场上达到43%的占有率，而该月只是刚出现的第二个月。到2005年3月，iPod shuffle的市占率上升到58%。
+
+由于iPod shuffle的体积小，尤其第三代iPod shuffle（8.38 × 2.49 × 0.84 厘米，合 3.3 × 0.98 × 0.33 英寸），苹果电脑在美国网站上宣称iPod shuffle“比一包口香糖更小且有更多乐趣”以及下面有注脚，「请勿食用 iPod shuffle」。于2005年1月21日，这个注脚从美国的网站消失，但是然而还继续存在其他多个国家的网站上。
+
+英国和爱尔兰的网站上的是少许更改过的版本：“请勿咀嚼 iPod shuffle”，而在网站上的其他版本，像是加拿大、法国和德国的版本，就没有提及到这件事。
+在2005年2月，Wright This Way 的「Jim」公开了他的iPod shuffle磁碟阵列计划。他购买了一个USB集线器连接到4个iPod shuffle变成总共3.9GB的储存空间。他的原本目的是要安装Mac作业系统到这个磁碟阵列，但是安装程式却无法允许这样作。指出他继续这个计划，为了增加这个阵列的速度，使用了多个孔的USB扩充卡而不是集线器。
+
+在2005年3月的CeBIT展览会场中，一个名为 Luxpro 的台湾公司发表了一款名为"Super Shuffle"的随身听。外观上显著地相似于iPod shuffle。Luxpro亦同时发表了相同于Apple宣传活动的预告片（promo shot）和广告来宣传他们的随身听，包括了录音，FM收音，以及更加轻薄。据某些独家报导指出，Apple试图借由法律途径向Luxpro进行制裁，防止Super Shuffle公开亮相。自CeBIT展以来，许多媒体来源（media sources）已经宣称Super Shuffle只是一个由Luxpro策划的广告噱头，用来「增强Apple吸引到的媒体目光以使他们有利」。Engadget宣称Luxpro从来未曾试图仿制iPod shuffle，而是希望Apple对Super Shuffle的注目和无可避免的法律质疑，能帮助该公司销售数位音乐播放器的电子电路。Luxpro也顺应将Super Shuffle的首页更换成了一个新机型的说明，名为Super Tangent，除了一些外观上的改变外，与Super Shuffle并不完全相同。该公司取消Super Tangent的开发并以全新的产品EZ Tangent 和 Top Tangent做发售。
+
+近日台湾Luxpro与Apple的官司已结束，最后由Luxpro胜诉并向Apple求偿一亿美金。该公司网页上并发布新闻稿。
+
+商业广告是iPod家族系列产品成功推广的最重要的手段之一。这些广告的特点通常是在一个单一的背景色上勾画出一些只有阴影轮廓的人，他们边跳着舞边听着他们闪亮的白色iPod。这些广告还有一些很有特色的歌曲，像The Vines的Ride、The Caesars的Jerk it Out、U2的Vertigo、Gorillaz的Feel Good Inc.、Jet的Are You Gonna Be My Girl、N.E.R.D.的Rock Star（Jason Nevins混音）、Daft Punk的Technologic等等。
+
+2017年7月27日，Apple下架iPod Nano与iPod shuffle两款产品，宣布停产。继 2014 年停产 iPod Classic 之后，Apple 再度简化了 iPod 这一生产线。
+
+The Verge 收到邮件写到：「今天，我们将简化 iPod 的生产线。价格位于 199 美元的 iPod shuffle 和 iPod nano 是 iPod touch 的原型，即将停产。」
+

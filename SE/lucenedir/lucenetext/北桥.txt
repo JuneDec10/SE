@@ -1,0 +1,14 @@
+北桥
+
+北桥（）是基于 Intel 处理器的个人电脑主板芯片组两枚芯片中的一枚，北桥设计用来处理高速信号，通常处理中央处理器、记忆体、PCI Express显示卡（早年是AGP显示卡）、高速PCI Express X16/X8的端口，还有与南桥之间的通信。
+
+传统的北桥内建记忆体控制器，让处理器连接前端汇流排，而处理器和记忆体汇流排则跑相同的时脉。随后，晶片组分开处理器和记忆体汇流排的频率，让前端汇流排只代表处理器和北桥之间的通道。
+
+北桥留下来的只剩下AGP或PCI Express控制器和与南桥通信，有时北桥会和南桥整合在同颗晶片中，有一些北桥会整合内建显示卡（如Intel G系列晶片组的Intel GMA），而另外支援AGP或PCI Express介面。整合式北桥若侦测到已安装的PCIe/AGP显示卡，会停止其绘图处理器功能，但有些北桥可以允许同时使用整合式显示卡和安装外加显示卡，作为多显示输出。
+
+Intel Hub Architecture (IHA)可用来取代南桥与北桥，IHA晶片组亦分成二大项：Graphics和AGP Memory Controller Hub（GMCH）与I/O Controller Hub（ICH）。
+
+AMD在Athlon 64时代将记忆体汇流排整个拿掉，直接设计到处理器中，让北桥的功能只是支援外加显示卡介面，例如AGP和PCI Express x16。英特尔从Nehalem起将北桥集成到处理器中。AMD 采用 Socket FM1 及 Intel 采用 LGA 1156 插槽之后的处理器都整合了北桥，独立的北桥已经消失，主机板上仅余下南桥。Intel 把剩下的南桥称为 PCH（Platform Controller Hub），AMD 则称它为 FCH（Fusion Controller Hub）。从Intel Nehalem开始，Intel平台的内置显卡被内置于CPU中，并更名为Intel HD Graphics，越高端的Intel CPU，集成显卡的性能也越好。
+
+由于北桥的重要性降低，有厂商索性将南北桥合并，成为单一晶片组，例如NVIDIA的nForce 4。这样可以减低晶片组的制造成本。
+

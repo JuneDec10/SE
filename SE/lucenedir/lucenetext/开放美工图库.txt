@@ -1,0 +1,11 @@
+开放美工图库
+
+开放美工图库（Openclipart Library）是一个作为自由内容的向量美工图片的收藏集及社群。其口号是「Openclipart是一个最大的创作最佳的自由原创美工图片而绝无任何理由为你所用的艺术家社群。」
+
+截至2017年1月末，Openclipart展示了来自5,800多位艺术家超过118,000件SVG图形的作品。所有藏品皆可免费下载。全部图像由贡献者宣告进入公有领域，并以SVG格式存储及提供PNG格式的缩图。
+
+一些Linux发行版，包括Mandriva和Ubuntu都包含了许多Openclipart收藏集发行套件，装有SVG、PNG或OpenDocument格式档案。这些发行板基于2005年ccHost之前释出的版本，自从标准的释出版在转换到ccHost软体之后被终止。Openclipart 0.19，第一个在此次转换之后释出的版本，于2009年3月释出。包括最近释出的2.0版及更新的套件，这些发行版包含了在相应的bug追踪器归档的bug以多次打包Openclipart。
+
+Openclipart包含在Linux Format issues 123及132中的光碟封面上作为一个来自Openclipart收藏集的可浏览的SVG套件。
+
+

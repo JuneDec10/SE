@@ -1,0 +1,12 @@
+NVIDIA MCP51
+
+NVidia C51芯片组是nVidia的K8 IGP晶片组，于2005年推出。它是nVidia第一款为K8平台而设的整合型晶片组。它建了Geforce 6100显示核心，完整支援DirectX 9.0和HDR，是当时缯图效能最佳的整合型晶片组。南桥的硬碟支援部分有小BUG（有时不能启动NCQ）。
+
+nVidia眼见ATi在Intel和AMD平台晶片组市场渐有成绩，逐在AMD平台晶片组下工夫，推出支援AMD 64-bit处理器的整合形晶片组。本来计划推出Intel平台整合形晶片组（代号C60），但Intel推出内建ATI整合形晶片组的主机板，NVIDIA为免尴尬，决定终止C60计划。
+
+
+
+
+
+
+对手：ATi Xpress 200

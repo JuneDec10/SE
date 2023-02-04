@@ -1,0 +1,7 @@
+磁碟工具程式
+
+磁碟工具程式（Disk Utility）是在Mac OS X中用来作磁碟相关任务的工具名称。这些工作包含：
+
+磁碟工具程式随著Mac OS X v10.3而有所更新。在Mac OS X 10.3之前，磁碟工具程式的功能是分开在两个应用程式上：Disk Copy和Disk Utility。Disk Copy适用来建立和挂载磁碟映像档，Disk Utility之前用来作格式化、分割、验证和修复档案结构。
+
+在Mac OS X之前的Mac OS版本，类似磁碟工具程式验证特色的相似功能可以在Disk First Aid应用程式中找到。另外一个应用程式称为Drive Setup用来作磁碟格式化和分割，且Disk Copy应用程式是用来与磁碟映像档一起工作之用。

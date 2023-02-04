@@ -1,0 +1,41 @@
+媒体播放器列表
+
+下表比较了一些常见媒体播放器程序的一般技术信息。参见各个产品的独立条目了解更详细信息。
+
+常见媒体播放器的基本概况：作者、许可证及价格等。
+比较了媒体播放器可以运行的操作系统(不包括使用虚拟机)
+关于播放器支持的功能的比较
+
+Note 1: Basic support with NMM.
+
+Note 2: Context Browser uses CSS.
+
+Note 3: 有插件可用。
+
+Note 4: UIs may be switched. Shares Windows' themes by default. Additionally, a plugin (foo_looks) can skin foobar2000.
+
+Note 5: jetCast (free) needed .
+
+Note 6: Avalible with Quicktime Streaming Server .
+
+Note 7: Only the media creator can create skins.
+
+Note 8: 有单独工具可用：。
+
+关于播放器支持的互联网协议的比较，互联网协议用来接收流媒体内容。外部链接包括了：将来支持该功能版本的浏览器或扩展程序的支持信息.
+关于播放器支持的音频文件格式比较.外部链接包括了将来支持该功能版本的浏览器或扩展程序的支持信息.
+
+关于播放器支援的视频文件格式比较.外部连结包括了将来支援该功能版本的浏览器或外挂程式的支援讯息。
+关于播放器支持的容器格式比较。外部链接包括了将来支持该功能版本的浏览器或扩展程序的支持信息。
+
+Note 14: Requires QuickTime 4 or higher.
+
+关于播放器支持的光盘格式比较.外部链接包括了将来支持该功能版本的浏览器或扩展程序的支持信息.
+关于播放器支持的元数据格式比较。外部链接包括了将来支持该功能版本的浏览器或扩展程序的支持信息。
+关于播放器支持的字幕比较.DVD字幕没有包括在本表,因为这是DVD基本功能.外部链接包括了将来支持该功能版本的浏览器或扩展程序的支持信息.
+
+Note 17: 在Windows中，安装VobSub后可以加进多种字幕格式。
+
+以下是媒体播放器的列表。
+
+

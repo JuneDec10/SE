@@ -1,0 +1,17 @@
+扩展实数线
+
+扩展实数线由实数线formula_1加上formula_2和formula_3得到（注意formula_2和formula_3并不是实数），写作formula_6或formula_7。扩展的实数线在研究数学分析，特别是积分时非常有用。
+
+对任意实数formula_8，定义formula_9，扩展的实数轴就成了一个全序集。这种集合有种非常好的性质，就是其所有子集都有上确界和下确界：这是一个完备格。全序关系在formula_6上引入了拓扑。在这个拓扑中，集合formula_11是formula_2的邻域，当且仅当它包含集合formula_13，这里formula_8是某个实数。formula_3的邻域类似。formula_6是个紧致的豪斯多夫空间，与单位区间formula_17同胚。
+
+formula_1上的算术运算可以部分地扩展到formula_6，如下：
+
+通常不定义formula_21。同时formula_22也不定义为formula_2（因为这样忽视了formula_3），这些规则是根据无穷极限的性质确定的。
+
+注意在这些定义下，formula_6不是域，也不是环。
+
+经过上述定义，扩展的实数轴仍有很多实数的性质：
+通常只要表达式都有定义，所有算术性质在formula_6上都成立。
+
+使用极限，一些函数可以自然地扩展到formula_6。例如可以定义formula_47等。
+

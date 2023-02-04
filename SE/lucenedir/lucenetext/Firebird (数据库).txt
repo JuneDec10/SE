@@ -1,0 +1,15 @@
+Firebird (数据库)
+
+Firebird，是一个跨平台的关系数据库系统，目前能够运行在Windows、linux和各种Unix操作系统上，源于Borland公司的InterBase 6.0，是一个完全非商业化的产品，但源代码经过大规模重写，使用C++开发。
+
+支援多版本并发控制（Multiversion Concurrency Control，MVCC）、Stored Procedure、Trigger、自定义方法（User-defined function，UDF）等商用资料库行为程序。同时因为与interbase的血缘关系，大部分interbase的GUI工具可以直接应用到Firebird开发中。
+
+Firebird提供三个伺服器环境版本，分别是超级伺服器版本（SuperServer）、标准伺服器版本（ClassicServer）与嵌入式版本（Embedded），依商用情境概略说明：
+
+2002年3月11日公开，初期支援Linux、Windows、Mac OS X版本，两个月后公开Solaris、FreeBSD、HP-UX移植版本，以C语言为中心开发。
+2004年2月23日公开，自此版本开始变更为C++为中心开发。SQL陈述句支援SQL92标准函式、SQL1999的SAVEPOINT函式与明确锁定（explicit locking）。
+2006年11月12日公开，SQL陈述句支援SQL2003的MERGE函式。更新版本2.1开始支援64位元。
+2010年10月4日公开。支援正则表达式（Regular Expression，RE）。
+2016年4月19日公开。
+
+

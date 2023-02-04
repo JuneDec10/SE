@@ -1,0 +1,3 @@
+AIM联盟
+
+AIM联盟（AIM alliance），是由苹果电脑（Apple Computer）、IBM和摩托罗拉（Motorola）于1991年所组成，目的在于把精简指令集（RISC）架构的处理器用于个人电脑系统，由摩托罗拉和IBM联手对POWER架构进行重新设计，用于取代原先Macintosh系统中逐渐衰落的680X0 CISC处理器。

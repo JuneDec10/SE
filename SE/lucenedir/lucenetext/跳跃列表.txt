@@ -1,0 +1,27 @@
+跳跃列表
+
+在计算机科学领域，跳跃列表是一种数据结构，允许快速查询一个有序连续元素的数据链表。快速查询是通过维护一个多层次的链表，且每一层链表中的元素是前一层链表元素的子集（见右边的示意图）。一开始时，算法在最稀疏的层次进行搜索，直至需要查找的元素在该层两个相邻的元素中间。这时，算法将跳转到下一个层次，重复刚才的搜索，直到找到需要查找的元素为止。被跳过的元素可能被随机性地选择或确定性地选择，其中前者更为常见。
+
+跳跃列表是按层建造的。底层是一个普通的有序链表。每个更高层都充当下面列表的「快速跑道」，这里在第formula_1层中的元素按某个固定的概率formula_2（通常为formula_3或formula_4）出现在第formula_5 层中。每个元素平均出现在formula_6个列表中，而最高层的元素（通常是在跳跃列表前端的一个特殊的头元素）在formula_7（即基于formula_8的formula_9的对数）个列表中出现。
+
+查找一个目标元素，从顶层列表和头元素起步，并沿着每层链表搜索。如果在一层列表中找到的元素等于目标元素，则表明该元素直接被找到。当在一层列表中查找到小于目标的元素时，就切换至该元素继续向右或向下层查找，直至底层链表。通过反向跟踪自目标直到到达在更高列表中出现的元素的查找路径，我们发现在每个链表中预期的步数最多为formula_8。所以查找的总体步数为formula_11，由于formula_2是常数，查找操作总体的时间复杂度为formula_13。而通过选择不同formula_2值，就可以在查找代价和存储代价之间取得平衡。
+
+跳跃列表的插入和删除的实现与相应的链表操作类似，除了"高层"元素必须在多个链表中插入或删除之外。
+
+跳跃列表不像某些传统平衡树数据结构那样提供绝对的最坏情况性能保证。由于用来建造跳跃列表采用随机选取元素进入更高层的方法，在小概率情况下会生成一个不平衡的跳跃列表（最坏情况是在最底层仅有一个元素进入了更高层，此时跳跃列表的查找与普通列表一致）。但是在实际中它工作的很好，随机化平衡方案比在平衡二叉查找树中用的确定性平衡方案容易实现。跳跃列表在并行计算中也很有用，这里的插入可以在跳跃列表不同的部分并行的进行，而不用全局的数据结构重新平衡。
+
+因为跳跃列表中的元素可以在多个列表中，所以它们可以有多于一个指针。
+
+formula_15 operations, which force us to visit every node in ascending order (such as printing the entire list), provide the opportunity to perform a behind-the-scenes derandomization of the level structure of the skip-list in an optimal way, bringing the skip list to formula_16 search time. (Choose the level of the i'th finite node to be 1 plus the number of times we can repeatedly divide i by 2 before it becomes odd. Also, i=0 for the negative infinity header as we have the usual special case of choosing the highest possible level for negative and/or positive infinite nodes.) However this also allows someone to know where all of the higher-than-level 1 nodes are and delete them.
+
+除此之外，我们可以以下面的方式准随机地生成每一层：
+
+近似于无随机版本，准随机仅在需要运行一个formula_15操作（访问每个节点）的时候进行。
+
+跳跃列表由 William Pugh 发明。他在 Communications of the ACM June 1990, 33(6) 668-676 发表了"Skip lists: a probabilistic alternative to balanced trees"，在其中详细描述了他的工作。参见 引用并下载文档。
+
+-{引用}-发明者的话：
+
+"跳跃列表是在很多应用中有可能替代平衡树而作为实现方法的一种数据结构。跳跃列表的算法有同平衡树一样的渐进的预期时间边界，并且更简单、更快速和使用更少的空间。"
+
+

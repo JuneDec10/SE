@@ -1,0 +1,16 @@
+Authorware
+
+Authorware最初是由Michael Allen于1987年创建的公司，而multimedia正是Authorware公司的产品。1970年代，Allen参加协助PLATO学习管理系统（Learning Management System，LMS）的开发。Authorware是一种解释型、基于流程的图形编程语言。Authorware被用于创建互动的程序，其中整合了声音、文本、图形、简单动画，以及数字电影。
+
+1992年，Authorware跟MacroMind-Paracomp合并，组成了Macromedia公司。2005年，Adobe与Macromedia签署合并协议，新公司名仍旧名为Adobe Systems。2007年8月3日，Adobe宣布停止在Authorware的开发计划，而且并没有为Authorware提供其他相容产品作替代。Adobe解释：由于科技日新月异，电子学习与传统学习模式的界线变得愈来愈模糊。所以，现时学习管理系统并不再适用，反而应该著眼于推广其他可以让教学人员可以作快速学习的工具，例如：Acrobat、Acrobat Connect、Captivate等软件。
+
+Authorware程序开始时，新建一个“流程图”，通过直观的流程图来表示用户程序的结构。用户可以增加并管理文本、图形、动画、声音以及视频，还可以开发各种交互，以及起导航作用的各种链接、按钮、菜单。Macromedia Director的电影业可以整合到Authorware项目中。Xtras，或add-ins，也可以用于Authorware功能的扩展，这类似于HyperCard的XCMD。通过变量、函数以及各种表达式，Authorware的力量可以进一步地被开启。
+
+Adobe Authorware是当今使用最广泛的e-learning编辑软件（authoring applications）之一。Authorware之类的编辑软件，主要用于生产多媒体交互式课件。
+
+课件内容可以随心所欲，从简单地演示如何换轮胎，到复杂的工业或医学操作。对于一些简单的多媒体应用程序而言，还需要使用一些简单的脚本，这样看起来会更有感染力。脚本应用的越熟练，Authorware功能被发掘的也就越多。在Auhtorware 7中，脚本除了用Authorware本地脚本语言，还可以用JavaScript。
+
+光看这个截屏，如果你原来没有接触过，可能会感到无从下手，但即使你不懂脚本，通过Authorware提供的简单对话框，也可以对图标的行为、属性等进行配置，进而开发出简单的e-learning应用程序。
+
+Authorware可通过CD、DVD以及网络，进行e-learning内容发布。遵照SCORM标准后，Authorware的作品可以放在任何SCORM兼容的学习管理系统系统上发布。许多媒体类型的文件都可以被导入Authorware中，比如Adobe Flash、Adobe Director、各种格式的数字视频、数字音频、各种格式的图片，还有Powerpoint。Authorware通过第三方的「Xtras」和「.u32's」，还可以进行更丰富的功能扩充。
+

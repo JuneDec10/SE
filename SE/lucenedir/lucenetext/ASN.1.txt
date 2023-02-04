@@ -1,0 +1,44 @@
+ASN.1
+
+在电信和计算机网络领域，ASN.1（Abstract Syntax Notation One) 是一套标准，是描述数据的表示、编码、传输、解码的灵活的记法。它提供了一套正式、无歧义和精确的规则以描述独立于特定计算机硬件的对象结构。
+
+ASN.1是ISO和ITU-T的联合标准，最初是1984年的的一部分。由于其广泛应用，1988年ASN.1移到独立标准X.208，1995年进行全面修订后变成X.680系列标准。
+
+ASN.1本身只定义了表示信息的抽象句法，但是没有限定其编码的方法。各种ASN.1编码规则提供了由ASN.1描述其抽象句法的数据的值的传送语法（具体表达）。标准的ASN.1编码规则有基本编码规则（BER，Basic Encoding Rules）、规范编码规则（CER，Canonical Encoding Rules）、唯一编码规则（DER，Distinguished Encoding Rules）、压缩编码规则（PER，Packed Encoding Rules）和XML编码规则（XER，XML Encoding Rules）。为了使ASN.1能够描述一些原先没有使用ASN.1定义，因此不适用上述任一编码规则的数据传输和表示的应用和协议，另外制订了ECN来扩展ASN.1的编码形式。ECN可以提供非常灵活的表明方法，但还没有得到普遍应用。
+
+ASN.1与特定的ASN.1编码规则一起通过使用独立于计算机架构和编程语言的方法来描述数据结构，为结构化数据的交互提供了手段，特别是在网络环境的应用程序。
+
+应用层协议如X.400（email）、X.500和LDAP（目录服务）、H.323（VoIP）和SNMP使用 ASN.1 描述它们交互的协议数据单元。在UMTS的接入和非接入层也有广泛的应用。
+ASN.1的其他应用领域参见此处。
+
+这里列举了很多ASN.1的自由或者商业的工具。
+
+FooProtocol 结构的定义系使用 ASN.1 表示法:
+
+ASN.1没有定义的谈话流动。 这是协议的文本描述。
+
+假设消息，符合与foo的协议将被发送到接收方。这种特定的消息（PDU）:
+
+要通过网络发送上述消息，需要编码成位元字串（string of bits）。ASN.1定义了不同的算法来完成这项任务，被称为编码规则。有很多，最简单的一个是DER.
+
+Foo协议规范应明确名称一套编码规则的使用，Foo的协议，使用者 知道他们应该使用哪一个。
+
+下面显示DER编码格式（皆16进位）的数据结构:
+
+人们实际上得到的是21个octets:
+
+ASN.1 的范围与 DER 结束于此. It is possible to transmit the encoded message to the party by any means (utilizing TCP or any other protocol). The party should be able to decode the octets back using DER.
+
+另外，它是可能的编码用XER (ASN.1) 来获取更多人类可读性 "over the wire". 可以产生下列的 108 octets:
+
+另外，采用压缩编码规则（Packed Encoding Rules）, 会产生下列 122 bits (小于16 octets):
+
+（从ITU-T网站免费下载）
+
+描述ASN.1记法的标准：
+
+描述ASN.1编码规则的标准
+
+ASN.1标准列表
+
+

@@ -1,0 +1,23 @@
+Microsoft Virtual PC
+
+Microsoft Virtual PC是一个虚拟机软件，可以在Mac OS和Microsoft Windows 操作系统上模拟x86电脑，并在其中安装运行操作系统。原来由Connectix公司开发，起初-{只}-能在Mac OS运行，后改为跨平台，称为Connectix Virtual PC。微软公司于2003年收购该软件，并改称为Microsoft Virtual PC，并运用于微软公司的训练课程（如MCSE的训练课程）作模拟用途。
+
+微软于2003年底推出用于Windows的Microsoft Virtual PC 2004，并于2006年7月12日宣布Virtual PC成为免费软件。不约而同地，其主要竞争对手VMware亦于同年宣布VMware Server 1.0成为免费软件。目前最新版本为Microsoft Virtual PC 2007，其正式版本已于2007年2月发布，分为32位元及64位元版本，并支持Windows Vista，可于微软官方网站下载。
+
+Virtual PC在使用PowerPC处理器的Mac OS X版本上，其模拟机「使用」Intel Pentium 4处理器及440BX系列的-{zh-hans:主板; zh-hant:底版;}-；而在Windows版本上，会使用电脑本身的处理器。模拟电脑上使用一块标准的SVGA VESA图卡，并与S3 Trio 64 PCI 8MByte VRAM版本的相容。-{zh-hans:主板; zh-hant:底版;}-使用安迈科技（American Megatrends Incorporated；AMI）的BIOS。并有「内置」的Creative Labs Sound Blaster 16 随插即用音效卡（Vista上或运行模拟Vista环境时，则使用Vista本身的音效系统，因为Vista并不支援Creative Labs Sound Blaster）及DEC 21041或DEC 21140的Ethernet网卡。
+
+即使Virtual PC的相容性很高，但不是所有软件都能在Virtual PC中正常地运行，因为那些软件可能使用一些未公开的硬件或使用一些不支援的-{zh-hans:指令; zh-hant:操作码;}-。比如，在VirtualPC 2004 SP1中，如果有打印机使用LPT1端口，则虚拟机不能识别。这个漏洞在Virtual PC 2007中得到改善。
+
+
+
+通常还提供一些客户端的呼叫函式库（特别是使用某些客户端的延伸功能），来加速模拟或提供更多的功能像整合原执行主机环境变数。
+
+第一代的Virtual PC是为苹果电脑而在1997年6月推出的。四年后，即2001年6月，第一代Windows版本的Virtual PC，版本4.0也推出了。
+目前的最新版本是2007 SP1。Microsoft Virtual PC将被预计内置于Windows 7的Windows Virtual PC取代。
+
+在Virtual PC 2007推出之前，大众都期待新的版本可以支援USB器材，因为Mac版本的Virtual PC是可以使用USB器材的。可是，结果这功能依然没有被加入，使用户在需要USB的支援时，仍然必须继续使用它的竞争产品VMware或VirtualBox。
+
+Microsoft Virtual PC 2007并不支援Windows的家用版。若在家用版Windows上安装Virtual PC 2007，系统会有弹出信息提示，指「系统并不支援现时的架构」。不过，具体来说，Virtual PC 2007在家用版Windows上依然可以正常运行。
+
+
+

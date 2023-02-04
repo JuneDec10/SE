@@ -1,0 +1,36 @@
+Konqueror
+
+Konqueror是KDE桌面系统的一部分，主要用于文件管理、各种格式档案的查看，以及网页浏览。Konqueror主要运用于GNU/Linux和BSD家族的操作系统，在微软的Windows系统也可使用。Konqueror按照GPL进行发布。
+
+在给Konqueror命名上，其命名者跟其它的网页浏览器玩了个文字游戏：首先是Navigator（意为航海家，网景公司的浏览器）、然后是Explorer（意为探索者），接下来就是Konqueror（Conqueror的变体，意为征服者）；这里首字母取K是为了遵循KDE软件都以K打头的传统。
+2005年11月29日KDE开发团队释出Konqueror 3.5.1，并成功的排出Acid2的笑脸，虽然测试结果中出现了不该出现的「卷轴」引起争议，但发起测试的WaSP仍宣布为合格。使Konqueror为首个通过Acid2测试的开放原始码GNU/Linux浏览器。直至Konqueror 3.5.2已修正卷轴条会出现的问题。
+
+最初的Konqueror伴随KDE 2于2000年10月23日一并发布，并取代原本KDE用于档案管理的KFM（KDE file manager）。而在KDE 4发布的时候，则由后继者Dolphin取代。但直到目前Konqueror仍然持续在维持及开发。
+
+Konqueror的用户界面沿袭了微软Internet Explorer的风格，但配置起来更灵活；IE相对于Netscape Navigator、NCSA Mosaic，则推出时间较晚。Konqueror通过面板来进行设定和增减功能，例如，在浏览器窗口中，左边可以是一个书签面板，点击其中的一个书签，相应的网页内容就会在右边更大的面版中出现。同样的，可以在一个面板中显示分级的文件夹（目录），而被选目录的内容则可在相邻面板中显示。面板功能相当灵活，甚至都可以放终端窗口。有关面板的个性化配置，可以加以保存。
+
+和一般的主流浏览器一样，Konqueror也具有常见的浏览功能，比如“后退”、“前进”、“历史”等；通过图形配置工具，还可以设定个性化的快捷键；地址栏的内容输入，支持本地目录、访问过的URL以及搜索条目的自动补齐。
+
+早期的Konqueror使用单文档界面，不支持多窗口模式，Konqueror从3.1版开始，支持单个窗口下的分页显示。
+
+
+Konqueror已经发展成为一个自我完善的网页浏览器项目，主要采用KHTML作为其排版引擎，Konqueror遵循HTML，支持JavaScript、Java applets、CSS、SSL等相关标准。
+
+由于Konqueror的模块化特性，Mozilla的排版引擎Gecko也可以替换Konqueror的默认引擎KHTML，这个功能被称为kmozilla，用户可以通过kdebindings包来获取。
+
+Konqueror还整合了网络搜索功能，方法是通过引擎缩写（比如Google就是gg）加上搜索词条。用户也可以添加自己的个人化搜索，先增加一个快捷搜索，比如：
+这样就可以很方便地来搜寻维基百科的文章。
+
+Konqueror同样也可以用于本机的目录结构，可以在地址列中输入位置，或在浏览器窗口中选取项目。而且允许不同的显示模式，每种不同的模式都有不同的图标及配置。档案能够被执行，显示，复制、移动以及删除。
+
+Dolphin (KDE软件)随KDE4发布，替代Konqueror成为了默认文件浏览器。但用户仍然可以使用Konqueror作为文件浏览器。
+
+使用KParts，Konqueror可执行各种可检视（或编辑）特定档案格式的元件，同时在这些档案被开启时将这些元件的用户区域直接放入Konqueror工具列，这让Konqueror可以直接浏览档案如KOffice文件。任何软体内建有KPart model可以此途径正常嵌入。
+
+除了档案浏览与网站浏览，Konqueror利用KIO外挂程式（KIO plugins）增加更进一步的功能，例如Konqueror I/O plugin system内建有存取HTTP与FTP协议功能。
+
+同样的，Konqueror可以使用IOslaves存取ZIP档案与其他压缩档案、smb分享（Windows）、ed2k（eDonkey／eMule）连结、浏览音乐光碟、（"audiocd:/"）用拖曳方式撷取音讯。FISH（"fish://user@host"）IOslave让Konqueror可以管理远端SSH伺服器上的档案，而"man:"和"info:" IOslaves在读取格式化文件时特别方便。完整清单请参见KDE Info Center中的"协议（Protocols）"图示。（如果你的KDE版本没有Info Center，请参见KDE Control Panel里的Information, Protocols部分。）
+
+尽管Konqueror主要是为了GNU/Linux作业系统平台设计，但也可以在其他其他的类Unix系统如BSD与Solaris、以及Mac OS X上使用。Konqueror也可以运行在Windows，他是KDE on Windows计划的一部分。
+
+

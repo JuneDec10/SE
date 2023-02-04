@@ -1,0 +1,13 @@
+积分变换
+
+积分变换（integral transform）是数学中作用于函数的算子，用以处理微分方程等问题。常见的有傅里叶变换﹑拉普拉斯变换等。
+
+以一变数为 formula_1 的函数 formula_2 为例，formula_2 经过一积分转换 formula_4 得到 formula_5：
+
+其中 formula_7 是个确定的二元函数, 称为此积分变换的核函数（kernel function）或核（nucleus）。当选取不同的积分域和变换核时，就得到不同名称的积分变换。formula_2 称为象原函数，formula_5 称为 formula_2 的象函数，在一定条件下，它们是一一对应而变换是可逆的。
+
+有些积分变换有相对应的反积分变换（inverse transform），使得
+
+而 formula_12 称为反核（inverse kernel）。
+
+在反积分转换中, 常数"c" 由积分函数决定。

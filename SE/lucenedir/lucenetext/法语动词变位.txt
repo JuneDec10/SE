@@ -1,0 +1,98 @@
+法语动词变位
+
+法语动词变位（），是指法语动词为了表达不同的语式、时态、体、人称和数而产生的形式变化。法语动词可以分为三组：
+（以上两组为规则动词）
+
+法语第三组动词具有封闭性，不再增加新的动词，大部分新增动词（如"téléviser, atomiser, radiographier"）列入第一组，少数新增动词（如"alunir"）属于第二组。
+
+法语变位中七种不同语气：直陈式("indicatif")，虚拟式("subjonctif")，条件式("conditionnel")，命令式("impératif")，分词("participe")，不定式"(infinitif)"，动名词"(gérondif)"。
+
+需要结合语气描述的时态如下所示，时态有时需要借助助动词来表达：
+
+该动词在变位时词干会发生变化。未完成过去时变为"av-" ；虚拟式现在时变为"ai-" ；将来时和条件式变为"aur-" ；简单和虚拟式过去时变为"e-" （不发音： "eus，eusse"分别读成和）。 尽管词干会改变，但这些时态的变化也常被归类为规则的 "-oir" 动词.
+
+在现在时中，不仅词干会变化，时态变化也是不规则的：
+
+<nowiki>*</nowiki> Notice that the imperative form uses the subjunctive conjugation.
+
+Non-finite forms:
+
+Auxiliary verb: "avoir"
+
+This verb has different stems for different tenses. These are all pronounced differently: imperfect "ét-" ; present subjunctive "soi-" ; future and conditional "ser-" ; simple past and past subjunctive in "f-" . The inflections of these tenses are as a regular "-oir" verb (that is, as an "-re" verb but with the vowel "u" in the "f-" forms). For example, subjunctive "soyons, soyez" is pronounced with the "y" sound () of other "-re" and "-oir" verbs.
+
+In the simple present, not only are there stem changes, but the inflections are irregular as well:
+
+<nowiki>*</nowiki> The imperative form uses the subjunctive conjugation.
+
+The non-finite forms use the stem "êt-" (before a consonant)/"ét-" (before a vowel):
+
+Auxiliary verb: "avoir"
+
+以"-er"结尾的法语动词占据法语动词的大部分，并与其他动词变化有所区别。许多情况下在词根与屈折词缀中间可能会插入母音，此组动词中会插入不发音的 "-e-" （简单现在时单数）、"-é" 或 "-ai" (过去分词与简单过去时的je)、以及 "-a-" (其余过去简单时以及虚拟式未完成过去时)。此外，正字法中"-ir" 与 "-re" 结尾动词在现在时和过去分词出现的"-t" 在此类动词中不存在，因此词缀的最后子音为 "-Ø, -s, -Ø" ，而非其他类动词的 "-s, -s, -t"。
+
+非限定动词形式：
+
+助动词："avoir"
+
+Exceptional contexts:
+
+Exceptional verbs:
+
+The "-ir" verbs differ from the "-er" verbs in the following points:
+
+Non-finite forms:
+
+Auxiliary verb: "avoir" ("partir" uses "être")
+
+The verb "haïr" loses its diaeresis in the singular of the simple present tense (the "i" loses its trema, reflecting the pronunciation of the initial syllable as a single vowel rather than the hiatus ): "je hais, tu hais, il/elle hait" but "nous haïssons, vous haïssez, ils/elles haïssent" . "Hais" is as usual used for the imperative. In all other forms, the root is (imperfect and present & past subjunctive -, future and conditional -).
+Another conjugation is used in Quebec French that keeps the two syllables stem with the hiatus , and therefore the diaeresis for all the paradigm: "J'haïs, tu haïs, il/elle haït, nous haïssons, vous haïssez, ils/elles haïssent". Note that the "h" of "haïr" is mute in Quebec French, hence the elision for "j'haïs" /ʒai/ compared to European French "je hais" /ʒə.ɛ/.
+
+Most irregular French verbs can be described with seven principal parts. In reality, few if any verbs have separate stems for all seven parts; instead, they tend to "inherit" the same stem as another part. Note that the endings for these verbs are basically the same as for regular "-ir" verbs; in fact, regular "-ir" verbs can be fit into this scheme by treating the "-iss-" variants as different principal parts.
+
+The following table shows how the paradigm of an irregular verb is constructed from its principal parts. Note that a few verbs construct the present indicative (especially the singular) differently.
+
+Non-finite forms:
+
+The following table gives principal parts for a number of irregular verbs. There are a number of fair-sized groups of verbs that are conjugated alike; these are listed first. There are some additional irregularities in the present indicative, which are listed below. Nearly all irregularities affect the singular, and are purely issues of spelling. (Stems that are irregular in the sense of being unpredictable by the above rules are given in boldface.)
+
+The following table shows an example paradigm of one of these verbs, "recevoir" "to receive".
+
+Non-finite forms:
+
+Nine verbs also have an irregular subjunctive stem, used at least for the singular and third plural of the present subjunctive. These verbs can be said to have 11 principal parts, because the subjunctive stem may or may not be used for the first and second plural present subjunctive, the imperative and/or the present participle, in ways that vary from verb to verb.
+
+The following table shows how the paradigm of an 11-principal-part irregular verb is constructed from its principal parts. Note that these verbs are generally the most irregular verbs in French, and many of them construct the present indicative (especially the singular) in an idiosyncratic fashion. The verb "aller" also constructs its past participle and simple past differently, according to the endings for "-er" verbs.
+
+Non-finite forms:
+
+The following table gives the principal parts for the 11-principal-part verbs. (Stems that are irregular in the sense of being unpredictable by the above rules are given in boldface.)
+
+The verb "aller" means "to go" and is sufficiently irregular that it merits listing its conjugation in full. It is the only verb with the first group ending "er" to have an irregular conjugation. It belongs to none of the three sections of the third group, and is often categorized on its own.
+The verb has different stems for different tenses. These are all pronounced differently: past "all-" (simple past, imperfect, past subjunctive); present subjunctive "aill-" ; conditional and future "ir-" . The inflections of these tenses are completely regular, and pronounced as in any other "-er" verb. However, in the simple present, not only are there stem changes, but the inflections are irregular as well:
+
+The non-finite forms are all based on "all-" :
+
+Auxiliary verb: "être"
+
+1. 在疑问句中，这个 "e" 会被写成 "é" (传统拼法) 或 "è" (修正拼法)，并且发做半开母音 "è" 。另外，"je" 的 "e" 会变成无声。例如 "je marche" （我走）； "marchè-je?" （我走吗？）
+
+2. 这些动词的结尾是 "-ont"： "ils sont "（他们是）、 "ils ont "（他们有）、 "ils font "（他们做）、 " ils vont "（他们去）。
+
+2.1. 只有动词 "être" 在这些地方会有例外： "nous sommes "（我们是）、 "que je soi-s "（～我是）, "que tu soi-s "（～你是）。
+
+2.2. 这些动词与它们的派生词的结尾是 "-es"： "vous êtes" （你们/您是）、 "vous faites" （你们/您做）, "vous dites" （你们/您说）。
+
+2.3. 只有动词 "être" 和 "avoir" 的结尾有 "t"： "qu'il/elle/on soi-t "（～他/她/我们是）、 "qu'il/elle/on ai-t "（～他/她/我们有）。
+
+3. 只有 "je/tu peux" （我/你能够）、 "je/tu veux" （我/你想要） 和 "je/tu vaux" （我/你值得）。
+
+4. 以 "-dre" 结尾的动词在第三人称单数时结尾为 "d" ，除了以 "-indre" 和 "-soudre" 结尾的动词是以 "t" 结尾。动词 "vaincre" （打败）和 "convaincre" （说服） 第三人称单数的结尾分别为 "vainc" 和 "convainc"。
+
+5. 只有这些动词是这样变化的： "assaillir" （攻击）、 "couvrir" （覆盖）、 "cueillir" （采集）、 "défaillir" （昏厥）、 "offrir" （提供）、 "ouvrir" （开启）、 "souffrir" （承受）、 "tressaillir" （颤抖），以及命令式的 "avoir" （有）、 "savoir" （知道）、 "vouloir" （想要）。
+
+6. 例外有 "je vins" （我来到了）、 "je tins" （我拿了）等等，以及 "que je vinsse" （～我来）、 "que je tinsse" （～我拿）等等。
+
+第一人称复数结尾 "-ons" 以及相应的主格代词 "nous" （我们）在现代法语口语中十分少见。但受格的代词 "nous" 仍然很常用。 代词 "on" 除了做为无人称代词之外，也普遍用以取代主格的 "nous"。例如， "nous chantons" （我们唱歌）在几乎所有的口语中都可以被 "on chante" 取代，除非是特别谨慎的场合。这导致了法语一些动词形式的消失。然而，动词词尾 "-ons" 仍然可以在命令式中见到： "Chantons !" （我们唱歌吧！），而此句在某些情况下也可被 "On chante !" 取代。
+
+

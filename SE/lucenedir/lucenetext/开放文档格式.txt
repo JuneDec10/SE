@@ -1,0 +1,31 @@
+开放文档格式
+
+开放文档格式（，简称ODF），全称用于办公室应用程式的开放文档格式（Open Document Format for Office Applications），是一种规范，基于XML的-{zh-tw:档案;zh-hk:档案;zh-cn:文件}-格式，因应试算表、图表、简报和文书处理-{zh-tw:文档;zh-hk:文件;zh-cn:文件}-等电子-{zh-tw:文档;zh-hk:文件;zh-cn:文件}-而设置。它的规格原本由升阳电脑开发，标准则由OASIS Open Document Format for Office Applications（OpenDocument）TC（又称为OASIS ODF TC）所开发。存在一个自由与开放的OASIS标准，以ISO/IEC国际标准发布──《ISO/IEC 26300:2015 Open Document Format for Office Applications（OpenDocument）v1.2》。
+
+开放文档格式企图提供一个取代私有专利文档格式的一个方案，使得组织或个人不会因为文档格式而被厂商套牢（Vendor lock-in）。
+
+这里「开放文档格式」是指专有名词「OpenDocument Format」，字面意思即是一种开放的文档档案格式（open document format）。
+
+2002年12月，Arbortext、波音、科立尔、CSW Informatics、Drake Certivo、澳大利亚国家档案馆、纽约州总检察官办公室、圣经文学学会、索尼、Stellent和升阳电脑成立了OASIS Open Office XML Format技术委员会，开发一种XML的标准文件档案格式。第一份委员会草案在2003年3月通过，第二份在2004年12月通过。
+
+2005年1月，OASIS Open Office XML Format技术委员会改名为OASIS Open Document Format for Office Applications技术委员会，以强调其规范不仅适用于OpenOffice.org，也适合任何办公软体应用。第三份委员会草案在2005年3月通过。
+
+2005年5月，OpenDocument成为一OASIS标准。
+
+2006年11月30日，OpenDocument成为ISO与IEC国际标准，正式标准名称为ISO/IEC26300。
+
+2012年1月11日，ODF 1.2发布。
+
+2015年6月9日，ODF 1.2成为ISO国际标准。
+
+OpenDocument格式被用于自由软件和专有软件。这包括办公室套件（独立的和基于web的）还有单独的文字处理软件、电子表格软件、演示稿软件、数据管理软件。
+
+
+从Mac OS X 10.5开始，TextEdit应用和Quick Look预览功能支持OpenDocument Text格式。
+
+由于ODF的其中一个目标是保证用户能长期存取资料并不受技术及法律上的障碍，因此ODF受到多个政府部门的注意。例如在2002年，秘鲁一名国会议员兼律师向微软写信提问有关永久自由与专属文档格式的问题。另外，欧洲国家及美国麻州也开始测试ODF的可行性。
+
+2015年6月5日，行政院国发会发布「推动ODF-CNS15251为政府文件标准格式实施计划」，2017年10月31日，行政院继续发布「推动ODF-CNS15251为政府文件标准格式续阶实施计划」。
+
+欧洲多个政府最早于2003年开始探讨多种以不同XML基础的格式作储存文件的可行性，并作出诸如「Valoris报告」等的技术研究。至2004年3月，分别研究ODF格式和微软格式的两个小组向欧洲政府发表两种格式之间的长处。
+

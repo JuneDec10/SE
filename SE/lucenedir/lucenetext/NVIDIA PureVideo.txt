@@ -1,0 +1,25 @@
+NVIDIA PureVideo
+
+PureVideo是nVidia的提高视频播放质素技术。在GeForce 6系列开始支援。能硬体加速视频播放，减少耗用CPU资源。该功能使用硬件在前端（解码）过程和后段过程（后处理）过程中协助。特别是，PureVideo可以充分地执行MPEG-2渲染的绝大多数工作，以及WMV9渲染的大量工作。
+
+支援平台方面，Microsoft Windows已经可以完全使用该功能。其他平台例如Linux、FreeBSD和Solaris，NVIDIA的180版本驱动程式开始新增VDPAU API接口，这相当于在Linux上实现PureVideo功能。配合MPlayer和NVIDIA提供的修正档，就可以实现硬体加速。支援的显示卡必须是GeForce 8或之后的产品。在此之前，NVIDIA使用（其中一个X-Video输出模块）实现相似功能，但此计划最终停止了更新。
+
+主要技术参数：
+
+支援产品：
+
+于2005年3月2日正式发表，只需更新駆动程式即可支援。
+
+支援产品：
+
+GeForce 8800系列显示卡都支援HDCP（High-bandwidth Digital Content Protection）。HDCP会保护HDTV、Blu-Ray及HD-DVD的影像内容，防止非法拷贝。不支援HDCP的显示卡，解像度会强行由1080p降至540p。
+
+它亦支援新一代PureVideo HD技术，首次支援高清影讯杂讯消除和边缘强化技术。在HQV影像测试中，取得128分高分，为现时最佳成绩。它除了支援720p、1080i及1080p等解像度外，并支援H.264 、VC-1、WMV-HD及MPEG-HD硬件解码。
+
+而G84和G86所支援的PureVideo HD技术更强，将所有影像解码工作交由显示核心（VP2）负责，大幅降低CPU占用率。亦新加入BitStream Processor，能够完全硬体解码H.264及部分硬体解码VC-1的影片。最后，加入了AES128运算引擎，就能硬体解码AACS，由于Windows Vista的关系，这种解码方式将被频繁使用，硬体解码就变得必要。
+
+支援产品：
+
+在GeForce 9中，PureVideo开始支援双流解码，即是GPU同时间可以处理两段高清影片。在高清影碟中，某些时候会有两段影片同时播放，例如是同步播放正片和拍摄花絮，所以支援双流解码变得重要起来。另外，亦新加了动态对比度增强技术，用来改善过亮和过暗的场景，增加细节之间的对比度，与HDR技术类似。最后，色彩增强技术可以加强蓝绿色调和皮肤色调的表现。
+
+PureVideo技术的竞争对手是ATi公司的AVIVO技术、Intel的Clear Video技术、S3 Graphics的Chromotion HD技术和矽统科技的Real Video技术。

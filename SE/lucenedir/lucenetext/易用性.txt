@@ -1,0 +1,31 @@
+易用性
+
+易用性是一种以使用者为中心的设计概念，易用性设计的重点在于让产品的设计能够符合使用者的习惯与需求。以网际网路网站的设计为例，希望让使用者在浏览的过程中不会产生压力或感到挫折，并能让使用者在使用网站功能时，能用最少的努力发挥最大的效能。
+
+「Usability」这个名词目前在汉语资料中出现有：优使性、使用性、易用度、易用性、好用性和可用性等不同的意译名称。
+
+易用性通常与产品的功能有关（参考下方ISO的定义），不止是使用者介面的特性（同样参考下方的系统可接受度框架，其将"有用"分成"功效"和"易用性"）。例如，在主流消费者产品的场合中，一辆汽车如果没有倒车排挡，以前者的观点来看，它是不可用的；而以后者的观点来看，它欠缺了这方面的功效。
+
+在评估使用者介面的的易用性时，此定义可以简化为「目标使用者感受到该操作介面的有效性（有达到目的）以及效率（使用时所需的工夫或时间）」。其主观的感受可以透过一些准则加以衡量，例如：使用者介面设计的原则（Principles of User Interface Design），以提供数量化的结果，此测量结果通常以百分比显示。
+
+区分易用性测试（usability testing）与易用性工程（usability engineering；简称UE）是很重要的。易用性测试指的是某产品或软体容易使用的程度，而易用性工程则是确保产品品质的研发与设计程序。
+
+易用性是非功能性需求的一个例子，就像其他非功能性需求，易用性无法直接测量，而必须透过间接测量或观察某些属性的方式，例如：使用者对于系统是否容易使用所回报的问题数量。
+
+国际标准组织（International Organization for Standardization）制定的ISO 9126(1991)Software Engineering Product Quality文件将易用性定义为：
+
+A set of attributes that bear on the effort needed for use, and on the individual assessment of such use, by a stated or implied set of users. 
+
+同样也是由国际标准组织制定的ISO 9241-11(1998)Guidance on Usability文件也对易用性做了如下定义：
+
+The extent to which a product can be used by specified users to achieve specified goals with effectiveness, efficiency and satisfaction in a specified context of use.
+
+易用性专家Jakob Nielsen与计算机科学教授Ben Shneiderman曾经分别讨论系统可接受度（acceptability）的框架，其中指出易用性是「有用」（usefulness）的一部分，而且包含下列元素：
+
+
+易用性需要考量之事项包括：
+
+
+以上问题，可以在专案起始时，透过使用者分析与工作（task）分析找出答案。
+
+

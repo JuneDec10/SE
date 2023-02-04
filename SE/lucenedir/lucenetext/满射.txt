@@ -1,0 +1,9 @@
+满射
+
+满射或盖射（），或称满射函数或映成函数，一个函数formula_1为满射，则对于任意的陪域 formula_2 中的元素 formula_3，在函数的定义域 formula_4 中存在一点 formula_5 使得 formula_6。换句话说，formula_7是满射时，它的值域formula_8与陪域formula_2相等，或者，等价地，如果每一个陪域中的元素 formula_10 其原像 formula_11 不等于空集合。
+
+函数formula_12，定义为formula_13，不是一个满射，因为，（举例）不存在一个实数满足formula_14。
+
+但是，如果把formula_15的陪域限制到只有非负实数，则函数formula_15为满射。这是因为，给定一个任意的非负实数formula_3，我们能对formula_18求解，得到formula_19。
+
+

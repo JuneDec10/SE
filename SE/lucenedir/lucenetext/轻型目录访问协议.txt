@@ -1,0 +1,31 @@
+轻型目录访问协议
+
+轻型目录访问协议（英文：Lightweight Directory Access Protocol，缩写：LDAP，）是一个开放的，中立的，工业标准的应用协议，通过IP协议提供访问控制和维护分布式信息的目录信息。
+
+目录服务在开发内部网和与互联网程序共享用户、系统、网络、服务和应用的过程中占据了重要地位。例如，目录服务可能提供了组织有序的记录集合，通常有层级结构，例如公司电子邮件目录。同理，也可以提供包含了地址和电话号码的电话簿。
+
+LDAP由互联网工程任务组（IETF）的文档RFC定义，使用了描述语言ASN.1定义。最新的版本是版本3，由RFC 4511所定义。例如，一个用语言描述的LDAP的搜索如：“在公司邮件目录中搜索公司位于那什维尔名字中含有“Jessy”的有邮件地址的所有人。请返回他们的全名，电子邮件，头衔和简述。”
+
+LDAP的一个常用用途是单点登录，用户可以在多个服务中使用同一个密码，通常用于公司内部网站的登录中（这样他们可以在公司电脑上登入一次，便可以自动在公司内部网上登入）。
+
+LDAP基于X.500标准的子集。因为这个关系，LDAP有时被称为X.500-lite。
+
+鉴于原先的目录访问协议（Directory Access Protocol即DAP）对于简单的互联网客户端使用太复杂，IETF设计并指定LDAP做为使用X.500目录的更好的途径。LDAP在TCP/IP之上定义了一个相对简单的升级和搜索目录的协议。 
+
+常用词"LDAP目录"可能会被误解，而实际并没有"LDAP目录"这么一个目录种类。通常可以用它来描述任何使用LDAP协议访问并能用X.500标识符标识目录中对象的目录。与ISODE提供的X.500协议的网关相比，尽管OpenLDAP及其来自密歇根大学的前身等的目录基本上设计成专门为LDAP访问而优化的，但也没有比其他用LDAP协议访问的目录额外多出来所谓“LDAP目录”。
+
+协议的第三版由Netscape的Tim Howes，ISODE的Steve Kille和Critical Angle Inc的Mark Wahl撰写。
+
+LDAP目录的条目（entry）由属性（attribute）的一个聚集组成，并由一个唯一性的名字引用，即专有名称（distinguished name，DN）。例如，DN能取这样的值：“ou=people,dc=wikipedia,dc=org”。
+
+LDAP目录与普通数据库的主要不同之处在于数据的组织方式，它是一种有层次的、树形结构。所有条目的属性的定义是对象类object class的组成部分，并组成在一起构成schema；那些在组织内代表个人的schema被命名为white pages schema。数据库内的每个条目都与若干对象类联系，而这些对象类决定了一个属性是否为可选和它保存哪些类型的信息。属性的名字一般是一个易于记忆的字符串，例如用cn为通用名（common name）命名，而"mail"代表e-mail地址。属性取值依赖于其类型，并且LDAPv3中一般非二进制值都遵从UTF-8字符串语法。例如，mail属性包含值“user@example.com”；"jpegPhoto"s属性一般包含JPEG/JFIF格式的图片。 
+
+LDAP目录条目可描述一个层次结构，这个结构可以反映一个政治、地理或者组织的范畴。在原始的X.500模型中，反应国家的条目位于树的顶端；接着是州或者民族组织。典型的LDAP配置使用DNS名称作为树形结构的顶端，下列是代表人、文档、组织单元、打印机和其他任何事务的条目。
+
+LDAP影响了后续的Internet协议，包括新版本的X.500、Directory Services Markup Language (DSML)、Service Provisioning Markup Language (SPML)和Service Location Protocol.
+
+
+LDAP从下面-{}-厂商获得广泛支持：
+此外还有开源/自由软件的实现——如OpenLDAP
+Apache HTTP Server使用代理服务器（通过模块mod_proxy）支持LDAP。
+

@@ -1,0 +1,17 @@
+Quartz Compositor
+
+Quartz Compositor是在Mac OS X中负责界面的视窗系统。在Mac上，Quartz Compositor可以在处理程序列表中被看到的，它叫做Window Manager，或是在最近的版本改为是WindowServer。
+
+Quartz Compositor主要执行两种的功能：
+
+在Mac OS X下，每个视窗都以位置（包含深度）、透明度、反锯齿信息的方式储蓄。拥有该视窗的应用程序绘制视窗内容到适当的图形，使用任何有支持的绘图模式（例如Quartz 2D，QuickDraw，OpenGL））。Quartz Compositor会得到每个视窗的图形，使用关联的信息来把他们合成在一起来建立显示画面。
+
+这样允许Mac OS X视窗系统是""不可知论的绘图模式""（agnostic in terms of a drawing model，与实现细节无关的绘图模型），且建立令人印象深刻的视觉效果，例如视窗最小化到Dock时的"神奇效果"。
+
+Quartz Compositor也有视窗管理员的一面，它有一个可以从I/O Kit接收事件（键盘按键，鼠标点击等等）的事件贮列。Quartz Compositor再从贮列中取出事件，决定那一个进程拥有该事件产生的视窗，然后把事件传递到该行程的贮列。
+
+从Mac OS X v10.2开始，Quartz Compositor被填充为Quartz Extreme，Quartz Extreme使用OpenGL把他们表示为3D内容中的材质贴图来更快速地绘制荧幕上的显示内容。这样容许利用3D硬件加速来更快速地合成荧幕影响。
+
+要允许Quartz Extreme，麦金塔必须拥有AGP显卡，支持任意材质尺寸和最小16MB的显存空间。事实上上就是指任何NVIDIA，ATI Radeon或是更好的显卡。
+
+

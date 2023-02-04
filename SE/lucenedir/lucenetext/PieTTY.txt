@@ -1,0 +1,7 @@
+PieTTY
+
+PieTTY是由台湾程式设计师林弘德（PTT BBS id：piaip）以PuTTY原始码为基础，在Windows上发展的Telnet/SSH安全远端连线程式，修正与完整支援亚洲语系字元，可切换多种Unicode字元显示方式，提供简易scp上传界面，并增加透明视窗、无边框模式等视觉效果。
+
+PieTTY与PuTTY同样采用MIT许可证，但PieTTY目前并没有释出原始码，如果有非常高度的安全需求，应自行斟酌是否使用PieTTY。
+
+

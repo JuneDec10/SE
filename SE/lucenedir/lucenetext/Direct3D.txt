@@ -1,0 +1,55 @@
+Direct3D
+
+Direct3D（简称：D3D）是微软公司在Microsoft Windows作业系统上所开发的一套3D绘图编程介面，是DirectX的一部份，目前广为各家显示卡所支援。与OpenGL同为电脑绘图软体和电脑游戏最常使用的两套绘图编程介面之一。
+
+1995年2月，微软收购了英国的Rendermorphics公司，将RealityLab 2.0技术发展成Direct3D标准，并整合到Microsoft Windows中，Direct3D在DirectX 3.0开始出现。后来在DirectX 8.0发表时与DirectDraw编程介面合并并改名为DirectX Graphics。
+
+Direct3D与Windows GDI是同层级组件。Direct3D装置有二种不同的操作模式：windowed和exclusive。在windowed模式下，必须使用back buffer。在Exclusive模式下，Direct3D直接呼叫显示卡驱动程式，而不通过GDI。
+
+Direct3D的抽象概念包括：devices, swap chains和resources。
+
+有4种device type，D3DDEVTYPE定义了设备类型。
+
+每一个装置至少要有一个swap chain.一个swap chain可用来产生一个或多个back buffer surfaces。渲染目标（render target）也是back buffer surface。back buffer是属于渲染（render）的部份。所有的back buffer都是合理的render target，但是并非所有render target都是back buffer。surface是一种资源，包含一个矩形集合的像素数据，如color, alpha, depth/stencil。
+
+资源有4个属性：
+
+Direct3D 10 API定义了vertices（顶点）, textures（纹理）, buffers（缓冲区），以及state群组转换到荧幕上的流程。这样的流程被描述成rendering pipeline（渲染流水线），其中有著许多不同的阶段. Direct3D 10 渲染流水线的各阶段包括： are:
+Direct3D有两种display modes:
+
+1992年，Servan Keondjian开创RenderMorphics公司，成立了一个Reality Lab实验室，专事3D图形技术及API技术研究。有两种版本的API被释出。1995年2月微软买下RenderMorphics，由Keondjian在Windows 95上开发3D图形引擎，主持Direct3D项目的开发。
+
+Window 95推出之时，微软一口气发表了DirectX 1.0、DirectX 2.0和DirectX 3.0。DirectX 1.0推出时，只包括DirectDraw、DirectPlay、DirectInput、DirectSound四部分，DirectX 2.0内附了Direct 3D，但功能阳春，无法与OpenGL、3dfx等API函数相提并论。1996年9月发布的Direct 3.0被认为是DirectX的第一套完整版本。不久，DirectX 3.0更新3.0a、3.0b，版号从4.04.00.0068增加到了“4.04.00.0069”，仅是附加了一个被称为Direct3D的组件，这正是Keondjian的杰作。当时的Direct3D有两种模式，一是Retain模式，另一个是Immediate模式，皆以COM建构而成。1996年Westwood工作室发布以DirectX开发的即时战略游戏《红色警戒》，大卖1200万套。
+
+DirectX 4.0并未推出就有DirectX 5.0。1997年6月推出DirectX 5.0，加入DrawPrimitive API，加入了对MMX的支援，不久微软又推出支援D3D加速卡的DirectX 5.0a版和5.1版、5.2版。
+
+Direct3D 6.0，1998年秋微软推出，引进多重贴图（multitxture）以及stencil buffer
+
+Direct3D 7.0引进硬体座标转换以及光影计算（Hardware Transform and Lighting），并支援.dds档。
+
+Direct3D 8.0引进了可编程管道（Programable Function Pipeline）的概念，Direct3D在8.0版以前只能工作在固定管道（Fixed Function Pipe-line）的模式下。2001年微软正式发表的Direct3D 8.0支援处理顶点的Vertex Shader，以及处理像素的Pixel Shader。使Direct3D的技术正式超越劲敌OpenGL。DirectX 8中的著色器是用低阶著色器语言（Low Level Shading Language）编写的。
+
+Direct3D 9.0使用HLSL（全称High Level Shading Language）编写Vertex Shader和Pixel Shader，有助于著色器的编写和所产生程式码的效率，并且大幅地缩短设计时间。Windows Vista推出DirectX的两种新类型：Direct3D 9Ex和Direct3D 10。Direct3D 9Ex是DirectX 9的扩充版，除了Direct3D 9外，还增加了Windows Vista driver部分新功能的应用程序而设计。Direct3D 9Ex和Direct3D 10均构建于WDDM之上。只有透过WDDM才能在Vista上使用Direct3D。
+
+Direct3D 10相对Direct3D 9大量代码重新编写，Direct3D 10著眼在高阶绘图程式，所有render都要写shader。但本质上功能并没有太大改变，只能算是对旧XP时代的问题重新更正，提供更高的可程式化及资源运用，以适合Vista使用。
+
+Direct3D 10新特色：
+
+Direct3D 10.1是Direct3D 10.0的小型的更新，2007年8月微软释出Direct3D 10.1以及Shader Model 4.1的测试版本。Direct3D 10.1规定几个更多图像质量标准为图表供营商，给予开发商对图像质量（image quality）的更多控制。XAudio 2 将取代DirectSound，成为最新的跨平台音频API。
+
+Direct3D 11架构于Direct3D 10的基础之上，但相较于Direct3D 10只支援Vista作业系统, Direct3D 11更可以支援Windows 7及Windows Vista。Direct3D 11新增以下的功能：
+
+其他还有物件导向化的Shader Model 5等功能。之前DirectX 10还是单执行绪，档案存取与绘图指令共用同一个执行绪，容易造成画面迟缓的现象，与DirectX 10相比，Direct3D 11有了更好的解决方案。
+
+DirectX 11的pipeline新增Hull Shader、Tessellator、Domain Shader来实现tessellation, 可以快速让成像3D的小三角型快速增加。至于Computer Shader则是GPGPU的实现，以GPU的平行处理能力与浮点运算能力来实现CPU的运算，能够同时支援ATI以及Nvidia的显示卡，不受绘图流程的限制。DirectX11还支持Intel的支持Ray Tracing（光线跟踪）与Rasterization（光栅化）技术，使3D效果更真实，更加逼真。
+
+以Direct3D开发3D图形程序，可以采用COM inteface，也可以采用.NET Framework的方式，WPF会使用Direct3D 9与GPU。Direct3D 11技术是DX10.1的超集，支援DX11.0、DX10.1/10.0、DX9.3/9.2/9.1等。
+
+Windows 7 Desktop Windows Manager将会支持Direct3D 10.1 API。可将显卡带宽的占用率降低大约50%。DirectX 11可向下相容于DirectX 10的显示卡，同时也能够在Windows 7与Vista上执行。
+
+Vista 引入了 DirectX 的两种新类型:Direct3D 9Ex 和 Direct3D 10。DirectX 10仅适用于Windows Vista，针对 Windows Vista 进行了全新构建，构建于Vista 显示器驱动程序模型 (WDDM) 之上，并引入新的硬体模式、绘图管线和渲染特性，让开发人员更接近硬体。一些由于游戏需要SM 2.0，Vista 将使用SM 2.0来渲染桌面。
+
+用Direct3D 9画三角形：
+用Direct3D 11画三角形：
+
+

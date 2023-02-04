@@ -1,0 +1,11 @@
+SocksCap
+
+SocksCap是Permeo公司开发的一个免费的网络协议转换软件。它可以将本地应用程序的各种通讯协议（如TCP和UDP）中途截取并自动转换成SOCKS协议的联接。
+
+Permeo公司已经改名为BlueCoat，并且不再对SocksCap提供任何更新与支持。
+
+SocksCap不支持64位系统。在64位系统下，可以使用SocksCap64、ProxyCap、Super Socks5Cap等软件代替。
+
+Taro Lab已经为此开发了一个64位程序，支持Windows XP、Vista、7和8的32位及64位系统，它被命名为SocksCap64。
+
+

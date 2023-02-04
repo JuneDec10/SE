@@ -1,0 +1,30 @@
+TrueOS
+
+TrueOS（旧名PC-BSD或PCBSD）是一套基于FreeBSD-CURRENT、桌面取向的类Unix作业系统。主要目的是建立一个易于安装软体的图形用户界面，借由提供KDE SC、Lumina、MATE、Xfce等桌面环境使其容易上手。TrueOS还为nVidia和Intel硬件提供二进制驱动程序。同时可通过KWin提供3D桌面，也可通过Wine来运行微软Windows的软件。TrueOS可以运行Linux软件。除了使用FreeBSD的ports，TrueOS有自己独立的软件包管理系统，可以让用户以图形的方式安装可执行文件。就像在Windows系统上一样，双击某个下载到的可执行文件进行安装，只是这个可执行文件只能用于BSD系统。
+
+TrueOS支持ZFS文件系统。安装程序可对硬盘进行加密，这样系统在启动时就需要输入密码。
+
+2016年9月，开发团队宣布PC-BSD更名为“TrueOS”。
+
+从第七版开始，PC-BSD开始使用与FreeBSD相同的版本号。在9.0之前，由于PC-BSD经过了特殊定制以及txz包管理系统的问题，PC-BSD只能使用KDE系列软件。不过在技术上，手动安装Xfce或GNOME桌面环境也是可行的，使用这些桌面环境并没有丢失一些主要功能。从 9.0开始，PC-BSD支持GNOME2、Xfce、LXDE。最新的PC-BSD 10.0RC2开始支持Gnome 3、Mate（替换了Gnome2）和Cinnamon。。
+
+从9.2开始，PC-BSD只支持x86-64架构。
+
+
+PC-BSD 8.2的软体安装系统与其他的类Unix作业系统有所不同。它除了使用原来的FreeBSD的ports系统，亦使用自己本身的".pbi" 档案格式。".pbi" 如微软视窗的".exe"般，只需双击便可有精灵指导安装。
+
+所有的软体套件及依赖程式库均会安装至它们自身"/Programs"里的资料夹，这便能减少不必要的混淆。PC-BSD安装管理员同时亦会产生连结至KDE桌面开始功能表上。
+
+PC-BSD专案正在从头开始开发一个新的桌面环境，称为Lumina。Lumina基于Qt，目前正积极的进行开发，虽然它已经被包含在PC-BSD的套件库中，但尚不足以日常使用。它的目标是成为一个功能完备、轻量、稳定且开放原始码，甚至可以取代PC-BSD基础安装中KDE的桌面环境。Lumina的主要开发者是Ken Moore。
+
+最初，因为PC-BSD使用KDE桌面环境，而开发者以Qt为开发工具就必须使用GPL或QPL授权，所以使用了GPL授权。但这并不正确，而且因为GPL授权与BSD许可证有冲突，所以现在PC-BSD已改为使用一个BSD相容的授权。
+
+参考PC-BSD的网站，PC-BSD 10.0的硬体需求为：
+
+
+
+要游玩新的游戏，建议使用更快的CPU和GPU，如果要收集大量的音乐及影片，建议使用更大的硬碟。
+
+
+
+各地区网站：

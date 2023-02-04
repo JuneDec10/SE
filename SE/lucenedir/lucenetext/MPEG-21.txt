@@ -1,0 +1,13 @@
+MPEG-21
+
+MPEG-21是正在制定中的MPEG标准，致力于定义多媒体应用的一个开放框架。
+
+MPEG-21希望发展一种高效率之可调性视讯编码标准（Scalable Video Coding; SVC）以适用于UMA之目标，并计划将此标准纳入其Part 13: Scalable Video Coding的标准。
+
+此种可调性编码器必须符合下列需求：SNR / temporal / spatial / complexity / region-of-interest / object-based以及combined scalability、错误强韧性及graceful degradation、base-layer相容性、低传输延迟、随机存取功能、良好的编码效率、支援interlaced video等等。
+
+在2003年3月已经在MPEG会议进行一次各种提案之初步效能评估。当时共有两种主流技术趋势：DCT-based方法及interframe wavelet-based方法。一开始，因为DCT-based FGS已被制订为MPEG-4 streaming profile标准，而且wavelet编码难以克服在低位元率效率不佳之问题，因此DCT-based FGS在一开始居于领先地位。但是在美国RPI Prof. Woods发展出MC-EZBC interframe wavelet编码技术后，由于效能大幅改善，再加上wavelet本身具备之高度可调性，wavelet-based FGS已经后来居上，而逐渐主导了MPEG-21 SVC标准的走向。
+
+后来MPEG组织于2003年12月的会议持续公开征求SVC的提案（Call for Proposal）之后，在2004年3月的会议共有15篇方法被提出，当时的提案大致可以分为两类主要的方法：wavelet-based及H.264-based，虽然大部分的方法都是wavelet-based的方法，不过由Heinrich-Hertz Institute（HHI）所提出的H.264-based的方法经过效能比较之后，却比起其他wavelet-based方法还要来的突出。因此经过第一阶段的效能比较之后，MPEG会议决定由微软亚洲研究院（Microsoft Research Asia; MSRA）所提出的Barbell-lifting wavelet-based SVC与HHI所提出的H.264-based SVC这两个提案来竞争。
+
+经过约半年的方法比较与改进之后，在2004年10月的MPEG会议初步决定以HHI的方法为Reference software，并提出一个Scalable Video Model（SVM）。虽然此时支持wavelet-based方法的人仍持续提出方法改进，希望能够适时扭转局面，但是方法比较上还是都不能胜过HHI的方法，至2005年1月的MPEG会议结束后大势底定，未来MPEG-21 SVC的方法将以HHI的H.264-based SVC为基础继续发展。

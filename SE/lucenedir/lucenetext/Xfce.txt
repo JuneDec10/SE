@@ -1,0 +1,13 @@
+Xfce
+
+Xfce是桌面环境，用于Unix与Unix-like作业系统，如Linux与FreeBSD。Xfce由许多彼此独立的组件所构成，预设的视窗管理器为Xfwm，亦可搭配Openbox等其他视窗管理器协同运作。Xfce的设计目的是「设计为可作为实际应用，快速载入及执行程式，并减少耗用系统资源」。（Olivier Fourdan，原创者）
+
+Xfce同时为程式设计者提供开发框架。除了Xfce本身，还有第三方的程式使用Xfce的程序库，如文字编辑器 - Mousepad、多媒体播放程式 - Parole与终端机模拟器 - Terminal emulator。
+
+Xfce建基在GTK+之上。它使用Xfwm作为视窗管理器。"Xfce"的名字最初是代表" Common Environment"，但自从那时起，Xfce已被重写了两次而且不再使用XForms工具包。名字虽然仍被保留为Xfce，但现在已不会将其大写作"XFce"。而开发者现在的任务是要使Xfce不再代表任何东西。
+
+现在最新版本为4.12，是在2015年2月28日发行的。
+
+以Xfce作为预设桌面的发行版：
+
+

@@ -1,0 +1,5 @@
+CorelDRAW
+
+CorelDRAW是一款由加拿大渥太华的Corel公司开发的矢量图型编辑软件。最初 CorelDRAW 被开发运行于Windows版，数年后Macintosh版也随之发布。同时，CorelDRAW曾经存在过Linux的版本，但后来被放弃了。而 CorelDRAW X6 也仅有Windows的版本可用，最新版本CorelDRAW X7则取消对Windows XP的支持，只能在Windows 7和Windows 8 上运行。
+
+1984年，迈克尔·考普兰（Michael Cowpland）博士创立了Corel公司并且雇请了软件工程师米歇尔·伯利昂（Michel Boullion）和帕特·贝尔尼（Pat Beirne）开发一个基于向量图形的程序包。1987年始，至1989年发布第一款 CorelDRAW。CorelDRAW 1.0 引入了全彩矢量插图和版面设计程序，这在计算机图形领域掀起了一场技术革新。两年后，Corel 又推出了首款一体化图形套件（CorelDRAW 3），将矢量插图、版面设计、照片编辑等众多功能融于一个软件包中。

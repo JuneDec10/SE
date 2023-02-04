@@ -1,0 +1,9 @@
+Cygnus Solutions
+
+Cygnus Solutions（最初名为Cygnus Support）是一家由John Gilmore、Michael Tiemann和David Henkel-Wallace于1989年创办的信息技术公司，旨在为自由软件提供商业支持。它的口号是：“让自由软件使用无忧”（"Making free software affordable"）。Cygnus是“Cygnus, Your GNU Support”（意为：Cygnus，你的GNU支持）的递归式首字母缩写词。
+
+多年间，Cygnus Solutions的员工是GNU几个主要软件产品的维护者，这些软件包括GNU Debugger、GNU Binutils（包括GNU Assembler和GNU Linker）。该公司也是GCC项目的主要贡献者。Cygnus还开发了BFD软件库，并在许多接受保密协议研制新型芯片的软件开发移植工具情况下，利用它将GNU移植到许多计算架构上。
+
+Cygnus还是Cygwin最早的开发者，Cygwin由一个POSIX层和一组移植到微软视窗系列操作系统的GNU工具集组成。
+
+1999年11月15日，Cygnus Solutions宣布将与红帽公司合并，2000年初起不再作为单独的公司存在。到2003年为止，许多Cygnus的员工仍继续在红帽工作，包括Tiemann，他之前担任红帽公司-{zh-hans:首席技术官; zh-hant:技术长;}-，现任负责开源事务的副总裁。

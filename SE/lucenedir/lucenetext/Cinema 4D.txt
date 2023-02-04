@@ -1,0 +1,62 @@
+Cinema 4D
+
+Cinema 4D是一套由德国公司Maxon Computer开发的三维绘图软件，以其高的运算速度和强大的渲染外挂著称。Cinema 4D应用广泛，在广告、电影、工业设计、等方面都有出色的表现，例如影片《毁灭战士》（"Doom"）、《-{zh-hans:范海辛; zh-hant:凡赫辛;}-》（"Van Helsing"）、《-{zh-hans:蜘蛛侠; zh-hant:蜘蛛人;}-》、以及动画片《-{zh-hans:极地特快; zh-hant:北极特快车;}-》、《-{zh-hans:丛林大反攻; zh-hant:打猎季节;}-》（"Open Season"）等等。它正成为许多一流艺术家和电影公司的首选，Cinema 4D已经走向成熟。
+
+Cinema 4D的前身是1989年发表的软件FastRay最初只发表在Amiga上，Amiga是一种早期的个人电脑系统，当时还没有图形界面。
+
+两年后，在1991年FastRay更新到了1.0，但是这个软件当时还并没有有涉及到三维领域。1993年FastRay更名为CINEMA 4D 1.0，仍然在Amiga上发布。
+
+德国MAXON公司出品的CINEMA 4D，是一套整合3D模型、动画与算图的高级三维绘图软件，一直以高速图形计算速度著名，并有令人惊奇的渲染器和粒子系统，其渲染器在不影响速度的前提下使图像品质有了很大的提高，针对打印、出版、设计来创造产品视觉效果。
+
+2010年9月1日发布的CINEMA 4D R12，MoGraph升级为2.0，渲染比R11快2倍。
+
+值得注意的是，CINEMA 4D R12提供了全新改版的MoGraph2，其中所新增的功能包括下列四点：
+
+
+此外，全新改版的MoGraph2被誉为真正强化CINEMA 4D的创作工具!MAXON也承诺将提供更多更优质的软体工具，持续协助3D设计工作者时先更进阶的创意发想。
+
+
+
+
+
+
+
+
+
+
+
+2006年10月4日MAXON官方网站发布了Cinema 4D Release 10，和BodyPaint 3D R3。并已经放出截面和试用版。此次在界面风格和设计方面做了很大的改动，整个界面以黑色调为主，包括全新的界面设计和全新的按钮图示。
+
+新版本的Cinema4D Release 10将会包含所有插件的升级版本包括：Advanced Render高级渲染插件、MoGraph 矩阵系统、MOCCA 3 骨骼模块、HAIR毛发系统、Thinking Particles 粒子系统、Dynamics 动力学插件、NET Render 网络渲染插件、Sketch and Toon 卡通渲染模块。
+
+这次发布Cinema4D将会分成两个版本包括CINEMA 4D XL-Bundle和CINEMA 4D STUDIO-Bundle，其中前者只集成了渲染、骨骼、粒子、网络渲染，4个插件。后者则包含了所有插件。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

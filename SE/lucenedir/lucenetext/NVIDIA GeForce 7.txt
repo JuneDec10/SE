@@ -1,0 +1,21 @@
+NVIDIA GeForce 7
+
+GeForce 7是NVIDIA第七代绘图处理器的总称，3D引擎升级为CineFX 4.0。全系列绘图晶片是原生PCI-E，并没有原生AGP产品推出过。与GeForce 6一样，支援DirectX 9.0c，Shader Model 3.0, OpenGL 2.0，HDR。nVidia声称GeForce 7的Pixel Shader单元运算能力比GeForce 6强两倍。不少人认为G70核心只是旧NV40的改良版。
+
+Geforce 7800 GTX（核心代号为G70），核心采用较成熟的TSMC 0.11微米制程，而不是90奈米制程。可能NVIDIA吸取了当年NV30太早引进0.13微米制程的教训，良率很差。而ATi则采用不成熟的90奈米制程，令Radeon X1000系列延期很久才能推出。
+
+
+
+
+
+
+
+
+
+
+
+
+
+NVIDIA在2013年以后停止对NVIDIA GeForce 8以前的显示驱动程式支援，亦即NVIDIA GeForce 7的驱动程式业已停止更新。以下是停止更新后，最新的适用于NVIDIA GeForce 7系列显示核心的驱动程式：
+
+

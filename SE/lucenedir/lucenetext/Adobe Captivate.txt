@@ -1,0 +1,4 @@
+Adobe Captivate
+
+Adobe Captivate，旧称RoboDemo，是一个荧幕撷取程式。它的特点是，可以把用户操作电脑的过程，记录在一个Adobe Flash档案内。与此同时，编辑者可以基于这个撷取的过程编制教程，使这个Flash变成指导别人使用电脑的程序。
+

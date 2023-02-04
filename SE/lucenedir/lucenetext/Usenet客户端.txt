@@ -1,0 +1,8 @@
+Usenet客户端
+
+Usenet客户端或新闻阅读器是一个用来阅读Usenet上帖子的电脑程序，它直接或通过网络新闻传输协议从新闻组服务器的磁盘中读取帖子。像是一些在类Unix或Microsoft Windows上的自由软件如：BNR2，Mozilla Thunderbird以及Pan都是这类程序。其他的新闻阅读器包括：
+
+
+优秀的新闻阅读器会被加上Good Net-Keeping标记认证（GNKSA）.
+
+Usenet客户端可以用来下载资源，例如UseNeXT，该软件不同于P2P下载，用户不需提供上传的带宽。理论下载速度可以达到DSL的全部带宽。

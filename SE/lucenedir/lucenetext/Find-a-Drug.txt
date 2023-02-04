@@ -1,0 +1,7 @@
+Find-a-Drug
+
+Find-a-Drug（简称：FAD。项目中文名称：寻找新药物），网络公益性协同计算（又名：分布式计算）项目，项目主旨在于通过因特网上的志愿者运行一个名为 THINK 的程序来寻找一些能够对抗某些重大疾病的活性药物分子。
+
+Find-a-Drug 目前主要的研究对象是：癌症、艾滋病（HIV）、疟疾、呼吸疾病、SARS、库雅氏症（Creutzfeldt-Jakobdisease，CJD）等等。
+
+

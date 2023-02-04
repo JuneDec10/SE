@@ -1,0 +1,11 @@
+Tasman
+
+Tasman，是微软的Internet Explorer for Mac浏览器所使用的排版引擎，也是为尝试支援W3C所制定的网页标准而设计的。在Tasman推出时，一度是最切合HTML及CSS等标准的排版引擎 。现时微软方面也停止为Internet Explorer for Mac提供支援，但新版本的Tasman引擎仍被应用在一些微软产品上。
+
+首个Tasman引擎被称为「v0」版本，于2000年3月27日随Mac版的IE5推出，而随后的IE5.1则使用Tasman 0.1版引擎。
+
+2003年5月15日，微软推出Mac OS X版的MSN浏览器，它使用了Tasman 0.9排版引擎。在官方讨论区，开发小组发言人吉米·格雷瓦尔（Jimmy Grewal）在改进方面指出以下几点：
+
+
+在Mac版的Microsoft Office 2004中，当中的电子邮件客户端Microsoft Entourage使用了Tasman排版引擎。
+

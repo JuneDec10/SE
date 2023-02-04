@@ -1,0 +1,95 @@
+Adobe Creative Suite
+
+Adobe Creative Suite是Adobe公司出品的集成了平面设计、视频编辑、网页设计等应用的产品套装。
+
+该套装最初主要包括电子文件制作程序Adobe Acrobat、矢量图形绘图程序Adobe Illustrator、排版程序Adobe InDesign、图像处理程序Adobe Photoshop等产品，在后来的版本中又加入了网页设计程序Adobe Dreamweaver、视觉特效制作程序Adobe After Effects、音频编辑程序Adobe Audition、网页图形设计程序Adobe Fireworks、矢量动画制作程序Adobe Animate、视频编辑程序Adobe Premiere Pro等。
+
+Adobe已经宣布停止Adobe Creative Suite的销售方法和发布策略，改为云端租用的方法租用上述软体服务Adobe Creative Cloud。
+
+以下是Adobe Creative Suite各个版本的应用软体简介：
+
+CS套装的第一个版本于2002年推出。从那以后Adobe公司的创意设计软件的名称，由原来的版本号结尾（如Photoshop 8）变成由CS结尾（如Photoshop CS）。
+
+2005年4月，Adobe推出了新版本称为Adobe Creative Suite 2，其系列产品的新版本名称后缀也改为CS2（如Photoshop CS2，事实版本号9.0）。包括两种套装，标准版和增强版。
+
+标准版包括：Adobe Photoshop CS2（事实版本号9.0）、Adobe Illustrator CS2（事实版本号12.0）、Adobe InDesign CS2（事实版本号4.0）、Adobe Version Cue CS2、Adobe Bridge和Adobe Stock Photos。增强版包含标准版所有软件，并增加Adobe GoLive CS2（事实版本号8.0）和Adobe Acrobat 7.0 Professional。
+
+随着2006年9月Adobe Acrobat 8.0 Professional的发布，Adobe把新版本替代原来的7.0版本放入这个套件，版本号称为Creative Suite 2.3 Premium。
+
+这个套装同时有Windows和Mac两个版本，但是Mac版本是基于PowerPC编写的，并不是Universal核心，所以在英特尔苹果电脑上运行时需要调用一个叫Rosetta的脚本进行编译，导致软件运行速度明显变慢。
+
+
+
+
+于2013年1月头，网民误会Adobe将CS2系列改作免费软件，Adobe在官方论坛回应，表示是因为停用CS2以及Acrobat 7的启用伺服器，因此提供原客户取得新序号。Adobe并无提供免费让大家使用的意思，该服务仅提供给曾购买过CS2的老客户使用，未购买而下载使用者，可能会接到停用警告。
+
+Adobe Production Studio（原名"Adobe Video Collection"）是数码音频、影像编辑软件套装。这个套装同样有标准版和增强版本
+
+Adobe Production Studio增强版包括：
+
+标准版包括
+
+Macromedia Studio是一套用于网站设计的软体组合，由Macromedia所发售。在Adobe并购Macromedia之后，Macromedia Studio 8经修改及并入Adobe Creative Suite系列，为后者所取代。现在与Macromedia Studio 8最相近的软体是Adobe Creative Suite Web Premium与Web Standard。
+
+自CS3，Macromedia Studio的核心应用软体已经被并入Adobe Creative Suite，其中有Flash、Dreamweaver。有一些Macromedia应用软体被现在的Adobe产品取代，例如FreeHand被Adobe Illustrator取代。而Director和ColdFusion则不属于Adobe Creative Suite，另作为独立软体发售。
+
+版本发布如下：
+
+2007年3月27日，Adobe发布了Adobe Creative Suite 3。代号为「剥香蕉」。公司为该系列产品的Apple Macintosh版本的主要程序加入了通用二进制库。套件家族中的一些产品亦开始使用曾应用于Opera浏览器的Presto布局引擎。
+
+Adobe公司将软件集成于6个不同的「版本」套件来发布CS3。这与CS4的发布相同。Design Standard/Premium和Web Standard/Premium套件于2007年4月16日开始发售，而Production Premium与Master Collection套件则于7月2日发售。现CS3的最新版本为3.3，于2008年6月2日发布。在该版本中，Fireworks CS3已经包含于Design Premium套件中，所有套件中的Acrobat 8被替换为Acrobat 9 Pro。
+
+除Production Premium和Master Collection套件外，其他所有套件均有简、繁体中文版。
+
+以上所有版本都包含共享程式与服务，包含Adobe Bridge、Adobe Version Cue（Production Premium无此功能）、Adobe Device Central、Adobe Acrobat Connect。Production Premium和Master Collection版本另包含Adobe Dynamic Link、Adobe OnLocation（限Windows版）与Adobe Ultra（限Windows版）。
+
+CS3包含许多由Macromedia开发程式，如Dreamweaver、Flash与Fireworks等软体，Macromedia原本是Adobe的竞争者，在2005年被Adobe并购。另外CS3还包括由Serious Magic所开发的Adobe OnLocation和Adobe Ultra两套软体，此公司在2006年也被Adobe并购。
+
+Adobe自CS3系列未收录以下原本CS2包含的软体：
+
+Adobe已经宣布会继续Audition研发成一独立软体，而GoLive则不会再延续下去。Adobe GoLive 9于2007年6月10日推出，Adobe Audition则是在2007年9月6日做为一独立软体推出。Adobe也不再延续ImageReady，并且以Fireworks之取代，ImageReady的一些特别功能则被并入Photoshop。
+
+与CS3相同，CS4亦拥有6个不同的版本：
+
+CS4在2008年10月15日正式发售。它将所有软体皆采用一贯的操作介面，此一标签化的介面能在单一视窗内利用标签分页同时开启数个应用程式与CS4专案。此外，nVidia的CUDA技术可借由第三方外挂程式加速H.264影像编码。
+
+Adobe CS4能在64位元与多核心处里器之下具有更佳的表现效能，且Adobe Photoshop CS4更是原生64位元软体。Adobe After Effects CS4与Adobe Premiere Pro CS4虽然不是原生64位元系统，但亦针对64位元进行最佳化。经先前测试显示，支援64位元的Adobe Photoshop CS4整体效能可提升8%至12%，而在工作中需处理庞大档案的用户可发现执行速度达到10倍以上的显著效能提升。这是因为64位元应用程式可以处理更大量的记忆体以减少档案交换需求，而这正是影响资料处理速度的最大因素之一。
+
+下表为捆绑于各个软件套件中的应用程序：
+Adobe Ultra，一款功能强大的视讯去背软体，以简单拖放的方式即可得到高质量的去背效果（chroma key），可在光源不足的环境下自动进行明暗调整，或将利用虚拟摄影技术，将视讯主体以外的背景自定为虚拟3D画面，和原本列入CS3的Adobe Stock Photos软体，自CS4起取消收录于套装软体中。
+
+Adobe Encore与Adobe OnLocation（即先前的Serious Magic DV Rack HD2）则包含于Adobe Premiere Pro之中，不单独发售。
+
+Adobe InCopy是一与Adobe InDesign密切结合的应用软体，也是Creative Suite系列的一部分，但不包含在任何的CS4版本之中。InCopy可以从Adobe、第三方外挂程式开发商或系统整合商订购。
+
+Creative Suite Design Premium与Creative Suite Design Standard为Creative Suite 4系列的两个版本，主要对象是专业印刷、网站设计、互动内容与行动装置内容的设计者。
+
+这两个版本的主要不同在于Premium版多了Adobe Photoshop CS4 Extended、Adobe Flash CS4 Professional、Adobe Dreamweaver CS4与Adobe Fireworks CS4。
+
+Adobe Creative Suite 4 Design Premium包括以下独立软体：
+
+Adobe Creative Suite 4 Design Standard包括以下独立软体：
+
+Adobe Creative Suite 4 Production Premium是Creative Suite 4系列的版本之一，这套软体针对专业丰富式媒体与影片后制专家而设计，能协助他们制作电影、影片、广播、网站、DVD、蓝光光碟与行动装置等专案。
+
+Adobe Creative Suite 4 Production Premium包含以下独立软体：
+与Creative Suite 4 Production Premium对应的旧版软体是Adobe Production Studio。
+
+Adobe Creative Suite 4 Web Premium与Creative Suite 4 Web Standard是Creative Suite 4系列中针对专业网站设计人员所制作的软体。
+
+Adobe Creative Suite 4 Web Premium与Creative Suite 4 Web Standard的主要差异在于前者多了Adobe Illustrator CS4、Adobe Photoshop CS4 Extended、Adobe Soundbooth CS4与Adobe Acrobat 9 Professional等软体。
+
+Adobe Creative Suite 4 Web Premium包含以下独立软体：
+
+Adobe Creative Suite 4 Web Standard包含以下独立软体：
+
+与Adobe Creative Suite 4 Web Premium与Standard对应的旧版软体是Macromedia Studio 8。
+
+2010年4月12日台北时间晚上11时，Adobe在网上发布及推出Adobe Creative Suite 5。Adobe公司将软件重新改编成5个不同的版本：
+Adobe OnLocation CS5和Encore CS5已随附于Creative Suite 5 Production Premium和Master Collection软体或个别销售的Adobe Premiere Pro。
+
+2010年4月推出CS5后，Adobe改变其产品更新周期策略，紧接著于2011年4月12日发表CS5.5期中更新版本（个别组件为CS5.1）。此版本协助内容开发商制作可出版于各式平板电脑、智慧型手机，与其他行动装置的数位内容。
+
+2011年7月1日，Adobe宣布推出优惠转换升级方案，已经采购Apple Final Cut Pro或Avid Media Composer任一版本的影像专业用户，将能以半价优惠价格选购Adobe Creative Suite CS5.5 Production Premium或Adobe Premiere Pro CS5.5。
+
+2012年4月23日美国时间，Adobe在网上发布及推出Adobe Creative Suite 6。Adobe公司将软件重新改编成5个不同的版本：

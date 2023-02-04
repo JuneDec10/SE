@@ -1,0 +1,4 @@
+Bc (编程语言)
+
+bc，即bench calculator的缩写，是一种任意精度计算器语言（an arbitrary precision calculator language），语法和C语言类似。bc是Unix 作业系统下的一个高精确度数学运算工具，小数点后最多可有2147483647位值。bc使用POSIX 1003.2草案标准，并作了若干扩展，包括多字符的变量名，以及完整的布尔表达式。bc可以通过在unix终端中输入bc进入。bc是文本界面，无GUI。
+

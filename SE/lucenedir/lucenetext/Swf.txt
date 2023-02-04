@@ -1,0 +1,9 @@
+Swf
+
+SWF 是 Small Web Format 的缩写, 读作swiff），是用于多媒体，矢量图形和ActionScript的Adobe Flash文件格式。源于FutureWave软件，然后转移到Macromedia，然后在Adobe的控制下，SWF文件可以包含不同程度的交互和功能的动画或applet。它们也可包含在浏览器游戏中。它的普及程度很高，现在超过99%的网络使用者都可以读取swf档案，即使任天堂Wii（使用Opera浏览器的话）、Sony的PSP也能看到。
+
+这个档案格式由FutureWave(后来纳入Adobe)创建。创建这档案格式的主要目标：创作小档案以播放动画。这个计划的理念是可以在任何作业系统和浏览器中进行，并且让网络较慢的人也能顺利浏览。FutureWave于1996年5月发布了FutureSplash Animator。1996年12月，Macromedia收购了FutureWave，FutureSplash Animator成为Macromedia Flash 1.0。 SWF的原始命名来自于Macromedia希望利用著名的Macromedia Shockwave品牌。Adobe于2005年收购了Macromedia。 2008年5月1日，作为开放式屏幕项目的一部分，Adobe放弃了对SWF格式规范的许可限制。但是Gnash开发团队的成员Rob Savoy指出了Flash格式的一些部分仍然关闭。2008年7月1日，Adobe向Google和Yahoo发布了代码，允许他们的搜索引擎抓取并索引SWF文件。
+
+SWF中的主要图形原语是路径，它是一系列原始类型的段，从线到样条或贝塞尔曲线。可以从这些构建额外的基元，如矩形，椭圆，甚至文本。因此，SWF中的图形元素与SVG和MPEG-4 BIFS非常相似。 SWF还使用显示列表，并允许命名和重用先前定义的组件。SWF使用的二进制流格式与QuickTime非常相似，带有长度标签和有效载荷标签 - 这种设计使得较旧的播放器可以跳过不支持的内容。
+
+

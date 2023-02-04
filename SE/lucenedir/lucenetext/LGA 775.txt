@@ -1,0 +1,11 @@
+LGA 775
+
+LGA 775，又称Socket T，是英特尔公司于2004年7月推出的处理器插座，用作取代Socket 478。它是桌上型CPU首次使用平面网格阵列封装（LGA, Land grid array），与旧式CPU插槽最大不同的地方是，其接点座设在底板上，CPU自身仅有金属接触点而不带针脚，因而减少CPU插拔时针脚易损坏的问题。该插座支援的CPU有Pentium 4、Pentium D、部分Prescott核心的Celeron（Celeron D）以及桌上型的Core 2 CPU。
+
+现在新版LGA775已经支援英特尔45奈米制程处理器（需945系列以上的晶片组）。
+
+
+
+
+
+

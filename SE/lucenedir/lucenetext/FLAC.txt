@@ -1,0 +1,35 @@
+FLAC
+
+FLAC（；全称：Free Lossless Audio Codec），中文直译为自由无损音频压缩编码（注：这里“"Free"”指的是自由软件——而并不仅是免费）。FLAC是一款的自由音频压缩编码，其特点是可以对音频文件无损压缩。不同于其他有损压缩编码（如MP3 、AAC等），压缩后不会有任何音质损失，现在已被很多软体及硬体音频产品所支持。
+
+FLAC项目由Josh Coalson在2000年发起并开发。FLAC位元流格式在进入FLAC 0.5版本内部测试时被冻结，2001年1月15日FLAC 0.5版本发布，做为第一个FLAC的参考实做，2001年7月20日，FLAC 1.0正式释出。
+
+2003年1月29日，Xiph.Org基金会宣布FLAC并入旗下，连同Ogg Vorbis，Ogg Theora及Speex成为旗下的开源项目。
+
+2013年5月26日，FLAC 1.3.0发布，并将开发转移至Xiph.org Git仓库。
+
+2014年11月25日，FLAC 1.3.1发布。
+
+2017年1月1日，FLAC 1.3.2发布。
+
+FLAC项目包含：
+
+
+"自由"指的是这个音频格式可以在不需事先授权的情况下使用（xiph.org保留了制定FLAC规格及认证相容规挌的权利）。而不论是FLAC格式还是其编码及解码方法均没有任何软体专利保护，这表示整个FLAC是自由软体：libFLAC及libFLAC++的源代码是在BSD许可证下发布，而flac，metaflac及其他插件的源代码均是在GPL下发布。
+
+在其官方的目标中，FLAC计划不鼓励开发者在其中加入任何反复制特性。
+
+FLAC只支持定点取样，并不支持浮点取样，这是因为它要确保没有任何约数错误以致影响音质。它能支持任何PCM位分辨率，由4至32 bits per sample皆有。它亦支持任何取样频率，由1 Hz至655,350 Hz不等，并可逐1 Hz微调。
+
+FLAC支持很多不同的平台：大多数的Unix-like系统（包括Linux，BSD，Solaris及Mac OS X），Windows，BeOS及OS/2。支持这么多平台的原因是因为它是由autoconf／automake、MSVC、Watcom C及Project Builder编译的。
+
+FLAC的技术特点如下：
+
+
+FLAC与其他无损压缩式，如ZIP及gzip的主要分别在于FLAC可即时播放已压缩的音频资料，而且FLAC比ZIP这类无损压缩格式有更高的压缩比率。（FLAC在压缩音乐时有大约五成压缩率，但ZIP在同一情况下则只有一至两成压缩率。）
+
+虽然有损压缩格式如MP3，ogg等有更高的压缩率，但它们会破坏了音频的原来数据，使其不可变回原来音质，而且FLAC可自由选择压缩率及压缩时间，较高的压缩率会带来较高的解压缩时间。相比起其他无损压缩格式如Monkey's Audio（拓展名为.APE）及Shorten，虽然压缩率稍有不及Monkey's Audio，FLAC技术更先进，占用资源更低，而且是开源的，所以，更多的平台及硬体产品支持FLAC。
+
+在Hydrogenaudio维基有一个各类无损音频压缩的比较表，里面包括了FLAC格式。
+
+

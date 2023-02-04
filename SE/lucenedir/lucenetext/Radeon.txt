@@ -1,0 +1,10 @@
+Radeon
+
+AMD Radeon（原ATI Radeon）是2000年以来，由ATi公司制造的图像处理单元的品牌。该品牌下的产品根据对DirectX不同版本的支持可划分为四组不同的产品，产品如HyperZ版还可以根据流水线的数目及记忆体、CPU和时钟频率进行进一步的划分。自2006年AMD收购ATI后，ATI Radeon更名为ATI Radeon HD，AMD发布Radeon HD6 Series时正式将Radeon系列更名为AMD Radeon HD，从AMD发布Radeon HD8 Series零售版时正式将Radeon HD系列更名AMD Radeon R(R5/R7/R9)。
+
+2017年起废止原有AMD Radeon R(R5/R7/R9)的命名规则，新发行的游戏显卡全部采用Radeon rx abc，Radeon abc的命名规则。
+
+Radeon图像处理器列表
+
+
+

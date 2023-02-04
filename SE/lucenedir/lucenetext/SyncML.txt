@@ -1,0 +1,9 @@
+SyncML
+
+SyncML (Synchronization Markup Language)是一平台无关的信息同步标准协议集。分为SyncML数据传输协议（SyncML-DS）和SyncML设备管理协议(SyncML-DM).
+
+现存的大部分同步解决方案绝大部分依赖于某个厂商、应用，或者是某个操作系统，而SyncML的目的就是要提供一个开放标准。目前，该标准已经得到Nokia、Symbian，Motorola，Sony Ericsson、Siemens AG等公司的产品的支持。
+
+手机通讯录的同步和备份是SyncML协议的最主要应用，SyncML服务器端和客户端数据传输基于下层的网路传输协议。如obex，wsp，http等。增值业务提供商也已经提供基于SyncML协议的同步服务，可以让手机用户通过GPRS网络上传或下载通讯录数据，避免手机丢失或更更换手机时遗失重要通讯录数据的麻烦。从SyncML 1.2起，协议开始支持对电子邮件，目录和文件进行同步。
+
+

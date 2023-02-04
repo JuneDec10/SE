@@ -1,0 +1,39 @@
+保护基
+
+保护基（protecting group、protective group）是有机合成上的一个概念。是使有机分子中特定官能团发生希望的反应，同时抑制其他官能团的反应而通过特定试剂将一部分官能团可逆地转化成惰性基团的策略。有机合成中常需要保护的官能团有羟基、氨基、羰基等等。保护基的使用提高了有机合成的可操作性和准确性，使人们能够合成更加复杂的分子，但是上保护基、去保护基同时也降低了反应的总产率。避免使用保护基一直是合成家的梦想，但是“在可预见的未来，如同死亡和税收一样，保护基的使用是有机合成中不可避免的东西。”
+
+
+1、 叔丁氧羰基(tert-butoxycarbonyl) 缩写t-Boc 
+在以下条件稳定：H2/Pd或碱 
+除去条件： HBr+CH3COOH或CF3COOH
+
+2、 苄氧羰基(carbobenzoxy) 缩写CBz 
+在以下条件稳定：CF3COOH或碱
+除去条件：HBr+CH3COOH或H2/Pd
+
+3 、2-联苯基-2-丙氧羰基(2-biphenyl-2-propoxycarbonyl) 缩写BPoc 
+在以下条件稳定：碱
+除去条件：CF3COOH或HCOOH，CF3COOH或HBr
+
+4 、邻苯二甲酰亚胺基(phthaloyl)
+在以下条件稳定：Na-NH3,H2/Ph,HCl或HBr+CH3COOH
+除去条件：NH2NH2-H2O
+
+5 、对甲苯磺酰基(p-toluenesulfonyl) 缩写Tosyl 
+在以下条件稳定：HBr+CH3COOH或碱
+除去条件：Na-NH3
+
+6 、三苯甲基(triphenylmethyl) 缩写Trityl
+在以下条件稳定：碱
+除去条件：H2/Pd或CF3COOH（80%）
+
+7 、甲酰基(formyl)
+在以下条件稳定：H2/Pd或Na-NH3
+除去条件：NH2NH2+醇+碱
+
+8 、三氟乙酰基(trifluoroacetyl)
+在以下条件稳定：
+除去条件：温和碱性条件
+
+
+

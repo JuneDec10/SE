@@ -1,0 +1,7 @@
+JCreator
+
+JCreator是Xinox公司制作的一款功能强大的JAVA编辑器，其主要特点在于：
+
+
+JCreator有两个较常用的版本：JCreator LE和JCreator Pro。后面的那个版本功能更为强大一些。详情请参阅其公司主页：http://www.jcreator.com 。
+截至2010年6月8日，JCreator的最新版本号为：5.00。

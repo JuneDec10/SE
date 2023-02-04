@@ -1,0 +1,20 @@
+ISight
+
+iSight是一种由苹果公司所制造的摄像头。iSight分为内置式和外接式两种，外接式iSight通过FireWire连接，可以挂载在目前苹果公司的笔记型电脑、整合式桌上型电脑，以及显示器上。
+
+苹果电脑在2003年的世界开发者大会推出iSight。iSight是设计给iChat AV，也就是苹果电脑的视讯会议程式。iMovie 4以及之后的版本可以从这个装置撷取影像，而且也是Freeverse软体公司出品的ToySight游戏集中所推荐的摄影机。
+
+iSight使用一条包含的FireWire缆线传输语音、影像和提供电源。4种摄影机的脚架，悬吊的外壳，和一个FireWire缆线的转接头也都包含在里面。
+
+有些提倡者声称iSight拥有较优的颜色品质和非常好看的工业设计。1/4英吋的彩色CCD感应器有640x480 VGA的解析度。苹果称iSight的三部份F/2.8镜头是由自行设计的两个非球面镜元件组成。他拥有自动对焦和自动曝光，能够撷取每秒30张24 bit颜色的视讯和使用一种快门的速度。所有的iSight包含内部的麦克风，从苹果的广告上得知，他的特色有双元件噪音抑制功能。他的独特设计和重量轻，使用其中包含的四种挂载之一，可以悬挂在荧幕上方，这个意思是能让视讯交谈的接收人可以使用眼睛的高度而非下方来对话，就像很多webcam的需求。
+
+尽管外接式iSight摄像头与内置iSight摄像头有显著区别，但苹果公司也用iSight这一名字称呼其MacBook，MacBook Air和MacBook Pro笔记型电脑，2005年后期的iMac桌面电脑以及LED Cinema Display中的摄像头。内置iSight与外接式iSight功能相近，但它使用内置的USB2.0界面连接，而非外接式所采用的FireWire 400（IEEE 1394a）。另外，内置iSight摄像头使用了塑料材质的棱镜，焦距固定，并使用CMOS传感器而非外接式采用的CCD传感器。在LED背光的MacBook Pro中，苹果转向使用1280x1024像素的感应器。内置式iSight摄像头同样可以被Photo Booth支援。在2011年的MacBook Pro和iMac电脑中的FaceTime摄像头可以输出高清视讯。
+
+iSight跟Mac OS X相容，也能够和Windows以及Linux电脑相容；在Linux下需要libdc1394的程式库。然而，内部的麦克风只能在上有安装iChat AV软体上运作；解码语音协定的Linux驱动程式开发任务正在进行中。
+
+2010年6月苹果公司推出了iPhone 4而引入了FaceTime通讯平台，将设备前端的镜头称为FaceTime摄像头。包括后来的iOS设备和OS X设备，它们的前端摄像头都被称为FaceTime摄像头。
+
+但是在2012年3月，第三代iPad推出时，苹果公司继续将iOS设备上前端摄像头称为Facetime摄像头，也重新把后部镜头冠名iSight镜头（包括iPhone 4、iPhone 4S和iPod touch第五代，但除了iPod touch第4代外的背部镜头也被冠名iSight镜头）。
+
+通常，背部镜头被用于拍摄高分辨率图像，而前置摄像头被用于低分辨率的FaceTime视频通话。
+

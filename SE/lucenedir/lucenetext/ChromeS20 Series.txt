@@ -1,0 +1,26 @@
+ChromeS20 Series
+
+Chrome S20系列，是VIA接手S3 Graphics后第四代显示卡产品，由日本富士通代工生产，采用90奈米制程。整个系列均只支援DirectX 9.0b，但不支援DirectX 9.0c。
+
+当S27使用MultiChrome模式时，效能约等于GeForce 6600 DDR2 SLi.
+
+
+与nVidia的TurboCache技术及AMD的HyperMemory技术相似。显示核心可以透过PCI-E接口借用系统主记忆体，作为视讯记忆体。这属于动态借用，当执行2D程式，或者不再需要那么多视讯记忆体时，显示卡会释放已借用的系统主记忆体。
+
+与nVidia的SLi技术及ATi的CrossFire技术类似。只被S27显示核心支援，插入两张S27绘图卡即可运作。最多支援4颗核心并行运算。
+
+S27支持两种MultiChrome模式：
+这模式把Frame以单双数分给不同的GPU处理，例如VGA 1负责（1,3,5,7,9），而VGA 2负责（2,4,6,8,10），这个方法效能最佳。可以支援DirectX 9和OpenGL 1.5。
+
+这模式将画面分为上下半部，并各自由一颗GPU运算，然后再组合成同一个画面。
+
+Chromotion 3.0是S3 Graphics的提高影片播放画质技术。它能优化影片播放画质，加强HDTV播放画质，支援WMV9及MPEG2硬体加速，降低CPU使用率。还支援Deblocking Filter、Non-Linear Adjustments、Artistic License及Chromotion 3.0 LCD Overdrive，提高影片播放画质。
+
+GPU可以根据工作负载量，自动将核心和显示记忆体时脉动态调整。有三个模式，分为3D Highest Frequency、2D Medium Frequency以及Power Save Lowest Frequency。此外，核心亦支援动态电压控制。核心可根据负载量，由1V至1.3V自动调整，以达至最佳节能省电能效果。
+
+运作模式如下
+
+
+这些措施都有有助节省电能和减低热量。
+
+

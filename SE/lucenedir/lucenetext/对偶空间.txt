@@ -1,0 +1,62 @@
+对偶空间
+
+在数学里，任何向量空间"V"都有其对应的对偶向量空间（或简称为对偶空间），由"V"的线性泛函组成。此对偶空间俱有一般向量空间的结构，像是向量加法及纯量乘法。由此定义的对偶空间也可称之为代数对偶空间。在拓扑向量空间的情况下，由连续的线性泛函组成的对偶空间则称之为连续对偶空间。
+
+对偶空间是 行向量（formula_1）与列向量（formula_2）的关系的抽象化。这个结构能够在无限维度空间进行并为测度,分布及希尔伯特空间提供重要的观点。对偶空间的应用是泛函分析理论的特征。傅立叶变换亦内蕴对偶空间的概念。
+
+设formula_3为 在域formula_4上的向量空间，定义其对偶空间formula_5为由"formula_3"到"formula_4"的所有线性函数的集合。
+即是"formula_3"的标量线性变换。formula_5本身是formula_4的向量空间，并且对所有formula_5中的formula_12及formula_13、所有"formula_4"中的formula_15、所有"formula_3"中的formula_17满足以下加法及标量乘法：
+
+在张量的语言中，"formula_3"的元素被称为反变或逆变（contravariant）向量而"V"的元素被称为共变或协变（covariant）向量、「余向量」或「同向量」（co-vectors），「线性型」或「一形」（one-form）。
+
+如果"formula_3"是有限维的，formula_5的维度和V的维度便相等；
+如果formula_23是"formula_3"的基，formula_5便应该有相对基formula_26，记作：
+
+如果"formula_3"是平面几何向量的空间，formula_5便是一组组的平行线。我们能从平行线应用到任何向量产生一个标量。
+
+如果"formula_3"是无限维度，formula_31不能产生formula_5的基；而formula_5的维度比"formula_3"的大。
+
+例如空间formula_35的元素是实数列，其拥有很多非零数字。formula_36的双对空间是所有实数数列的空间。这些数列formula_37被用于元素formula_38而产生formula_39。
+
+设formula_40是线性映射。
+formula_41的"转置"formula_42定义为
+
+对任何向量空间formula_43，定义formula_44为所有从formula_3到formula_46的线性映射组成的向量空间。formula_47产生从formula_48至formula_49的单射；这是个同构若且唯若formula_46是有限维的。
+
+若 线性映射"f"表示作其对formula_43的基之矩阵formula_52 ,则formula_53表示作其对formula_54的对偶基之转置矩阵。
+若formula_55是另一线性映射，则formula_56。
+
+在范畴论的语言里，"为任何向量空间取对偶"及"为任何线性映射取转置"都是向量空间范畴的逆变函子。
+
+正如所见，如果formula_3拥有有限维度，formula_3跟formula_5是同构的，但是该同构并不自然；它是依赖于我们开始所用的formula_3的基。事实上，任意同构formula_61在formula_3上定义了一个唯一的非退化的双线性型：
+
+相反地从每个在有限维空间中的非退化的双线性积可以产生由formula_3映射到formula_5的同构。
+
+存在一个由formula_3到其双对偶formula_67的自然映射formula_13，定义为
+
+formula_69
+
+formula_13常是单射；当且仅当formula_3的维数有限时，formula_13是个同构。
+
+处理拓扑向量空间时，我们一般仅对该空间射到其基域的连续线性泛函感兴趣。由此导致连续对偶空间之概念，此乃其代数对偶空间之一子空间。向量空间"formula_3"之连续对偶记作"formula_3"′。此脉络下可迳称连续对偶为"对偶"。
+
+线性赋范向量空间"formula_3"（如一巴拿赫空间或一希尔伯特空间）之连续对偶"formula_3"产生一线性赋范向量空间。对一"formula_3"上之连续线性泛函，其范数formula_78定义为
+
+此法变一连续对偶为一线性赋范向量空间，实为巴拿赫空间。
+
+对任意有限维之线性赋范向量空间或拓扑向量空间，正如欧几里得空间，其连续与代数对偶不二。
+
+令formula_80构成之巴拿赫空间"l"，使其范数
+
+有限。以formula_82定义formula_83，formula_84其连续对偶遂自然等同于formula_85：给定一元素formula_86，formula_85中相应元素为序列 formula_88，其中formula_89谓第formula_90项为1且余项皆0之序列。反之，给定一元素formula_91，formula_84上相应之连续线性泛函formula_12定为formula_94（对一切formula_95，见Hölder不等式）。
+
+准此，formula_96之连续对偶亦自然同构于formula_97。再者，巴拿赫空间formula_98（赋以上确界范数之全体收敛序列）及formula_99（"formula_98"中收敛至零者）之连续对偶皆自然同构于formula_96。
+
+若"formula_3"为希尔伯特空间，则其连续对偶亦然，并反同构于"formula_3"；此盖黎兹表示定理所明，物理学人赖以描述量子力学之狄拉克符号肇端乎是。
+
+类似双重代数对偶，对连续线性算子亦有连续单射formula_104，此映射实为等距同构，即 formula_105对一切"formula_3"中formula_17皆真。使formula_13为双射之空间称自反空间。
+
+连续对偶赋"formula_3"以一新拓扑，名弱拓扑。
+
+若"V"之对偶可分，则"formula_3"亦可分。反之则不然；试取空间formula_111，其对偶formula_112不可分。
+

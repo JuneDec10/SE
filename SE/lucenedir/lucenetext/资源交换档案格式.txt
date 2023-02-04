@@ -1,0 +1,13 @@
+资源交换档案格式
+
+资源交换档案格式（，缩写为），又译资源互换文件格式，是一种档案格式（"meta-format"）标准，把资料储存在被标记的区块（tagged chunks）中。它是在1991年时，由Microsoft和IBM提出。它是Electronic Arts在1985提出的Interchange File Format（IFF）的翻版。这两种标准的唯一不同处是在多位元整数的储存方式。
+RIFF使用的是小端序，这是IBM PC使用的处理器80x86所使用的格式，而IFF储存整数的方式是使用大端序，这是Amiga和Apple Macintosh电脑使用的处理器，68k，可处理的整数型态。
+
+Microsoft在AVI和WAV这两种著名的档案格式中，都使用RIFF的格式当成它们的基础。
+
+RIFF档案由一个简单的表头（header）跟随著多个"chunks"所组。其格式完全跟IFF一样，除整数的储存方式不一样以外。
+
+
+关于此格式的更多资讯，请见互换档案格式（Interchange File Format）条目。
+
+

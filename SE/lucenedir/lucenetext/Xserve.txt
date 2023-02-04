@@ -1,0 +1,32 @@
+Xserve
+
+Xserve是苹果电脑所出品的机架式伺服器，使用Mac OS X Server作业系统。
+
+当Xserve在2002年发表时，它是苹果电脑在1996年的Apple Network Server之后第一次的伺服器硬体设计。它最早包含一或二颗PowerPC G4处理器，但后来转换为新的Power PC G5，随后再次转换为两颗四核心的Intel「Nehalem核心架构」处理器。Xserve可作多种应用，包括档案伺服器，网页伺服器，甚至是以丛集技术执行高效能运算应用－Xserve丛集，也提供不包含显示卡与光碟机的Xserve丛集节点。
+
+2010年11月5日，苹果电脑的网站声明了XServe将在2011年1月31日起停产，并建议客户改选购安装Mac OS X Server的Mac Pro或Mac Mini电脑。
+
+苹果电脑于2002年5月14日推出原先的Xserve。苹果电脑把他归类为“高密度，1U高度的机架伺服器”。Xserve搭配1到2个时脉为1.0 GHz的PowerPC G4处理器。最大到2 GB的PC-2700 DDR 记忆体，支援64位元的记忆体汇流排。3个FireWire 400埠（一个在前面，两个在后方），2个USB 1.1埠（后方），一个RS-232管理界面（后方），以及一个内建gigabit网路不提供额外的连线能力。提供2个64位元／66MHz的PCI插槽以及1个32位元／66MHz的PCI/AGP插槽。在预设的设定下，两个PCI插槽都是被ATI Technologies Rage 128显示卡和额外的gigabit以太网路卡所占用。最大支援到4个ATA／100硬碟（60或120 GB），放至于前方的热抽换区域，允许产生软体磁碟阵列0, 1，和5的阵列。一个载盘式的光碟机则置于前方。
+
+一开始，有两种规格的选向：一个单一处理器的Xserve搭配256MB记忆体，售价为2999美元。双处理器的Xserve搭配512MB记忆体，售价为3999美元。两种都是单一个60 GB硬碟，和搭配Mac OS X v10.2 “Jaguar”伺服器版本一起出售。
+
+2003年2月10日，他们推出更新跟扩充Xserve产品线。这些更新包含1或2个1.33 GHz Power PC G4处理器，两个Firewire 800埠（后方），和更高量的UltraATA/133硬碟机（80或160 GB）。一个新的型号，称为Xserver丛集节点也公开了，跟单一处理器的Xserve是同样的价格，特色是有两个1.33 GHz处理器，没有光碟机，单一个硬碟空间，没有显示卡或乙太网路卡，和10个客户端版本的“Jaguar”伺服器作业系统。
+
+2003年4月2日，Xserve RAID推出，提供给Xserve的磁碟子系统更大的容量和更高的生产量。
+
+2004年1月6日，苹果推出Xserve G5，一种重新设计更高效能的Xserve。32位元的PowerPC G4处理器被1或2颗64位元2 GHz的PowerPC 970处理器取代。最大支援到8 GB的PC-3200 ECC记忆体和128位元的记忆体汇流排。一个Firewire 400埠（前方），两个Firewire 800埠（后方），两个USB 2.0埠（后方）和RS-232管理界面（后方），和两个内建的gigabit以太网路埠（后方）搭配TCP offload提供更高的连线能力。一个133MHz/64位元和100MHz/64位元的PCI-X插槽rounded out its expansion options。透气的因素限制了他的3个SATA热抽换硬碟盒（每一个80或250 GB），原本第四个磁碟的空间用来作排气孔。一个吸入式光碟机（CD-ROM标准，DVD-ROM/CD-RW是选购）装置在前方。
+
+有三种可以选择的配备：单一处理器的Xserve G5搭配512MB记忆体，售价为2999美元，双处理器Xserve G5搭配1 GB记忆体，售价为3999美元，双处理器的丛集节点型号，搭配512MB记忆体，没有光碟机，只有单一个硬碟空间，和10的客户端版本的“Panther”伺服器版本，售价为2999美元。
+
+Xserve G5有更大的记忆体容量和频宽，也有PowerPC 970更强大的浮点运算效能，让他可以更适合高效能运算的应用。System X是一种利用Xserve所建造出来的丛集电脑之一。
+
+2005年1月3日，苹果电脑将Xserve G5速度提升到两颗2.3 GHz的PowerPC 970处理器。400 GB的硬碟也可以使用，最大可以到1.2 TB的内部储存空间。吸入式光碟机升级到DVD-ROM/CD-RW标准的复合式光碟机，而DVD-/+RW则是选购配备。
+
+Mac OS X v10.4 “Tiger”伺服器版本发布后，开始提供给Xserve。
+苹果电脑在2006年8月7日的全球开发者大会上发表了基于Intel的Xserve，相较于Xserve G4与G5有相当大的更新。它们使用时脉2 GHz, 2.66 GHz或是3 GHz的Intel Xeon「Woodcrest核心架构」处理器，PC2-5300 (DDR2-667) ECC FB-DIMM，ATI Radeon X1300图形处理器，使用三台750GB硬碟可达到的2.25TB最大内部储存空间，选购的电源供应器，1U机架高度。相对于Xserve G4/G5，Intel Xserve将图形显示卡内建，这意味著将不需占用一个PCI插槽来增加图形处理能力。
+
+2008年1月8日，苹果电脑将Xserve升级为时脉2.8 GHz或3 GHz的Intel Xeon「Harpertown核心架构」处理器，PC2-6400 (DDR2-800) ECC FB-DIMM，以及使用三台1TB硬碟可达到的3TB最大内部储存空间。在先前版本中的前置FireWire 400埠被USB 2.0埠所取代。
+
+2009年4月7日，苹果电脑将Xserve升级为时脉2.26 GHz, 2.66 或是3 GHz的Intel Xeon「Gainestown核心架构」处理器，PC3-8500 (DDR3-1066) ECC DIMM，两个FireWire 800埠，附带256 MB GDDR3图形记忆体的NVIDIA GeForce GT 120图形处理器，以及一个Mini DisplayPort输出。这次更新也增加了最大内部储存空间，从2TB到6TB（使用三台2TB硬碟）。另外还可选购一台不需占用磁碟槽的128 GB的固态硬盘作为开机磁碟。这台选购的开机磁碟可让系统在保持上线状态时更换所有的磁碟机。这也是苹果电脑第一次在Xserve上使用无PVC的内部连接线与组件，以及配合RoHS规范，不使用溴化阻燃剂。
+
+2009年8月28日，苹果电脑升级XServe为预设搭载Mac OS X Server 10.6无限用户端版本。Mac OS X 10.6 Server可支援到96 GB的记忆体（即使Xserve的机版并不支援这种配置）。

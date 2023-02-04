@@ -1,0 +1,41 @@
+QR分解
+
+QR分解法是三种将矩阵分解的方式之一。这种方式，把矩阵分解成一个半正交矩阵与一个上三角矩阵的积。QR分解经常用来解线性最小二乘法问题。QR分解也是特定特征值算法即QR算法的基础。
+
+实数矩阵"A"的QR分解是把"A"分解为
+这里的"Q"是正交矩阵（意味着"Q""Q" = "I"）而"R"是上三角矩阵。类似的，我们可以定义A的QL, RQ和LQ分解。
+
+更一般的说，我们可以因数分解复数formula_2×formula_3矩阵（有着"m" ≥ "n"）为formula_4×formula_2 么正矩阵（在"Q""Q" = "I"的意义上）和formula_2×formula_7上三角矩阵的乘积。
+
+如果"A"是非奇异的，且限定"R" 的对角线元素为正，则这个因数分解是唯一的。
+
+QR分解的实际计算有很多方法，例如Givens旋转、Householder变换，以及Gram-Schmidt正交化等等。每一种方法都有其优点和不足。
+
+Householder变换将一个向量关于某个平面或者超平面进行反射。我们可以利用这个操作对formula_8的矩阵formula_9进行QR分解。
+
+矩阵formula_10可以被用于对一个向量以一种特定的方式进行反射变换，使得它除了一个维度以外的其他所有分量都化为0。
+
+令formula_11为矩阵formula_9的任一"m"维实列向量，且有formula_13（其中formula_14为标量）。若该算法是通过浮点数实现的，则formula_14应当取和formula_11的第formula_17维相反的符号（其中formula_18是要保留不为0的项），这样做可以避免精度缺失。对于复数的情况，令
+，并且在接下来矩阵formula_10的构造中要将矩阵转置替换为共轭转置。
+
+接下来，设formula_21为单位向量formula_22，||·||为欧几里的范数，formula_23为formula_24单位矩阵，令
+
+或者，若formula_9为复矩阵，则
+
+则formula_10为一个formula_24的Householder矩阵，它满足
+
+利用Householder矩阵，可以将一个formula_36的矩阵formula_37变换为上三角矩阵。
+首先，我们将A左乘通过选取矩阵的第一行得到行向量formula_32的Householder矩阵formula_39。这样，我们得到的矩阵formula_40的第一行将全部为0（第一列除外）：
+
+这个过程对于矩阵formula_37（即formula_40排除第一行和第一列之后剩下的方阵）还可以继续做下去，从而得到另一个Householder矩阵formula_44。注意到formula_44其实比formula_39要小，因为它是在formula_40而非formula_9的基础上得到的。因此，我们需要在formula_44的左上角补上1，或者，更一般地来说：
+
+将这个迭代过程进行formula_51次之后（formula_52）,将有
+其中R为一个上三角矩阵。因此，令
+则formula_55为矩阵formula_9的一个QR分解。
+
+相比与Gram-Schmidt正交化，使用Householder变换具有更好的数值稳定性。
+
+MATLAB以qr函数来执行QR分解法，其语法为
+
+此外，原矩阵A不必为正方矩阵；
+如果矩阵A大小为m*n，则矩阵Q大小为m*m，矩阵R大小为m*n。

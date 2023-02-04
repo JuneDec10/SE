@@ -1,0 +1,15 @@
+Id Tech 4引擎
+
+id Tech 4引擎，以前称为毁灭战士3引擎，是个由id Software所开发的游戏引擎，首度使用这个引擎的游戏是电脑PC游戏毁灭战士3。这个游戏引擎由约翰·卡马克（John Carmack）领导设计，他同时也设计了《雷神之锤》游戏所使用的引擎。
+
+id Tech 4 引擎原先为id Tech 3的加强版，接著计划要重新改写渲染（Render）引擎，但仍然保留其它副系统的功能，例如档案存取（File Access）和记忆体管理（Memory Management）。在渲染引擎完成后，他们决定要将引擎从C语言改写为C++语言，最后导致整个引擎重写。现在所看到的id Tech 4保有部份id Tech 3的程式码，但大部分的程式码皆已经被重写。
+
+id Tech 4 和他的旧引擎相同，最后将会开放原始码，在2007年的QuakeCon，引擎开发者约翰·卡马克（John Carmack）表示"I mean I won't commit to a date, but the Doom 3 stuff will be open source."（我不会说出一个确切的释出日期，但是毁灭战士3引擎最后会开放原始码。）
+
+id Tech 4 在id Tech 3的基础下，又增加了许多功能，例如凸凹纹理映射（Bump Mapping）、法向映射（Normal Mapping）和Specular Highlighting。
+
+游戏引擎还可以进行动态像素打光（dynamic per-pixel lighting）。先前的3D引擎皆是依赖在事先运算好的打光特效或是产生好的光影地图（Lightmap）。即使是使用了动态光影也只能少部分的影响物体的明亮度。而这项技术让光影变得更加真实。
+
+旧版本的毁灭战士3引擎常被批评缺乏绘制大型户外场景的功能，而MegaTexture技术解决了这个问题，透过绘制一个巨型的材质（32,768x32,768像素，新版本的MegaTexture可以支援更大的材质贴图）覆盖整个地形，并且储存该地形的相关物理资料。这些物理资料可以告诉引擎你现在处在什么环境，例如在石头上行走和草地上行走的声音将会有相当大的不同。相对于现有使用「套用材质在地形上」的技术，MegaTexture也将让地图能够呈现更精细的景观。目前唯一使用MegaTexture技术的游戏是深入敌后：雷神战争。
+
+

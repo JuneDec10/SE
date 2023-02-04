@@ -1,0 +1,14 @@
+Creature House Expression
+
+Creature House Expression 是一个矢量绘图软件，原本是由一间名为 Creature House 的香港公司开发，后来这间公司辗转易手，卖给 Ray Dream，Ray Dream 后来跟 Fractal Design 合并，及后 Fractal Design 又再跟 MetaTools 合并而成为 MetaCreations。接下来 MetaCreations 将其下的软件部门分拆出售，Expression 软件的版权又重回它的创办人 徐迢之(Alex Hsu) 及 Creature House 公司手中。
+
+此后 Creature House 分别推出 Expression 2.0 及 3.0 版。到了 2003 年 9 月，消息传出 Microsoft 收购了 Creature House，并把旗下的 Expression 矢量绘图与 Living Cels 动画技术收归未来的 Sparkle 架构之中。
+
+到了 2004 年 6 月左右，Microsoft 把更新的 Expression 3.3 版释放出来给用户免费下载 （需注册 Hotmail Passport 帐号），而且同时提供了 Mac OS X 版及 Windows 版。另外，Expression 3.3 的介面已经全面中文化，以利广大中文用户。
+
+于 2005 年 6 月，Microsoft Expression 推出了新的测试版本，代号名为 Acrylic：这个新版本正处于测试阶段。Acrylic 的一些新功能介绍可参考 这个英文网页。06年12月，Creature House Expression已融入Microsoft Expression Studio中的Microsoft Expression Design。
+
+可以打开PSD、AI、WMF等格式，导入BMP、GIF、ICO、JPEG、PNG、TIFF等格式，导出PNG、JPEG、GIF、TIFF、BMP、PSD、PDF等格式。
+
+
+

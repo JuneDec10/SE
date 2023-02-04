@@ -1,0 +1,59 @@
+Mac OS X Tiger
+
+Mac OS X v10.4，开发代号“Tiger”（老虎），是苹果电脑公司开发的操作系统，于2005年4月29日正式上市销售。
+
+Mac OS X v10.4 "Tiger"作为Mac OS X v10.3 "Panther"的继任者，相比前版操作系统有显著功能增强，据官方数据，它包括超过200项新的改进。
+
+Mac OS X v10.4系统引入了Spotlight、Dashboard等新技术，Spotlight类似Microsoft Windows平台的Google Desktop Search，可以快速搜索计算机中的各种资源。Dashboard是一个易于使用的工具集，只需要按下F12快捷键，即可快速打开。
+
+同时，Mac OS X v10.4还改进了即时通信程序iChat，提供对Jabber协议的支持，改进万维网浏览器Safari，提供对RSS技术的支持，改进Mail，提供对邮件的智能分类并加强了邮件的组织能力，增加了辞典程序和Automator程序，后者用来自动执行一系列任务而不需编写脚本程序。改进了开发工具Xcode，改进了许多命令行工具，并提供了gcc编译器的最新版本gcc 4.0等。
+
+苹果已经随硬件发布了能够使用英特尔处理器的Mac OS版本。该版本能够同时兼容英特尔以及PowerPC的中央处理器。虽然苹果公司CEO史提夫·贾伯斯在WWDC演讲时谈到所有已有的Mac OS X的版本都有Intel CPU的版本，但目前最终用户能有用到的只有Mac OS X v10.4
+
+Tiger 于2007年10月被新版Mac OS X v10.5 "Leopard"（美洲豹）取代。
+
+Mac OS X 10.4 "Tiger"最初是在2004年6月28日的WWDC大会上由苹果公司CEO史蒂夫。贾伯斯的主题演讲中曝光的。当年12月，一些非商业开发者将Tiger在因特网外泄。2005年4月12日正式宣布Tiger将于4月29日正式发售。全世界的苹果专卖店都举办了Tiger的研讨会，展示会等活动。
+
+2005年6月6日，在旧金山的WWDC大会上，贾伯斯宣布Tiger发布6周以来销量近200万 ，使之成为苹果历史上最成功的操作系统。同时批漏出的消息还有，Mac OS X在PowerPC之外支持英特尔的"x"86线处理器。在2006年6月苹果宣布计划支持第一个基于"x"86的计算机，并在2007年6月实现苹果英特尔转换。
+2006年1月10日 ，苹果发布了第一台使用Intel Core Duo处理器的台式一体机iMac和高端笔记本MacBook Pro ，并宣布所有苹果产品将在2006年末转向英特尔处理器。之后苹果发布了高端台式机Mac Pro，并于2006年8月8日发布了新的Xserve，在210天内实现了向英特尔的转换。 比预想的年内完成的计划快了将近十个月。
+
+10.4也是第一个使用DVD安装光碟的Mac OS X版本。
+
+Mac OS X 10.4 升级的系统要求是
+
+2006年出场的英特尔芯片麦金塔电脑内置通用二进制的Mac OS X 10.4，盒装 10.4升级DVD只能在PowerPC麦金塔电脑上运行。
+
+苹果声称Mac OS X 10.4 Tiger 有200多种新特性，包括：
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+苹果电脑在每次推出 Mac OS X 的升级都会对图形用户界面作出一些修改。在 Tiger 的介面上角的选单列的右上角现在多了一个蓝色的 Spotlight 键；在 OS X Tiger 的选单列换上一个更闪亮的玻璃式透亮的放大镜图案取代10.3的间条图案。
+
+值得留意的是，10.4 引入一个新的—通常被叫作 'Unified' 的主题。 它是一个自从 Mac OS X 诞生所采用的 non-brushed metal theme 改变的版本。 这个主题融合了视窗的标题栏与工作栏。 其中一个用这个主题的软件是 Mail。
+
+在 2005 年的 Worldwide Developers Conference，斯蒂夫·乔布斯 宣报苹果电脑会开始售卖采 Intel在2006年的处理器的 Mac。 为了让软件开发者能够开始为新的 Intel Macs 编写软件，苹果电脑制作了一套包含了可在 x86 处理器运行的 Mac OS X v10.4 的 Developer Transition Kits。 它亦被称为 Tiger x86 又或是 osx86. 
+
+这个版本包括了苹果电脑的Rosetta — 一个容许 英特尔处理器版的OS去运行PowerPC软体的翻译器。这就与现有的 Mac OS 9 Classic 的模式有很大不同原因是 Mac OS 9 耗用较大量的系统资源。
+
+Developer Transition Kits 开始面世后不久， Tiger x86 被泄露到档案共享的网络上。虽然苹果电脑在硬件与软建的转换时已经采用 Trusted Computing DRM 以杜绝 Tiger x86 在非苹果电脑的 PC 上安装，但黑客不久仍然能够解取苹果电脑的限制。
+
+在2006年旧金山的MacWorld 上，乔布斯宣布了Mac OS X 10.4.4可以马上面世。这是第一次向公众发布同时针对PowerPC和Intel x86的Tiger系统。
+
+
+
